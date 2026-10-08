@@ -10,6 +10,13 @@ from agentscope.message import Msg
 import random,ast
 import requests ,time
 from sentence_transformers import SentenceTransformer, util
+
+try:
+    from .local_env import load_local_env
+except ImportError:
+    from local_env import load_local_env
+
+load_local_env()
 from agentscope.models import OpenAIChatWrapper
 import functools
 from typing import Dict, Any, List

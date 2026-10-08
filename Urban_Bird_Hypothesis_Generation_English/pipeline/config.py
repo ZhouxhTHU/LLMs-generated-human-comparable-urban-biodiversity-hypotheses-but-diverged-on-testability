@@ -1,5 +1,12 @@
 import os
 
+try:
+    from .local_env import load_local_env
+except ImportError:
+    from local_env import load_local_env
+
+load_local_env()
+
 # ------------------------------------ API Configuration ------------------------------------
 # Using Zhipu AI API as an example.
 # Replace with your preferred model configuration.
