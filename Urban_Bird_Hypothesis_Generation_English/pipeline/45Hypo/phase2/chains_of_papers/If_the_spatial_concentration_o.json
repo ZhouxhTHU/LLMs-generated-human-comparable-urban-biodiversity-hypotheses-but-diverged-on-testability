@@ -1,0 +1,1494 @@
+{
+    "Anthropogenic food bird pathogen transmission": [
+        {
+            "paperId": "eb8a749331aa05c30763503b6d383794768e87f3",
+            "title": "What Do We Feed to Food-Production Animals? A Review of Animal Feed Ingredients and Their Potential Impacts on Human Health",
+            "year": 2007,
+            "openAccessPdf": {
+                "url": "https://doi.org/10.1289/ehp.9760",
+                "status": "GOLD",
+                "license": "CC0",
+                "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC1867957, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "34973099",
+                    "name": "A. Sapkota"
+                },
+                {
+                    "authorId": "34981943",
+                    "name": "Lisa Y. Lefferts"
+                },
+                {
+                    "authorId": "47911383",
+                    "name": "Shawn E. Mckenzie"
+                },
+                {
+                    "authorId": "145127167",
+                    "name": "Polly Walker"
+                }
+            ],
+            "abstract": "Objective Animal feeding practices in the United States have changed considerably over the past century. As large-scale, concentrated production methods have become the predominant model for animal husbandry, animal feeds have been modified to include ingredients ranging from rendered animals and animal waste to antibiotics and organoarsenicals. In this article we review current U.S. animal feeding practices and etiologic agents that have been detected in animal feed. Evidence that current feeding practices may lead to adverse human health impacts is also evaluated. Data sources We reviewed published veterinary and human-health literature regarding animal feeding practices, etiologic agents present in feed, and human health effects along with proceedings from animal feed workshops. Data extraction Data were extracted from peer-reviewed articles and books identified using PubMed, Agricola, U.S. Department of Agriculture, Food and Drug Administration, and Centers for Disease Control and Prevention databases. Data synthesis Findings emphasize that current animal feeding practices can result in the presence of bacteria, antibiotic-resistant bacteria, prions, arsenicals, and dioxins in feed and animal-based food products. Despite a range of potential human health impacts that could ensue, there are significant data gaps that prevent comprehensive assessments of human health risks associated with animal feed. Limited data are collected at the federal or state level concerning the amounts of specific ingredients used in animal feed, and there are insufficient surveillance systems to monitor etiologic agents “from farm to fork.” Conclusions Increased funding for integrated veterinary and human health surveillance systems and increased collaboration among feed professionals, animal producers, and veterinary and public health officials is necessary to effectively address these issues."
+        },
+        {
+            "paperId": "ce42985f1d4f295208d532a71a32c410aefb49fe",
+            "title": "Demographic and Phenotypic Effects of Human Mediated Trophic Subsidy on a Large Australian Lizard (Varanus varius): Meal Ticket or Last Supper?",
+            "year": 2012,
+            "openAccessPdf": {
+                "url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0034069&type=printable",
+                "status": "GOLD",
+                "license": "CCBY",
+                "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC3317928, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "5749971",
+                    "name": "T. Jessop"
+                },
+                {
+                    "authorId": "7615344",
+                    "name": "Peter J. Smissen"
+                },
+                {
+                    "authorId": "50319645",
+                    "name": "F. Scheelings"
+                },
+                {
+                    "authorId": "4956520",
+                    "name": "T. Dempster"
+                }
+            ],
+            "abstract": "Humans are increasingly subsidizing and altering natural food webs via changes to nutrient cycling and productivity. Where human trophic subsidies are concentrated and persistent within natural environments, their consumption could have complex consequences for wild animals through altering habitat preferences, phenotypes and fitness attributes that influence population dynamics. Human trophic subsidies conceptually create both costs and benefits for animals that receive increased calorific and altered nutritional inputs. Here, we evaluated the effects of a common terrestrial human trophic subsidies, human food refuse, on population and phenotypic (comprising morphological and physiological health indices) parameters of a large predatory lizard (∼2 m length), the lace monitor (Varanus varius), in southern Australia by comparison with individuals not receiving human trophic subsidies. At human trophic subsidies sites, lizards were significantly more abundant and their sex ratio highly male biased compared to control sites in natural forest. Human trophic subsidies recipient lizards were significantly longer, heavier and in much greater body condition. Blood parasites were significantly lower in human trophic subsidies lizards. Collectively, our results imply that human trophic subsidized sites were especially attractive to adult male lace monitors and had large phenotypic effects. However, we cannot rule out that the male-biased aggregations of large monitors at human trophic subsidized sites could lead to reductions in reproductive fitness, through mate competition and offspring survival, and through greater exposure of eggs and juveniles to predation. These possibilities could have negative population consequences. Aggregations of these large predators may also have flow on effects to surrounding food web dynamics through elevated predation levels. Given that flux of energy and nutrients into food webs is central to the regulation of populations and their communities, we advocate further studies of human trophic subsidies be undertaken to evaluate the potentially large ecological implications of this significant human environmental alteration."
+        },
+        {
+            "paperId": "386db22f253405f462b4daabd652f89530f34213",
+            "title": "Linking anthropogenic resources to wildlife–pathogen dynamics: a review and meta-analysis",
+            "year": 2015,
+            "openAccessPdf": {
+                "url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/ele.12428",
+                "status": "HYBRID",
+                "license": "CCBY",
+                "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC4403965, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "10766643",
+                    "name": "Daniel J. Becker"
+                },
+                {
+                    "authorId": "6130924",
+                    "name": "D. Streicker"
+                },
+                {
+                    "authorId": "50115212",
+                    "name": "S. Altizer"
+                }
+            ],
+            "abstract": "Urbanisation and agriculture cause declines for many wildlife, but some species benefit from novel resources, especially food, provided in human-dominated habitats. Resulting shifts in wildlife ecology can alter infectious disease dynamics and create opportunities for cross-species transmission, yet predicting host–pathogen responses to resource provisioning is challenging. Factors enhancing transmission, such as increased aggregation, could be offset by better host immunity due to improved nutrition. Here, we conduct a review and meta-analysis to show that food provisioning results in highly heterogeneous infection outcomes that depend on pathogen type and anthropogenic food source. We also find empirical support for behavioural and immune mechanisms through which human-provided resources alter host exposure and tolerance to pathogens. A review of recent theoretical models of resource provisioning and infection dynamics shows that changes in host contact rates and immunity produce strong non-linear responses in pathogen invasion and prevalence. By integrating results of our meta-analysis back into a theoretical framework, we find provisioning amplifies pathogen invasion under increased host aggregation and tolerance, but reduces transmission if provisioned food decreases dietary exposure to parasites. These results carry implications for wildlife disease management and highlight areas for future work, such as how resource shifts might affect virulence evolution."
+        },
+        {
+            "paperId": "b10694539df1e1f006f455ea787a655e725230d0",
+            "title": "Temporal Patterns, Behavioral Drivers, and Physiological Correlates of West Nile Virus Exposure in American Robins (Turdus migratorius).",
+            "year": 2025,
+            "openAccessPdf": {
+                "url": "",
+                "status": "CLOSED",
+                "license": null,
+                "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1086/736501?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1086/736501, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "2266792096",
+                    "name": "A. Jahn"
+                },
+                {
+                    "authorId": "2103732993",
+                    "name": "Kyle Koller"
+                },
+                {
+                    "authorId": "2264586013",
+                    "name": "Lynn B. Martin"
+                },
+                {
+                    "authorId": "2263278877",
+                    "name": "Tara M. Smiley"
+                },
+                {
+                    "authorId": "2263294381",
+                    "name": "Taylor B. Verrett"
+                },
+                {
+                    "authorId": "2263278918",
+                    "name": "Ellen D. Ketterson"
+                },
+                {
+                    "authorId": "2262918021",
+                    "name": "E. Williams"
+                },
+                {
+                    "authorId": "10766643",
+                    "name": "Daniel J. Becker"
+                }
+            ],
+            "abstract": "AbstractComplex interactions between animal migration and infection are increasingly recognized as important for shaping when and where wildlife are infectious. Bird migration may facilitate spatial spread of zoonotic pathogens but remains poorly understood, owing in part to limited seasonal sampling. Using serology for immunoglobulin Y antibodies, we evaluated seasonal exposure to West Nile virus (WNV) of American robins (Turdus migratorius) sampled monthly during 2021 and 2022 in Indiana and compared our seroprevalence results to those of robins from previous studies across North America using meta-analysis. Because robins overwintering in Indiana include local breeders and those breeding farther north, we next evaluated how the probability of WNV exposure varied by breeding latitude. We also tagged robins breeding in Indiana with tracking devices to evaluate whether exposure to WNV is related to movement distance. We found that robins in Indiana are exposed to WNV more frequently than robins in previous studies elsewhere in North America and in earlier years, but we found no effects of season, sex, or breeding latitude. However, robins with higher fat scores were more likely to be seropositive, which may indicate that these birds are more likely to survive infection. Our tracking data indicated that robins breeding in Indiana migrate several hundred miles to overwinter in the southeastern United States and that WNV seropositivity had no association with movement distance. The mean durations of spring and fall migration were 13 and 19 d, respectively, nearly the same as or moderately above the maximum WNV infectious period in robins. Although these results suggest that American robins have the capacity to move WNV long distances in spring, further studies are needed across the range of this host species to uncover its role in dispersing WNV."
+        },
+        {
+            "paperId": "68e1ba6b15888b4abff491a240a0cc215b28e4d4",
+            "title": "Region- and season-specific exposure to lead in a common North American songbird",
+            "year": 2026,
+            "openAccessPdf": {
+                "url": "",
+                "status": null,
+                "license": "CCBY",
+                "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC13021721, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "2148520092",
+                    "name": "M. Ohrberg"
+                },
+                {
+                    "authorId": "2291673407",
+                    "name": "D. J. Becker"
+                },
+                {
+                    "authorId": "2282185516",
+                    "name": "G. Filippelli"
+                },
+                {
+                    "authorId": "2399038528",
+                    "name": "E. Ketterson"
+                },
+                {
+                    "authorId": "84477814",
+                    "name": "S. Rader"
+                },
+                {
+                    "authorId": "152787108",
+                    "name": "S. M. Reed"
+                },
+                {
+                    "authorId": "2262918021",
+                    "name": "E. Williams"
+                },
+                {
+                    "authorId": "2266792096",
+                    "name": "A. Jahn"
+                }
+            ],
+            "abstract": "Although birds have been used globally as bioindicators of heavy metals, the determinants and physiological consequences of their exposure to heavy metals remain poorly understood. The American Robin (Turdus migratorius) is a common songbird in a variety of habitats across most of North America that could serve as an ideal sentinel of heavy metal contamination. We evaluated how robin exposure to lead (Pb) varied regionally, seasonally and among demographic groups, and assessed impacts on body condition and reproductive hormone concentrations. We detected higher blood Pb concentrations in robins sampled in a more urban region (Indiana) compared to a more rural region (Alaska). Higher blood Pb concentrations in the more urban region may reflect the robin diet of earthworms, which accumulate lead due to their feeding behavior and could incorporate greater ambient soil lead contamination typical of more urban areas. Blood Pb concentrations were also highest in spring and summer, when robins primarily forage on earthworms. We found no relationship between blood Pb concentrations and body condition, but blood Pb concentrations showed a negative relationship with testosterone in male robins and with estradiol in female robins, suggesting lead may have negative effects on reproductive function. Overall, these results suggest that robins could serve as reliable bioindicators of lead and its impacts on wildlife health across a broad range of ecosystems. Supplementary Information The online version contains supplementary material available at 10.1007/s10646-026-03070-3."
+        }
+    ],
+    "Urban feeding aggregation AMR bacteria": [
+        {
+            "paperId": "361c8534eeaf3a91b5146f78f7604b5647507a67",
+            "title": "Molecular characterization of vanA-containing Enterococcus from migratory birds: song thrush (Turdus philomelos)",
+            "year": 2012,
+            "openAccessPdf": {
+                "url": "http://www.scielo.br/pdf/bjm/v43n3/26.pdf",
+                "status": "GOLD",
+                "license": "CCBYNC",
+                "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC3768878, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "145043989",
+                    "name": "Nuno Silva"
+                },
+                {
+                    "authorId": "6123039",
+                    "name": "G. Igrejas"
+                },
+                {
+                    "authorId": "3896933",
+                    "name": "Ana Felgar"
+                },
+                {
+                    "authorId": "144386463",
+                    "name": "Alexandre Gonçalves"
+                },
+                {
+                    "authorId": "49084900",
+                    "name": "Rui Pacheco"
+                },
+                {
+                    "authorId": "5004270",
+                    "name": "P. Poeta"
+                }
+            ],
+            "abstract": "Vancomycin-resistant enterococci (VRE) were detected in two faecal samples (1.3%) of song thrush in Portugal. vanA isolates showed high level vancomycin/teicoplanin resistance, as well as resistance to ciprofloxacin, quinupristin-dalfopristin and cloranfenicol. Thrush can be a reservoir of VRE and transmit these resistant bacteria to other animals including humans."
+        },
+        {
+            "paperId": "d895d4e988ea5819181490c3197111689249c7ce",
+            "title": "Potential impact of antimicrobial resistance in wildlife, environment and human health",
+            "year": 2014,
+            "openAccessPdf": {
+                "url": "https://www.frontiersin.org/articles/10.3389/fmicb.2014.00023/pdf",
+                "status": "GOLD",
+                "license": "CCBY",
+                "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC3913889, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "6384403",
+                    "name": "H. Radhouani"
+                },
+                {
+                    "authorId": "145043989",
+                    "name": "Nuno Silva"
+                },
+                {
+                    "authorId": "5004270",
+                    "name": "P. Poeta"
+                },
+                {
+                    "authorId": "2252381996",
+                    "name": "C. Torres"
+                },
+                {
+                    "authorId": "3704292",
+                    "name": "Susana Correia"
+                },
+                {
+                    "authorId": "6123039",
+                    "name": "G. Igrejas"
+                }
+            ],
+            "abstract": "Given the significant spatial and temporal heterogeneity in antimicrobial resistance distribution and the factors that affect its evolution, dissemination, and persistence, it is important to highlight that antimicrobial resistance must be viewed as an ecological problem. Monitoring the resistance prevalence of indicator bacteria such as Escherichia coli and enterococci in wild animals makes it possible to show that wildlife has the potential to serve as an environmental reservoir and melting pot of bacterial resistance. These researchers address the issue of antimicrobial-resistant microorganism proliferation in the environment and the related potential human health and environmental impact."
+        },
+        {
+            "paperId": "3730d93836895457be3079b1db7bcbb946540714",
+            "title": "The Role of European Starlings (Sturnus vulgaris) in the Dissemination of Multidrug-Resistant Escherichia coli among Concentrated Animal Feeding Operations",
+            "year": 2020,
+            "openAccessPdf": {
+                "url": "https://www.nature.com/articles/s41598-020-64544-w.pdf",
+                "status": "GOLD",
+                "license": "CCBY",
+                "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC7229194, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "15691990",
+                    "name": "J. Chandler"
+                },
+                {
+                    "authorId": "1699670228",
+                    "name": "J. Anders"
+                },
+                {
+                    "authorId": "6483165",
+                    "name": "N. Blouin"
+                },
+                {
+                    "authorId": "143960614",
+                    "name": "J. Carlson"
+                },
+                {
+                    "authorId": "38868469",
+                    "name": "J. Lejeune"
+                },
+                {
+                    "authorId": "6187026",
+                    "name": "L. Goodridge"
+                },
+                {
+                    "authorId": "2118640314",
+                    "name": "Baolin Wang"
+                },
+                {
+                    "authorId": "1699653764",
+                    "name": "L. Day"
+                },
+                {
+                    "authorId": "40106108",
+                    "name": "Anna M. Mangan"
+                },
+                {
+                    "authorId": "51233579",
+                    "name": "Dustin A. Reid"
+                },
+                {
+                    "authorId": "4564180",
+                    "name": "S. Coleman"
+                },
+                {
+                    "authorId": "6478649",
+                    "name": "Matthew W. Hopken"
+                },
+                {
+                    "authorId": "8723100",
+                    "name": "B. Bisha"
+                }
+            ],
+            "abstract": "Antimicrobial use in livestock production is a driver for the development and proliferation of antimicrobial resistance (AMR). Wildlife interactions with livestock, acquiring associated AMR bacteria and genes, and wildlife’s subsequent dispersal across the landscape are hypothesized to play an important role in the ecology of AMR. Here, we examined priority AMR phenotypes and genotypes of Escherichia coli isolated from the gastrointestinal tracts of European starlings ( Sturnus vulgaris ) found on concentrated animal feeding operations (CAFOs). European starlings may be present in high numbers on CAFOs (>100,000 birds), interact with urban environments, and can migrate distances exceeding 1,500 km in North America. In this study, 1,477 European starlings from 31 feedlots in five U.S. states were sampled for E. coli resistant to third generation cephalosporins (3G-C) and fluoroquinolones. The prevalence of 3G-C and fluoroquinolone-resistant E. coli was 4% and 10%, respectively. Multidrug resistance in the E. coli isolates collected ( n  = 236) was common, with the majority of isolates displaying resistance to six or more classes of antibiotics. Genetic analyses of a subset of these isolates identified 94 genes putatively contributing to AMR, including seven class A and C β-lactamases as well as mutations in gyrA and parC recognized to confer resistance to quinolones. Phylogenetic and subtyping assessments showed that highly similar isolates (≥99.4% shared core genome, ≥99.6% shared coding sequence) with priority AMR were found in birds on feedlots separated by distances exceeding 150 km, suggesting that European starlings could be involved in the interstate dissemination of priority AMR bacteria."
+        },
+        {
+            "paperId": "18910546e2dd79916da6dc58e05f52a7d5c22b30",
+            "title": "Staphylococcus aureus Carriage in the Nasotracheal Cavities of White Stork Nestlings (Ciconia ciconia) in Spain: Genetic Diversity, Resistomes and Virulence Factors",
+            "year": 2023,
+            "openAccessPdf": {
+                "url": "https://link.springer.com/content/pdf/10.1007/s00248-023-02208-8.pdf",
+                "status": "HYBRID",
+                "license": "CCBY",
+                "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC10497646, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "48903175",
+                    "name": "I. Abdullahi"
+                },
+                {
+                    "authorId": "1422370306",
+                    "name": "Guillermo Juarez-Fernandez"
+                },
+                {
+                    "authorId": "4506894",
+                    "name": "U. Höfle"
+                },
+                {
+                    "authorId": "2160340080",
+                    "name": "Javier Latorre-Fernández"
+                },
+                {
+                    "authorId": "2212686406",
+                    "name": "Teresa Cardona-Cabrera"
+                },
+                {
+                    "authorId": "2212689535",
+                    "name": "David Mínguez-Romero"
+                },
+                {
+                    "authorId": "1951180",
+                    "name": "M. Zarazaga"
+                },
+                {
+                    "authorId": "144810239",
+                    "name": "C. Lozano"
+                },
+                {
+                    "authorId": "2252381996",
+                    "name": "C. Torres"
+                }
+            ],
+            "abstract": "The molecular ecology of Staphylococcus aureus in migratory birds (such as white storks) is necessary to understand their relevance in the “One Health” ecosystems. This study determined the nasotracheal carriage rates of S. aureus from white storks in Southern Spain and genetically characterized the within-host diversity. A collection of 67 S. aureus strains, previously obtained from 87 white stork nestlings (52 nasal and 85 tracheal samples) fed by their parents with food foraged in natural and landfill habitats, were tested for their antimicrobial resistance (AMR) phenotypes. Moreover, the AMR genotypes, immune evasion cluster (IEC), virulence genes and the detection of CC398 lineage were studied by PCR. The spa types and multilocus-sequencing-typing (MLST) were also determined by PCR and sequencing. Staphylococcus aureus carriage was found in 31% of storks (36.5%/11.9% in nasal/tracheal samples). All isolates were methicillin-susceptible (MSSA) and 8.8% of them were also susceptible to all tested antibiotics. The AMR phenotype/percentage/genes detected were as follows: penicillin/79.1%/ blaZ ; erythromycin-clindamycin-inducible/19.1%/ ermA, ermT ; tetracycline/11.9%/ tetK ; clindamycin/4.5%/ lnuA and ciprofloxacin/4.5%. Twenty-one different spa types, including 2 new ones (t7778-ST15-CC15 and t18009-ST26-CC25), were detected and ascribed to 11 clonal complexes (CCs). MSSA-CC398 (8.2%), MSSA-CC15 (7.1%) and MSSA-ST291 (5.9%) were the most prevalent lineages in storks. Moreover, tst -positive (MSSA-CC22-t223 and MSSA-CC30-t1654), eta- positive (MSSA-CC9-t209) and etb -positive strains (MSSA-CC45-t015) were detected in four storks. The 18.5% of storks harboured distinct MSSA strains (with different lineages and/or AMR genes). Nestlings of storks foraging in landfills (10 CCs) had more diverse S. aureus strains than those of parents foraging in natural habitats (3 CCs). Low level of AMR was demonstrated among S. aureus strains. The predominance of MSSA-CC398 (an emergent clade) and toxigenic MSSA strains in stork nestlings highlight the need for continuous surveillance of S. aureus in wild birds."
+        },
+        {
+            "paperId": "77bc153e80449781a0470d354d86489666e8cb50",
+            "title": "Systematic review of wild birds as reservoirs of antimicrobial resistance: Implications for roof-harvested rainwater safety.",
+            "year": 2026,
+            "openAccessPdf": {
+                "url": "",
+                "status": null,
+                "license": null,
+                "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.ijheh.2026.114743?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.ijheh.2026.114743, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "2147031114",
+                    "name": "Meruyert Cooper-Beknazarova"
+                },
+                {
+                    "authorId": "2390673129",
+                    "name": "Ben Van Den Akker"
+                },
+                {
+                    "authorId": "2342669296",
+                    "name": "B. Drigo"
+                },
+                {
+                    "authorId": "2262314100",
+                    "name": "Kirstin E. Ross"
+                },
+                {
+                    "authorId": "52238491",
+                    "name": "H. Whiley"
+                },
+                {
+                    "authorId": "2266027880",
+                    "name": "C. Williams"
+                }
+            ],
+            "abstract": "This review investigates the role of wild birds as reservoirs and vectors of antimicrobial-resistant bacteria and antimicrobial resistance genes, and the implications for human health via contamination of harvested rainwater. A systematic literature review revealed that urban-adapted birds, especially gulls and pigeons, frequently carry clinically relevant antimicrobial-resistant bacteria including Carbapenem resistant Enterobacterales (CRE), multidrug-resistant Escherichia coli, extended-spectrum beta-lactamases (ESBL)-producing E. coli, and methicillin-resistant Staphylococcus aureus (MRSA) as well as colistin and macrolide-lincosamide-streptogramin (MLS) resistance genes. Due to urbanisation, these birds often forage in contaminated urban environments such as landfills, sewage sites and waste deposits, which increases their exposure to antimicrobial-resistant bacteria and antimicrobial resistance genes raising concerns about their increasing role in the environmental dissemination of AMR. Roof-harvested rainwater, a growing alternative water source amid climate change and water scarcity, can be contaminated by bird droppings containing antimicrobial-resistant bacteria and antimicrobial resistance genes. Despite its widespread use, harvested rainwater remains largely unregulated, presenting a public health risk. The findings from this review highlights the need for increased monitoring, targeted research, and improved risk management strategies to address AMR transmission from birds to humans via environmental pathways such as harvested rainwater."
+        }
+    ],
+    "Bird feeder density zoonotic disease": [
+        {
+            "paperId": "2ec0a3e07a5cafd4814da001bb468436a353d41f",
+            "title": "Urbanization and the ecology of wildlife diseases",
+            "year": 2006,
+            "openAccessPdf": {
+                "url": "https://www.cell.com/article/S0169534706003648/pdf",
+                "status": "HYBRID",
+                "license": "other-oa",
+                "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC7114918, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "2064576378",
+                    "name": "C. Bradley"
+                },
+                {
+                    "authorId": "50115212",
+                    "name": "S. Altizer"
+                }
+            ],
+            "abstract": "Urbanization is intensifying worldwide, with two-thirds of the human population expected to reside in cities within 30 years. The role of cities in human infectious disease is well established, but less is known about how urban landscapes influence wildlife–pathogen interactions. Here, we draw on recent advances in wildlife epidemiology to consider how environmental changes linked with urbanization can alter the biology of hosts, pathogens and vectors. Although urbanization reduces the abundance of many wildlife parasites, transmission can, in some cases, increase among urban-adapted hosts, with effects on rarer wildlife or those living beyond city limits. Continued rapid urbanization, together with risks posed by multi-host pathogens for humans and vulnerable wildlife populations, emphasize the need for future research on wildlife diseases in urban landscapes."
+        },
+        {
+            "paperId": "69392bfc02fc6f65b291e145eaafa68b61d22b70",
+            "title": "Effects of bird-feeding activities on the health of wild birds",
+            "year": 2015,
+            "openAccessPdf": {
+                "url": "https://academic.oup.com/conphys/article-pdf/3/1/cov058/23708749/cov058.pdf",
+                "status": "GOLD",
+                "license": "CCBY",
+                "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC4778448, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "5177599",
+                    "name": "T. Wilcoxen"
+                },
+                {
+                    "authorId": "34709725",
+                    "name": "D. J. Horn"
+                },
+                {
+                    "authorId": "5685833",
+                    "name": "Brianna M. Hogan"
+                },
+                {
+                    "authorId": "6561509",
+                    "name": "Cody N. Hubble"
+                },
+                {
+                    "authorId": "32459899",
+                    "name": "Sarah Huber"
+                },
+                {
+                    "authorId": "31657737",
+                    "name": "J. Flamm"
+                },
+                {
+                    "authorId": "2391241220",
+                    "name": "M. Knott"
+                },
+                {
+                    "authorId": "4080649",
+                    "name": "Lisa Lundstrom"
+                },
+                {
+                    "authorId": "2083851514",
+                    "name": "Faaria Salik"
+                },
+                {
+                    "authorId": "4775195",
+                    "name": "Samantha J. Wassenhove"
+                },
+                {
+                    "authorId": "3514142",
+                    "name": "E. Wrobel"
+                }
+            ],
+            "abstract": "We completed a three-year study of 11 bird species investigating the effects of bird feeding on the health of wild birds. Birds at sites with feeders were generally in better overall health than birds at sites without feeders, although birds at sites with feeders had a greater prevalence of disease."
+        },
+        {
+            "paperId": "4c43e1757efeca4275a642955b2fa09121c55062",
+            "title": "Bird-feeder cleaning lowers disease severity in rural but not urban birds",
+            "year": 2021,
+            "openAccessPdf": {
+                "url": "https://www.nature.com/articles/s41598-021-92117-y.pdf",
+                "status": "GOLD",
+                "license": "CCBY",
+                "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC8213693, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "2113756411",
+                    "name": "Laren Schaper"
+                },
+                {
+                    "authorId": "143687212",
+                    "name": "Pierce Hutton"
+                },
+                {
+                    "authorId": "3880896",
+                    "name": "K. McGraw"
+                }
+            ],
+            "abstract": "Animals inhabiting urban areas often experience elevated disease threats, putatively due to factors such as increased population density and horizontal transmission or decreased immunity (e.g. due to nutrition, pollution, stress). However, for animals that take advantage of human food subsidies, like feeder-visiting birds, an additional mechanism may include exposure to contaminated feeders as fomites. There are some published associations between bird feeder presence/density and avian disease, but to date no experimental study has tested the hypothesis that feeder contamination can directly impact disease status of visiting birds, especially in relation to the population of origin (i.e. urban v. rural, where feeder use/densities naturally vary dramatically). Here we used a field, feeder-cleaning experimental design to show that rural, but not urban, house finches (Haemorhous mexicanus) showed increased infection from a common coccidian endoparasite (Isospora spp.) when feeders were left uncleaned and that daily cleaning (with diluted bleach solution) over a 5-week period successfully decreased parasite burden. Moreover, this pattern in rural finches was true for males but not females. These experimental results reveal habitat- and sex-specific harmful effects of bird feeder use (i.e. when uncleaned in rural areas). Our study is the first to directly indicate to humans who maintain feeders for granivorous birds that routine cleaning can be critical for ensuring the health and viability of visiting avian species."
+        },
+        {
+            "paperId": "847c3904dd347b8f0f7b8955a073fe1a9522ebca",
+            "title": "Effects of urban sugar water feeding on bird body condition and avian diseases",
+            "year": 2022,
+            "openAccessPdf": {
+                "url": "",
+                "status": null,
+                "license": null,
+                "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1177/17581559221110107?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1177/17581559221110107, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "6028346",
+                    "name": "D. A. Erastova"
+                },
+                {
+                    "authorId": "34363870",
+                    "name": "J. A. Galbraith"
+                },
+                {
+                    "authorId": "145948007",
+                    "name": "K. Cain"
+                },
+                {
+                    "authorId": "7903103",
+                    "name": "Yolanda van Heezik"
+                },
+                {
+                    "authorId": "88639350",
+                    "name": "E. Hume"
+                },
+                {
+                    "authorId": "40466926",
+                    "name": "M. Stanley"
+                }
+            ],
+            "abstract": "Garden bird sugar water feeding is increasingly popular worldwide, but little is known about its effects on bird health and associated diseases. There is a concern that feeding stations can accumulate pathogens and facilitate pathogen transmission between individuals, resulting in adverse effects on body condition of visiting birds. We tested the effects of sugar water feeding in urban New Zealand backyards by sampling target species for multiple infections and comparing bird body condition. For this, we compared backyards with and without sugar water feeders and again compared existing sugar water feeders with various sugar concentrations in two cities and in two seasons. Birds caught in gardens with sugar water feeders had poorer body condition; however, birds had better body condition in the city with the warmer climate (Auckland), during summer, and in gardens with high (≥20%) sugar concentration in sugar water feeders in winter. All screening tests for Chlamydia psittaci and Salmonella spp. returned negative results. Avian poxvirus prevalence in tauhou (Zosterops lateralis) was four times higher in the city with a warmer climate. The likelihood of lice infection in tauhou was lower in gardens with feeders, in the warmer city, in summer, and at feeders with higher sugar concentrations. In tūī (Prosthemadera novaeseelandiae), the likelihood of lice infection decreased with an increase in sugar concentration. Coccidia infection was 4.25 times higher in tauhou in gardens with feeders. Despite the identified risks associated with sugar water feeding, there appear to be potential benefits for native nectarivorous birds, specifically in winter."
+        },
+        {
+            "paperId": "bc558354477a1c1d26ed428105b613db2b4cb6ae",
+            "title": "Season and sugar concentration affect bird behaviour at urban sugar-water feeders",
+            "year": 2022,
+            "openAccessPdf": {
+                "url": "",
+                "status": null,
+                "license": null,
+                "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1080/01584197.2022.2132961?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1080/01584197.2022.2132961, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "6028346",
+                    "name": "D. A. Erastova"
+                },
+                {
+                    "authorId": "145948007",
+                    "name": "K. Cain"
+                },
+                {
+                    "authorId": "34363870",
+                    "name": "J. A. Galbraith"
+                },
+                {
+                    "authorId": "7903103",
+                    "name": "Yolanda van Heezik"
+                },
+                {
+                    "authorId": "40466926",
+                    "name": "M. Stanley"
+                }
+            ],
+            "abstract": "ABSTRACT Sugar-water bird feeding in residential backyards is increasingly popular, but its effects on wildlife are poorly understood. One concern is whether it results in maladaptive behaviour, such as reliance on artificial food or increased aggression due to increased density of visiting individuals. We studied sugar-water feeder-associated bird behaviour in two cities with different climates. We investigate whether season, city, or sugar concentration influenced bird foraging activity and aggressiveness. We then test whether feeder presence affected backyard bird composition. Birds were most aggressive and used sugar-water feeders most actively in winter, especially the omnivorous native tauhou (Zosterops lateralis). We also found city and seasonal differences in sugar-water feeder usage and aggression. Further, in Auckland, the city with the warmer climate, New Zealand’s largest nectarivorous species, tūī (Prosthemadera novaeseelandiae), was more likely to be aggressive at feeders with higher sugar concentrations but foraged longer at feeders with lower sugar concentrations. Neither feeder presence nor sugar concentration influenced garden bird species richness or abundance. We discuss the effects of sugar-water feeding on bird behaviour at the global and local scale and suggest future study directions."
+        }
+    ],
+    "Urban food subsidies pathogen shedding": [
+        {
+            "paperId": "8b860148d7323d514b942b014ac5d8019b44fc36",
+            "title": "Quantification of pathogens and markers of fecal contamination during storm events along popular surfing beaches in San Diego, California.",
+            "year": 2018,
+            "openAccessPdf": {
+                "url": "https://cdr.lib.unc.edu/downloads/p8418z34s",
+                "status": "GREEN",
+                "license": null,
+                "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.watres.2018.01.056?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.watres.2018.01.056, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "33105114",
+                    "name": "J. Steele"
+                },
+                {
+                    "authorId": "36929740",
+                    "name": "A. D. Blackwood"
+                },
+                {
+                    "authorId": "34833551",
+                    "name": "J. Griffith"
+                },
+                {
+                    "authorId": "34838642",
+                    "name": "R. Noble"
+                },
+                {
+                    "authorId": "5805947",
+                    "name": "K. Schiff"
+                }
+            ],
+            "abstract": "Along southern California beaches, the concentrations of fecal indicator bacteria (FIB) used to quantify the potential presence of fecal contamination in coastal recreational waters have been previously documented to be higher during wet weather conditions (typically winter or spring) than those observed during summer dry weather conditions. FIB are used for management of recreational waters because measurement of the bacterial and viral pathogens that are the potential causes of illness in beachgoers exposed to stormwater can be expensive, time-consuming, and technically difficult. Here, we use droplet digital Polymerase Chain Reaction (digital PCR) and digital reverse transcriptase PCR (digital RT-PCR) assays for direct quantification of pathogenic viruses, pathogenic bacteria, and source-specific markers of fecal contamination in the stormwater discharges. We applied these assays across multiple storm events from two different watersheds that discharge to popular surfing beaches in San Diego, CA. Stormwater discharges had higher FIB concentrations as compared to proximal beaches, often by ten-fold or more during wet weather. Multiple lines of evidence indicated that the stormwater discharges contained human fecal contamination, despite the presence of separate storm sewer and sanitary sewer systems in both watersheds. Human fecal source markers (up to 100% of samples, 20-12440 HF183 copies per 100 ml) and human norovirus (up to 96% of samples, 25-495 NoV copies per 100 ml) were routinely detected in stormwater discharge samples. Potential bacterial pathogens were also detected and quantified: Campylobacter spp. (up to 100% of samples, 16-504 gene copies per 100 ml) and Salmonella (up to 25% of samples, 6-86 gene copies per 100 ml). Other viral human pathogens were also measured, but occurred at generally lower concentrations: adenovirus (detected in up to 22% of samples, 14-41 AdV copies per 100 ml); no enterovirus was detected in any stormwater discharge sample. Higher concentrations of avian source markers were noted in the stormwater discharge located immediately downstream of a large bird sanctuary along with increased Campylobacter concentrations and notably different Campylobacter species composition than the watershed that had no bird sanctuary. This study is one of the few to directly measure an array of important bacterial and viral pathogens in stormwater discharges to recreational beaches, and provides context for stormwater-based management of beaches during high risk wet-weather periods. Furthermore, the combination of culture-based and digital PCR-derived data is demonstrated to be valuable for assessing hydrographic relationships, considering delivery mechanisms, and providing foundational exposure information for risk assessment."
+        },
+        {
+            "paperId": "3b2b85650bd069693865c56cee39b1826b817105",
+            "title": "Quantification of Microbial Source Tracking and Pathogenic Bacterial Markers in Water and Sediments of Tiaoxi River (Taihu Watershed)",
+            "year": 2019,
+            "openAccessPdf": {
+                "url": "https://www.frontiersin.org/articles/10.3389/fmicb.2019.00699/pdf",
+                "status": "GOLD",
+                "license": "CCBY",
+                "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC6492492, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "1928494",
+                    "name": "K. K. Vadde"
+                },
+                {
+                    "authorId": "144108909",
+                    "name": "A. Mccarthy"
+                },
+                {
+                    "authorId": "145565033",
+                    "name": "R. Rong"
+                },
+                {
+                    "authorId": "153823121",
+                    "name": "R. Sekar"
+                }
+            ],
+            "abstract": "Taihu Lake is one of the largest freshwater lakes in China, serving as an important source of drinking water; >60% of source water to this lake is provided by the Tiaoxi River. This river faces serious fecal contamination issues, and therefore, a comprehensive investigation to identify the sources of fecal contamination was carried out and is presented here. The performance of existing universal (BacUni and GenBac), human (HF183-Taqman, HF183-SYBR, BacHum, and Hum2), swine (Pig-2-Bac), ruminant (BacCow), and avian (AV4143 and GFD) associated microbial source tracking (MST) markers was evaluated prior to their application in this region. The specificity and sensitivity results indicated that BacUni, HF183-TaqMan, Pig-2-Bac, and GFD assays are the most suitable in identifying human and animal fecal contamination. Therefore, these markers along with marker genes specific to selected bacterial pathogens were quantified in water and sediment samples of the Tiaoxi River, collected from 15 locations over three seasons during 2014 and 2015. Total/universal Bacteroidales markers were detected in all water and sediment samples (mean concentration 6.22 log10 gene copies/100 ml and 6.11 log10 gene copies/gram, respectively), however, the detection of host-associated MST markers varied. Human and avian markers were the most frequently detected in water samples (97 and 89%, respectively), whereas in sediment samples, only human-associated markers were detected more often (86%) than swine (64%) and avian (8.8%) markers. The results indicate that several locations in the Tiaoxi River are heavily polluted by fecal contamination and this correlated well with land use patterns. Among the five bacterial pathogens tested, Shigella spp. and Campylobacter jejuni were the most frequently detected pathogens in water (60% and 62%, respectively) and sediment samples (91% and 53%, respectively). Shiga toxin-producing Escherichia coli (STEC) and pathogenic Leptospira spp. were less frequently detected in water samples (55% and 33%, respectively) and sediment samples (51% and 13%, respectively), whereas E. coli O157:H7 was only detected in sediment samples (11%). Overall, the higher prevalence and concentrations of Campylobacter jejuni, Shigella spp., and STEC, along with the MST marker detection at a number of locations in the Tiaoxi River, indicates poor water quality and a significant human health risk associated with this watercourse. GRAPHICAL ABSTRACT Tracking fecal contamination and pathogens in watersheds using molecular methods."
+        },
+        {
+            "paperId": "a8f7ce9bd344eaa4fe04f3528e30d2aa50d3e2ff",
+            "title": "Bacteroides Microbial Source Tracking Markers Perform Poorly in Predicting Enterobacteriaceae and Enteric Pathogen Contamination of Cow Milk Products and Milk-Containing Infant Food",
+            "year": 2022,
+            "openAccessPdf": {
+                "url": "https://www.frontiersin.org/articles/10.3389/fmicb.2021.778921/pdf",
+                "status": "GOLD",
+                "license": "CCBY",
+                "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC8764403, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "122428320",
+                    "name": "K. Tsai"
+                },
+                {
+                    "authorId": "104595669",
+                    "name": "V. Hoffmann"
+                },
+                {
+                    "authorId": "1471117971",
+                    "name": "S. Simiyu"
+                },
+                {
+                    "authorId": "5844671",
+                    "name": "O. Cumming"
+                },
+                {
+                    "authorId": "2148229992",
+                    "name": "Glorie Borsay"
+                },
+                {
+                    "authorId": "2936494",
+                    "name": "Kelly K Baker"
+                }
+            ],
+            "abstract": "Consumption of microbiologically contaminated food is one of the leading causes of diarrheal diseases. Understanding the source of enteric pathogens in food is important to guide effective interventions. Enterobacteriaceae bacterial assays typically used to assess food safety do not shed light on the source. Source-specific Bacteroides microbial source tracking (MST) markers have been proposed as alternative indicators for water fecal contamination assessment but have not been evaluated as an alternative fecal indicator in animal-derived foods. This study tested various milk products collected from vendors in urban Kenyan communities and infant foods made with the milk (n = 394 pairs) using conventional culture methods and TaqMan qPCR for enteric pathogens and human and bovine-sourced MST markers. Detection profiles of various enteric pathogens and Bacteroides MST markers in milk products differed from that of milk-containing infant foods. MST markers were more frequently detected in infant food prepared by caregivers, indicating recent contamination events were more likely to occur during food preparation at home. However, Bacteroides MST markers had lower sensitivity in detecting enteric pathogens in food than traditional Enterobacteriaceae indicators. Bacteroides MST markers tested in this study were not associated with the detection of culturable Salmonella enterica and Shigella sonnei in milk products or milk-containing infant food. The findings show that while Bacteroides MST markers could provide valuable information about how foods become contaminated, they may not be suitable for predicting the origin of the enteric pathogen contamination sources."
+        },
+        {
+            "paperId": "12fa6a9346ee72895f0fb86020001f22444f257c",
+            "title": "Origin of fecal contamination in lettuce and strawberries: From microbial indicators, molecular markers, and H.pylori",
+            "year": 2024,
+            "openAccessPdf": {
+                "url": "https://doi.org/10.1016/j.heliyon.2024.e36526",
+                "status": "GOLD",
+                "license": "CCBY",
+                "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC11387255, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "2083918473",
+                    "name": "Fidson-Juarismy Vesga"
+                },
+                {
+                    "authorId": "51887668",
+                    "name": "Camilo Venegas"
+                },
+                {
+                    "authorId": "2317734432",
+                    "name": "Valentina Flórez Martinez"
+                },
+                {
+                    "authorId": "1441209725",
+                    "name": "Andrea C. Sánchez-Alfonso"
+                },
+                {
+                    "authorId": "4547593",
+                    "name": "A. Trespalacios"
+                }
+            ],
+            "abstract": "Around 2 billion people utilize a water source contaminated with fecal-origin microorganisms, used for both human consumption and irrigation of crops. In Colombia, the water from the Bogotá River is employed for irrigating agricultural products, including raw-consumption foods like strawberries and lettuce. This poses a risk to the end consumer, as these foods are marketed as fresh products ready for direct consumption without undergoing any disinfection or cooking treatment. The aim of this study was to determine the origin of fecal contamination in strawberries and lettuce irrigated with surface waters from Cundinamarca, Colombia, using non-human and human molecular markers, along with Helicobacter pylori (H. pylori). A total of 50 samples were collected, 25 of strawberries and 25 of lettuce, taken from crops, markets, and supermarkets. Microbiological indicators (bacterial and viral) were detected through cultivation techniques, and Microbial Source Tracking (MST) markers and H. pylori were detected through PCR. The results of our study demonstrate the presence of Escherichia coli (E. coli) (12.5 %), Enterococcus (≥25 %), spores and vegetative forms of Spores of sulphite-reducing Clostridia (SRC) (≥37.5 %), coliphages (≥12.5 %), and Salmonella sp. (≥12.5 %), in both strawberries and lettuce. In the different samples analyzed, molecular markers were detected to differentiate the source of fecal contamination above 12.5 % (HF187, CF128, ADO and DEN) and H. pylori between 0 % and 25 %, highlighting deficiencies in the production chain. of food, and the risks they pose to food security. Highlighting deficiencies in the food production chain and the risks they pose to food safety."
+        },
+        {
+            "paperId": "ccadabe7da8465a89fb124aa71c66b90a9ffca0b",
+            "title": "On the Role of Food in the Transmission of Helicobacter pylori Infection: A Narrative Review",
+            "year": 2025,
+            "openAccessPdf": {
+                "url": "",
+                "status": null,
+                "license": "CCBY",
+                "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC12733334, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "2279116383",
+                    "name": "Markus Schuppler"
+                }
+            ],
+            "abstract": "Helicobacter pylori is one of the most common human pathogens, infecting up to 50% of the global population. The bacterium colonizes the mucus layer overlying gastric epithelial cells and causes chronic infection, which can lead to peptic ulcers, lymphoma, and gastric cancer. Epidemiological studies showed that regions with poor sanitation have higher prevalence rates of H. pylori, suggesting possible environmental or food-related transmission routes in addition to the well-established person-to-person pathways. This assumption is supported by the detection of H. pylori and/or its DNA in a variety of food. Experimental studies further demonstrate that H. pylori can survive in food with certain properties, such as milk, meat, and vegetables, suggesting that such products may serve as potential reservoirs. However, reliable detection of H. pylori in food remains challenging due to its fastidious nature, the ability to enter a viable but non-culturable state, and methodological limitations. While the presence of bacterial DNA and survival across food matrices make foodborne transmission biologically plausible, direct and conclusive proof that ingestion of contaminated food leads to infection is still lacking. Hence, person-to-person transmission currently remains the most firmly established route of transmission. Taken together, the current findings provide substantial indirect evidence that food, particularly under conditions of poor hygiene, may provide a reservoir or vehicle for H. pylori transmission. However, further research is needed to definitively clarify the role of food in the transmission of H. pylori infection and identify appropriate measures to promote public health."
+        }
+    ],
+    "Bird feeding sites AMR spread": [
+        {
+            "paperId": "8309faa66784d56491a50413a355f0ecb13eab61",
+            "title": "Comparable High Rates of Extended-Spectrum-Beta-Lactamase-Producing Escherichia coli in Birds of Prey from Germany and Mongolia",
+            "year": 2012,
+            "openAccessPdf": {
+                "url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0053039&type=printable",
+                "status": "GOLD",
+                "license": "CCBY",
+                "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC3534101, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "145981759",
+                    "name": "S. Guenther"
+                },
+                {
+                    "authorId": "2076145548",
+                    "name": "Katja Aschenbrenner"
+                },
+                {
+                    "authorId": "4033118",
+                    "name": "I. Stamm"
+                },
+                {
+                    "authorId": "33375064",
+                    "name": "A. Bethe"
+                },
+                {
+                    "authorId": "5498486",
+                    "name": "T. Semmler"
+                },
+                {
+                    "authorId": "2481012",
+                    "name": "A. Stubbe"
+                },
+                {
+                    "authorId": "32120491",
+                    "name": "M. Stubbe"
+                },
+                {
+                    "authorId": "116856941",
+                    "name": "Nyamsuren Batsajkhan"
+                },
+                {
+                    "authorId": "117678186",
+                    "name": "Y. Glupczynski"
+                },
+                {
+                    "authorId": "3713451",
+                    "name": "L. Wieler"
+                },
+                {
+                    "authorId": "3686077",
+                    "name": "C. Ewers"
+                }
+            ],
+            "abstract": "Frequent contact with human waste and liquid manure from intensive livestock breeding, and the increased loads of antibiotic-resistant bacteria that result, are believed to be responsible for the high carriage rates of ESBL-producing E. coli found in birds of prey (raptors) in Central Europe. To test this hypothesis against the influence of avian migration, we initiated a comparative analysis of faecal samples from wild birds found in Saxony-Anhalt in Germany and the Gobi-Desert in Mongolia, regions of dissimilar human and livestock population characteristics and agricultural practices. We sampled a total of 281 wild birds, mostly raptors with primarily north-to-south migration routes. We determined antimicrobial resistance, focusing on ESBL production, and unravelled the phylogenetic and clonal relatedness of identified ESBL-producing E. coli isolates using multi-locus sequence typing (MLST) and macrorestriction analyses. Surprisingly, the overall carriage rates (approximately 5%) and the proportion of ESBL-producers among E. coli (Germany: 13.8%, Mongolia: 10.8%) were similar in both regions. Whereas bla CTX-M-1 predominated among German isolates (100%), bla CTX-M-9 was the most prevalent in Mongolian isolates (75%). We identified sequence types (STs) that are well known in human and veterinary clinical ESBL-producing E. coli (ST12, ST117, ST167, ST648) and observed clonal relatedness between a Mongolian avian ESBL-E. coli (ST167) and a clinical isolate of the same ST that originated in a hospitalised patient in Europe. Our data suggest the influence of avian migratory species in the transmission of ESBL-producing E. coli and challenge the prevailing assumption that reducing human influence alone invariably leads to lower rates of antimicrobial resistance."
+        },
+        {
+            "paperId": "858ee357b07ea3c77129254bd1cb72eb401cb570",
+            "title": "Increased prevalence of antibiotic-resistant E. coli in gulls sampled in Southcentral Alaska is associated with urban environments",
+            "year": 2016,
+            "openAccessPdf": {
+                "url": "https://www.tandfonline.com/doi/pdf/10.3402/iee.v6.32334?needAccess=true&role=button",
+                "status": "GOLD",
+                "license": "CCBYNC",
+                "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC5030259, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "3588834",
+                    "name": "Clara Atterby"
+                },
+                {
+                    "authorId": "6425640",
+                    "name": "A. Ramey"
+                },
+                {
+                    "authorId": "40355512",
+                    "name": "Gabriel Gustafsson Hall"
+                },
+                {
+                    "authorId": "3591414",
+                    "name": "J. Järhult"
+                },
+                {
+                    "authorId": "6313131",
+                    "name": "S. Börjesson"
+                },
+                {
+                    "authorId": "6141329",
+                    "name": "J. Bonnedahl"
+                }
+            ],
+            "abstract": "Background Antibiotic-resistant bacteria pose challenges to healthcare delivery systems globally; however, limited information is available regarding the prevalence and spread of such bacteria in the environment. The aim of this study was to compare the prevalence of antibiotic-resistant bacteria in large-bodied gulls (Larus spp.) at urban and remote locations in Southcentral Alaska to gain inference into the association between antibiotic resistance in wildlife and anthropogenically influenced habitats. Methods Escherichia coli was cultured (n=115 isolates) from fecal samples of gulls (n=160) collected from a remote location, Middleton Island, and a more urban setting on the Kenai Peninsula. Results Screening of E. coli from fecal samples collected from glaucous-winged gulls (Larus glaucescens) at Middleton Island revealed 8% of isolates were resistant to one or more antibiotics and 2% of the isolates were resistant to three or more antibiotics. In contrast, 55% of E. coli isolates derived from fecal samples collected from large-bodied gulls (i.e. glaucous, herring [Larus argentatus], and potentially hybrid gulls) on the Kenai Peninsula were resistant to one or more antibiotics and 22% were resistant to three or more antibiotics. In addition, total of 16% of the gull samples from locations on the Kenai Peninsula harbored extended-spectrum cephalosporin-resistant E. coli isolates (extended-spectrum beta-lactamases [ESBL] and plasmid-encoded AmpC [pAmpC]), in contrast to Middleton Island where no ESBL- or pAmpC-producing isolates were detected. Conclusion Our findings indicate that increased prevalence of antibiotic resistance is associated with urban environments in Southcentral Alaska and presumably influenced by anthropogenic impacts. Further investigation is warranted to assess how migratory birds may maintain and spread antimicrobial-resistant bacteria of relevance to human and animal health."
+        },
+        {
+            "paperId": "2a6fe0c219c72f63a2382ef2a4087a12e2ebc868",
+            "title": "Acquisition and dissemination of cephalosporin-resistant E. coli in migratory birds sampled at an Alaska landfill as inferred through genomic analysis",
+            "year": 2018,
+            "openAccessPdf": {
+                "url": "https://www.nature.com/articles/s41598-018-25474-w.pdf",
+                "status": "GOLD",
+                "license": "CCBY",
+                "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC5943298, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "46913500",
+                    "name": "C. Ahlstrom"
+                },
+                {
+                    "authorId": "6141329",
+                    "name": "J. Bonnedahl"
+                },
+                {
+                    "authorId": "5234157",
+                    "name": "H. Woksepp"
+                },
+                {
+                    "authorId": "50475038",
+                    "name": "J. Hernández"
+                },
+                {
+                    "authorId": "144234474",
+                    "name": "B. Olsen"
+                },
+                {
+                    "authorId": "6425640",
+                    "name": "A. Ramey"
+                }
+            ],
+            "abstract": "Antimicrobial resistance (AMR) in bacterial pathogens threatens global health, though the spread of AMR bacteria and AMR genes between humans, animals, and the environment is still largely unknown. Here, we investigated the role of wild birds in the epidemiology of AMR Escherichia coli. Using next-generation sequencing, we characterized cephalosporin-resistant E. coli cultured from sympatric gulls and bald eagles inhabiting a landfill habitat in Alaska to identify genetic determinants conferring AMR, explore potential transmission pathways of AMR bacteria and genes at this site, and investigate how their genetic diversity compares to isolates reported in other taxa. We found genetically diverse E. coli isolates with sequence types previously associated with human infections and resistance genes of clinical importance, including blaCTX-M and blaCMY. Identical resistance profiles were observed in genetically unrelated E. coli isolates from both gulls and bald eagles. Conversely, isolates with indistinguishable core-genomes were found to have different resistance profiles. Our findings support complex epidemiological interactions including bacterial strain sharing between gulls and bald eagles and horizontal gene transfer among E. coli harboured by birds. Results suggest that landfills may serve as a source for AMR acquisition and/or maintenance, including bacterial sequence types and AMR genes relevant to human health."
+        },
+        {
+            "paperId": "b1c7a05b4d7c5973a4c866a8319dda2bc88d3a9d",
+            "title": "Variability of faecal microbiota and antibiotic resistance genes in flocks of migratory gulls and comparison with the surrounding environment.",
+            "year": 2024,
+            "openAccessPdf": {
+                "url": "",
+                "status": "CLOSED",
+                "license": null,
+                "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.envpol.2024.124563?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.envpol.2024.124563, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "107930662",
+                    "name": "Dayana Jarma"
+                },
+                {
+                    "authorId": "1418709602",
+                    "name": "Oriol Sacristán-Soriano"
+                },
+                {
+                    "authorId": "2251867038",
+                    "name": "Carles M. Borrego"
+                },
+                {
+                    "authorId": "6677196",
+                    "name": "F. Hortas"
+                },
+                {
+                    "authorId": "1403110187",
+                    "name": "J. Peralta‐Sánchez"
+                },
+                {
+                    "authorId": "2280090529",
+                    "name": "J.L. Balcázar"
+                },
+                {
+                    "authorId": "2244370946",
+                    "name": "A. J. Green"
+                },
+                {
+                    "authorId": "2304820940",
+                    "name": "E. Alonso"
+                },
+                {
+                    "authorId": "1398038883",
+                    "name": "Alexandre Sánchez-Melsió"
+                },
+                {
+                    "authorId": "2264616528",
+                    "name": "Marta I. Sánchez"
+                }
+            ],
+            "abstract": "Gulls commonly rely on human-generated waste as their primary food source, contributing to the spread of antibiotic-resistant bacteria and their resistance genes, both locally and globally. Our understanding of this process remains incomplete, particularly in relation to its potential interaction with surrounding soil and water. We studied the lesser black-backed gull, Larus fuscus, as a model to examine the spatial variation of faecal bacterial communities, antibiotic resistance genes (ARGs), and mobile genetic elements (MGEs) and its relationship with the surrounding water and soil. We conducted sampling campaigns within a connectivity network of different flocks of gulls moving across functional units (FUs), each of which represents a module of highly interconnected patches of habitats used for roosting and feeding. The FUs vary in habitat use, with some gulls using more polluted sites (notably landfills), while others preferring more natural environments (e.g., wetlands or beaches). Faecal bacterial communities in gulls from flocks that visit and spend more time in landfills exhibited higher richness and diversity. The faecal microbiota showed a high compositional overlap with bacterial communities in soil. The overlap was greater when compared to landfill (11%) than to wetland soils (6%), and much lower when compared to bacterial communities in surrounding water (2% and 1% for landfill and wetland water, respectively). The relative abundance of ARGs and MGEs were similar between FUs, with variations observed only for specific families of ARGs and MGEs. When exploring the faecal carriage of ARGs and MGEs in bird faeces relative to soil and water compartments, gull faeces were enriched in ARGs classified as High-Risk. Our results shed light on the complex dynamics of antibiotic resistance spread in wild bird populations, providing insights into the interactions among gull movement and feeding behavior, habitat characteristics, and the dissemination of antibiotic resistance determinants across environmental reservoirs."
+        },
+        {
+            "paperId": "ea09a61cd9d2483a7003fd111b6a5bd4336c08ba",
+            "title": "Sentinel or Disperser? The Role of White Storks (Ciconia ciconia) in the Spread of Antibiotic-Resistant Bacteria",
+            "year": 2025,
+            "openAccessPdf": {
+                "url": "",
+                "status": null,
+                "license": null,
+                "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3390/microbiolres16090202?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3390/microbiolres16090202, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "2212686406",
+                    "name": "Teresa Cardona-Cabrera"
+                },
+                {
+                    "authorId": "2047016624",
+                    "name": "Sandra Martínez-Álvarez"
+                },
+                {
+                    "authorId": "2373588294",
+                    "name": "Yolanda Muela-Trujillo"
+                },
+                {
+                    "authorId": "2142466832",
+                    "name": "A. Sánchez-Cano"
+                },
+                {
+                    "authorId": "2065421644",
+                    "name": "J. Montero"
+                },
+                {
+                    "authorId": "2379826487",
+                    "name": "Juan Manuel Fernández-Gallego"
+                },
+                {
+                    "authorId": "2200602254",
+                    "name": "Carmen Torres"
+                },
+                {
+                    "authorId": "2287374293",
+                    "name": "Úrsula Höfle"
+                }
+            ],
+            "abstract": "Antimicrobial resistance (AMR) represents a threat to human, animal, and environmental health. This study evaluated the potential role of birds as AMR dispersers in white storks as a model species investigating dispersal between locations connected by their movements. Throughout a year, 346 samples were collected from two landfills (225 fecal samples) and two wetlands (93 fecal/28 water samples) based on satellite tracking data that confirmed continuous stork movements between foraging (landfill) and nighttime roosting (wetlands) locations. Samples were seeded in selective media with antibiotics for the isolation of antibiotic-resistant bacteria. A total of 313 isolates from 35 different bacterial species were obtained, with an AMR prevalence of 43.1% in fecal samples from landfills, 7.5% in fecal samples from wetlands, and 21.4% in water from wetlands. Multidrug resistant bacteria were only found in fecal samples (19.6% landfills/4.3% wetlands) and extended-spectrum beta-lactamase producing-bacteria were found exclusively in fecal samples from landfills with a marked presence during the fall migration period. Our study reveals marked differences in AMR prevalence and resistance phenotypes between study locations and fecal and water samples throughout the year, thus not supporting a clear role of storks as AMR dispersers. Nevertheless, similar changes in AMR phenotype prevalences during fall migration in stork faecal samples from one of the tested landfills and its paired wetland, and the significant increase in ESBL-producing Enterobacterales prevalence matching the arrival of migratory white storks in fall, underline the need for more in-depth genome-based studies to elucidate the role of white storks as dispersers or sentinels of AMR."
+        }
+    ],
+    "Urban bird aggregation disease dynamics": [
+        {
+            "paperId": "9ad26a058317a873984406689bc7628087a6657a",
+            "title": "Characterization of a Novel Influenza A Virus Hemagglutinin Subtype (H16) Obtained from Black-Headed Gulls",
+            "year": 2005,
+            "openAccessPdf": {
+                "url": "https://doi.org/10.1128/jvi.79.5.2814-2822.2005",
+                "status": "HYBRID",
+                "license": "CCBY",
+                "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1128/JVI.79.5.2814-2822.2005?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1128/JVI.79.5.2814-2822.2005, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "144030606",
+                    "name": "R. Fouchier"
+                },
+                {
+                    "authorId": "4908754",
+                    "name": "V. Munster"
+                },
+                {
+                    "authorId": "6431548",
+                    "name": "A. Wallensten"
+                },
+                {
+                    "authorId": "6637825",
+                    "name": "T. Bestebroer"
+                },
+                {
+                    "authorId": "4620730",
+                    "name": "S. Herfst"
+                },
+                {
+                    "authorId": "2111064709",
+                    "name": "Derek J. Smith"
+                },
+                {
+                    "authorId": "6662246",
+                    "name": "G. Rimmelzwaan"
+                },
+                {
+                    "authorId": "144234474",
+                    "name": "B. Olsen"
+                },
+                {
+                    "authorId": "144281156",
+                    "name": "A. Osterhaus"
+                }
+            ],
+            "abstract": "ABSTRACT In wild aquatic birds and poultry around the world, influenza A viruses carrying 15 antigenic subtypes of hemagglutinin (HA) and 9 antigenic subtypes of neuraminidase (NA) have been described. Here we describe a previously unidentified antigenic subtype of HA (H16), detected in viruses circulating in black-headed gulls in Sweden. In agreement with established criteria for the definition of antigenic subtypes, hemagglutination inhibition assays and immunodiffusion assays failed to detect specific reactivity between H16 and the previously described subtypes H1 to H15. Genetically, H16 HA was found to be distantly related to H13 HA, a subtype also detected exclusively in shorebirds, and the amino acid composition of the putative receptor-binding site of H13 and H16 HAs was found to be distinct from that in HA subtypes circulating in ducks and geese. The H16 viruses contained NA genes that were similar to those of other Eurasian shorebirds but genetically distinct from N3 genes detected in other birds and geographical locations. The European gull viruses were further distinguishable from other influenza A viruses based on their PB2, NP, and NS genes. Gaining information on the full spectrum of avian influenza A viruses and creating reagents for their detection and identification will remain an important task for influenza surveillance, outbreak control, and animal and public health. We propose that sequence analyses of HA and NA genes of influenza A viruses be used for the rapid identification of existing and novel HA and NA subtypes."
+        },
+        {
+            "paperId": "14132484cd2ecdaeb9c4b2b46b898dce8c97a4f6",
+            "title": "Avian Influenza A Virus in Wild Birds in Highly Urbanized Areas",
+            "year": 2012,
+            "openAccessPdf": {
+                "url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0038256&type=printable",
+                "status": "GOLD",
+                "license": "CCBY",
+                "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC3384661, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "3789420",
+                    "name": "J. Verhagen"
+                },
+                {
+                    "authorId": "4908754",
+                    "name": "V. Munster"
+                },
+                {
+                    "authorId": "3836978",
+                    "name": "F. Majoor"
+                },
+                {
+                    "authorId": "3988278",
+                    "name": "P. Lexmond"
+                },
+                {
+                    "authorId": "3647500",
+                    "name": "O. Vuong"
+                },
+                {
+                    "authorId": "31424406",
+                    "name": "J. Stumpel"
+                },
+                {
+                    "authorId": "6662246",
+                    "name": "G. Rimmelzwaan"
+                },
+                {
+                    "authorId": "144281156",
+                    "name": "A. Osterhaus"
+                },
+                {
+                    "authorId": "144193696",
+                    "name": "M. Schutten"
+                },
+                {
+                    "authorId": "3829136",
+                    "name": "R. Slaterus"
+                },
+                {
+                    "authorId": "144030606",
+                    "name": "R. Fouchier"
+                }
+            ],
+            "abstract": "Avian influenza virus (AIV) surveillance studies in wild birds are usually conducted in rural areas and nature reserves. Less is known of avian influenza virus prevalence in wild birds located in densely populated urban areas, while these birds are more likely to be in close contact with humans. Influenza virus prevalence was investigated in 6059 wild birds sampled in cities in the Netherlands between 2006 and 2009, and compared with parallel AIV surveillance data from low urbanized areas in the Netherlands. Viral prevalence varied with the level of urbanization, with highest prevalence in low urbanized areas. Within cities virus was detected in 0.5% of birds, while seroprevalence exceeded 50%. Ring recoveries of urban wild birds sampled for virus detection demonstrated that most birds were sighted within the same city, while few were sighted in other cities or migrated up to 2659 km away from the sample location in the Netherlands. Here we show that urban birds were infected with AIVs and that urban birds were not separated completely from populations of long-distance migrants. The latter suggests that wild birds in cities may play a role in the introduction of AIVs into cities. Thus, urban bird populations should not be excluded as a human-animal interface for influenza viruses."
+        },
+        {
+            "paperId": "6844c366926f186428d9a80a571f29ca1752eeea",
+            "title": "Urbanization and the dynamics of RNA viruses in Mallards (Anas platyrhynchos)",
+            "year": 2017,
+            "openAccessPdf": {
+                "url": "https://europepmc.org/articles/pmc7106234?pdf=render",
+                "status": "GREEN",
+                "license": "unspecified-oa",
+                "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC7106234, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "4784520",
+                    "name": "M. Wille"
+                },
+                {
+                    "authorId": "2073348301",
+                    "name": "Kristine Lindqvist"
+                },
+                {
+                    "authorId": "4756298",
+                    "name": "S. Muradrasoli"
+                },
+                {
+                    "authorId": "144234474",
+                    "name": "B. Olsen"
+                },
+                {
+                    "authorId": "3591414",
+                    "name": "J. Järhult"
+                }
+            ],
+            "abstract": "Urbanization is intensifying worldwide, and affects the epidemiology of infectious diseases. However, the effect of urbanization on natural host-pathogen systems remains poorly understood. Urban ducks occupy an interesting niche in that they directly interact with both humans and wild migratory birds, and either directly or indirectly with food production birds. Here we have collected samples from Mallards (Anas platyrhynchos) residing in a pond in central Uppsala, Sweden, from January 2013 to January 2014. This artificial pond is kept ice-free during the winter months, and is a popular location where the ducks are fed, resulting in a resident population of ducks year-round. Nine hundred and seventy seven (977) fecal samples were screened for RNA viruses including: influenza A virus (IAV), avian paramyxovirus 1, avian coronavirus (CoV), and avian astrovirus (AstroV). This intra-annual dataset illustrates that these RNA viruses exhibit similar annual patterns to IAV, suggesting similar ecological factors are at play. Furthermore, in comparison to wild ducks, autumnal prevalence of IAV and CoV are lower in this urban population. We also demonstrate that AstroV might be a larger burden to urban ducks than IAV, and should be better assessed to demonstrate the degree to which wild birds contribute to the epidemiology of these viruses. The presence of economically relevant viruses in urban Mallards highlights the importance of elucidating the ecology of wildlife pathogens in urban environments, which will become increasingly important for managing disease risks to wildlife, food production animals, and humans."
+        },
+        {
+            "paperId": "b8bb4f75e57564ddbb2155623b36e30a8c8dda5d",
+            "title": "Species-Area Relationships in Urban Ponds Differ between Wild and Human-Fed Domesticated Birds",
+            "year": 2021,
+            "openAccessPdf": {
+                "url": "",
+                "status": null,
+                "license": null,
+                "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.2326/osj.20.263?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.2326/osj.20.263, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "2121510758",
+                    "name": "Maria Paola Di Santo"
+                },
+                {
+                    "authorId": "6335364",
+                    "name": "C. Battisti"
+                },
+                {
+                    "authorId": "4272777",
+                    "name": "G. Carpaneto"
+                }
+            ],
+            "abstract": "Abstract We sampled 70 urban ponds (0.001 to >1 ha) in Rome, Italy, to obtain richness and abundance data for wintering wild birds and domestic birds in relation to pond size. The aim was to test the hypothesis that the species-area relationship differs between wild and domestic birds, with the presence of the latter linked with anthropogenic factors, not pond area. We detected eight domesticated avian taxa and 19 wild species at 26 sites. Whereas there was a significant relationship between the number of wild bird species and pond area, the diversity of domestic taxa appeared not to be correlated with area (power function; Levenberg-Marquardt approach). Species-area relationships showed a lower variance in domestic taxa when compared with wild species. As smaller ponds in urban landscapes can host a higher number of domestic taxa than wild species, there may be implications both for increasing risk of disease transmission and for biodiversity perception among urban citizens."
+        },
+        {
+            "paperId": "e6f5864c3dd24425beba821355265aae1961a803",
+            "title": "Use of bird vulnerability for national park prioritisation across ecozones in Ghana",
+            "year": 2025,
+            "openAccessPdf": {
+                "url": "",
+                "status": null,
+                "license": null,
+                "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1177/17581559251357734?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1177/17581559251357734, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "9539661",
+                    "name": "Eric Adjei Lawer"
+                },
+                {
+                    "authorId": "2372972706",
+                    "name": "Huzaima Nashiru"
+                },
+                {
+                    "authorId": "2372971130",
+                    "name": "Peter Dzobo"
+                },
+                {
+                    "authorId": "2372971666",
+                    "name": "Gilbert Asiamah-Antwi"
+                }
+            ],
+            "abstract": "Global bird populations are declining due to habitat loss, climate change, and hunting, among other factors, potentially leading to species extinction and loss of ecosystem services. Also, protected areas are increasingly threatened by human activities, thus affecting their effectiveness as cornerstones for biodiversity conservation. Their effectiveness is further exacerbated by logistical and other resource constraints, which call for prioritising conservation areas to ensure the efficient use of limited resources in developing nations like Ghana. Thus, this study was conducted to identify and prioritise conservation areas based on vulnerability by analysing bird inventory data of national parks in Ghana. Our findings revealed that some smaller protected areas hosted a higher diversity of species, including imperilled species, despite the positive correlation between national park size (i.e., area) and species richness and vulnerability indices. In addition, we found that Mole National Park, located in the savanna, was the most vulnerable protected area because it hosted the highest proportion of imperilled bird species in the country. Although vulnerability indices did not differ statistically between parks in the savanna and forest ecozones, they did differ based on their assemblages, highlighting their potential in differentially hosting varied species with different habitat requirements (and probably varying species and habitat vulnerabilities). We advocate that vulnerability indices can be cautiously applied to prioritise conservation efforts or areas while considering other site-specific factors influencing biodiversity."
+        }
+    ],
+    "Anthropogenic subsidies avian bacterial resistance": [
+        {
+            "paperId": "66ee07ae871ec662587de77a580b028c32541d3c",
+            "title": "Urban and rural habitats differ in number and type of bird feeders and in bird species consuming supplementary food",
+            "year": 2015,
+            "openAccessPdf": {
+                "url": "https://link.springer.com/content/pdf/10.1007/s11356-015-4723-0.pdf",
+                "status": "HYBRID",
+                "license": "CCBY",
+                "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC4592493, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "6530966",
+                    "name": "P. Tryjanowski"
+                },
+                {
+                    "authorId": "4970957",
+                    "name": "P. Skórka"
+                },
+                {
+                    "authorId": "46797077",
+                    "name": "T. Sparks"
+                },
+                {
+                    "authorId": "49581555",
+                    "name": "W. Biaduń"
+                },
+                {
+                    "authorId": "4845364",
+                    "name": "Tomasz Brauze"
+                },
+                {
+                    "authorId": "4373611",
+                    "name": "T. Hetmański"
+                },
+                {
+                    "authorId": "4234508",
+                    "name": "R. Martyka"
+                },
+                {
+                    "authorId": "5887787",
+                    "name": "P. Indykiewicz"
+                },
+                {
+                    "authorId": "6057198",
+                    "name": "Ł. Myczko"
+                },
+                {
+                    "authorId": "2096634450",
+                    "name": "P. Kunysz"
+                },
+                {
+                    "authorId": "40428358",
+                    "name": "Piotr Kawa"
+                },
+                {
+                    "authorId": "2094103981",
+                    "name": "Stanisław Czyż"
+                },
+                {
+                    "authorId": "47425583",
+                    "name": "P. Czechowski"
+                },
+                {
+                    "authorId": "118790038",
+                    "name": "M. Polakowski"
+                },
+                {
+                    "authorId": "5518536",
+                    "name": "Piotr Zduniak"
+                },
+                {
+                    "authorId": "4904700",
+                    "name": "L. Jerzak"
+                },
+                {
+                    "authorId": "4425477",
+                    "name": "T. Janiszewski"
+                },
+                {
+                    "authorId": "5052484",
+                    "name": "A. Goławski"
+                },
+                {
+                    "authorId": "48299398",
+                    "name": "Leszek Duduś"
+                },
+                {
+                    "authorId": "36312264",
+                    "name": "J. Nowakowski"
+                },
+                {
+                    "authorId": "2077324499",
+                    "name": "A. Wuczyński"
+                },
+                {
+                    "authorId": "6371599",
+                    "name": "D. Wysocki"
+                }
+            ],
+            "abstract": "Bird feeding is one of the most widespread direct interactions between man and nature, and this has important social and environmental consequences. However, this activity can differ between rural and urban habitats, due to inter alia habitat structure, human behaviour and the composition of wintering bird communities. We counted birds in 156 squares (0.25 km2 each) in December 2012 and again in January 2013 in locations in and around 26 towns and cities across Poland (in each urban area, we surveyed 3 squares and also 3 squares in nearby rural areas). At each count, we noted the number of bird feeders, the number of bird feeders with food, the type of feeders, additional food supplies potentially available for birds (bread offered by people, bins) and finally the birds themselves. In winter, urban and rural areas differ in the availability of food offered intentionally and unintentionally to birds by humans. Both types of food availability are higher in urban areas. Our findings suggest that different types of bird feeder support only those species specialized for that particular food type and this relationship is similar in urban and rural areas."
+        },
+        {
+            "paperId": "6e0ea77241dd8295682fbe684d8ac731b6aa44d5",
+            "title": "Human–nature interactions and the consequences and drivers of provisioning wildlife",
+            "year": 2018,
+            "openAccessPdf": {
+                "url": "https://doi.org/10.1098/rstb.2017.0092",
+                "status": "HYBRID",
+                "license": "CCBY",
+                "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC5882998, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "34821304",
+                    "name": "D. Cox"
+                },
+                {
+                    "authorId": "2480146",
+                    "name": "K. Gaston"
+                }
+            ],
+            "abstract": "Many human populations are undergoing an extinction of experience, with a progressive decline in interactions with nature. This is a consequence both of a loss of opportunity for, and orientation towards, such experiences. The trend is of concern in part because interactions with nature can be good for human health and wellbeing. One potential means of redressing these losses is through the intentional provision of resources to increase wildlife populations in close proximity to people, thereby increasing the potential for positive human–nature experiences, and thence the array of benefits that can result. In this paper, we review the evidence that these resource subsidies have such a cascade of effects. In some Westernized countries, the scale of provision is extraordinarily high, and doubtless leads to both positive and negative impacts for wildlife. In turn, these impacts often lead to more frequent, reliable and closer human–nature interactions, with a greater variety of species. The consequences for human wellbeing remain poorly understood, although benefits documented in the context of human–nature interactions more broadly seem likely to apply. There are also some important feedback loops that need to be better characterized if resource provisioning is to contribute effectively towards averting the extinction of experience. This article is part of the theme issue ‘Anthropogenic resource subsidies and host–parasite dynamics in wildlife’."
+        },
+        {
+            "paperId": "401f759226df169dedaecf0ecac81b1f7c7b3ba5",
+            "title": "Deterministic processes structure bacterial genetic communities across an urban landscape",
+            "year": 2019,
+            "openAccessPdf": {
+                "url": "https://www.nature.com/articles/s41467-019-10595-1.pdf",
+                "status": "GOLD",
+                "license": "CCBY",
+                "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC6572833, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "147078909",
+                    "name": "James M. Hassell"
+                },
+                {
+                    "authorId": "147078909",
+                    "name": "James M. Hassell"
+                },
+                {
+                    "authorId": "1717351",
+                    "name": "M. Ward"
+                },
+                {
+                    "authorId": "1717351",
+                    "name": "M. Ward"
+                },
+                {
+                    "authorId": "6119418",
+                    "name": "D. Muloi"
+                },
+                {
+                    "authorId": "6119418",
+                    "name": "D. Muloi"
+                },
+                {
+                    "authorId": "4734877",
+                    "name": "J. Bettridge"
+                },
+                {
+                    "authorId": "4734877",
+                    "name": "J. Bettridge"
+                },
+                {
+                    "authorId": "1601376306",
+                    "name": "H. Phan"
+                },
+                {
+                    "authorId": "145098033",
+                    "name": "H. Phan"
+                },
+                {
+                    "authorId": "103936736",
+                    "name": "T. Robinson"
+                },
+                {
+                    "authorId": "146148757",
+                    "name": "Allan Ogendo"
+                },
+                {
+                    "authorId": "7206355",
+                    "name": "T. Imboma"
+                },
+                {
+                    "authorId": "5890805",
+                    "name": "J. Kiiru"
+                },
+                {
+                    "authorId": "3827600",
+                    "name": "S. Kariuki"
+                },
+                {
+                    "authorId": "39873314",
+                    "name": "M. Begon"
+                },
+                {
+                    "authorId": "152512764",
+                    "name": "E. Kang’ethe"
+                },
+                {
+                    "authorId": "2030609",
+                    "name": "M. Woolhouse"
+                },
+                {
+                    "authorId": "49911439",
+                    "name": "E. Fèvre"
+                },
+                {
+                    "authorId": "49911439",
+                    "name": "E. Fèvre"
+                }
+            ],
+            "abstract": "Land-use change is predicted to act as a driver of zoonotic disease emergence through human exposure to novel microbial diversity, but evidence for the effects of environmental change on microbial communities in vertebrates is lacking. We sample wild birds at 99 wildlife-livestock-human interfaces across Nairobi, Kenya, and use whole genome sequencing to characterise bacterial genes known to be carried on mobile genetic elements (MGEs) within avian-borne Escherichia coli (n = 241). By modelling the diversity of bacterial genes encoding virulence and antimicrobial resistance (AMR) against ecological and anthropogenic forms of urban environmental change, we demonstrate that communities of avian-borne bacterial genes are shaped by the assemblage of co-existing avian, livestock and human communities, and the habitat within which they exist. In showing that non-random processes structure bacterial genetic communities in urban wildlife, these findings suggest that it should be possible to forecast the effects of urban land-use change on microbial diversity. Disease transmission is particularly complex at the human-livestock-wildlife interface. Here the authors sample E. coli from wild birds near households in Nairobi and show that antimicrobial resistance gene diversity is correlated with human and lifestock density, while virulence gene diversity is correlated with avian species richness."
+        },
+        {
+            "paperId": "928e147aa7a96d25edc6052e12c9925738ee81f2",
+            "title": "Genomic Characteristics and Molecular Epidemiology of Multidrug-Resistant Klebsiella pneumoniae Strains Carried by Wild Birds",
+            "year": 2023,
+            "openAccessPdf": {
+                "url": "https://doi.org/10.1128/spectrum.02691-22",
+                "status": "GOLD",
+                "license": "CCBY",
+                "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC10101063, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "2108224615",
+                    "name": "Xue Wang"
+                },
+                {
+                    "authorId": "51238328",
+                    "name": "Jianan Zhao"
+                },
+                {
+                    "authorId": "65951057",
+                    "name": "Fangyu Ji"
+                },
+                {
+                    "authorId": "2358005853",
+                    "name": "Meng Wang"
+                },
+                {
+                    "authorId": "2152564078",
+                    "name": "Bin Wu"
+                },
+                {
+                    "authorId": "2152002571",
+                    "name": "Jianhua Qin"
+                },
+                {
+                    "authorId": "51196281",
+                    "name": "Guoying Dong"
+                },
+                {
+                    "authorId": "48321588",
+                    "name": "Ruili Zhao"
+                },
+                {
+                    "authorId": "2144521771",
+                    "name": "Chengmin Wang"
+                }
+            ],
+            "abstract": "Little is known about the pathogenic microorganisms carried by wild animals. This study found that the multidrug resistance phenotype of Klebsiella pneumoniae isolates carried by wild birds was mainly attributed to multidrug resistance plasmids, and these multidrug resistance plasmids from wild birds were closely related to human-infecting bacteria. ABSTRACT This study aimed to explore the relationship between wild birds and the transmission of multidrug-resistant strains. Klebsiella pneumoniae was isolated from fresh feces of captured wild birds and assessed by the broth microdilution method and comparative genomics. Four Klebsiella pneumoniae isolates showed different resistance phenotypes; S90-2 and S141 were both resistant to ampicillin, cefuroxime, and cefazolin, while M911-1 and S130-1 were sensitive to most of the 14 antibiotics tested. S90-2 belongs to sequence type 629 (ST629), and its genome includes 30 resistance genes, including blaCTX-M-14 and blaSHV-11, while its plasmid pS90-2.3 (IncR) carries qacEdelta1, sul1, and aph(3′)-Ib. S141 belongs to ST1662, and its genome includes a total of 27 resistance genes, including blaSHV-217. M911-1 is a new ST, carrying blaSHV-1 and fosA6, and its plasmid pM911-1.1 (novel) carries qnrS1, blaLAP-2, and tet(A). S130-1 belongs to ST3753, carrying blaSHV-11 and fosA6, and its plasmid pS130-1 [IncFIB(K)] carries only one resistance gene, tet(A). pM911-1.1 and pS90-2.3 do not have conjugative transfer ability, but their resistance gene fragments are derived from multiple homologous Enterobacteriaceae strain chromosomes or plasmids, and the formation of resistance gene fragments (multidrug resistance region) involves interactions between multiple mobile element genes, resulting in a complex and diverse resistance plasmid structure. The homologous plasmids related to pM911-1.1 and pS90-2.3 were mainly from isolated human-infecting bacteria in China, namely, K. pneumoniae and Escherichia coli. The multidrug-resistant K. pneumoniae isolates carried by wild birds in this study had drug resistance phenotypes conferred primarily by multidrug resistance plasmids that were closely related to human-infecting bacteria. IMPORTANCE Little is known about the pathogenic microorganisms carried by wild animals. This study found that the multidrug resistance phenotype of Klebsiella pneumoniae isolates carried by wild birds was mainly attributed to multidrug resistance plasmids, and these multidrug resistance plasmids from wild birds were closely related to human-infecting bacteria. Wild bird habitats overlap to a great extent with human and livestock habitats, which further increases the potential for horizontal transfer of multidrug-resistant bacteria among humans, animals, and the environment. Therefore, wild birds, as potential transmission hosts of multidrug-resistant bacteria, should be given attention and monitored."
+        },
+        {
+            "paperId": "92cb27827431f017776bd186fd451339bbe32440",
+            "title": "Pathogenic Bacteria Associated with the Feces of the Violet-Crowned (Ramosomyia violiceps) and Broad-Billed (Cynanthus latirostris) Hummingbirds in Disturbed Forest and an Urban Environment in West-Central Mexico.",
+            "year": 2025,
+            "openAccessPdf": {
+                "url": "",
+                "status": null,
+                "license": null,
+                "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.7589/JWD-D-25-00013?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.7589/JWD-D-25-00013, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "2289207712",
+                    "name": "Lizeth N. Raygoza-Alcantar"
+                },
+                {
+                    "authorId": "1412565785",
+                    "name": "V. Rosas-Espinoza"
+                },
+                {
+                    "authorId": "2308561249",
+                    "name": "C. V. Sánchez-Hernández"
+                },
+                {
+                    "authorId": "2301371597",
+                    "name": "Flor Rodríguez-Gómez"
+                },
+                {
+                    "authorId": "1422639689",
+                    "name": "Joicye Hérnandez-Zulueta"
+                },
+                {
+                    "authorId": "2332248855",
+                    "name": "Fabián A. Rodríguez-Zaragoza"
+                }
+            ],
+            "abstract": "Human activities, such as habitat fragmentation, have displaced wild birds into urban and agricultural areas, increasing their exposure to enteric pathogens through contaminated food and water. Molting stress further heightens their susceptibility to infection. This study examined 1) the presence of Klebsiella pneumoniae, Salmonella enterica serovar Typhimurium, Listeria monocytogenes, and Campylobacter jejuni in fecal samples from Violet-Crowned (Ramosomyia violiceps) and Broad-Billed (Cynanthus latirostris) Hummingbirds across two environments: disturbed forest and urban; 2) potential associations with contamination sources (wastewater, rivers, water bodies, and livestock feces); and 3) the effects of molting. Fecal samples were analyzed using real-time PCR and Bayesian generalized linear mixed models to evaluate five response variables: individual pathogen presence, combined pathogen presence, and pathogen copresence. Predictors included hummingbird species, molt, hummingbird species, molt, environment type, and distance to contamination sources. Of the bacteria, K. pneumoniae exhibited the highest prevalence (46%), followed by S. enterica (9.5%) and L. monocytogenes (7.9%); C. jejuni was not detected. Results indicated that 1) R. violiceps had approximately threefold higher odds of K. pneumoniae presence than C. latirostri and 2) molting individuals had 6.5-fold higher odds of carrying at least one pathogen. Neither environment type nor distance to contamination sources showed significant effects. The high prevalence of K. pneumoniae highlights the urgent need to preserve natural habitats and reduce anthropogenic pressures on wild bird populations. Molting increases susceptibility to gastrointestinal pathogens, while species-specific differences suggest variable resistance mechanisms. These findings underscore the importance of 1) habitat conservation to minimize pathogen exposure, 2) urban green space management with strict hygiene protocols for artificial feeders, and 3) integrated wildlife pathogen surveillance within One Health frameworks."
+        }
+    ]
+}

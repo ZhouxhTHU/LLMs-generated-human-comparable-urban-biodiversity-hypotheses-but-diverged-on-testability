@@ -57,6 +57,29 @@ OUTPUT_STEM = "open_feedback_abc"
 
 SENTIMENT_ORDER = ["Positive", "Mixed", "Neutral", "Negative"]
 
+# Explicitly merge wording variants that describe the same concept. These
+# aliases are applied before fuzzy matching so that low-frequency synonyms are
+# combined consistently in the visualization.
+PROS_CATEGORY_ALIASES = {
+    "High Novelty": "Highly Novel",
+    "Highly Novel": "Highly Novel",
+    "Generates Novel Hypotheses": "Highly Novel",
+    "Highly Structured": "Well-Structured",
+    "Well-Structured": "Well-Structured",
+}
+
+CONS_CATEGORY_ALIASES = {
+    "Overly Complex": "Overly Complex",
+    "Too Complicated": "Overly Complex",
+    "Too Complex": "Overly Complex",
+    "Vague Formulation": "Vague Formulation",
+    "Lack Of Specificity": "Vague Formulation",
+    "Too Long": "Excessive Length",
+    "Excessive Length": "Excessive Length",
+    "Difficult To Test": "Difficult To Test",
+    "Hard To Test": "Difficult To Test",
+}
+
 
 # ==========================================
 # 2. Load coded data
@@ -134,7 +157,11 @@ def load_coded_data(file_path: str) -> pd.DataFrame:
 # 3. Semantic clustering
 # ==========================================
 
-def group_synonyms(items: list[str], threshold: int = 75) -> list[tuple[str, int]]:
+def group_synonyms(
+    items: list[str],
+    threshold: int = 75,
+    category_aliases: dict[str, str] = None,
+) -> list[tuple[str, int]]:
     if not items:
         return []
 
@@ -146,6 +173,12 @@ def group_synonyms(items: list[str], threshold: int = 75) -> list[tuple[str, int
 
     if not cleaned_items:
         return []
+
+    if category_aliases:
+        cleaned_items = [
+            category_aliases.get(item, item)
+            for item in cleaned_items
+        ]
 
     raw_counts = Counter(cleaned_items)
     sorted_unique_items = [
@@ -189,7 +222,7 @@ def add_panel_label(ax, label: str, x: float = -0.10, y: float = 1.08):
         y,
         label,
         transform=ax.transAxes,
-        fontsize=13,
+        fontsize=15,
         fontweight="bold",
         va="top",
         ha="left"
@@ -205,7 +238,7 @@ def plot_bar_values_vertical(ax):
             f"{int(height)}",
             ha="center",
             va="bottom",
-            fontsize=9
+            fontsize=11
         )
 
 
@@ -219,7 +252,7 @@ def plot_bar_values_horizontal(ax):
             f"{int(width)}",
             ha="left",
             va="center",
-            fontsize=8.5
+            fontsize=10.5
         )
 
 
@@ -236,11 +269,11 @@ def visualize_findings_abc(df: pd.DataFrame, output_dir: str = "./Outputs"):
                 "DejaVu Sans",
                 "Liberation Sans"
             ],
-            "font.size": 10,
-            "axes.titlesize": 12,
-            "axes.labelsize": 10.5,
-            "xtick.labelsize": 9.5,
-            "ytick.labelsize": 9.5,
+            "font.size": 12,
+            "axes.titlesize": 15,
+            "axes.labelsize": 13,
+            "xtick.labelsize": 11.5,
+            "ytick.labelsize": 11.5,
             "pdf.fonttype": 42,
             "ps.fonttype": 42,
             "axes.unicode_minus": False,
@@ -269,8 +302,16 @@ def visualize_findings_abc(df: pd.DataFrame, output_dir: str = "./Outputs"):
         for item in sublist
     ]
 
-    pros_counts = group_synonyms(all_pros, threshold=75)
-    cons_counts = group_synonyms(all_cons, threshold=75)
+    pros_counts = group_synonyms(
+        all_pros,
+        threshold=75,
+        category_aliases=PROS_CATEGORY_ALIASES,
+    )
+    cons_counts = group_synonyms(
+        all_cons,
+        threshold=75,
+        category_aliases=CONS_CATEGORY_ALIASES,
+    )
 
     pros_df = pd.DataFrame(
         pros_counts,
@@ -350,6 +391,7 @@ def visualize_findings_abc(df: pd.DataFrame, output_dir: str = "./Outputs"):
 
     ax_a.set_title(
         "Distribution of Expert Sentiment Toward LLM Hypotheses",
+        loc="left",
         pad=10
     )
     ax_a.set_xlabel("Sentiment Category")
@@ -360,7 +402,7 @@ def visualize_findings_abc(df: pd.DataFrame, output_dir: str = "./Outputs"):
     )
 
     #plot_bar_values_vertical(ax_a)
-    add_panel_label(ax_a, "a", x=-0.055, y=1.13)
+    add_panel_label(ax_a, "a", x=-0.04, y=1.13)
 
     # Panel b: pros
     if not pros_df.empty:
@@ -373,7 +415,7 @@ def visualize_findings_abc(df: pd.DataFrame, output_dir: str = "./Outputs"):
             saturation=1
         )
 
-    ax_b.set_title("Most Frequently Cited Pros")
+    ax_b.set_title("Most Frequently Cited Pros", loc="left")
     ax_b.set_xlabel("Frequency")
     ax_b.set_ylabel("")
     ax_b.set_xlim(
@@ -386,7 +428,7 @@ def visualize_findings_abc(df: pd.DataFrame, output_dir: str = "./Outputs"):
     )
 
     #plot_bar_values_horizontal(ax_b)
-    add_panel_label(ax_b, "b", x=-0.24, y=1.08)
+    add_panel_label(ax_b, "b", x=-0.08, y=1.08)
 
     # Panel c: cons
     if not cons_df.empty:
@@ -399,7 +441,7 @@ def visualize_findings_abc(df: pd.DataFrame, output_dir: str = "./Outputs"):
             saturation=1
         )
 
-    ax_c.set_title("Most Frequently Cited Cons")
+    ax_c.set_title("Most Frequently Cited Cons", loc="left")
     ax_c.set_xlabel("Frequency")
     ax_c.set_ylabel("")
     ax_c.set_xlim(
@@ -412,7 +454,7 @@ def visualize_findings_abc(df: pd.DataFrame, output_dir: str = "./Outputs"):
     )
 
     #plot_bar_values_horizontal(ax_c)
-    add_panel_label(ax_c, "c", x=-0.24, y=1.08)
+    add_panel_label(ax_c, "c", x=-0.08, y=1.08)
 
     # Make grid less visually heavy
     for ax in [ax_a, ax_b, ax_c]:

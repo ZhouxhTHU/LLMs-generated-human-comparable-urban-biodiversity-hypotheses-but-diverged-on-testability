@@ -1,0 +1,1214 @@
+{
+    "impervious surfaces camouflage melanic birds": [
+        {
+            "paperId": "3aa8f614a4fa08ac796cfab5e69545672b0a97ad",
+            "title": "Urbanization induces bird color homogenization",
+            "year": 2019,
+            "openAccessPdf": {
+                "url": "",
+                "status": null,
+                "license": null,
+                "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.landurbplan.2019.103645?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.landurbplan.2019.103645, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "6739216",
+                    "name": "Lucas M. Leveau"
+                }
+            ],
+            "abstract": "Abstract Urbanization acts as an environmental filter that allows bird species with certain ecological traits, such as a generalist diet and nesting on buildings, to occur in urban centers. However, its effect on other bird traits, such as plumage color, has still not been studied. The aim of this study was to analyze changes in plumage diversity and composition along urbanization gradients of three cities in central Argentina: Mar del Plata, Balcarce and Miramar. Bird surveys were made in urban, suburban and rural areas using transects during two breeding seasons. Color description and bird size were obtained from the literature. Color diversity was calculated using functional diversity indices: FD and FDis. Null models that control for species richness were used to estimate standardized effect sizes. Color composition was analyzed using Non-metric multidimensional scaling. FD and FDis decreased with percentage of impervious cover and increased with habitat diversity, whereas FDis also showed an interaction between city type and impervious cover. After both indices were controlled for species richness, they showed decreases with impervious cover and effects of city type. Highly urbanized areas were dominated by grey color, plumage dimorphism, polymorphism and small and medium sizes. Sites with high habitat diversity were inhabited by species of yellow and green coloration, whereas rural areas were occupied by large species with combinations of black, brown and white. More urbanized areas show not only fewer species, but also species that look more similar than expected by chance. These results suggest that urbanization acts as an environmental filter for bird colors, allowing the presence of birds with similar colors."
+        },
+        {
+            "paperId": "9f1f223caa9eb0ef39abb6ae05b1f3482e57ff3a",
+            "title": "Nesting Site and Plumage Color Are the Main Traits Associated with Bird Species Presence in Urban Areas",
+            "year": 2022,
+            "openAccessPdf": {
+                "url": "https://www.mdpi.com/2076-2615/12/9/1148/pdf?version=1651231264",
+                "status": "GOLD",
+                "license": "CCBY",
+                "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC9099748, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "6739216",
+                    "name": "Lucas M. Leveau"
+                },
+                {
+                    "authorId": "2163884825",
+                    "name": "Isis Ibáñez"
+                }
+            ],
+            "abstract": "Simple Summary Urban areas are expected to grow in the next decades, filtering bird species from the regional pool based on their life history traits. The objective of this study is to determine different bird species responses to urbanization using ordination analysis, and to characterize their life history traits combining information about diet, habitat and plumage color. Species identified as ‘urban exploiters’ tended to nest in buildings and with uniform plumage, whereas those identified as ‘urban avoiders’ tended to be ground nesting species with variable plumage. A third type, ‘urban adapters’, tended to be tree-nesting species with a low diet breadth, intermediate plumage lightness, low presence of plumage sexual dimorphism and high presence of iridescence. The results suggest that nest predation and habitat loss may exclude ground nesting birds from urban areas. The high density of pedestrians in urban centers may favor uniform plumages in birds that enhance camouflage. Abstract Urban areas are expected to grow in the next decades, filtering bird species from the regional pool based on their life history traits. Although the impact of urbanization on traits such as diet, habitat and migratory behavior has been analyzed, their joint role with other traits related to plumage color has not yet been analyzed. Urban characteristics such as impervious surfaces, human presence and pollutants may be related to dark and uniform plumages. The objective of this study is to determine different bird species responses to urbanization using ordination analysis, and to characterize their life history traits combining information about diet, habitat and plumage color. Birds were surveyed along urban–rural gradients located in three cities of central Argentina. Species associations with urban characteristics were assessed through principal component analysis. Two axes were obtained: the first related positively to urban exploiters and negatively to urban avoiders, and a second axis related negatively to urban adapters. The scores of each axis were related to species traits through phylogenetic generalized least squares models. Species identified as ‘urban exploiters’ tended to nest in buildings and have uniform plumage, whereas those identified as ‘urban avoiders’ tended to be ground-nesting species with variable plumage. A third type, ‘urban adapters’, tended to be tree-nesting species with a low diet breadth, intermediate plumage lightness, low presence of plumage sexual dimorphism and high presence of iridescence. The results suggest that nest predation and habitat loss may exclude ground nesting birds from urban areas. The high density of pedestrians and domestic animals, such as cats and dogs, in urban centers may favor uniform plumages in birds that enhance camouflage."
+        },
+        {
+            "paperId": "aab5335c770100df04dff5a006a2ab88dc3faac7",
+            "title": "Bird color and taxonomic diversity are negatively related to human disturbance in urban parks",
+            "year": 2024,
+            "openAccessPdf": {
+                "url": "https://we.copernicus.org/articles/24/1/2024/we-24-1-2024.pdf",
+                "status": "GOLD",
+                "license": "CCBY",
+                "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.5194/we-24-1-2024?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.5194/we-24-1-2024, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "6739216",
+                    "name": "Lucas M. Leveau"
+                },
+                {
+                    "authorId": "2283023182",
+                    "name": "Juan Kopp"
+                }
+            ],
+            "abstract": "Abstract. Recently, studies have shown that highly urbanized areas are numerically dominated by birds with grey plumage, probably favoring camouflage with impervious grey surfaces. However, patterns of bird color diversity in urban green areas remain unexplored. In urban parks, sites surrounded by highly urbanized areas may be dominated by grey bird species, whereas urban parks with pedestrians that feed birds may favor commensal birds which also have grey plumage. Thus, we explore the relationship between environmental variables and bird taxonomic and color diversity in urban parks. Bird surveys were conducted twice by fixed points in urban parks of six cities in central Argentina. Bird color diversity was assessed by characterizing bird plumage coloration in different parts of the bird body and the presence of plumage sexual dimorphism, polymorphism, and iridescence. Then, color richness and color diversity (abundance-based) were calculated with species mean pairwise distance. Null models were used to quantify richness-corrected color diversity. Bird species richness and diversity increased with green-area size, and bird diversity decreased with increasing pedestrian traffic. Color richness decreased with increasing car traffic, whereas color diversity was positively related to green-area size and negatively related to car and pedestrian traffic. Richness-corrected color diversity related negatively to car and pedestrian traffic. The abundance of grey birds increased in parks near the urban centers and related positively to pedestrian and car traffic. The abundance of yellow birds increased in parks near rural areas or small cities. Color diversity increased with green-area size, but richness-corrected color diversity ceased to be related to area size. Therefore, the increase in color diversity with area size was mediated by increases in species richness. Color diversity was clustered in parks with the highest human disturbance, favoring the abundance of grey species which probably took advantage of food discarded by humans.\n"
+        },
+        {
+            "paperId": "06f08e99e96a7ff2b1f3ed1e02dc35a330a304e0",
+            "title": "Colourful Urban Birds: Bird Species Successful in Urban Environments Have More Elaborate Colours and Less Brown.",
+            "year": 2025,
+            "openAccessPdf": {
+                "url": "",
+                "status": null,
+                "license": null,
+                "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1111/ele.70106?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1111/ele.70106, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "1403390904",
+                    "name": "J. D. Ibáñez-Álamo"
+                },
+                {
+                    "authorId": "4552893",
+                    "name": "Kaspar Delhey"
+                },
+                {
+                    "authorId": "2160406490",
+                    "name": "Lucía Izquierdo"
+                },
+                {
+                    "authorId": "2858186",
+                    "name": "M. Valcu"
+                },
+                {
+                    "authorId": "2239122004",
+                    "name": "B. Kempenaers"
+                }
+            ],
+            "abstract": "Rapidly expanding urbanisation presents significant challenges to wildlife. Consequently, many studies have investigated the impact of urbanisation on diverse organisms. However, despite the ecological relevance of animal colouration, its association with urbanisation remains poorly understood. Using a global database, we computed an index of urban success for 1287 bird species and quantified its association with estimates of plumage colour. Our analyses showed that birds that do well in urban environments are more likely to be blue, dark grey and black, and less likely to be brown or yellow. After considering phylogenetic relatedness, only the effects of yellow and brown remained significant. Species with high urban success also exhibit more elaborate colours, but not higher sexual dichromatism. We provide eco-evolutionary explanations for these results. Assemblage-level analyses did not support the urban colour homogenisation hypothesis: Urban bird communities were more colour-diverse after accounting for species richness. Our findings suggest that plumage colours are part of an urban-associated syndrome."
+        },
+        {
+            "paperId": "14f7efbbca4dcfee2a84c0f02e40c763c0714a15",
+            "title": "Habitat Fragmentation in Urbanized Landscapes Favors Bird Species With Darker Plumage",
+            "year": 2026,
+            "openAccessPdf": {
+                "url": "",
+                "status": null,
+                "license": "CCBY",
+                "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC13052148, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "2369705906",
+                    "name": "Yan Wang"
+                },
+                {
+                    "authorId": "2301420180",
+                    "name": "Jie Xie"
+                },
+                {
+                    "authorId": "2262447373",
+                    "name": "Yu Liu"
+                },
+                {
+                    "authorId": "2369853041",
+                    "name": "Shirui Yu"
+                },
+                {
+                    "authorId": "2224689812",
+                    "name": "Shang Sheng"
+                },
+                {
+                    "authorId": "2339823090",
+                    "name": "Lingchen Liao"
+                },
+                {
+                    "authorId": "2301476176",
+                    "name": "Kai Zhang"
+                },
+                {
+                    "authorId": "2156553020",
+                    "name": "Yu Xu"
+                }
+            ],
+            "abstract": "ABSTRACT Plumage coloration is an important trait influencing signaling, communication, and ecological adaptation in birds. While some studies have documented that urbanization favors bird species with darker plumage, the specific filtering effects of habitat fragmentation, a common structural consequence of urbanization, remain largely unexplored. We examined how habitat fragmentation favored bird species with particular achromatic plumage color, based on 82 breeding bird species recorded across 30 remnant woodlot patches within a rapidly urbanizing landscape in southwest China between 2017 and 2024. We calculated assemblage‐level achromatic plumage color from species occurrences and species‐level whole‐body mean color values. As hypothesized, assemblages in smaller patches and patches with higher edge proportions had darker plumage when accounting for species richness. This pattern was slightly more pronounced in males than in females. Contrary to our expectations, assemblages in patches with lower cover percentage of woodlands and higher percentage of built‐up areas surrounding patches were not lighter. These results suggest that darker species, especially those with darker males, are more likely to persist in highly fragmented habitats. By interpreting plumage coloration in relation to potential advantages of camouflage, boldness, and pollution resistance, this study provides insights into trait‐based species sorting in urbanized landscapes."
+        }
+    ],
+    "oxidative stress melanin urban infrastructure": [
+        {
+            "paperId": "8b1f820773436fcf523a8065d506f45ec30149a3",
+            "title": "Evolution of lifestyles in Capnodiales",
+            "year": 2020,
+            "openAccessPdf": {
+                "url": "https://doi.org/10.1016/j.simyco.2020.02.004",
+                "status": "HYBRID",
+                "license": "CCBYNCND",
+                "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC7426231, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "6003695",
+                    "name": "J. Abdollahzadeh"
+                },
+                {
+                    "authorId": "27442052",
+                    "name": "J. Z. Groenewald"
+                },
+                {
+                    "authorId": "2223587460",
+                    "name": "M. P. A. Coetzee"
+                },
+                {
+                    "authorId": "2069165596",
+                    "name": "M. Wingfield"
+                },
+                {
+                    "authorId": "2185690522",
+                    "name": "P. W. Crous"
+                },
+                {
+                    "authorId": "2185690522",
+                    "name": "P. W. Crous"
+                }
+            ],
+            "abstract": "The Capnodiales, which includes fungi known as the sooty moulds, represents the second largest order in Dothideomycetes, encompassing morphologically and ecologically diverse fungi with different lifestyles and modes of nutrition. They include saprobes, plant and human pathogens, mycoparasites, rock-inhabiting fungi (RIF), lichenised, epi-, ecto- and endophytes. The aim of this study was to elucidate the lifestyles and evolutionary patterns of the Capnodiales as well as to reconsider their phylogeny by including numerous new collections of sooty moulds, and using four nuclear loci, LSU, ITS, TEF-1α and RPB2. Based on the phylogenetic results, combined with morphology and ecology, Capnodiales s. lat. is shown to be polyphyletic, representing seven different orders. The sooty moulds are restricted to Capnodiales s. str., while Mycosphaerellales is resurrected, and five new orders including Cladosporiales, Comminutisporales, Neophaeothecales, Phaeothecales and Racodiales are introduced. Four families, three genera, 21 species and five combinations are introduced as new. Furthermore, ancestral reconstruction analysis revealed that the saprobic lifestyle is a primitive state in Capnodiales s. lat., and that several transitions have occurred to evolve lichenised, plant and human parasitic, ectophytic (sooty blotch and flyspeck) and more recently epiphytic (sooty mould) lifestyles."
+        },
+        {
+            "paperId": "6fab4d66499fabf78332cb35f1061a4abf9f8b49",
+            "title": "Black Fungi and Hydrocarbons: An Environmental Survey for Alkylbenzene Assimilation",
+            "year": 2021,
+            "openAccessPdf": {
+                "url": "https://www.mdpi.com/2076-2607/9/5/1008/pdf?version=1620470595",
+                "status": "GOLD",
+                "license": "CCBY",
+                "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC8151820, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "5841215",
+                    "name": "N. C. Baron"
+                },
+                {
+                    "authorId": "4008157",
+                    "name": "F. C. Pagnocca"
+                },
+                {
+                    "authorId": "2105864781",
+                    "name": "Ayumi Aquino Otsuka"
+                },
+                {
+                    "authorId": "1398263014",
+                    "name": "F. Prenafeta-Boldú"
+                },
+                {
+                    "authorId": "3952310",
+                    "name": "V. Vicente"
+                },
+                {
+                    "authorId": "2046996088",
+                    "name": "Derlene Attili de Angelis"
+                }
+            ],
+            "abstract": "Environmental pollution with alkylbenzene hydrocarbons such as toluene is a recurring phenomenon. Their toxicity and harmful effect on people and the environment drive the search for sustainable removal techniques such as bioremediation, which is based on the microbial metabolism of xenobiotic compounds. Melanized fungi present extremophilic characteristics, which allow their survival in inhospitable habitats such as those contaminated with hydrocarbons. Screening methodologies for testing the microbial assimilation of volatile organic compounds (VOC) are scarce despite their importance for the bioremediation of hydrocarbon associated areas. In this study, 200 strains of melanized fungi were isolated from four different hydrocarbon-related environments by using selective methods, and their biodiversity was assessed by molecular and ecological analyses. Seventeen genera and 27 species from three main orders, namely Chaetothyriales, Cladosporiales, and Pleosporales, were identified. The ecological analysis showed a particular species distribution according to their original substrate. The isolated strains were also screened for their toluene assimilation potential using a simple and inexpensive methodology based on miniaturized incubations under controlled atmospheres. The biomass produced by the 200 strains with toluene as the sole carbon source was compared against positive and negative controls, with glucose and with only mineral medium, respectively. Nineteen strains were selected as the most promising for further investigation on the biodegradation of alkylbenzenes."
+        },
+        {
+            "paperId": "ed7250658baa2623bf9142a585b1c8a13c3ab59b",
+            "title": "Polyextremotolerant, opportunistic, and melanin-driven resilient black yeast Exophiala dermatitidis in environmental and clinical contexts",
+            "year": 2025,
+            "openAccessPdf": {
+                "url": "",
+                "status": null,
+                "license": "CCBYNCND",
+                "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC11846982, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "2346820327",
+                    "name": "Lyselle Ruíz de León"
+                },
+                {
+                    "authorId": "1418021199",
+                    "name": "Tonatiuh Moreno-Perlín"
+                },
+                {
+                    "authorId": "2346819058",
+                    "name": "Tania Castillo-Marenco"
+                },
+                {
+                    "authorId": "1400446722",
+                    "name": "María Del Rayo Sánchez-Carbente"
+                },
+                {
+                    "authorId": "6563704",
+                    "name": "C. Gostinčar"
+                },
+                {
+                    "authorId": "101893721",
+                    "name": "N. Ramírez-Durán"
+                },
+                {
+                    "authorId": "2265375690",
+                    "name": "Ana María Fernández Ocaña"
+                },
+                {
+                    "authorId": "145982880",
+                    "name": "Nilda C Sánchez"
+                },
+                {
+                    "authorId": "1404194194",
+                    "name": "Sonia Dávila-Ramos"
+                },
+                {
+                    "authorId": "1398880014",
+                    "name": "N. Gunde-Cimerman"
+                },
+                {
+                    "authorId": "1399194655",
+                    "name": "R. Batista-García"
+                }
+            ],
+            "abstract": "Exophiala dermatitidis, a polyextremotolerant black yeast, thrives in diverse natural and human-made environments. Additionally, it is an opportunistic pathogen, capable of infecting immunocompromised individuals, particularly causing neurotropic infections. This study examined 41 E. dermatitidis strains from diverse environments, investigating their growth under different temperatures, NaCl concentrations, and pH levels. Optimal growth occurred at 28 °C, with large variations among strains at other temperatures, from 4 to 42 °C. Growth was enhanced at 5% NaCl, though strains also grew at 10% and 17% NaCl. Growth varied across different pH levels, from pH 2.5 to 12.5. Most strains showed the highest biofilm formation at 37 °C, α- and γ-hemolysis and resistance to antifungal agents. Better growth was detected on neurotransmitters than on (poly)aromatic compounds. High-throughput metabolic analyses revealed consistent oxidation patterns across 94 carbon sources in five selected strains. Genomic analysis revealed a diverse repertoire of carbohydrate-active enzymes and pathways for degrading polyaromatic hydrocarbons and neurotransmitters. Melanin biosynthesis inhibitor tricyclazole minimally affected E. dermatitidis growth under stress, but induced morphological changes in some cases. This study underscores E. dermatitidis’ urban extremophilic nature, with high resilience, metabolic adaptability, and potential for heightened pathogenicity in evolving global conditions."
+        },
+        {
+            "paperId": "7356cf1549b1e7ae9ad2b03669bb2000d9b084e3",
+            "title": "Clinical and Molecular Advances on the Black Yeast Exophiala dermatitidis",
+            "year": 2025,
+            "openAccessPdf": {
+                "url": "",
+                "status": null,
+                "license": "CCBY",
+                "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC12295173, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "2265777534",
+                    "name": "Jakub Suchodolski"
+                },
+                {
+                    "authorId": "2349350453",
+                    "name": "Mateusz Parol"
+                },
+                {
+                    "authorId": "2239428299",
+                    "name": "Karolina Pawlak"
+                },
+                {
+                    "authorId": "32110983",
+                    "name": "A. Piecuch"
+                },
+                {
+                    "authorId": "5994311",
+                    "name": "R. Ogórek"
+                }
+            ],
+            "abstract": "Exophiala dermatitidis is an emerging black yeast recognized in both superficial and life-threatening infections, including those in immunocompetent hosts. This narrative review focuses on recent developments (mostly between 2019 and 2025) in two major areas. First, we examined the clinical and epidemiological background of E. dermatitidis, with particular focus on its involvement in cystic fibrosis and CARD9 deficiency, as well as central nervous system, ocular, and systemic infections. Second, we address the molecular basis of its pathogenicity, with particular attention to melanin production, capsule formation, and metabolic adaptation. We also discuss diagnostic challenges and antifungal susceptibility, highlighting gaps between laboratory studies and clinical outcomes."
+        },
+        {
+            "paperId": "fe7a32a4fc4732c91cc4e29fbbc54515287f0153",
+            "title": "Clinical characteristics of pulmonary infections caused by Exophialadermatitidis.",
+            "year": 2025,
+            "openAccessPdf": {
+                "url": "",
+                "status": null,
+                "license": null,
+                "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.resinv.2025.101355?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.resinv.2025.101355, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "84461070",
+                    "name": "Toshiyuki Yonezawa"
+                },
+                {
+                    "authorId": "2064750424",
+                    "name": "Akiko Nakamura"
+                },
+                {
+                    "authorId": "2399942526",
+                    "name": "Yuka Onda"
+                },
+                {
+                    "authorId": "2269441168",
+                    "name": "Takuma Katano"
+                },
+                {
+                    "authorId": "2354541246",
+                    "name": "Hiroto Murao"
+                },
+                {
+                    "authorId": "2329648102",
+                    "name": "Masaya Fukami"
+                },
+                {
+                    "authorId": "2220096505",
+                    "name": "Tomoyuki Ogisu"
+                },
+                {
+                    "authorId": "2330563666",
+                    "name": "Kenji Baba"
+                },
+                {
+                    "authorId": "2087132963",
+                    "name": "S. Ito"
+                }
+            ],
+            "abstract": "BACKGROUND\nExophiala dermatitidis is a ubiquitous black fungus found in the environment, but the clinical characteristics of E. dermatitidis in respiratory diseases without cystic fibrosis (CF) remain unclear.\n\n\nMETHODS\nWe retrospectively analyzed clinical data of non-CF patients who had E. dermatitidis isolated from respiratory specimens.\n\n\nRESULTS\nThirteen patients were enrolled in the study. E. dermatitidis was isolated from sputum aspirated by bronchoscopy (n = 6), sputum (n = 5), bronchoalveolar lavage fluid (n = 1), and empyema pus (n = 1). Preceding pulmonary comorbidities included bronchiectasis (n = 6), COPD (n = 4), nontuberculous Mycobacterium (NTM) infection (n = 3), lung cancer (n = 2), interstitial lung disease (ILD) (n = 2), and asthma (n = 2). Non-pulmonary immunosuppressive comorbidities included diabetes (n = 4), immunosuppressive drug use (n = 3), and malignancies treated with chemotherapy (n = 2). Six patients (46.2 %) were defined as \"definite\" infection and seven (53.8 %) were as \"possible\" infection. Levels of serum β-D-glucan (cut-off <20 pg/mL) were elevated in two of 10 patients. Chest CT showed various shadows such as bronchiectasis (n = 9), infiltrative shadow (n = 9), and mucoid impaction (n = 8). Among six patients who were treated with itraconazole (ITCZ), three patients improved, one was unchanged, and two worsened. Despite ITCZ therapy, one patient died due to exacerbation of ILD. In the non-treated group, two patients died due to advanced lung cancer. NTM was also detected with E. dermatitidis in three patients.\n\n\nCONCLUSION\nOur data suggest that E. dermatitidis may cause respiratory infections in patients with bronchiectasis or immunocompromised conditions. Further studies are needed to distinguish colonization from true infection of E. dermatitidis in the respiratory tract."
+        }
+    ],
+    "melanism immunocompetence urban bird density": [
+        {
+            "paperId": "6b1924ae9ffc5425b30722bd498c336b1a95af3e",
+            "title": "Biologia Futura: adaptive changes in urban populations",
+            "year": 2020,
+            "openAccessPdf": {
+                "url": "https://link.springer.com/content/pdf/10.1007/s42977-020-00005-9.pdf",
+                "status": "HYBRID",
+                "license": "CCBY",
+                "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s42977-020-00005-9?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s42977-020-00005-9, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "5676596",
+                    "name": "A. Liker"
+                }
+            ],
+            "abstract": "Cities represent novel environments where altered ecological conditions can generate strong selection pressures leading to the evolution of specific urban phenotypes. Is there evidence for such adaptive changes in urban populations which have colonized their new environments relatively recently? A growing number of studies suggest that rapid adaptations may be widespread in wild urban populations, including increased tolerance to various anthropogenic stressors, and physiological, morphological and behavioural changes in response to the altered resources and predation risk. Some of these adaptive changes are based on genetic differentiation, although other mechanisms, such as phenotypic plasticity and epigenetic effects, are also frequently involved."
+        },
+        {
+            "paperId": "1b1fe9d7305261bf9ba32285dc95205ac7d2aae0",
+            "title": "Urbanization shapes bird communities and nest survival, but not their food quantity",
+            "year": 2021,
+            "openAccessPdf": {
+                "url": "https://doi.org/10.1016/j.gecco.2021.e01475",
+                "status": "GOLD",
+                "license": "CCBY",
+                "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/J.GECCO.2021.E01475?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/J.GECCO.2021.E01475, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "2727248",
+                    "name": "K. Kurucz"
+                },
+                {
+                    "authorId": "8380450",
+                    "name": "J. Purger"
+                },
+                {
+                    "authorId": "5755383",
+                    "name": "P. Batáry"
+                }
+            ],
+            "abstract": "Abstract As urbanization accelerates, there is an increasing focus on understanding the ecological aspects of urbanization (both direct and indirect impacts on communities and biodiversity), monitoring qualitative and quantitative changes in the fauna of urbanized areas, and examining the underlying causes of these changes. To explore the effect of urban areas on avian communities, we examined differences in species richness and abundance of birds, and survival probabilities of artificial shrub nests along an urbanization gradient (rural – suburban - urban) in a medium-sized city in Hungary. Additionally, potential food sources (arthropods captured by sticky traps) and consumption rates by insectivorous birds (predation on dummy caterpillars) were compared along the gradient. Based on our observations, the diversity of species that form bird communities did not change significantly along the gradient. However, significantly more individuals were observed in urban areas than in suburban or rural ones, primarily due to the dominance of synanthropic species: the Domestic (Columba livia f. domestica) and Wood Pigeon (Columba palumbus), House Sparrow (Passer domesticus) and European Blackbird (Turdus merula). The daily survival rates of shrub nests were significantly higher in urban and suburban areas than in rural ones. Even so, we did not find any correlations between the species richness of shrub-nesters and urbanization, whilst, they were present with higher abundance in urban than rural habitats. Although the abundance of arthropods as potential food source was not related to the degree of urbanization, the caterpillar predation by birds was significantly higher in suburban than in urban areas. Nevertheless, there were no significant differences in richness of insectivores across urbanization gradients, but their abundance was significantly higher in urban and suburban habitats than in rural ones. In conclusion, no consistent negative or positive urbanization effect could be detected in the present study, but high-level urbanization seems to increase bird abundance. Our results also suggest that shrub-nesting in urban habitats may be safer, probably due to lower predation pressure and/or favourable nesting sites for shrub nesters in cities. Nevertheless, the food availability per se seemed to be not a key driver in habitat selection of birds along the studied urbanization gradient."
+        },
+        {
+            "paperId": "8d49d4b0829fc64e9031b156e19d97f322dc2592",
+            "title": "Population density mediates induced immune response, but not physiological condition in a well-adapted urban bird",
+            "year": 2022,
+            "openAccessPdf": {
+                "url": "https://www.nature.com/articles/s41598-022-12910-1.pdf",
+                "status": "GOLD",
+                "license": "CCBY",
+                "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC9160275, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "104258766",
+                    "name": "M. Kamiński"
+                },
+                {
+                    "authorId": "151403909",
+                    "name": "Amelia Chyb"
+                },
+                {
+                    "authorId": "6398254",
+                    "name": "P. Minias"
+                }
+            ],
+            "abstract": "Thriving under high population density is considered a major feature of urban exploiter species. Nevertheless, population density appears to be a surprisingly overlooked factor in urban ecology studies. High population numbers observed in urban species might promote pathogen transmission and negatively affect health or condition, thus requiring investments in immunocompetence. The feral pigeon Columba livia domestica is an example of a successful city-dweller, found in great abundance in large cities across the globe. We investigated the effects of population density on induced immune response (phytohaemagglutinin skin test) and body condition (blood haemoglobin concentration and size-corrected body mass) in 120 feral pigeons, captured along population density gradient in Łódź (central Poland). We found that stronger immune response was associated with higher population density, but was not related to physiological condition and physiological stress (heterophil/lymphocyte ratio). Moreover, condition indices were not associated with population density. However, since pigeon population density was highly correlated with the level of habitat urbanization, we cannot exclude that any density-dependent effects may be mediated by habitat variation. Our results indicate that urban environment, via population density, might exert different selective pressures on immunocompetence and body condition in this successful urban exploiter."
+        },
+        {
+            "paperId": "2edfc57c5c3ccb623d8e1afba7ee2e2a4824950c",
+            "title": "The Interplay Between Urban Temperature and Feather Coloration: Factors Shaping Immunological Traits in Pigeons (Columba livia).",
+            "year": 2025,
+            "openAccessPdf": {
+                "url": "",
+                "status": null,
+                "license": null,
+                "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1111/1749-4877.12968?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1111/1749-4877.12968, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "2345618308",
+                    "name": "Daniela Galdames"
+                },
+                {
+                    "authorId": "2276173299",
+                    "name": "Javiera Arcila"
+                },
+                {
+                    "authorId": "2331711621",
+                    "name": "Diego Landaeta"
+                },
+                {
+                    "authorId": "1401634862",
+                    "name": "I. Peña-Villalobos"
+                },
+                {
+                    "authorId": "2352255814",
+                    "name": "Felipe Sanhueza-Cisterna"
+                },
+                {
+                    "authorId": "2092188864",
+                    "name": "David Arancibia-Altamirano"
+                },
+                {
+                    "authorId": "2142850151",
+                    "name": "Fabiola A Otárola"
+                },
+                {
+                    "authorId": "2089019557",
+                    "name": "Catalina B. Muñoz-Pacheco"
+                },
+                {
+                    "authorId": "2257910249",
+                    "name": "Verónica Palma"
+                },
+                {
+                    "authorId": "2255049264",
+                    "name": "Pablo Sabat"
+                }
+            ],
+            "abstract": "The development of anthropogenic structures in cities has resulted in thermal heterogeneity, potentially affecting the immunological features of urban fauna. In these environments, synanthropic species such as pigeons (Columba livia) exhibit coloration polymorphisms under endocrine regulation mediated by the melanocortin system, which determines several immunological traits. Due to these potential sources of variability, we assessed how habitat influences physiological traits related to immunological features, theoretically affected by feather coloration, while considering other factors such as seasonality, body mass, and sex. This study aimed to determine whether pigeons from locations with different urban temperatures (Santiago, Chile) and color polymorphism exhibited variability in plasma immunoglobulin Y concentration, leukocyte profiles, and the H/L index. The results demonstrate that pigeons exhibit variations in immunological features related to the thermal characteristics of their urban habitats. Specifically, we observed a strong effect of thermal heterogeneity on the H/L ratio, with higher values in areas experiencing warmer temperatures, a relationship dependent on body mass. We also identified differential impacts of seasonality and sex on basophil and monocyte percentages. Regarding humoral immunity, we found a strong effect of environmental temperature and plumage melanism on urban pigeons which was influenced by sex. Our findings contribute to understanding the factors affecting the immune system in urban birds and provide valuable insights into their response to landscape modifications."
+        },
+        {
+            "paperId": "44d45204995b161580e940a8941529c20e5438ea",
+            "title": "Mating Patterns and Postzygotic Barriers in a Hybrid Swarm of Two Closely Related Pigeon Species",
+            "year": 2026,
+            "openAccessPdf": {
+                "url": "",
+                "status": null,
+                "license": null,
+                "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1002/ece3.73455?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1002/ece3.73455, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "2280171023",
+                    "name": "Jin‐yong Kim"
+                },
+                {
+                    "authorId": "2280372373",
+                    "name": "Seung-Gu Kang"
+                },
+                {
+                    "authorId": "2359219601",
+                    "name": "Jongmin Yoon"
+                }
+            ],
+            "abstract": "\n \n Hybrid zones provide a valuable framework for understanding evolutionary pathways. We investigated mating patterns and reproductive barriers using captive individuals derived from a natural hybrid swarm between hill pigeons (\n \n Columba rupestris\n \n ) and feral pigeons (\n \n C. livia\n \n ), maintained under controlled conditions. Both parental taxa exhibited significant assortative mating. The observed mating structure suggests that morphological similarity, mate availability, social interactions, and genetic relatedness may jointly shape pairing patterns. Reproductive performance was assessed at three stages—clutch size, hatching, and fledging—across four cross types (hill pigeon, feral pigeon, within‐hybrid, and heterotypic cross types). Clutch size did not differ among cross types. Hatchling and fledgling mortality in within‐hybrid crosses and heterotypic crosses did not differ from that in hill pigeon conspecific crosses. Within‐hybrid crosses and heterotypic crosses had higher hatchling mortality than feral pigeon conspecific crosses, and only heterotypic crosses showed higher fledgling mortality. Between parental taxa, hill pigeon conspecific crosses exhibited higher hatchling mortality than feral pigeon conspecific crosses. These results suggest asymmetric postzygotic isolation that is most evident in comparisons involving feral pigeons, with implications for reinforcement of conspecific mate choice in feral pigeons and continued directional introgression into hill pigeons.\n"
+        }
+    ],
+    "urban dry island bird melanism": [
+        {
+            "paperId": "87d18a16c275a3cfc4214ea3e0aadcb91ae8019b",
+            "title": "Regulation of Heat Exchange across the Hornbill Beak: Functional Similarities with Toucans?",
+            "year": 2016,
+            "openAccessPdf": {
+                "url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0154768&type=printable",
+                "status": "GOLD",
+                "license": "CCBY",
+                "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC4871549, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "88889334",
+                    "name": "T. M. F. N. V. D. Ven"
+                },
+                {
+                    "authorId": "2428248466",
+                    "name": "Rowan O Martin"
+                },
+                {
+                    "authorId": "40423535",
+                    "name": "T. Vink"
+                },
+                {
+                    "authorId": "2254325894",
+                    "name": "Andrew E. McKechnie"
+                },
+                {
+                    "authorId": "2241516498",
+                    "name": "S. J. Cunningham"
+                }
+            ],
+            "abstract": "Beaks are increasingly recognised as important contributors to avian thermoregulation. Several studies supporting Allen’s rule demonstrate how beak size is under strong selection related to latitude and/or air temperature (Ta). Moreover, active regulation of heat transfer from the beak has recently been demonstrated in a toucan (Ramphastos toco, Ramphastidae), with the large beak acting as an important contributor to heat dissipation. We hypothesised that hornbills (Bucerotidae) likewise use their large beaks for non-evaporative heat dissipation, and used thermal imaging to quantify heat exchange over a range of air temperatures in eighteen desert-living Southern Yellow-billed Hornbills (Tockus leucomelas). We found that hornbills dissipate heat via the beak at air temperatures between 30.7°C and 41.4°C. The difference between beak surface and environmental temperatures abruptly increased when air temperature was within ~10°C below body temperature, indicating active regulation of heat loss. Maximum observed heat loss via the beak was 19.9% of total non-evaporative heat loss across the body surface. Heat loss per unit surface area via the beak more than doubled at Ta > 30.7°C compared to Ta < 30.7°C and at its peak dissipated 25.1 W m-2. Maximum heat flux rate across the beak of toucans under comparable convective conditions was calculated to be as high as 61.4 W m-2. The threshold air temperature at which toucans vasodilated their beak was lower than that of the hornbills, and thus had a larger potential for heat loss at lower air temperatures. Respiratory cooling (panting) thresholds were also lower in toucans compared to hornbills. Both beak vasodilation and panting threshold temperatures are potentially explained by differences in acclimation to environmental conditions and in the efficiency of evaporative cooling under differing environmental conditions. We speculate that non-evaporative heat dissipation may be a particularly important mechanism for animals inhabiting humid regions, such as toucans, and less critical for animals residing in more arid conditions, such as Southern Yellow-billed Hornbills. Alternatively, differences in beak morphology and hardness enforced by different diets may affect the capacity of birds to use the beak for non-evaporative heat loss."
+        },
+        {
+            "paperId": "4e476ab46d72e1265bfdbf693329331ae7c34274",
+            "title": "Spatial variation in avian bill size is associated with humidity in summer among Australian passerines",
+            "year": 2016,
+            "openAccessPdf": {
+                "url": "https://climatechangeresponses.biomedcentral.com/track/pdf/10.1186/s40665-016-0026-z",
+                "status": "HYBRID",
+                "license": "CCBY",
+                "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1186/s40665-016-0026-z?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1186/s40665-016-0026-z, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "31689279",
+                    "name": "J. Gardner"
+                },
+                {
+                    "authorId": "34817883",
+                    "name": "M. Symonds"
+                },
+                {
+                    "authorId": "145741448",
+                    "name": "L. Joseph"
+                },
+                {
+                    "authorId": "5854572",
+                    "name": "Karen Ikin"
+                },
+                {
+                    "authorId": "145313040",
+                    "name": "J. Stein"
+                },
+                {
+                    "authorId": "145065788",
+                    "name": "L. Kruuk"
+                }
+            ],
+            "abstract": "BackgroundClimate imposes multiple selection pressures on animal morphology. Allen’s Rule proposes that geographic variation in the appendage size of endotherms, relative to body size, is linked to climatic variation, thereby facilitating heat exchange and body temperature regulation. Thus relatively larger appendages tend to be found in animals in warmer climates. Despite growing understanding of the role of the avian bill as an organ for heat exchange, few studies have tested the ecological significance of bill size for heat dissipation across species and environmental gradients. Amongst those that have, most have focused on the relationship with ambient temperature, but there is growing evidence that humidity also has a strong influence on heat dissipation. In particular, increasing humidity reduces the potential for evaporative cooling, favouring radiative and convective heat loss via the bill, and hence potentially favouring larger bills in humid environments. Here, we used phylogenetically-controlled analyses of the bill morphology of 36 species of Australian passerines to explore the relationship between bill size and multiple aspects of climate.ResultsHumidity during the hot summer months (December-February) was positively associated with relative bill surface area across species. There was no overall association between bill size and summer temperatures per se, but the association with humidity was mediated by temperature, with a significant interaction indicating stronger associations with humidity at cooler summer temperatures. This is consistent with the idea that larger bills may become disadvantageous in humid conditions as ambient temperature approaches body temperature. Relative bill size was similar among closely related species, with phylogeny explaining 63.3% of the variance, and there was significant variation among species in their response to humidity. However, the relationship between relative bill size and humidity was not associated with phylogeny.ConclusionsOur results are consistent with the idea that body temperature regulation underlies continent-wide patterns of bill size variation in a broad range of Australian passerines, and suggests that Allen’s Rule may apply to humidity gradients as well as temperature gradients. They add to growing evidence that a narrow focus on temperature alone in studies of responses to climate change may limit our understanding of species’ sensitivities to climatic variation, and of their capacity to adapt."
+        },
+        {
+            "paperId": "2d34914b795dcffedd2ce568c9fae3d677f27685",
+            "title": "Bill size variation in northern cardinals associated with anthropogenic drivers across North America",
+            "year": 2018,
+            "openAccessPdf": {
+                "url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/ece3.4038",
+                "status": "GOLD",
+                "license": "CCBY",
+                "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC5980444, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "35005588",
+                    "name": "Colleen R. Miller"
+                },
+                {
+                    "authorId": "1396656094",
+                    "name": "C. E. Latimer"
+                },
+                {
+                    "authorId": "3751509",
+                    "name": "B. Zuckerberg"
+                }
+            ],
+            "abstract": "Abstract Allen's rule predicts that homeotherms inhabiting cooler climates will have smaller appendages, while those inhabiting warmer climates will have larger appendages relative to body size. Birds’ bills tend to be larger at lower latitudes, but few studies have tested whether modern climate change and urbanization affect bill size. Our study explored whether bill size in a wide‐ranging bird would be larger in warmer, drier regions and increase with rising temperatures. Furthermore, we predicted that bill size would be larger in densely populated areas, due to urban heat island effects and the higher concentration of supplementary foods. Using measurements from 605 museum specimens, we explored the effects of climate and housing density on northern cardinal bill size over an 85‐year period across the Linnaean subspecies’ range. We quantified the geographic relationships between bill surface area, housing density, and minimum temperature using linear mixed effect models and geographically weighted regression. We then tested whether bill surface area changed due to housing density and temperature in three subregions (Chicago, IL., Washington, D.C., and Ithaca, NY). Across North America, cardinals occupying drier regions had larger bills, a pattern strongest in males. This relationship was mediated by temperature such that birds in warm, dry areas had larger bills than those in cool, dry areas. Over time, female cardinals’ bill size increased with warming temperatures in Washington, D.C., and Ithaca. Bill size was smaller in developed areas of Chicago, but larger in Washington, D.C., while there was no pattern in Ithaca, NY. We found that climate and urbanization were strongly associated with bill size for a wide‐ranging bird. These biogeographic relationships were characterized by sex‐specific differences, varying relationships with housing density, and geographic variability. It is likely that anthropogenic pressures will continue to influence species, potentially promoting microevolutionary changes over space and time."
+        },
+        {
+            "paperId": "3a97fd7436b82a97ad69903a745dd588b2804321",
+            "title": "Body size responses to the combined effects of climate and land use changes within an urban framework",
+            "year": 2022,
+            "openAccessPdf": {
+                "url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/gcb.16292",
+                "status": "BRONZE",
+                "license": null,
+                "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1111/gcb.16292?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1111/gcb.16292, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "50641997",
+                    "name": "Amanda K. Martin"
+                },
+                {
+                    "authorId": "35053623",
+                    "name": "J. Sheridan"
+                }
+            ],
+            "abstract": "Alterations in body size can have profound impacts on an organism's life history and ecology with long‐lasting effects that span multiple biological scales. Animal body size is influenced by environmental drivers, including climate change and land use change, the two largest current threats to biodiversity. Climate warming has led to smaller body sizes of many species due to impacts on growth (i.e., Bergmann's rule and temperature‐size rule). Conversely, urbanization, which serves as a model for investigating the effects of land use changes, has largely been demonstrated to cause size increases, but few studies have examined the combined influences of climate and land use changes on organism size. We present here the background theory on how each of these factors is expected to influence body size, summarize existing evidence of how size has recently been impacted by climate and land use changes, and make several recommendations to guide future research uniting these areas of focus. Given the rapid pace of climate change and urbanization, understanding the combined effects of climate and land use changes on body size is imperative for biodiversity preservation."
+        },
+        {
+            "paperId": "c50a0c4f3c319fd389f19990a8350b0440a71e67",
+            "title": "Phenotypic signatures of urbanization? Resident, but not migratory, songbird eye size varies with urban‐associated light pollution levels",
+            "year": 2023,
+            "openAccessPdf": {
+                "url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/gcb.16935",
+                "status": "HYBRID",
+                "license": "CCBYNC",
+                "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1111/gcb.16935?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1111/gcb.16935, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "2242948757",
+                    "name": "Todd M Jones"
+                },
+                {
+                    "authorId": "2243261683",
+                    "name": "Alfredo P Llamas"
+                },
+                {
+                    "authorId": "47657214",
+                    "name": "J. Phillips"
+                }
+            ],
+            "abstract": "Urbanization now exposes large portions of the earth to sources of anthropogenic disturbance, driving rapid environmental change and producing novel environments. Changes in selective pressures as a result of urbanization are often associated with phenotypic divergence; however, the generality of phenotypic change remains unclear. In this study, we examined whether morphological phenotypes in two residential species (Carolina Wren [Thryothorus ludovicianus] and Northern Cardinal [Cardinalis cardinalis]) and two migratory species (Painted Bunting [Passerina ciris], and White‐eyed Vireo [Vireo griseus]), differed between urban core and edge habitats in San Antonio, Texas, USA. More specifically, we examined whether urbanization, associated sensory pollution (light and noise) and brightness (open, bright areas cause by anthropogenic land use) influenced measures of avian body (mass and frame size) and lateral eye size. We found no differences in body size between urban core and edge habitats for all species except the Painted Bunting, in which core‐urban individuals were smaller. Rather than a direct effect of urbanization, this was due to differences in age structure between habitats, with urban‐core areas consisting of higher proportions of younger buntings which are, on average, smaller than older birds. Residential birds inhabiting urban‐core areas had smaller eyes compared to their urban‐edge counterparts, resulting from a negative association between eye size and light pollution and brightness across study sites; notably, we found no such association in the two migratory species. Our findings demonstrate how urbanization may indirectly influence phenotypes by altering population demographics and highlight the importance of accounting for age when assessing factors driving phenotypic change. We also provide some of the first evidence that birds may adapt to urban environments through changes in their eye morphology, demonstrating the need for future research into relationships among eye size, ambient light microenvironment use, and disassembly of avian communities as a result of urbanization."
+        }
+    ],
+    "artificial light nighttime bird melanism": [
+        {
+            "paperId": "2ad38385ccad10080d40cf3307cdba4cb2147c88",
+            "title": "Activity Patterns during Food Provisioning Are Affected by Artificial Light in Free Living Great Tits (Parus major)",
+            "year": 2012,
+            "openAccessPdf": {
+                "url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0037377&type=printable",
+                "status": "GOLD",
+                "license": "CCBY",
+                "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC3356403, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "49226354",
+                    "name": "M. Titulaer"
+                },
+                {
+                    "authorId": "5577170",
+                    "name": "K. Spoelstra"
+                },
+                {
+                    "authorId": "38176143",
+                    "name": "Cynthia Y. M. J. G. Lange"
+                },
+                {
+                    "authorId": "3558378",
+                    "name": "M. Visser"
+                }
+            ],
+            "abstract": "Artificial light may have severe ecological consequences but there is limited experimental work to assess these consequences. We carried out an experimental study on a wild population of great tits (Parus major) to assess the impact of light pollution on daily activity patterns during the chick provisioning period. Pairs that were provided with a small light outside their nest box did not alter the onset, cessation or duration of their working day. There was however a clear effect of artificial light on the feeding rate in the second half of the nestling period: when provided with artificial light females increased their feeding rate when the nestlings were between 9 and 16 days old. Artificial light is hypothesised to have affected the perceived photoperiod of either the parents or the offspring which in turn led to increased parental care. This may have negative fitness consequences for the parents, and light pollution may thus create an ecological trap for breeding birds."
+        },
+        {
+            "paperId": "5e45b8b19f67e9e97eb837add2ff0380bd90ea1d",
+            "title": "Urban-like night illumination reduces melatonin release in European blackbirds (Turdus merula): implications of city life for biological time-keeping of songbirds",
+            "year": 2013,
+            "openAccessPdf": {
+                "url": "https://frontiersinzoology.biomedcentral.com/counter/pdf/10.1186/1742-9994-10-60",
+                "status": "GOLD",
+                "license": "CCBY",
+                "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC3850952, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "2385273890",
+                    "name": "Davide M. Dominoni"
+                },
+                {
+                    "authorId": "6323300",
+                    "name": "W. Goymann"
+                },
+                {
+                    "authorId": "4469459",
+                    "name": "B. Helm"
+                },
+                {
+                    "authorId": "4028814",
+                    "name": "J. Partecke"
+                }
+            ],
+            "abstract": "IntroductionArtificial light-at-night is known to affect a broad array of behaviours and physiological processes. In urbanized bird species, light-at-night advances important biological rhythms such as daily cycles of activity/rest and timing of reproduction, but our knowledge of the underlying physiological mechanisms is limited. Given its role as chronobiological signal, melatonin is a strong candidate for mediating the effects of light-at-night.ResultsWe exposed urban and rural European blackbirds (Turdus merula) to two light treatments equal in photoperiod but with different light intensities at night. The control group was exposed to 0.0001 lux (almost darkness), while the experimental group was exposed to 0.3 lux at night, simulating conditions recorded previously on free-living urban blackbirds. We obtained diel profiles of plasma melatonin for all birds in summer (July) and winter (January), while simultaneously recording locomotor activity. Daily patterns of melatonin concentrations were clearly affected by light-at-night in both seasons. In winter, melatonin concentrations of light-at-night birds were lower in the early and late night than in those of birds kept in darkness. In summer, melatonin concentrations of the light-at-night birds were lower through all night compared to birds kept in darkness. Locomotor activity in light-at-night birds was overall higher than in control individuals, both during the day and at night, and it increased sharply before dawn. In winter, the amount of activity before dawn in the light-at-night group correlated with changes in melatonin from midnight to late night: the greater the decrease in melatonin, the greater the amount of pre-dawn activity. Urban and rural birds responded similarly to light-at-night with respect to melatonin, but differed in their behaviour, with rural birds showing more locomotor activity than urban counterparts.ConclusionsThis study points to reduced melatonin release at night as a potential physiological mechanism underlying the advanced onset of morning activity of urbanized birds. Based on the pattern of melatonin secretion, we suggest that birds responded to light-at-night as if they were exposed to a longer day than birds kept under dark nights."
+        },
+        {
+            "paperId": "005e1889f979e333904475fd76892f77ae763172",
+            "title": "Impacts of “supermoon” events on the physiology of a wild bird",
+            "year": 2019,
+            "openAccessPdf": {
+                "url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/ece3.5311",
+                "status": "GOLD",
+                "license": "CCBY",
+                "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC6662397, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "38710336",
+                    "name": "S. Portugal"
+                },
+                {
+                    "authorId": "144447365",
+                    "name": "C. R. White"
+                },
+                {
+                    "authorId": "5150608",
+                    "name": "P. Frappell"
+                },
+                {
+                    "authorId": "2113481354",
+                    "name": "J. Green"
+                },
+                {
+                    "authorId": "48830332",
+                    "name": "P. Butler"
+                }
+            ],
+            "abstract": "Abstract The position of the Moon in relation to the Earth and the Sun gives rise to several predictable cycles, and natural changes in nighttime light intensity are known to cause alterations to physiological processes and behaviors in many animals. The limited research undertaken to date on the physiological responses of animals to the lunar illumination has exclusively focused on the synodic lunar cycle (full moon to full moon, or moon phase) but the moon's orbit—its distance from the Earth—may also be relevant. Every month, the moon moves from apogee, its most distant point from Earth—and then to perigee, its closest point to Earth. Here, we studied wild barnacle geese (Branta leucopsis) to investigate the influence of multiple interacting lunar cycles on the physiology of diurnally active animals. Our study, which uses biologging technology to continually monitor body temperature and heart rate for an entire annual cycle, asks whether there is evidence for a physiological response to natural cycles in lunar brightness in wild birds, particularly “supermoon” phenomena, where perigee coincides with a full moon. There was a three‐way interaction between lunar phase, lunar distance, and cloud cover as predictors of nighttime mean body temperature, such that body temperature was highest on clear nights when the full moon coincided with perigee moon. Our study is the first to report the physiological responses of wild birds to “supermoon” events; the wild geese responded to the combination of two independent lunar cycles, by significantly increasing their body temperature at night. That wild birds respond to natural fluctuations in nighttime ambient light levels support the documented responses of many species to anthropogenic sources of artificial light, that birds seem unable to override. As most biological systems are arguably organized foremost by light, this suggests that any interactions between lunar cycles and local weather conditions could have significant impacts on the energy budgets of birds."
+        },
+        {
+            "paperId": "e8b1922f71ca341ca36fceb912093b4b8e6a1d76",
+            "title": "Synchronization of women's menstruation with the Moon has decreased but remains detectable when gravitational pull is strong.",
+            "year": 2025,
+            "openAccessPdf": {
+                "url": "",
+                "status": null,
+                "license": null,
+                "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1126/sciadv.adw4096?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1126/sciadv.adw4096, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "2298805309",
+                    "name": "Charlotte Helfrich-Förster"
+                },
+                {
+                    "authorId": "2198832146",
+                    "name": "E. Domenie"
+                },
+                {
+                    "authorId": "2248080301",
+                    "name": "O. Mitesser"
+                },
+                {
+                    "authorId": "2238271230",
+                    "name": "Thomas Hovestadt"
+                },
+                {
+                    "authorId": "2237268195",
+                    "name": "A. Ferlin"
+                },
+                {
+                    "authorId": "2377491216",
+                    "name": "Thomas A Wehr"
+                },
+                {
+                    "authorId": "2260883890",
+                    "name": "Rodolfo Costa"
+                },
+                {
+                    "authorId": "2332336676",
+                    "name": "Sara Montagnese"
+                }
+            ],
+            "abstract": "To increase reproductive success, many species synchronize reproductive behavior with a particular phase of the lunar cycle. The human menstrual cycle has also a period close to that of the lunar cycle, and recent studies suggest a temporary synchrony between menstrual and lunar cycles. Nevertheless, lunar influence on human reproductive behavior remains controversial. Here, we analyzed long-term menstrual records of individual women from the past 24 years and compared them with records from the past century. We show that women's menstrual cycles recorded before the introduction of light-emitting diodes in 2010 and the extensive use of smart phones significantly synchronized with the Moon, while those after 2010 coupled to the Moon mostly in January. We hypothesize that the high gravimetric forces between the Moon, Sun, and Earth every January are sufficient for this coupling, while the increasing exposure to artificial light at night impinges on synchrony at other times."
+        },
+        {
+            "paperId": "41b62d3dab30b88e0639cac8d6d6ae25f2026858",
+            "title": "Global trends in human birth and death seasonality reveal climate-related shifts in reproductive timing",
+            "year": 2026,
+            "openAccessPdf": {
+                "url": "",
+                "status": null,
+                "license": "CCBYNC",
+                "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC12871832, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "2297866276",
+                    "name": "Chinmay K. Lalgudi"
+                },
+                {
+                    "authorId": "2406263508",
+                    "name": "Neema Sakariya"
+                },
+                {
+                    "authorId": "2276611760",
+                    "name": "James E. Ferrell"
+                },
+                {
+                    "authorId": "2291854004",
+                    "name": "Shixuan Liu"
+                }
+            ],
+            "abstract": "Despite growing evidence that climate change affects public health, it remains unclear whether recent global warming has directly altered fundamental aspects of human biology at large scales. Here, we analyzed long-term trends in human birth and death seasonality, using demographic data from >100 regions worldwide. We found that both births and deaths followed remarkably persistent seasonal cycles. Births peaked through spring to fall, whereas deaths peaked in mid-winter, especially among older individuals. Across latitude, death seasonality diminished near the equator; birth seasonality remained strong across all latitudes but peaked progressively later at lower latitudes. Strikingly, birth seasonality in high-latitude regions showed synchronized phase delays in recent decades, with peak timing delayed by 2–3 months during the 1970s–2000s, converging toward lower-latitude timing and stabilizing subsequently, while death seasonality remained stable. An unbiased analysis of key socioeconomic and climatic variables revealed that temperature was the predominant predictor of birth-peak timing. Estimated conception peaks shifted away from summer amid rising heatwaves and stabilized in cooler fall/winter months, consistent with known adverse effects of heat on reproduction. Together, these results suggest that recent climate warming has reshaped the seasonal timing of human reproduction."
+        }
+    ],
+    "polycyclic aromatic hydrocarbons avian melanin": [
+        {
+            "paperId": "1f36e638bc7c520302a3c21901f9f50dd7676114",
+            "title": "Kynurenine pathway, NAD+ synthesis, and mitochondrial function: Targeting tryptophan metabolism to promote longevity and healthspan.",
+            "year": 2020,
+            "openAccessPdf": {
+                "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7053056",
+                "status": "GREEN",
+                "license": null,
+                "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.exger.2020.110841?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.exger.2020.110841, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "1424322703",
+                    "name": "Raul Castro-Portuguez"
+                },
+                {
+                    "authorId": "3797743",
+                    "name": "G. Sutphin"
+                }
+            ],
+            "abstract": "Aging is characterized by a progressive decline in the normal physiological functions of an organism, ultimately leading to mortality. Nicotinamide adenine dinucleotide (NAD+) is an essential cofactor that plays a critical role in mitochondrial energy production as well as many enzymatic redox reactions. Age-associated decline in NAD+ is implicated as a driving factor in several categories of age-associated disease, including metabolic and neurodegenerative disease, as well as deficiency in the mechanisms of cellular defense against oxidative stress. The kynurenine metabolic pathway is the sole de novo NAD+ biosynthetic pathway, generating NAD+ from ingested tryptophan. Altered kynurenine pathway activity is associated with both aging and a variety of age-associated diseases. Kynurenine pathway interventions can extend lifespan in both fruit flies and nematodes, and altered NAD+ metabolism represents one potential mediating mechanism. Recent studies demonstrate that supplementation with NAD+ or NAD+-precursors increase longevity and promote healthy aging in fruit flies, nematodes, and mice. NAD+ levels and the intrinsic relationship to mitochondrial function have been widely studied in the context of aging. Mitochondrial function and dynamics have both been are implicated in longevity determination in a range of organisms from yeast to humans, at least in part due to their intimate link to regulating an organism's cellular energy economy and capacity to resist oxidative stress. Recent findings support the idea that complex communication between the mitochondria and the nucleus orchestrates a series of events and stress responses involving mitophagy, mitochondrial number, mitochondrial unfolded protein response (UPRmt), and mitochondria fission and fusion events. In this review, we discuss how mitochondrial morphological changes and dynamics operate during aging, and how altered metabolism of tryptophan to NAD+ through the kynurenine pathway interacts with these processes."
+        },
+        {
+            "paperId": "0a061b38343013803e58c6010dbc6e543a6d7073",
+            "title": "Metabolomics as a tool for in situ study of chronic metal exposure in estuarine invertebrates.",
+            "year": 2021,
+            "openAccessPdf": {
+                "url": "https://doi.org/10.1016/j.envpol.2021.118408",
+                "status": "HYBRID",
+                "license": "CCBYNCND",
+                "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.envpol.2021.118408?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.envpol.2021.118408, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "7375663",
+                    "name": "Katie E. Hillyer"
+                },
+                {
+                    "authorId": "6815867",
+                    "name": "E. Raes"
+                },
+                {
+                    "authorId": "38516295",
+                    "name": "K. Karsh"
+                },
+                {
+                    "authorId": "39962410",
+                    "name": "B. Holmes"
+                },
+                {
+                    "authorId": "46295416",
+                    "name": "A. Bissett"
+                },
+                {
+                    "authorId": "143625008",
+                    "name": "D. Beale"
+                }
+            ],
+            "abstract": "Estuaries are subject to intense human use globally, with impacts from multiple stressors, such as metal contaminants. A key challenge is extending beyond traditional monitoring approaches to understand effects to biota and system function. To explore the metabolic effects of complex metal contaminants to sediment dwelling (benthic) fauna, we apply a multiple-lines-of-evidence approach, coupling environmental monitoring, benthic sampling, total metals analysis and targeted metabolomics. We characterise metabolic signatures of metal exposure in three benthic invertebrate taxa, which differed in distribution across sites and severity of metal exposure: sipunculid (very high), amphipod (high), maldanid polychaete (moderate). We observed sediment and tissue metal loads far exceeding sediment guidelines where toxicity-related adverse effects may be expected, for metals including, As, Cd, Pb, Zn and Hg. Change in site- and taxa-specific metabolite profiles was highly correlated with natural environmental drivers (sediment total organic carbon and temperature). At the most metal influenced sites, metabolite variation was also correlated with sediment metal loads. Using supervised multivariate regression, taxa-specific metabolic signatures of increased exposure and possibility of toxic effects were characterised against multiple reference sites. Metabolic signatures varied according to each taxon and degree of metal exposure, but primarily indicated altered cysteine and methionine metabolism, metal-binding and elimination (lysosomal) activity, coupled to change in complex biosynthesis pathways, responses to oxidative stress, and cellular damage. This novel multiple-lines-of-evidence approach combining metabolomics with traditional environmental monitoring, enabled detection and characterisation of chronic metal exposure effects in situ in multiple invertebrate taxa. With capacity for application to rapid and effective monitoring of non-model species in complex environments, these approaches are critical for improved assessment and management of systems that are increasingly subject to anthropogenic drivers of change."
+        },
+        {
+            "paperId": "fe5fcd5731043ed12fd3a862e24afedf9a43151c",
+            "title": "Multi-omics eco-surveillance of complex legacy contamination with a locally adapted estuarine invertebrate.",
+            "year": 2023,
+            "openAccessPdf": {
+                "url": "https://doi.org/10.1016/j.envpol.2022.120993",
+                "status": "HYBRID",
+                "license": "CCBYNCND",
+                "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.envpol.2022.120993?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.envpol.2022.120993, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "7375663",
+                    "name": "Katie E. Hillyer"
+                },
+                {
+                    "authorId": "144673546",
+                    "name": "U. Bose"
+                },
+                {
+                    "authorId": "38031052",
+                    "name": "James A. Broadbent"
+                },
+                {
+                    "authorId": "46295416",
+                    "name": "A. Bissett"
+                },
+                {
+                    "authorId": "143625008",
+                    "name": "D. Beale"
+                }
+            ],
+            "abstract": "Complex legacy contamination from human use is a major issue for estuaries globally. In particular, contamination of water and sediments with bioavailable metals/metalloids, in addition to other industrial contaminants, such as hydrocarbons. Yet, understanding of complex toxicity and local adaptation in field exposed, non-model, invertebrate communities is limited. Herein, we apply multi-omics (metabolomics, lipidomics, proteomics) coupled to traditional sediment quality analyses, to better characterise molecular and cellular responses necessary for application to monitoring, as an eco-surveillance tool. Using these approaches, we characterise functional phenotypes of a sediment associated invertebrate (sipunculid), from an estuary exposed to complex legacy contamination (metals: Zn, Hg, Cd, Pb, Cu, As; and polycyclic aromatic hydrocarbons, PAHs). We sampled individuals at a range of exposure sites, highly (NTB5), moderately (NTB13), and lesser-influenced reference sites. Size differences were observed in sampled individuals between sites, with smaller individuals collected from NTB13. Analysis of environmental variables that correlated with change in the metabolite data revealed that the metabolism of smaller individuals at medium exposure NTB13 was highly differentiated by sediment concentrations of Hg, despite higher concentrations at more exposed NTB5. Functional phenotypes of these smaller individuals were characterised by sulphur and aromatic amino acid metabolism, increases in oxidised intermediates, upregulation of protein responses to oxidative stress, and melanin synthesis, and saturation of membrane and storage of lipids; in addition to the metabolism of naphthalene (PAH). Such widespread change was not observed in the metabolite and lipid profiles of larger individuals at high exposure NTB5, suggesting possible differences in effects between sites may also be associated with size (developmental stage, or age) and/or PAH exposure. This study serves to further understanding of differing modes of toxicity and local adaptation to multiple contaminants, and drivers of functional change in a complex estuary environment."
+        },
+        {
+            "paperId": "dafcccfcaa50887aab68c73d469eb11bb93efb82",
+            "title": "Time-course of oral toxicity to contaminated groundwater in male Sprague Dawley rats",
+            "year": 2024,
+            "openAccessPdf": {
+                "url": "https://doi.org/10.1016/j.toxrep.2024.05.002",
+                "status": "GOLD",
+                "license": "CCBY",
+                "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC11134541, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "46245043",
+                    "name": "Bright Boamah"
+                },
+                {
+                    "authorId": "2261435369",
+                    "name": "S. Siciliano"
+                },
+                {
+                    "authorId": "8518139",
+                    "name": "N. Hogan"
+                },
+                {
+                    "authorId": "2275338533",
+                    "name": "M. Hecker"
+                },
+                {
+                    "authorId": "2261437307",
+                    "name": "M. Hanson"
+                },
+                {
+                    "authorId": "2261440037",
+                    "name": "P. Campbell"
+                },
+                {
+                    "authorId": "2261416467",
+                    "name": "R. Peters"
+                },
+                {
+                    "authorId": "1401859333",
+                    "name": "A. Al-Dissi"
+                },
+                {
+                    "authorId": "2261423217",
+                    "name": "L. Weber"
+                }
+            ],
+            "abstract": "Assessing toxicity of complex mixtures of contaminants from industrial sites with historic and ongoing contamination remains a challenge for risk assessors. Groundwater from a pesticide packaging site in Canada containing a complex mixture of known and unknown contaminants was examined in male rats to determine the target organ toxicity. This study determined the time-course of toxicity (7, 14, 28, and 60 days) following ad libitum oral exposure to 0.05% v/v contaminated groundwater compared to tap water (control) in male Sprague Dawley rats (n=5 /group/time). Exposure to groundwater resulted in inflammation, indicated by a statistically significant increase in plasma lymphocyte and neutrophil counts on days 7 and 60, respectively, but a reduction in the plasma alpha 2 macroglobulin levels by day 60. Gonadotoxicity was indicated by a reduced Johnsen score (grading spermatogenesis) in all exposed groups at all time points, while seminiferous epithelial height was reduced on days 7, 14, and 28 compared to controls. Plasma testosterone was reduced in exposed groups on days 7 and 28, accompanied by elevated testicular lipid peroxidation at all time points compared to control. In contrast, lipid peroxidation in the lungs from exposed rats was elevated on days 7, 14, and 28. Plasma symmetric dimethylarginine was elevated on day 14 in the exposed group indicating renal impairment. Taken together, these results indicate that testes, kidney, immune and lung are target organs for the contaminated groundwater from this industrial site. The current study highlights the challenge in hazard assessment for complex mixtures and highlights the need for effects-directed analysis and the continued, albeit limited, use of animal models in toxicity testing."
+        },
+        {
+            "paperId": "8a286d36dbcf66a0b17725a52e999ab98edf5222",
+            "title": "Target Organ Toxicity in Sprague Dawley Rats Following Oral Exposure to Complex Groundwater Mixture: Assessment of Dose-Response Relationships Using Histopathological and Biochemical Alterations.",
+            "year": 2024,
+            "openAccessPdf": {
+                "url": "https://doi.org/10.1016/j.yrtph.2024.105744",
+                "status": "HYBRID",
+                "license": "CCBYNC",
+                "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.yrtph.2024.105744?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.yrtph.2024.105744, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "2310803534",
+                    "name": "B. Boamah"
+                },
+                {
+                    "authorId": "2261435369",
+                    "name": "S. Siciliano"
+                },
+                {
+                    "authorId": "2286217221",
+                    "name": "N. Hogan"
+                },
+                {
+                    "authorId": "2275338533",
+                    "name": "M. Hecker"
+                },
+                {
+                    "authorId": "2261437307",
+                    "name": "M. Hanson"
+                },
+                {
+                    "authorId": "2261440037",
+                    "name": "P. Campbell"
+                },
+                {
+                    "authorId": "2261416467",
+                    "name": "R. Peters"
+                },
+                {
+                    "authorId": "2307152713",
+                    "name": "A. Al-Dissi"
+                },
+                {
+                    "authorId": "2284747618",
+                    "name": "L. P. Weber"
+                }
+            ],
+            "abstract": "Exposure to contaminant mixtures from industrial legacy sites presents unique challenges that require novel approaches such as effects-directed toxicity assessment. This study characterized the target organ toxicity of groundwater from a legacy contaminated pesticide plant in male and female Sprague Dawley rats exposed to low impact (10% v/v) groundwater, high impact (0.01% v/v, 0.1% v/v, 1% v/v, and 10% v/v) groundwater or tap water (control) for 60 days. Rats exposed to high impact (1% and 10%) and 10% low impact groundwater mixture showed statistically significant increases in liver necro-inflammation relative to control. A statistically significant reduction in plasma albumin of exposed rats (except 0.01% high impact) and alpha 2 macroglobulin (all exposed) when compared to the control. All groundwater-exposed rats showed glomerulopathy, but there were sex-specific differences in acute tubular necrosis. Testes showed germinal cell vacuolation, necrosis, reduced seminiferous epithelial height, and Sertoli syndrome in exposed rats, accompanied by reduced plasma testosterone and increased testicular malondialdehyde. Taken together, this sub-chronic oral exposure to groundwater from a contaminated industrial site caused dose-dependent hepatic and testicular toxicity, while nephrotoxicity was both sex-dependent and dose-dependent. This study provides support for the essentiality of using effects-driven approaches in the risk assessment of complex mixtures."
+        }
+    ],
+    "heavy metal detoxification melanin urban": [
+        {
+            "paperId": "809880baf510a28c3fa396a5769d39c777bb97ec",
+            "title": "Do metal mines and their runoff affect plumage color? Streak-backed Orioles in Mexico show unexpected patterns",
+            "year": 2021,
+            "openAccessPdf": {
+                "url": "",
+                "status": null,
+                "license": null,
+                "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1093/ornithapp/duab023?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1093/ornithapp/duab023, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "5295728",
+                    "name": "L. M. Kiere"
+                },
+                {
+                    "authorId": "1404053121",
+                    "name": "M. Osorio-Beristain"
+                },
+                {
+                    "authorId": "21444468",
+                    "name": "V. Sorani"
+                },
+                {
+                    "authorId": "1411928540",
+                    "name": "D. Prieto‐Torres"
+                },
+                {
+                    "authorId": "1400389334",
+                    "name": "Adolfo G. Navarro‐Sigüenza"
+                },
+                {
+                    "authorId": "1411012119",
+                    "name": "L. A. Sánchez-González"
+                }
+            ],
+            "abstract": "ABSTRACT Metal mining causes serious ecological disturbance, due partly to heavy metal (HM) pollution that can accumulate at mining sites themselves and be dispersed downstream as runoff. Plumage coloration is important in birds' social and ecological interactions and sensitive to environmental stressors, and several local-scale studies have found decreased carotenoid-based plumage and/or increased melanin-based plumage in wild birds exposed to HM pollution. We investigated regional-scale effects of proximity to mines and their downstream rivers as a proxy of exposure to HM-contaminated mining waste on plumage coloration in Streak-backed Orioles (Icterus pustulatus) in south-central Mexico. We measured the plumage color of museum skins using reflectance spectrometry and digital photography, then used geographic information systems to estimate each specimen's distance from the nearest mining concession and river and determine whether that river's watershed contained mines. Proximity to mines and their downstream rivers was related to ventral (but not dorsal) carotenoid-based coloration; birds collected farther from mines had more vivid yellow-orange breast plumage, and belly plumage was more vivid and redder with increasing distance from rivers with upstream mines. Breast background reflectance unexpectedly decreased with mine distance and was higher among birds whose nearest river had mines upstream. The area (but not reflectance) of melanin-based plumage was also related to mines. The area of dark back streaks decreased with mine distance, while the bib patch was smaller among birds presumably more exposed to mining waste. While some of these results are consistent with predicted effects of HM pollution on plumage, most were not straightforward, and effects differed among plumage patches and variables. Further investigation is needed to understand the direct (e.g., toxicity, oxidative stress) and/or indirect (e.g., decreased availability of carotenoid-rich food) mechanisms responsible and their individual-, population-, and community-level implications. LAY SUMMARY Feather color is important in birds' interactions and is sensitive to stresses, including pollution from human activities like heavy metals from mining. Here, we analyzed how orioles' feather coloration varied in response to their proximity to mines and rivers that may carry mining waste downstream. Orioles captured closer to mines and downstream rivers had duller yellow-orange (carotenoid) breast and belly plumage. The area of black (melanin-based) back streaks was larger, but the bib patch was smaller in birds that were presumably more exposed to mining waste. Some of these results are consistent with previous studies of color in birds exposed to industrial and urban heavy metal pollution at local scales, while others were not. Feather color may be affected by mines and/or mine runoff, but more research is needed to better understand those effects before color can be considered as a potential indicator of mining impact."
+        },
+        {
+            "paperId": "f4f308621ae3ac684e94b4281ed57a64e6890a4f",
+            "title": "Air pollution impacts on avian species via inhalation exposure and associated outcomes",
+            "year": 2017,
+            "openAccessPdf": {
+                "url": "https://iopscience.iop.org/article/10.1088/1748-9326/aa8051/pdf",
+                "status": "GOLD",
+                "license": "CCBY",
+                "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1088/1748-9326/aa8051?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1088/1748-9326/aa8051, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "123137006",
+                    "name": "O. V. Sanderfoot"
+                },
+                {
+                    "authorId": "144369546",
+                    "name": "T. Holloway"
+                }
+            ],
+            "abstract": "Despite the well-established links between air pollution and human health, vegetation, and aquatic ecosystems, less attention has been paid to the potential impact of reactive atmospheric gases and aerosols on avian species. In this literature review, we summarize findings published since 1950 regarding avian responses to air pollution and discuss knowledge gaps that could be addressed in future studies. We find consistent evidence for adverse health impacts on birds attributable to exposure to gas-phase and particulate air pollutants, including carbon monoxide (CO), ozone (O3), sulfur dioxide (SO2), smoke, and heavy metals, as well as mixtures of urban and industrial emissions. Avian responses to air pollution include respiratory distress and illness, increased detoxification effort, elevated stress levels, immunosuppression, behavioral changes, and impaired reproductive success. Exposure to air pollution may furthermore reduce population density, species diversity, and species richness in bird communities."
+        },
+        {
+            "paperId": "d152580f94189285efba1c62a5d58de6a0902966",
+            "title": "Biosorption of halophilic fungal melanized membrane – PUR/melanin polymer for heavy metal detoxification with electrospinning technology",
+            "year": 2024,
+            "openAccessPdf": {
+                "url": "",
+                "status": "CLOSED",
+                "license": null,
+                "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1080/09593330.2024.2310034?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1080/09593330.2024.2310034, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "2281820624",
+                    "name": "Helan Soundra Rani Micheal"
+                },
+                {
+                    "authorId": "2228399994",
+                    "name": "Divyavaahini Thyagarajan"
+                },
+                {
+                    "authorId": "2231544671",
+                    "name": "Mageswari Govindaraj"
+                },
+                {
+                    "authorId": "2231548561",
+                    "name": "Venkatesh Kumar Saravanakumar"
+                },
+                {
+                    "authorId": "2137897777",
+                    "name": "Nazneen Bobby Mohammed"
+                },
+                {
+                    "authorId": "2281820228",
+                    "name": "Kalpanadevi Murugasamy Maheswari"
+                }
+            ],
+            "abstract": "ABSTRACT Eradication of heavy metal pollution has become the prime priority over the conservation of water resources in the upcoming era. Herein, the study involved the halophilic fungal melanin from Curvularia lunata showed a promising biosorbent for the removal of toxic heavy metals which shows eco-friendly, cost-effective, high stability, and adsorbent efficiency. Polyurethane blended with fungal melanin polymers, makes polymeric nanofibrous membranes through electrospinning techniques. BET isotherms revealed the raw fungal melanin holds a surface area of 3.54 m2/g exhibiting type IV isotherms. BJH results in a total pore volume of 5.79 cc/g with a pore diameter of 6.54 ± 1 nm for pores smaller than 4544.8 Å. Exhibits Eumelanin properties were characterized by FE – SEM and FTIR functional elements. ICPMS confirmed the metal adsorption proficiency on both raw and melanized membranes before and after treatments. Over 17 heavy metals, Ni2+ were adsorbed with 100% efficiency by raw melanin alone with 42.48 µg/L of Ni2+ concentration in the water sample, whereas, Cu2+, Zn2+, Co2+, Cr2+, Pb2+, Mn2+, Al3+, Mo6+, Sb3+, Ba2+, Fe2+, and Mg2+ stands next with 99%. In this study, gentle/simple application of raw fungal melanin (without PUR tailored) can detoxify the maximum concentration of heavy metals present in the water bodies which are further used for irrigation and even drinking purposes. This mycoremediation approach can be easily adapted to industrial production than other high-performance membrane materials with minimal process modification, making it a promising strategy for improving the adsorption properties used in various applications after still furthermore investigation. GRAPHICAL ABSTRACT"
+        },
+        {
+            "paperId": "7d69a5735b46a3e08152c7ec611631a013303ac3",
+            "title": "Fungal melanin-based electrospun membranes for heavy metal detoxification of water",
+            "year": 2020,
+            "openAccessPdf": {
+                "url": "",
+                "status": null,
+                "license": null,
+                "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.susmat.2019.e00146?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.susmat.2019.e00146, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "1581509390",
+                    "name": "Anh N Tran-Ly"
+                },
+                {
+                    "authorId": "47680816",
+                    "name": "J. Ribera"
+                },
+                {
+                    "authorId": "144327542",
+                    "name": "F. Schwarze"
+                },
+                {
+                    "authorId": "119612863",
+                    "name": "M. Brunelli"
+                },
+                {
+                    "authorId": "34911931",
+                    "name": "G. Fortunato"
+                }
+            ],
+            "abstract": "Abstract In recent years, heavy metal pollution in water resources has become a severe environmental and public health problem worldwide. Thereby, enhanced treatments are urgently needed with respect to eco-friendliness, filtration efficiencies and low operational costs. This study demonstrates how fungal melanin extracted from Armillaria cepistipes (Empa 655) can be applied as a promising biosorbent for removal of toxic heavy metals from water. For this aim, an electrospinning technique was developed to incorporate fungal melanin particles, a novel source of adsorptive species, into polymeric nanofibrous membranes to obtain stable and highly porous filtration systems. Starting spinning dispersions were investigated with respect to their rheological behaviour and electrical conductivity and related to morphological and surface properties of the resulting composite fibres and membranes. Metal adsorption assays were then performed on both raw melanin and melanised membranes. At the physiotoxic concentrations of Pb2+, Cd2+, Ni2+ and Cr3+, fungal melanin was able to remove >90% of heavy metals in single-component solutions. In multi-component solutions incorporating Ca2+ and Zn2+, fungal melanin showed a different affinity to different metals in the following order: Pb2+ > Cr3+ > Ni2+ > Cd2+ > Zn2+ > Ca2+ with an extreme preference for Pb2+ (80% removal) over the essential metals (0% and 12% removal for Ca2+ and Zn2+, respectively). The metal adsorption profiles also showed that melanised membranes were able to maintain the adsorption capacity of the raw melanin. Thus, these novel membranes can be efficiently used as filtration membranes for removal of heavy metals from water."
+        },
+        {
+            "paperId": "bba056bd2fa1f17c67fa7d1fded6a2701338fb48",
+            "title": "Seasonal heavy metal effects on detoxification and antioxidant gene expression in the urban honeybee",
+            "year": 2023,
+            "openAccessPdf": {
+                "url": "",
+                "status": "CLOSED",
+                "license": null,
+                "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1111/1748-5967.12691?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1111/1748-5967.12691, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "2127166696",
+                    "name": "G. Gizaw"
+                },
+                {
+                    "authorId": "2323715526",
+                    "name": "Yeong-Yeon Kim"
+                },
+                {
+                    "authorId": "87461971",
+                    "name": "Kyung-Hwan Moon"
+                },
+                {
+                    "authorId": "88811902",
+                    "name": "J. Choi"
+                },
+                {
+                    "authorId": "6966235",
+                    "name": "A. Mwamula"
+                },
+                {
+                    "authorId": "2268794909",
+                    "name": "Dong Woon Lee"
+                },
+                {
+                    "authorId": "2261345907",
+                    "name": "Young Ho Kim"
+                },
+                {
+                    "authorId": "2294024227",
+                    "name": "Jong Kyun Park"
+                }
+            ],
+            "abstract": "Environmental pollutants are associated with honeybee colony losses and may show seasonal concentration variations with respect to the environment and plants. In this study, we examined arsenic (As), lead (Pb), and mercury (Hg) seasonal variations in honey and honeybees in urban areas. Seasonal trends in detoxification (CYP9Q1, CYP9Q2, and CYP9Q3) and antioxidant genes encoding catalase (CAT) and superoxide dismutase (SOD1) were also determined in honeybees. Accordingly, As, Pb, and Hg concentrations were significantly increased in summer in both honey and honeybee samples when compared with other seasons. Similarly, the expression level of CYP9Q1, CYP9Q2, CYP9Q3, SOD1, and CAT showed a significant increase in summer honeybees. This increased expression level particularly in summer honeybees indicating an increased summer honeybee exposure and adaptive oxidative stress responses to environmental pollutants, including heavy metals due to increased flight activity when compared with other seasons. Thus, active season honeybees were subjected to environmental oxidative and detoxification stressors when exposed to environmental pollutants, including heavy metals."
+        }
+    ]
+}

@@ -485,7 +485,9 @@ def LiFuAI_API_NewRelevant_Documents(query: str, num_papers: int, logger, delay:
         list: Retrieved paper information, or None after maximum retries or when no results exist.
     """
     logger.info(f"\n开始使用关键词 '{query}' 检索 {num_papers} 篇包含摘要的论文 (通过 lifuai.com API)...")
-    api_key = os.getenv("LIFUAI_API_KEY", "")
+    api_key = os.environ.get("LIFUAI_API_KEY", "")
+    if not api_key:
+        raise ValueError("LIFUAI_API_KEY environment variable is required")
     headers = {'Authorization': f'Bearer {api_key}'}
     url = "https://lifuai.com/api/v1/graph/v1/paper/search"
 

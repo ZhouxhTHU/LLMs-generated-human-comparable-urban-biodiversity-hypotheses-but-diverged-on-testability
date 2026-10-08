@@ -1,0 +1,1206 @@
+{
+    "understory vegetation noise attenuation birds": [
+        {
+            "paperId": "6fc0aee28f402918a9809ffe326ae919f6f4a4f5",
+            "title": "Urban background noise affects breeding song frequency and syllable-type composition in the Northern Mockingbird",
+            "year": 2019,
+            "openAccessPdf": {
+                "url": "https://academic.oup.com/condor/article-pdf/121/2/duz002/28981625/duz002.pdf",
+                "status": "HYBRID",
+                "license": "CCBY",
+                "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1093/condor/duz002?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1093/condor/duz002, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "153733767",
+                    "name": "Mitchell J Walters"
+                },
+                {
+                    "authorId": "145634039",
+                    "name": "R. Guralnick"
+                },
+                {
+                    "authorId": "9859345",
+                    "name": "N. Kleist"
+                },
+                {
+                    "authorId": "145919111",
+                    "name": "S. Robinson"
+                }
+            ],
+            "abstract": "ABSTRACT The Northern Mockingbird (Mimus polyglottos) is a successful urban adaptor known to display flexibility in foraging, nesting, and anti-predator behavior. Its vocal behavior is also complex, with a breeding song composed of a wide variety of non-mimetic and mimetic elements, or “syllable types.” We tested the hypothesis that Northern Mockingbird adaptation to urban settings includes changes in its vocal behavior in noisy urban environments. We studied an urban/suburban mockingbird population to test the effect of urban background noise on breeding song frequency and syllable-type composition. Given that urban noise overlaps most strongly with low-frequency vocalizations, a phenomenon known as “signal masking,” we predicted a positive association between noise levels and mockingbird average peak frequency (a measure of vocalization power). We further predicted a positive effect of noise levels on the peak frequency of the lowest-pitched syllable type in a mockingbird's song, no effect on the peak frequency of the highest-pitched syllable type, and thus a negative effect on mockingbird peak frequency range. Lastly, we predicted a negative effect of background noise on the use of syllable types experiencing heavy signal masking and, conversely, a positive effect on the use of syllable types experiencing minimal signal masking. We found a significant positive effect of noise levels on both average peak frequency and peak frequency of the lowest-pitched syllable type, but no effect on the peak frequency of the highest-pitched syllable type and peak frequency range. In addition, as background noise levels increased, we found significant declines in the percentages of heavily masked syllable types (1–3 kHz) and significant increases in the percentages of syllable types in the 3–5 kHz range; percentages of syllable types >5 kHz were, however, unaffected by background noise. These results were consistent with the hypothesis that Northern Mockingbird breeding songs change in pitch and syllable-type composition in noisy settings, providing further evidence that songs of urban-adapting species differ in noisy environments."
+        },
+        {
+            "paperId": "a4ffa860dada1d5ebca9e4845fb8e16bc742ee54",
+            "title": "Multiple constraints on urban bird communication: both abiotic and biotic noise shape songs in cities",
+            "year": 2021,
+            "openAccessPdf": {
+                "url": "https://doi.org/10.1093/beheco/arab058",
+                "status": "HYBRID",
+                "license": "CCBY",
+                "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC8528541, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "2302559488",
+                    "name": "Ann Wai Huen To"
+                },
+                {
+                    "authorId": "3730170",
+                    "name": "C. Dingle"
+                },
+                {
+                    "authorId": "122434062",
+                    "name": "S. Collins"
+                }
+            ],
+            "abstract": "Abstract Ambient noise can cause birds to adjust their songs to avoid masking. Most studies investigate responses to a single noise source (e.g., low-frequency traffic noise, or high-frequency insect noise). Here, we investigated the effects of both anthropogenic and insect noise on vocalizations of four common bird species in Hong Kong. Common Tailorbirds (Orthotomus sutorius) and Eurasian Tree Sparrows (Passer montanus) both sang at a higher frequency in urban areas compared to peri-urban areas. Red-whiskered Bulbuls (Pycnonotus jocosus) in urban areas shifted the only first note of their song upwards. Swinhoe’s White-eye (Zosterops simplex) vocalization changes were correlated with noise level, but did not differ between the peri-urban and urban populations. Insect noise caused the Eurasian Tree Sparrow to reduce both maximum, peak frequency, and overall bandwidth of vocalizations. Insect noise also led to a reduction in maximum frequency in Red-whiskered bulbuls. The presence of both urban noise and insect noise affected the sound of the Common Tailorbirds and Eurasian Tree Sparrows; in urban areas, they no longer increased their minimum song frequency when insect sounds were also present. These results highlight the complexity of the soundscape in urban areas. The presence of both high- and low-frequency ambient noise may make it difficult for urban birds to avoid signal masking while still maintaining their fitness in noisy cities."
+        },
+        {
+            "paperId": "26563c8805646f52dc45cae8ea1f772bb5ba3ad1",
+            "title": "Anthropogenic noise and habitat structure shaping dominant frequency of bird sounds along urban gradients",
+            "year": 2024,
+            "openAccessPdf": {
+                "url": "http://www.cell.com/article/S2589004224002773/pdf",
+                "status": "GOLD",
+                "license": "CCBYNCND",
+                "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC10867645, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "120982870",
+                    "name": "Zezhou Hao"
+                },
+                {
+                    "authorId": "2276225123",
+                    "name": "Chengyun Zhang"
+                },
+                {
+                    "authorId": "2188983448",
+                    "name": "Le Li"
+                },
+                {
+                    "authorId": "2282194389",
+                    "name": "Bingtao Gao"
+                },
+                {
+                    "authorId": "2185210594",
+                    "name": "Ruichen Wu"
+                },
+                {
+                    "authorId": "2282186610",
+                    "name": "Nancai Pei"
+                },
+                {
+                    "authorId": "2239778662",
+                    "name": "Yang Liu"
+                }
+            ],
+            "abstract": "Summary The shifts of bird song frequencies in urbanized areas provide a unique system to understand avian acoustic responses to urbanization. Using passive acoustic monitoring and automatic bird sound recognition technology, we explored the frequency variations of six common urban bird species and their associations with habitat structures. Our results demonstrated that bird song frequencies in urban areas were significantly higher than those in peri-urban and rural areas. Anthropogenic noise and habitat structure were identified as crucial factors shaping the acoustic space for birds. We found that noise, urbanization, and open understory spaces are factors contributing to the increase in the dominant frequency of bird sounds. However, habitat variables such as vegetation density and tree height can potentially slow down this upward trend. These findings offer essential insights into the behavioral response of birds in a variety of urban forest habitats, with implications for urban ecosystem management and habitat restoration."
+        },
+        {
+            "paperId": "cbe94f97d268499cfd1ec94480881b35329021ae",
+            "title": "Soundscape Design in an Urban Natural Park",
+            "year": 2024,
+            "openAccessPdf": {
+                "url": "https://doi.org/10.3390/land13101546",
+                "status": "GOLD",
+                "license": "CCBY",
+                "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3390/land13101546?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3390/land13101546, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "2065592177",
+                    "name": "L. Cristea"
+                },
+                {
+                    "authorId": "72469093",
+                    "name": "Marius Deaconu"
+                },
+                {
+                    "authorId": "98761751",
+                    "name": "L. Dragasanu"
+                },
+                {
+                    "authorId": "2121725606",
+                    "name": "Cornel Mihai Tărăbîc"
+                },
+                {
+                    "authorId": "2143343358",
+                    "name": "Dan Bărbulescu"
+                }
+            ],
+            "abstract": "Urban natural parks represent a remarkable concept that evokes the coexistence of human habitation with a wild environment, and the associated interactions between human and natural territories. In this context, urban noise infringes upon the natural soundscape, leading to various consequences for both realms. This study seeks to characterize the impact of anthropic noise levels on biodiversity in the urban natural Văcărești Park (Bucharest, Romania), utilizing on-site measurements and software simulation techniques. The study seeks to develop a method for evaluating integrative strategies to mitigate the impact of traffic noise on wildlife in an urban wild park, without addressing the specific effects of noise on the perception and communication of individual species. By calibrating field measurements with laboratory results, a more reliable data set will be used to identify areas where the biophonic environment is impacted by anthropogenic noise. Since human-generated noise in an urban natural park predominantly originates from road traffic and industrial sites, managing traffic noise and its propagation pathways could substantially improve the park’s soundscape. Additionally, this study will apply software simulations for noise reduction strategies, such as vegetation planting and earthen embankments, to obtain suitable solutions and propose plausible and effective actions to authorities for improving the biophonic environment. This research could also serve as the basis for long-term monitoring, allowing for the assessment of the evolution and impact of implemented measures over time."
+        },
+        {
+            "paperId": "e29b553d2eddecee7a2357ec2db694549595c7a3",
+            "title": "Evaluation of plant community composition and ecological benefits based on six urban greenway plant species",
+            "year": 2025,
+            "openAccessPdf": {
+                "url": "",
+                "status": null,
+                "license": "CCBYNCND",
+                "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC12595056, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "2391133911",
+                    "name": "Shuxin Bian"
+                },
+                {
+                    "authorId": "2115320191",
+                    "name": "Yibing Feng"
+                },
+                {
+                    "authorId": "2351797964",
+                    "name": "Yang Shi"
+                }
+            ],
+            "abstract": "With the acceleration of urbanization, urban greenways, as an important part of urban ecosystems, play a crucial role in maintaining ecological balance and enhancing urban environmental quality through the diversity and structure of their plant communities. This study analyzed 30 sample sites from 10 urban greenways in Minhang District, Shanghai, focusing on 4 biodiversity indices (SRI, SDI, SWDI, SE) and 5 ecological benefit indicators (microclimate adjustment, negative oxygen ion provision, PM2.5/PM10/TSP reduction, noise reduction, wind protection). The results showed that mixed vegetation types (MDEBF and MCBF) had significant advantages in biodiversity, their SRI reached 11.82 ± 1.37 and 13.00 ± 0.00, SDI reached 0.47 ± 0.05 and 0.52 ± 0.11, SWDI reached 0.81 ± 0.08 and 0.87 ± 0.20, and SE reached 0.63 ± 0.05 and 0.65 ± 0.14, all significantly higher than other types (P < 0.05). In terms of ecological benefits, MDEBF and MCBF performed more prominently: MDEBF had an average cooling rate of 22.75%, negative oxygen ion CI enhancement rate of 62.45%, and PM10 reduction rate of 13.58%; MCBF had a PM2.5 reduction rate of 14.04% and wind speed attenuation rate of 50.97%, which were better than single vegetation types. In contrast, monoculture evergreen broad-leaved forest (EBF) performed relatively poorly in both biodiversity (the lowest SRI of 5.83 ± 1.28 and SWDI of 0.20 ± 0.03) and ecological benefits. In addition, structural characteristics of plant communities, such as mean canopy width and mean sub-leaf height, were significantly correlated with their ecological benefits (P < 0.05). The results of the study provide a scientific basis for optimizing the plant configuration of urban greenways and enhancing their ecological functions, which can help promote sustainable urban development."
+        }
+    ],
+    "shrub restoration acoustic masking birds": [
+        {
+            "paperId": "aa6e781036dfab583a108e02fa40eea90d2187bb",
+            "title": "Slope does not affect autonomous recorder detection shape: considerations for acoustic monitoring in forested landscapes",
+            "year": 2021,
+            "openAccessPdf": {
+                "url": "https://figshare.com/articles/journal_contribution/Slope_does_not_affect_autonomous_recorder_detection_shape_considerations_for_acoustic_monitoring_in_forested_landscapes/14690933/1/files/28214024.pdf",
+                "status": "GREEN",
+                "license": "CCBY",
+                "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1080/09524622.2021.1925590?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1080/09524622.2021.1925590, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "2067430417",
+                    "name": "Taylor Shaw"
+                },
+                {
+                    "authorId": "12610357",
+                    "name": "S. Müller"
+                },
+                {
+                    "authorId": "1397648516",
+                    "name": "M. Scherer‐Lorenzen"
+                }
+            ],
+            "abstract": "ABSTRACT To date, there are no published guidelines on how to optimally install recorders on sloped terrain, although slope could potentially affect a recorder’s detection space. This study experimentally investigated the effect of microphone orientation in relation to slope of recorders from two cost classes. We installed four recorders at each plot centre (n = 16), oriented either parallel or perpendicular to the slope. We played standard tones of 1–11 kHz at distances of 10, 20, 40 and 80 m from the recorders. Our two response variables were the presence/absence of each tone (coarse spatial scale) and predicted sound extinction distance (fine spatial scale), which were tested for effects of microphone orientation and sound source direction (SSD). We observed a significant effect of microphone orientation on extinction distance when recorders were perpendicular to the slope at the finer spatial scale as an interaction with SSD, indicating that microphones are biased towards the direction they face. Despite the advertised directionality of most recorder microphones, detection space is not circular. This trend was observed across all frequencies, for both high- and low-cost recorders. Microphone orientation in relation to slope is not an important methodological consideration, instead dominant factors such as frequency and prevailing wind direction drive detection space shape."
+        },
+        {
+            "paperId": "5ea480dd1e9f577361f7728a8565e9d1021e75c5",
+            "title": "Hybrid bioacoustic and ecoacoustic analyses provide new links between bird assemblages and habitat quality in a winter boreal forest",
+            "year": 2021,
+            "openAccessPdf": {
+                "url": "https://doi.org/10.1016/j.indic.2021.100141",
+                "status": "GOLD",
+                "license": "CCBYNCND",
+                "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/J.INDIC.2021.100141?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/J.INDIC.2021.100141, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "2067430417",
+                    "name": "Taylor Shaw"
+                },
+                {
+                    "authorId": "2132345759",
+                    "name": "Raluca Hedes"
+                },
+                {
+                    "authorId": "122012756",
+                    "name": "A. Sandstrom"
+                },
+                {
+                    "authorId": "47690128",
+                    "name": "Alejandro Ruete"
+                },
+                {
+                    "authorId": "39242515",
+                    "name": "M. Hiron"
+                },
+                {
+                    "authorId": "1986610",
+                    "name": "M. Hedblom"
+                },
+                {
+                    "authorId": "40235590",
+                    "name": "S. Eggers"
+                },
+                {
+                    "authorId": "3632592",
+                    "name": "G. Mikusiński"
+                }
+            ],
+            "abstract": "Abstract Resident birds in boreal forests can serve as indicators of habitat quality and are often species of conservation interest, particularly in multifunctional forests also used for timber production. To make informed forest management decisions, we must first understand which structural features provide habitats useful for resident birds. This is particularly true in winter, an understudied and critical season for their survival. The objective of this study was to establish reliable methods for monitoring bird presence and activity during winter, and to use these methods to evaluate the relative importance of stand structural features to make inferences about which features support and increase winter survival potential. Using a hybrid bioacoustic and ecoacoustic approach, we tested the ability of acoustic recordings to identify links between bird diversity and components of structural complexity, and compared these results to those from the traditional point count method. We conducted a vegetation survey, point count surveys and collected acoustic recordings from December 2019–February 2020 in 19 sites in a Swedish boreal forest. First, we compared species richness values derived from point counts and bioacoustic monitoring methods. Bioacoustic species richness was significantly higher than point count richness, although only when the time spent identifying species from recordings exceeded the time spent conducting point counts in the field. Next, we demonstrated that bioacoustic species identification yields additional metrics of bird activity that point counts cannot. We tested the response of these metrics, and point count metrics, to variables of structural heterogeneity and complexity of our sites. Almost all bioacoustic metrics increased significantly with increasing structural complexity, while point count richness and abundance did not, indicating that automated recording is more effective in identifying forest patches of high quality in winter. Lastly, using an ecoacoustic approach, we calculated six of the most common acoustic indices and tested if any could effectively reflect the bird-structure relationships described above. Two indices showed significant positive relationships to bioacoustic metrics, demonstrating their potential as biodiversity assessment proxies that respond to differences in habitat quality. This is the first winter acoustic study to monitor bird assemblages in detail; it employed both bioacoustic and multi-index ecoacoustic approaches, which provided evidence that automated acoustic recording can be an effective and superior method for monitoring resident forest birds."
+        },
+        {
+            "paperId": "14c84facf35f2dd559a963ceef9a9188f7340c75",
+            "title": "Listening for change: quantifying the impact of ecological restoration on soundscapes in a tropical dry forest",
+            "year": 2023,
+            "openAccessPdf": {
+                "url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/rec.13864",
+                "status": "HYBRID",
+                "license": "CCBY",
+                "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1111/rec.13864?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1111/rec.13864, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "1484515084",
+                    "name": "P. Choksi"
+                },
+                {
+                    "authorId": "2200644766",
+                    "name": "Mayuri Kotian"
+                },
+                {
+                    "authorId": "2200625065",
+                    "name": "Siddharth Biniwale"
+                },
+                {
+                    "authorId": "2200629373",
+                    "name": "Pravar Mourya"
+                },
+                {
+                    "authorId": "2200644769",
+                    "name": "Devendra Korche"
+                },
+                {
+                    "authorId": "14586904",
+                    "name": "M. Agarwala"
+                },
+                {
+                    "authorId": "115012257",
+                    "name": "Sarika Khanwilkar"
+                },
+                {
+                    "authorId": "1923787993",
+                    "name": "V. Ramesh"
+                },
+                {
+                    "authorId": "31419300",
+                    "name": "R. DeFries"
+                }
+            ],
+            "abstract": "Ecological restoration is crucial to mitigate climate change and conserve biodiversity, and accurately monitoring responses to restoration is imperative to guide current and future efforts. This study examines the impact of ecological restoration of a tropical dry forest in Central India. Here, the state forest department and a nongovernmental organization work with local communities to remove an invasive shrub, Lantana camara, in the forest, to assist natural regeneration, primarily for the purpose of improving access to forest resources for forest‐dependent people. We used acoustic technology to examine the bird community composition and the acoustic space used (ASU) across comparable restored, unrestored (with L. camara), and naturally low L. camara density (LLD) sites. We found no significant difference in the cumulative number of bird species detected between the site types (median in restored and LLD = 38, unrestored = 41). We found a significant difference in bird community composition across sites (r2 = 0.049, p ≤ 0.001). ASU differs between site types (r2 = 0.023, p ≤ 0.10), with restored sites positively associated with ASU compared to unrestored and LLD sites, which could represent a temporary increase in ASU as animal communities are reorganized after the complete removal of L. camara. Our results suggest that small‐scale restoration efforts that aim to help meet livelihood needs have the potential to contribute to ecological goals in this landscape. However, it is necessary to continue to monitor the regeneration trajectory in restored sites and the possible changes in the ASU."
+        },
+        {
+            "paperId": "36cdbba92357e23115c70a5cdaa74a4b2e3387cc",
+            "title": "Passive acoustic data yields insights into bird vocalization behavior associated with invasive shrub removal",
+            "year": 2024,
+            "openAccessPdf": {
+                "url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/btp.13330",
+                "status": "HYBRID",
+                "license": "CCBY",
+                "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1111/btp.13330?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1111/btp.13330, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "2200644766",
+                    "name": "Mayuri Kotian"
+                },
+                {
+                    "authorId": "2366458790",
+                    "name": "Pavithra Sundar"
+                },
+                {
+                    "authorId": "2186712107",
+                    "name": "Taksh Sangwan"
+                },
+                {
+                    "authorId": "1484515084",
+                    "name": "P. Choksi"
+                }
+            ],
+            "abstract": "Monitoring biodiversity changes associated with ecological restoration is crucial in the current UN Decade on Restoration. Although several studies highlight the impacts of restoration on ecosystems, it is also important to understand how restoration alters species' behavior, including vocalization. Advances in conservation technology, such as passive acoustic monitoring, facilitate rapid and noninvasive monitoring. In this study, we quantified changes in the vocal behavior of a bird species in response to small‐scale restoration carried out by removing the invasive shrub, Lantana camara (lantana), in a Central Indian tropical dry forest. We examined associations between sites of varying lantana densities and the vocalization of one of its primary dispersers, red‐vented bulbul (RVBU). We found statistically significant differences in note‐length and bandwidth of RVBU vocalizations across sites. A random forest classification model showed that Lantana density was not an important predictor of RVBU vocalizations. Apart from the percentage of forest area and farms in our sites, total human population was the most important predictor for RVBU vocalizations suggesting RVBU's use of human habitations as possible resource hubs. Our findings suggest that lantana removal is not associated with significant changes in RVBU vocalization. This study provides empirical evidence that ecological restoration may not alter species' vocalization in the short term and highlights the importance of moving beyond species presence and understanding the impact of restoration on species behavior."
+        },
+        {
+            "paperId": "56b0586fa689fc228c16696fef3c7a5f1b7a101d",
+            "title": "Non‐native invasive plants in tropical dry forests: a global review of presence, impacts, and management",
+            "year": 2024,
+            "openAccessPdf": {
+                "url": "https://doi.org/10.1111/rec.14288",
+                "status": "HYBRID",
+                "license": "CCBYNC",
+                "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1111/rec.14288?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1111/rec.14288, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "2179679980",
+                    "name": "Nora G. Hardy"
+                },
+                {
+                    "authorId": "153007104",
+                    "name": "S. Kuebbing"
+                },
+                {
+                    "authorId": "3498054",
+                    "name": "M. Duguid"
+                },
+                {
+                    "authorId": "2275500665",
+                    "name": "Mark S. Ashton"
+                },
+                {
+                    "authorId": "103822711",
+                    "name": "Karam C. Sheban"
+                },
+                {
+                    "authorId": "90101727",
+                    "name": "S. Inman"
+                },
+                {
+                    "authorId": "2274709876",
+                    "name": "Meredith P. Martin"
+                }
+            ],
+            "abstract": "Tropical dry forests (TDF) are among the most‐threatened terrestrial ecosystems, experiencing ongoing conversion to agricultural fields, pasture, and human settlements. Human disturbances are often precursors to invasion of ecosystems by non‐native species, but research on invasion patterns in tropical ecosystems is sparse, and there is no comprehensive synthesis of invasive species in TDF. We conducted a review of published scientific literature to catalog and synthesize information about invasion by non‐native plants in TDF ecosystems across the globe, drawing out patterns in the invasion of these ecosystems. We found that 130 invasive plant species were documented as present in TDF, but only 25 of these species were mentioned in three or more articles. Almost all 25 of these more‐studied invasive species—mostly pasture grasses, woody legumes, and climbers—have been intentionally cultivated for agricultural or ornamental purposes. Many of these plants are native to open‐canopy savanna or forest edge habitats and benefit from human‐altered disturbance regimes (burning, grazing, and fuelwood and timber harvesting) of TDF fragments within agricultural landscapes. Field studies show that management approaches incorporating invasive removal, native plantings, and reduction in agricultural disturbance (e.g. ungulate fencing and fire control) simultaneously are often the most successful at reducing invasive plant cover. However, management studies in TDF have focused on a limited number of invasive species, and most were conducted in India and Hawaii. Global differences in TDF soils, natural fire regimes, and historic and current land use by humans influence modern biogeographic patterns of invasion and the feasibility of restoration options."
+        }
+    ],
+    "vegetation structure mitigating acoustic masking": [
+        {
+            "paperId": "c5dc397861defea0eb2736be1369cc7c5fa9d720",
+            "title": "Flexibility in Animal Signals Facilitates Adaptation to Rapidly Changing Environments",
+            "year": 2011,
+            "openAccessPdf": {
+                "url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0025413&type=printable",
+                "status": "GOLD",
+                "license": "CCBY",
+                "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC3182216, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "49133710",
+                    "name": "D. Proppe"
+                },
+                {
+                    "authorId": "118448670",
+                    "name": "C. Sturdy"
+                },
+                {
+                    "authorId": "145394186",
+                    "name": "C. S. St. Clair"
+                }
+            ],
+            "abstract": "Charles Darwin posited that secondary sexual characteristics result from competition to attract mates. In male songbirds, specialized vocalizations represent secondary sexual characteristics of particular importance because females prefer songs at specific frequencies, amplitudes, and duration. For birds living in human-dominated landscapes, historic selection for song characteristics that convey fitness may compete with novel selective pressures from anthropogenic noise. Here we show that black-capped chickadees (Poecile atricapillus) use shorter, higher-frequency songs when traffic noise is high, and longer, lower-frequency songs when noise abates. We suggest that chickadees balance opposing selective pressures by use low-frequency songs to preserve vocal characteristics of dominance that repel competitors and attract females, and high frequency songs to increase song transmission when their environment is noisy. The remarkable vocal flexibility exhibited by chickadees may be one reason that they thrive in urban environments, and such flexibility may also support subsequent genetic adaptation to an increasingly urbanized world."
+        },
+        {
+            "paperId": "fbb8ca8ab439c9ec53a03dc1cdea4540b14b53fb",
+            "title": "Black-capped chickadees (Poecile atricapillus) alter alarm call duration and peak frequency in response to traffic noise",
+            "year": 2020,
+            "openAccessPdf": {
+                "url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0241035&type=printable",
+                "status": "GOLD",
+                "license": "CCBY",
+                "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC7595340, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "35198649",
+                    "name": "J. Courter"
+                },
+                {
+                    "authorId": "2007584614",
+                    "name": "Rebecca J Perruci"
+                },
+                {
+                    "authorId": "83971283",
+                    "name": "K. J. McGinnis"
+                },
+                {
+                    "authorId": "2007558074",
+                    "name": "Jacqueline K Rainieri"
+                }
+            ],
+            "abstract": "Anthropogenic noise is an often-overlooked byproduct of urbanization and affects the soundscape in which birds communicate. Previous studies assessing the impact of traffic noise have focused on bird song, with many studies demonstrating the ability of birds to raise song frequency in the presence of low-frequency traffic noise to avoid masking. Less is known about the impact of traffic noise on avian alarm calls, which is surprising given the degree to which predator information within alarm calls may impact fitness. The objective of this study was to assess the impacts of traffic noise on the Black-capped Chickadees (Poecile atricapillus), a small non-migratory songbird with a well-studied and information-rich alarm call. We studied birds at eight locations in Stark County, Ohio, from 15 January to 7 March 2016, and used a taxidermic mount of an Eastern Screech-Owl to elicit alarm calls. In half of the trials, a pre-recorded traffic noise track was also broadcasted at 50 decibels. In noise trials, chickadee calls contained more introductory notes (P < 0.001), more total notes (P < 0.001), were of longer duration (P < 0.001), and had lower introductory and D-note peak frequencies (P = 0.032 and P = 0.041, respectively). No differences were noted in the number of D-notes per call between noise and control trials. Modifying alarm call duration and frequency, without changing the number of D-notes, may be a strategy that chickadees use to convey predator information and to coordinate a threat-appropriate mobbing response when it is not possible to change call type. Our results add to the small, but growing, literature documenting the effects of anthropogenic noise on avian alarm calls, demonstrate the flexibility and complexity of chickadee calls given in response to predators, and may partially explain why chickadees adapt well to urban areas."
+        },
+        {
+            "paperId": "4f13ae27afaca6aecbd99208ae96446a7ce89e71",
+            "title": "The adaptation and fitness costs to urban noise in the calls of the tree sparrow (Passer montanus)",
+            "year": 2025,
+            "openAccessPdf": {
+                "url": "https://doi.org/10.1038/s41598-025-88287-8",
+                "status": "GOLD",
+                "license": "CCBYNCND",
+                "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC11825673, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "2304237507",
+                    "name": "Dae-Han Cho"
+                },
+                {
+                    "authorId": "2297514954",
+                    "name": "Ju‐Hyun Lee"
+                },
+                {
+                    "authorId": "2223118005",
+                    "name": "Jae-Ung Jang"
+                },
+                {
+                    "authorId": "2218824742",
+                    "name": "Jong-Ju Son"
+                },
+                {
+                    "authorId": "2304148656",
+                    "name": "Ha-Cheol Sung"
+                }
+            ],
+            "abstract": "Acoustic communication is one of the primary ways birds transmit and acquire important information. Birds living in urban environments are limited in the transmission and recognition of vocalizations due to intense low-frequency anthropogenic noise, but the Acoustic Adaptation Hypothesis (AAH) suggests that birds mitigate the masking effects of noise by modifying the structure and properties of their vocalizations. Although these adaptations can increase the efficiency of communication, they also impose potential fitness costs on the sender and receiver, which can negatively impact survival. The contact and alarm calls of tree sparrows have a frequency range of 1–10 kHz, which makes them likely to be partially masked by urban noise, limiting communication between individuals and interactions within populations. Thus, based on the AAH, we examined the modifications of contact and alarm calls in response to urban noise and confirmed the potential fitness costs of these modifications in tree sparrows. We recorded two contact calls and an alarm call at 80 sites with varying urban noise levels in Gwangju, Naju, and Damyang from March to April 2023. Both types of contact calls tended to have higher peak frequencies and shorter durations as urban noise increased. Alarm calls tended to increase in the number of notes and duration with increasing urban noise. These results indicate that tree sparrows respond to noisy environments through modifications of the spectral and temporal characteristics of their vocalizations. However, these adaptations impose potential fitness costs on both the sender and the receiver."
+        },
+        {
+            "paperId": "4d06bdf923e339e8ad9fd65cfb9da3020bdf1622",
+            "title": "An Integrative Assessment of a Mangrove Ecosystem: Sustainability and Management in Muara Angke, Jakarta",
+            "year": 2026,
+            "openAccessPdf": {
+                "url": "",
+                "status": null,
+                "license": null,
+                "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3390/su18010464?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3390/su18010464, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "2313160592",
+                    "name": "Nyoto Santoso"
+                },
+                {
+                    "authorId": "2275888680",
+                    "name": "Oktovianus"
+                },
+                {
+                    "authorId": "104460531",
+                    "name": "Adam Rachmatullah"
+                },
+                {
+                    "authorId": "147947720",
+                    "name": "Reno Catelya Dira Oktavia"
+                },
+                {
+                    "authorId": "2315585033",
+                    "name": "Dina Sri Suprajanti"
+                },
+                {
+                    "authorId": "2315588593",
+                    "name": "Ricky Avenzora"
+                }
+            ],
+            "abstract": "The mangrove ecosystems in Muara Angke, Jakarta, serve as a national benchmark for sustainable mangrove management in Indonesia, yet face significant urban pressures threatening their long-term viability. This study evaluates the ecological integrity and governance effectiveness of this critical ecosystem, covering Wildlife Reserve, Nature Park, Protected Forest, and Production Forest areas totaling 327.7 hectares. An exploratory mixed-methods approach was employed over four months (June–September 2025), integrating vegetation diversity assessments through plot sampling, avifauna surveys via point count methods, herpetofauna identification using Visual Encounter Surveys, water quality assessments through systematic literature review, geospatial analysis of mangrove dynamics using Sentinel-2A imagery (2015–2025), and social-governance evaluation using close-ended questionnaires and One Score One Criteria Scoring System. Results revealed moderate to severe water pollution with phosphate and nitrate exceeding standards, moderate vegetation diversity (13 species; Shannon-Wiener H′ = 1.466–1.728), high avifaunal diversity (55 species; H′ = 3.54) confirming significance along the East Asian-Australasian Flyway, and significant sediment accretion (32 hectares) attributed to coastal reclamation. Management evaluation identified critical conservation compliance deficiencies (score 1.43/7). The findings indicate urgent need for integrated interventions including pollution control, ecosystem-based restoration, enhanced monitoring, and cross-sector policy integration to prevent rapid mangrove degradation and ensure sustainability of this ecologically significant urban mangrove ecosystem."
+        },
+        {
+            "paperId": "2a1137c345068b99562b1b4742a0900a4a064887",
+            "title": "Assessment of Mangrove Distribution, Carbon Stock, and Carbon Sequestration toward Sustainable Coastal Management in Northern Coastal of Subang Regency, Indonesia",
+            "year": 2026,
+            "openAccessPdf": {
+                "url": "",
+                "status": null,
+                "license": null,
+                "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.29244/jpsl.16.2.136?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.29244/jpsl.16.2.136, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "2313160592",
+                    "name": "Nyoto Santoso"
+                },
+                {
+                    "authorId": "2292524036",
+                    "name": "R. Asy’Ari"
+                },
+                {
+                    "authorId": "2325062243",
+                    "name": "Aulia Ulfa"
+                },
+                {
+                    "authorId": "104460531",
+                    "name": "Adam Rachmatullah"
+                },
+                {
+                    "authorId": "2222129272",
+                    "name": "Octovianus"
+                },
+                {
+                    "authorId": "2088683924",
+                    "name": "Y. Ramadhan"
+                }
+            ],
+            "abstract": "Mangrove ecosystems play a crucial role in climate change mitigation through carbon sequestration; however, increasing anthropogenic pressures threaten their function as carbon sinks. Along the northern coast of Subang, Indonesia, information on mangrove carbon stocks remains limited despite its importance for sustainable coastal management. This study assesses mangrove distribution and estimates carbon stocks and CO₂ sequestration potential using Sentinel-2 MultiSpectral Instrument (MSI) remote sensing data. The research was conducted over a period of 5 months, from the midle of June to November 2025. The results show that mangrove density averaged 8,067 ± 5,332 trees ha⁻¹, dominated by Avicennia marina (69%). Estimated carbon stocks reached 183.73 ± 97.04 Mg C ha⁻¹, comprising 130.11 ± 70.36 Mg C ha⁻¹ of aboveground carbon and 53.62 ± 26.95 Mg C ha⁻¹ of belowground carbon. Across 2,684 ha, total carbon storage was estimated at 268,577 Mg C, equivalent to a CO₂ sequestration potential of 984,782 Mg CO₂e. The Support Vector Machine (SVM) Linear model achieved the highest prediction accuracy (R² = 0.86; RMSE = 0.07; MAE = 0.06). These findings highlight the significant contribution of Subang’s mangroves to climate change mitigation and provide essential data to support sustainable coastal management and Indonesia’s FOLU Net Sink 2030 target."
+        }
+    ],
+    "urban understory bird acoustic communication": [
+        {
+            "paperId": "268cc412bd83e73c46e6ac2f51269bf7e894ceb8",
+            "title": "Hypertension and Exposure to Noise near Airports (HYENA): Study Design and Noise Exposure Assessment",
+            "year": 2005,
+            "openAccessPdf": {
+                "url": "https://doi.org/10.1289/ehp.8037",
+                "status": "GOLD",
+                "license": "public-domain",
+                "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC1310905, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "3699882",
+                    "name": "L. Jarup"
+                },
+                {
+                    "authorId": "35730434",
+                    "name": "Marie-Louise Dudley"
+                },
+                {
+                    "authorId": "6393303",
+                    "name": "W. Babisch"
+                },
+                {
+                    "authorId": "3851572",
+                    "name": "D. Houthuijs"
+                },
+                {
+                    "authorId": "143675441",
+                    "name": "W. Swart"
+                },
+                {
+                    "authorId": "3594026",
+                    "name": "G. Pershagen"
+                },
+                {
+                    "authorId": "40222542",
+                    "name": "G. Bluhm"
+                },
+                {
+                    "authorId": "152736825",
+                    "name": "K. Katsouyanni"
+                },
+                {
+                    "authorId": "7008563",
+                    "name": "M. Velonakis"
+                },
+                {
+                    "authorId": "3856679",
+                    "name": "E. Cadum"
+                },
+                {
+                    "authorId": "1413141857",
+                    "name": "F. Vigna-Taglianti"
+                }
+            ],
+            "abstract": "An increasing number of people live near airports with considerable noise and air pollution. The Hypertension and Exposure to Noise near Airports (HYENA) project aims to assess the impact of airport-related noise exposure on blood pressure (BP) and cardiovascular disease using a cross-sectional study design. We selected 6,000 persons (45–70 years of age) who had lived at least 5 years near one of six major European airports. We used modeled aircraft noise contours, aiming to maximize exposure contrast. Automated BP instruments are used to reduce observer error. We designed a standardized questionnaire to collect data on annoyance, noise disturbance, and major confounders. Cortisol in saliva was collected in a subsample of the study population (n = 500) stratified by noise exposure level. To investigate short-term noise effects on BP and possible effects on nighttime BP dipping, we measured 24-hr BP and assessed continuous night noise in another sub-sample (n = 200). To ensure comparability between countries, we used common noise models to assess individual noise exposure, with a resolution of 1 dB(A). Modifiers of individual exposure, such as the orientation of living and bedroom toward roads, window-opening habits, and sound insulation, were assessed by the questionnaire. For four airports, we estimated exposure to air pollution to explore modifying effects of air pollution on cardiovascular disease. The project assesses exposure to traffic-related air pollutants, primarily using data from another project funded by the European Union (APMoSPHERE, Air Pollution Modelling for Support to Policy on Health and Environmental Risks in Europe)."
+        },
+        {
+            "paperId": "edc42ebd10600bd73fa5c742867e2fa165f69aef",
+            "title": "Hypertension and Exposure to Noise Near Airports: the HYENA Study",
+            "year": 2007,
+            "openAccessPdf": {
+                "url": "https://doi.org/10.1289/ehp.10775",
+                "status": "GOLD",
+                "license": "public-domain",
+                "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC2265027, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "3699882",
+                    "name": "L. Jarup"
+                },
+                {
+                    "authorId": "6393303",
+                    "name": "W. Babisch"
+                },
+                {
+                    "authorId": "3851572",
+                    "name": "D. Houthuijs"
+                },
+                {
+                    "authorId": "3594026",
+                    "name": "G. Pershagen"
+                },
+                {
+                    "authorId": "152736825",
+                    "name": "K. Katsouyanni"
+                },
+                {
+                    "authorId": "3856679",
+                    "name": "E. Cadum"
+                },
+                {
+                    "authorId": "35730434",
+                    "name": "Marie-Louise Dudley"
+                },
+                {
+                    "authorId": "1419703907",
+                    "name": "Pauline Savigny"
+                },
+                {
+                    "authorId": "6069793",
+                    "name": "I. Seiffert"
+                },
+                {
+                    "authorId": "143675441",
+                    "name": "W. Swart"
+                },
+                {
+                    "authorId": "5482157",
+                    "name": "O. Breugelmans"
+                },
+                {
+                    "authorId": "40222542",
+                    "name": "G. Bluhm"
+                },
+                {
+                    "authorId": "2249649108",
+                    "name": "Jenny Selander"
+                },
+                {
+                    "authorId": "5483323",
+                    "name": "A. Haralabidis"
+                },
+                {
+                    "authorId": "4109314",
+                    "name": "K. Dimakopoulou"
+                },
+                {
+                    "authorId": "3592887",
+                    "name": "P. Sourtzi"
+                },
+                {
+                    "authorId": "7008563",
+                    "name": "M. Velonakis"
+                },
+                {
+                    "authorId": "2291754607",
+                    "name": "F. Vigna-Taglianti"
+                }
+            ],
+            "abstract": "Background An increasing number of people are exposed to aircraft and road traffic noise. Hypertension is an important risk factor for cardiovascular disease, and even a small contribution in risk from environmental factors may have a major impact on public health. Objectives The HYENA (Hypertension and Exposure to Noise near Airports) study aimed to assess the relations between noise from aircraft or road traffic near airports and the risk of hypertension. Methods We measured blood pressure and collected data on health, socioeconomic, and lifestyle factors, including diet and physical activity, via questionnaire at home visits for 4,861 persons 45–70 years of age, who had lived at least 5 years near any of six major European airports. We assessed noise exposure using detailed models with a resolution of 1 dB (5 dB for United Kingdom road traffic noise), and a spatial resolution of 250 × 250 m for aircraft and 10 × 10 m for road traffic noise. Results We found significant exposure–response relationships between night-time aircraft as well as average daily road traffic noise exposure and risk of hypertension after adjustment for major confounders. For night-time aircraft noise, a 10-dB increase in exposure was associated with an odds ratio (OR) of 1.14 [95% confidence interval (CI), 1.01–1.29]. The exposure–response relationships were similar for road traffic noise and stronger for men with an OR of 1.54 (95% CI, 0.99–2.40) in the highest exposure category (> 65 dB; ptrend = 0.008). Conclusions Our results indicate excess risks of hypertension related to long-term noise exposure, primarily for night-time aircraft noise and daily average road traffic noise."
+        },
+        {
+            "paperId": "9b2e578fbd768b6b0a7975b4bd139f449e6802db",
+            "title": "Noise Pollution Filters Bird Communities Based on Vocal Frequency",
+            "year": 2011,
+            "openAccessPdf": {
+                "url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0027052&type=printable",
+                "status": "GOLD",
+                "license": "CCBY",
+                "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC3212537, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "7535039",
+                    "name": "C. D. Francis"
+                },
+                {
+                    "authorId": "144533318",
+                    "name": "C. P. Ortega"
+                },
+                {
+                    "authorId": "144040798",
+                    "name": "A. Cruz"
+                }
+            ],
+            "abstract": "Background Human-generated noise pollution now permeates natural habitats worldwide, presenting evolutionarily novel acoustic conditions unprecedented to most landscapes. These acoustics not only harm humans, but threaten wildlife, and especially birds, via changes to species densities, foraging behavior, reproductive success, and predator-prey interactions. Explanations for negative effects of noise on birds include disruption of acoustic communication through energetic masking, potentially forcing species that rely upon acoustic communication to abandon otherwise suitable areas. However, this hypothesis has not been adequately tested because confounding stimuli often co-vary with noise and are difficult to separate from noise exposure. Methodology/Principal Findings Using a natural experiment that controls for confounding stimuli, we evaluate whether species vocal features or urban-tolerance classifications explain their responses to noise measured through habitat use. Two data sets representing nesting and abundance responses reveal that noise filters bird communities nonrandomly. Signal duration and urban tolerance failed to explain species-specific responses, but birds with low-frequency signals that are more susceptible to masking from noise avoided noisy areas and birds with higher frequency vocalizations remained. Signal frequency was also negatively correlated with body mass, suggesting that larger birds may be more sensitive to noise due to the link between body size and vocal frequency. Conclusions/Significance Our findings suggest that acoustic masking by noise may be a strong selective force shaping the ecology of birds worldwide. Larger birds with lower frequency signals may be excluded from noisy areas, whereas smaller species persist via transmission of higher frequency signals. We discuss our findings as they relate to interspecific relationships among body size, vocal amplitude and frequency and suggest that they are immediately relevant to the global problem of increases in noise by providing critical insight as to which species traits influence tolerance of these novel acoustics."
+        },
+        {
+            "paperId": "a930992afd8554d16c4dfa9d88b21e2028c449db",
+            "title": "The effects of anthropogenic noise and urban habitats on song structure in a vocal mimic; the gray catbird (Dumetella carolinensis) sings higher frequencies in noisier habitats",
+            "year": 2023,
+            "openAccessPdf": {
+                "url": "https://www.frontiersin.org/articles/10.3389/fevo.2023.1252632/pdf?isPublishedV2=False",
+                "status": "GOLD",
+                "license": "CCBY",
+                "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3389/fevo.2023.1252632?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3389/fevo.2023.1252632, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "2122980518",
+                    "name": "Morgan L. Rhodes"
+                },
+                {
+                    "authorId": "2256021146",
+                    "name": "T. Ryder"
+                },
+                {
+                    "authorId": "32738525",
+                    "name": "Brian S. Evans"
+                },
+                {
+                    "authorId": "2351110611",
+                    "name": "Jennifer P. C. To"
+                },
+                {
+                    "authorId": "2275743384",
+                    "name": "Elizabeth Neslund"
+                },
+                {
+                    "authorId": "2399658905",
+                    "name": "Christopher J. Will"
+                },
+                {
+                    "authorId": "2324860738",
+                    "name": "L. O'Brien"
+                },
+                {
+                    "authorId": "3649023",
+                    "name": "D. Moseley"
+                }
+            ],
+            "abstract": "In urban and human-modified landscapes, animals face novel selection pressures resulting from differences in habitat structure and increased anthropogenic noise. Urban noise pollution can negatively impact songbirds because low-frequency noise often masks portions of birds’ mating signals and reduces signal transmission. Previous research has demonstrated that the songs of birds in more urban habitats have structural differences that can enhance signal transmission when noise is present. The majority of these studies have focused on species that deliver short, stereotyped songs and have limited repertoires. Gray catbirds (Dumetella carolinensis, family: Mimidae) sing long bouts containing imitated, improvised, and invented song elements, and therefore may have an increased ability to vary songs in response to noise. We hypothesized that aspects of developed habitats including loud anthropogenic noise and changes to land cover would impact catbirds’ song structural parameters, including song minimum, peak, and maximum frequency, frequency bandwidth, and entropy. We recorded and processed songs from 42 male catbirds and analyzed over 18,000 song elements from sites along an urban gradient from western Virginia to the Washington, DC metropolitan region. We quantified the urban intensity at each site-centroid based on percent canopy cover, percent impervious surface, and noise level. Song features such as minimum, maximum, and peak frequency increased significantly as noise levels increased, demonstrating that catbirds in noisier areas sing higher frequency songs compared to individuals in quieter habitats. Land cover variables also significantly predicted certain song features such as maximum frequency (impervious surface) or entropy (canopy cover). These structural differences in catbird song can limit the negative effects of environmental noise-masking, even for their long song bouts, and suggest that vocal mimics respond to anthropogenic noise. Future studies could investigate repertoire size and composition along an urban gradient and if these structural differences lead to functional consequences for the songs of vocal mimics."
+        },
+        {
+            "paperId": "f70e8004724a756041f8b30a1ad2108b730256d1",
+            "title": "Thrush nightingales adjust the peak frequency and structure of their songs in response to different types of experimental noise",
+            "year": 2025,
+            "openAccessPdf": {
+                "url": "",
+                "status": null,
+                "license": "CCBY",
+                "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC11751306, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "32255613",
+                    "name": "M. Budka"
+                }
+            ],
+            "abstract": "Animals employ various strategies to minimize the overlap of their vocalizations with other sounds, thereby enhancing the effectiveness of their communication. However, little attention has been given to experimentally examining how the structure of the acoustic signal changes in response to various kinds of disturbances in the soundscape. In this study, I experimentally investigated whether male thrush nightingales (Luscinia luscinia) adjust their singing rate, song frequency, and song type in response to different types of artificial sounds. While males did not reduce the intensity of their singing in noise, they did adjust the peak frequency of their songs—raising it in the presence of low-frequency noise and lowering it in response to high-frequency noise. These bidirectional changes were associated with selective use of phrases from their repertoire. The proportion of low- to high-frequency phrases was significantly reduced under low-frequency noise and increased under high-frequency noise. The results suggest that disturbing sounds can modify the peak frequency and structure of songbird vocalizations, at least in the short term. Birds may enhance the signal-to-noise ratio by selecting phrases from their repertoire that are less affected by noise. For species with a large repertoire, new sounds transmitted within a species-specific frequency range may play an important role in the process of cultural song transmission."
+        }
+    ],
+    "low-frequency bird song noise attenuation": [
+        {
+            "paperId": "77a5714a6e044892a344d11dd90de4e753779228",
+            "title": "Anthropogenic noise, but not artificial light levels predicts song behaviour in an equatorial bird",
+            "year": 2016,
+            "openAccessPdf": {
+                "url": "https://doi.org/10.1098/rsos.160231",
+                "status": "GOLD",
+                "license": "CCBY",
+                "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC4968470, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "1404878758",
+                    "name": "A. Dorado-Correa"
+                },
+                {
+                    "authorId": "2103042849",
+                    "name": "Manuel Rodríguez-Rocha"
+                },
+                {
+                    "authorId": "47851610",
+                    "name": "H. Brumm"
+                }
+            ],
+            "abstract": "Birds in cities start singing earlier in the morning than in rural areas; commonly this shift is attributed to light pollution. Some studies have suggested that traffic noise has a stronger influence on singing activity than artificial light does. Changes in the timing of singing behaviour in relation to noise and light pollution have only been investigated in the temperate zones. Tropical birds, however, experience little seasonal variation in day length and may be less dependent on light intensity as a modifier for reproductive behaviours such as song. To test whether noise or light pollution has a stronger impact on the dawn chorus of a tropical bird, we investigated the singing behaviour of rufous-collared sparrows (Zonotrichia capensis) in Bogota, Colombia at two times during the year. We found that birds in places with high noise levels started to sing earlier. Light pollution did not have a significant effect. Birds may begin to sing earlier in noisy areas to avoid acoustic masking by traffic later in the morning. Our results also suggest that some tropical birds may be less sensitive to variations in day length and thus less sensitive to light pollution."
+        },
+        {
+            "paperId": "09f82e444bc8bda238c7ff51215feddfaf726805",
+            "title": "European Blackbirds Exposed to Aircraft Noise Advance Their Chorus, Modify Their Song and Spend More Time Singing",
+            "year": 2017,
+            "openAccessPdf": {
+                "url": "https://www.frontiersin.org/articles/10.3389/fevo.2017.00068/pdf",
+                "status": "GOLD",
+                "license": "CCBY",
+                "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3389/fevo.2017.00068?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3389/fevo.2017.00068, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "19545817",
+                    "name": "Javier Sierro"
+                },
+                {
+                    "authorId": "19553083",
+                    "name": "Elodie Schloesing"
+                },
+                {
+                    "authorId": "39138605",
+                    "name": "I. Pavón"
+                },
+                {
+                    "authorId": "143627963",
+                    "name": "D. Gil"
+                }
+            ],
+            "abstract": "Noise pollution has a strong impact on wildlife by disrupting vocal communication or inducing physiological stress. Songbirds are particularly reliant on vocal communication as they use song during territorial and sexual interactions. Birds living in noisy environments have been shown to change the acoustic and temporal parameters of their song presumably to maximize signal transmissibility. Also, research shows that birds advance their dawn chorus in urban environments to avoid the noisiest hours, but little is known on the consequences of these changes in the time they spent singing at dawn. Here we present a comprehensive view of the European blackbird singing behaviour living next to a large airport in Madrid, using as a control a population living in a similar but silent forest. Blackbird song is composed of two parts: a series of loud low-frequency whistles (motif) and a final flourish (twitter). We found that airport blackbirds were more likely to sing songs without the twitter part. Also, when songs included a twitter part, airport blackbirds used a smaller proportion of song for the twitter than control blackbirds. Interestingly, our results show no differences in song frequency between airport and control populations. The most relevant finding of this study shows that airport blackbirds not only sang earlier but also increased the time they spent singing when chorus and aircraft traffic coincide on time. This effect disappeared as the season progressed and the chorus and the aircraft traffic day-time schedule were separated on time. We propose that the typical urban upshift in frequency might not be useful under the conditions of noise and landscape structure found near airports. We suggest that the modifications in singing behaviour induced by aircraft noise may be adaptive and that they are specific to airport acoustic habitat. Moreover, we found that adjustment of singing activity in relation to noise is plastic and possibly optimized to cope with aircraft traffic activity. In a soundscape characterised by intermittent and strong noise bursts, singing for longer could be more advantageous than modifying frequency parameters, although it is likely more costly."
+        },
+        {
+            "paperId": "cb1cae12974388ebe91819ab3df0c6cbf6f163a0",
+            "title": "Ambient noise from ocean surf drives frequency shifts in non-passerine bird song",
+            "year": 2020,
+            "openAccessPdf": {
+                "url": "https://www.biorxiv.org/content/biorxiv/early/2020/06/18/2020.06.17.156232.full.pdf",
+                "status": "GREEN",
+                "license": "CCBYND",
+                "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1101/2020.06.17.156232?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1101/2020.06.17.156232, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "1601514354",
+                    "name": "M. Sebastianelli"
+                },
+                {
+                    "authorId": "2002364",
+                    "name": "D. Blumstein"
+                },
+                {
+                    "authorId": "6160276",
+                    "name": "A. Kirschel"
+                }
+            ],
+            "abstract": "Effective communication in birds is often hampered by background noise, with many recent studies focusing on the effect of anthropogenic noise on passerine bird song. Continuous low-frequency natural noise is predicted to drive changes in both frequency and temporal patterning of bird vocalizations, but the extent to which these effects may also affect birds that lack vocal learning is not yet fully understood. Here we use a gradient of exposure to natural low-frequency noise to assess whether it exerts selective pressure on vocalizations in a species whose songs are innate. We tested whether three species of Pogoniulus tinkerbirds adapt their song when exposed to a source of continuous low-frequency noise from ocean surf. We show that dominant frequency increases the closer birds are to the coast in all the three species, and in line with higher noise levels, indicating that ocean surf sound may apply a selective pressure on tinkerbird songs. As a consequence, tinkerbirds adapt their songs with an increase in frequency to avoid the masking effect due to overlapping frequencies with ambient noise, therefore improving long-range communication with intended receivers. Our study provides for the first time, compelling evidence that natural ambient noise affects vocalizations in birds whose songs are developed innately. We believe that our results can also be extrapolated in the context of anthropogenic noise pollution, hence providing a baseline for the study of the effects of low-frequency ambient noise on birds that lack vocal learning. Significance Statement Birdsong is constantly under selection as it mediates key interactions such as mate attraction, competition with same-sex individuals for reproduction and competition with heterospecifics for space-related resources. Any phenomenon that interferes with communication can therefore have a profound impact on individual fitness. Passerines are more likely to avoid the masking effect of background noise because of their higher vocal flexibility. Many non-passerine species lacking such flexibility might therefore be more vulnerable to the negative effects on their fitness of exposure to low-frequency background noise. Species incapable of adapting their signals to background noise are predicted to disappear from noisy areas. Despite this, we show that species that lack song learning may show an adaptive response to natural noise which may develop over evolutionary timescales."
+        },
+        {
+            "paperId": "5620ca40459bcc8fa08afd656c8c497b24912297",
+            "title": "Soundscapes: Species Richness and Community Composition of Neotropical Atlantic Forest Avifauna",
+            "year": 2025,
+            "openAccessPdf": {
+                "url": "",
+                "status": null,
+                "license": null,
+                "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3390/conservation5030048?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3390/conservation5030048, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "2379079453",
+                    "name": "Vanessa Grundy"
+                },
+                {
+                    "authorId": "143690184",
+                    "name": "M. Kaizer"
+                },
+                {
+                    "authorId": "2379085218",
+                    "name": "Luiza F. Passos"
+                },
+                {
+                    "authorId": "2362410966",
+                    "name": "Ivana Schork"
+                }
+            ],
+            "abstract": "As tropical forests become increasingly vulnerable to land use changes, fragmentation, and climate shifts, efforts to minimise species loss are essential. Prevalent in most environments and having complex vocalisations, birds are key indicators of ecosystem health and a good model for acoustic monitoring. In Brazil, the Caparaó National Park (CNP) is a preserved remnant of the Atlantic Forest with great avian endemism. Despite having >600 species, limited research has utilised bioacoustics for species assessment. This study employed bioacoustics to examine soundscapes and community composition at two CNP locations—one with ombrophilous montane forest (OMF) and another with semi-deciduous seasonal forest (SSF). Four SongMeters were deployed, recording bird choruses from 08:00 to 11:00 a.m. for two months. Soundscape profiles and species composition were characterised using Raven Pro. Acoustic indices assessed correlations with avian species richness, and sites were compared using the Mann–Whitney U test. Ninety-eight species were detected, and species richness was greater within SSF. While acoustic indices had little impact on richness, they identified differing soundscapes: more ambient noise in OMF, and gunshots detected in SSF. The results indicate that bioacoustics can aid monitoring strategies. Given the presence of rare species and illegal activities, more studies are needed to support the conservation of birds in this critical environment."
+        },
+        {
+            "paperId": "95a8868ddd248de21c869cc8503b94837088661f",
+            "title": "Fine-Grained Bioacoustics Species Recognition via Multi-Feature Synergy and Ensemble Decision Optimization",
+            "year": 2026,
+            "openAccessPdf": {
+                "url": "",
+                "status": null,
+                "license": null,
+                "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.64751/ajmimc.2026.v5.n2.pp19-27?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.64751/ajmimc.2026.v5.n2.pp19-27, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "2364778503",
+                    "name": "M. Chakravarthy"
+                },
+                {
+                    "authorId": "2427760916",
+                    "name": "Tulluri Santosh"
+                },
+                {
+                    "authorId": "2427780769",
+                    "name": "Palasani Govardhan Reddy"
+                },
+                {
+                    "authorId": "2427761063",
+                    "name": "Ponaka Vishnu"
+                },
+                {
+                    "authorId": "2427760929",
+                    "name": "Shaik Dilavar Basha"
+                }
+            ],
+            "abstract": "Bioacoustics monitoring is vital for wildlife conservation, as over 60% of species rely on acoustic signals, yet manual surveys capture less than 40% of vocal activity. With endangered populations declining by 1–2% annually, the limitations of manual analysis being time-consuming, subjective, and prone to error necessitate scalable, automated solutions. This work proposes an Automated Animal Species Identification (AASI) system architecture using machine learning to monitor six target classes: lions, bears, dolphins, monkeys, donkeys, and elephants. The system utilizes a multi-spectral feature extraction framework to capture complex temporal and frequency-domain characteristics. Extracted features include Mel-frequency Cepstral Coefficients (MFCCs), Mel-Spectrograms, Chroma features, Spectral Contrast, Tonnetz, and various statistical descriptors like Zero-Crossing Rate (ZCR) and Spectral Centroid. This diverse feature set ensures robustness against background noise and overlapping calls. Following Exploratory Data Analysis (EDA) to assess class balance and feature distributions, the study evaluates traditional models such as Decision Tree, Nearest Centroid, and Gradient Boosting as baselines. To enhance performance, a Voting Ensemble Classifier (VEC) is proposed, integrating Support Vector Classifier (SVC) and Light Gradient Boosting Machine (LGBM). By employing a strategic voting mechanism, the AASI system achieves superior accuracy, stability, and generalization, providing a reliable framework for large-scale, real-time wildlife surveillance and biodiversity assessment."
+        }
+    ],
+    "road noise understory bird occurrence": [
+        {
+            "paperId": "891e7e0d314693e96c51274562789b5731d3fe08",
+            "title": "Effects of Roads on Animal Abundance: an Empirical Review and Synthesis",
+            "year": 2009,
+            "openAccessPdf": {
+                "url": "https://www.ecologyandsociety.org/vol14/iss1/art21/ES-2008-2815.pdf",
+                "status": "GOLD",
+                "license": "CCBY",
+                "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.5751/ES-02815-140121?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.5751/ES-02815-140121, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "4537788",
+                    "name": "L. Fahrig"
+                },
+                {
+                    "authorId": "5784853",
+                    "name": "T. Rytwinski"
+                }
+            ],
+            "abstract": "The authors attempted a complete review of the empirical literature on effects of roads and traffic on animal abundance and distribution. They found 79 studies, with results for 131 species and 30 species groups. Overall, the number of documented negative effects of roads on animal abundance outnumbered the number of positive effects by a factor of 5; 114 responses were negative, 22 were positive, and 56 showed no effect. Amphibians and reptiles tended to show negative effects. Birds showed mainly negative or no effects, with a few positive effects for some small birds and for vultures. Small mammals generally showed either positive effects or no effect, mid-sized mammals showed either negative effects or no effect, and large mammals showed predominantly negative effects. The authors synthesized this information, along with information on species attributes, to develop a set of predictions of the conditions that lead to negative or positive effects or no effect of roads on animal abundance. Four species types are predicted to respond negatively to roads: (i) species that are attracted to roads and are unable to avoid individual cars; (ii) species with large movement ranges, low reproductive rates, and low natural densities; and (iii and iv) small animals whose populations are not limited by road-affected predators and either (a) avoid habitat near roads due to traffic disturbance or (b) show no avoidance of roads or traffic disturbance and are unable to avoid oncoming cars. Two species types are predicted to respond positively to roads: (i) species that are attracted to roads for an important resource (e.g., food) and are able to avoid oncoming cars, and (ii) species that do not avoid traffic disturbance but do avoid roads, and whose main predators show negative population-level responses to roads. Other conditions lead to weak or non-existent effects of roads and traffic on animal abundance. The authors identify areas where further research is needed, but they also argue that the evidence for population-level effects of roads and traffic is already strong enough to merit routine consideration of mitigation of these effects in all road construction and maintenance projects."
+        },
+        {
+            "paperId": "3c2b8110df6156bbad9c52544f585c1fae0624f4",
+            "title": "The effect of road traffic on a breeding community of woodland birds",
+            "year": 2013,
+            "openAccessPdf": {
+                "url": "https://link.springer.com/content/pdf/10.1007/s10342-013-0732-z.pdf",
+                "status": "HYBRID",
+                "license": "CCBY",
+                "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s10342-013-0732-z?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s10342-013-0732-z, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "20725549",
+                    "name": "M. Polak"
+                },
+                {
+                    "authorId": "30407071",
+                    "name": "J. Wiącek"
+                },
+                {
+                    "authorId": "89399873",
+                    "name": "M. Kucharczyk"
+                },
+                {
+                    "authorId": "40364587",
+                    "name": "R. Orzechowski"
+                }
+            ],
+            "abstract": "The very rapid development of the road infrastructure in recent years has adversely affected the natural environment. The main effects of this have been the loss or deteriorating quality of habitats, the mortality of animals due to collisions with road vehicles, the withdrawal of birds as a result of disturbance and excessive noise in the neighbourhood of roads. In this study, we attempted to define the influence of a busy road on a breeding community of woodland birds. Individuals were counted using the point method at 54 observation points located at three various distances (60, 310, 560 m) from the road. At each point, we determined the habitat parameters and the intensity of noise. In total, 995 individuals of 39 species were recorded on the study plot. This study showed that the area was homogeneous with respect to habitat. The number of birds per point increased with distance from the road. Species diversity was lower near the road. The density of nine common species increased with distance from the road. Great Tit Parus major and Song Thrush Turdus philomelos preferred the neighbourhood of the road, whereas the numbers of the other species were the highest in the middle row of points. The number and species diversity of birds were correlated with the pattern of sound propagation across our study area. Our results showed that the species particularly sensitive to road traffic were those nesting near the ground and with low-frequency calls."
+        },
+        {
+            "paperId": "3d362d350a265d16fdc202010c14616e0653ae55",
+            "title": "Road induced edge effects on a forest bird community in tropical Asia",
+            "year": 2018,
+            "openAccessPdf": {
+                "url": "https://avianres.biomedcentral.com/track/pdf/10.1186/s40657-018-0112-y",
+                "status": "GOLD",
+                "license": "CCBYNCND",
+                "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1186/s40657-018-0112-y?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1186/s40657-018-0112-y, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "46186822",
+                    "name": "D. Khamcha"
+                },
+                {
+                    "authorId": "4173691",
+                    "name": "R. Corlett"
+                },
+                {
+                    "authorId": "3560772",
+                    "name": "L. Powell"
+                },
+                {
+                    "authorId": "5996278",
+                    "name": "T. Savini"
+                },
+                {
+                    "authorId": "6519536",
+                    "name": "A. Lynam"
+                },
+                {
+                    "authorId": "40359137",
+                    "name": "G. Gale"
+                }
+            ],
+            "abstract": "BackgroundEdge effects cause changes in bird community richness, abundance, and/or distribution within a landscape, but the avian guilds most influenced can vary among regions. Although Southeast Asia has the highest rates of deforestation and projected species loss, and is currently undergoing an explosive growth in road infrastructure, there have been few studies of the effects of forest edges on avian communities in this region.MethodsWe examined avian community structure in a dry evergreen forest in northeastern Thailand adjacent to a five-lane highway. We evaluated the richness and abundance of birds in 11 guilds at 24 survey points on three parallel transects perpendicular to the edge. At each point, 10-min surveys were conducted during February‒August 2014 and March‒August 2015. Vegetation measurements were conducted at 16 of the bird survey points and ambient noise was measured at all 24 survey points.ResultsWe found a strongly negative response to the forest edge for bark-gleaning, sallying, terrestrial, and understory insectivores and a weakly negative response for arboreal frugivore-insectivores, foliage gleaning insectivores, and raptors. Densities of trees and the percentage canopy cover were higher in the interior, and the ambient noise was lower. In contrast, arboreal nectarivore-insectivores responded positively to the forest edge, where there was a higher vegetation cover in the ground layer, a lower tree density, and a higher level of ambient noise.ConclusionPlanners should avoid road development in forests of high conservation value to reduce impacts on biodiversity. Where avoidance is impossible, a number of potential mitigation methods are available, but more detailed assessments of these are needed before they are applied in this region."
+        },
+        {
+            "paperId": "162e0a6e312656ebae11c2919a956405be56bac9",
+            "title": "Highway noise decreases the abundance of an understory rainforest bird",
+            "year": 2023,
+            "openAccessPdf": {
+                "url": "",
+                "status": null,
+                "license": null,
+                "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1080/01584197.2023.2253837?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1080/01584197.2023.2253837, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "2239989484",
+                    "name": "José Nilton da Silva"
+                },
+                {
+                    "authorId": "5900104",
+                    "name": "A. Banhos"
+                },
+                {
+                    "authorId": "5850845",
+                    "name": "C. S. de Azevedo"
+                },
+                {
+                    "authorId": "143695880",
+                    "name": "P. Diniz"
+                },
+                {
+                    "authorId": "2240007244",
+                    "name": "Charles Duca"
+                }
+            ],
+            "abstract": "ABSTRACT Highways are structures that cause major impacts and threats to biodiversity. We analysed the effects of a highway on the abundance of the Rufous-capped Antthrush (Formicarius colma) in the stretch that intersects the Sooretama Biological Reserve, located in southeastern Brazil. Data were collected using the point-count census method, with points located on the forest edge near the highway, the forest edge near a pasture and random points in the interior of the forest area. Noise was recorded at each point in all areas and related to the abundance of antthrushes. Across habitat types, Rufous-capped Antthrushes were least abundant at the highway-edge, intermediate at the pasture-edge, and highest at the interior of the forest. Within habitat types, species abundance was highest in points 600 m away from the pasture but only in points 800 m away from the highway. The abundance of antthrushes was inversely correlated to noise, irrespective of habitat type (highway or pasture). These results suggest that the presence of the highway and the noise it produces are important threats to the Rufous-capped Antthrush, decreasing its abundance and possibly constraining movements across the highway. For a regionally threatened bird, these impacts could be significant for species viability."
+        },
+        {
+            "paperId": "7bd863167a3f2519be0e19235bcc185fcc1ca26f",
+            "title": "At the intersection of soundscapes and roads: Quantifying anthrophony's influence on wildlife crossing structure use",
+            "year": 2026,
+            "openAccessPdf": {
+                "url": "",
+                "status": null,
+                "license": "CCBY",
+                "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC12917473, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "2140519031",
+                    "name": "Thomas J. Yamashita"
+                },
+                {
+                    "authorId": "2339619976",
+                    "name": "Ashley M Tanner"
+                },
+                {
+                    "authorId": "2282104028",
+                    "name": "Evan P. Tanner"
+                },
+                {
+                    "authorId": "2383295078",
+                    "name": "Daniel G Scognamillo"
+                },
+                {
+                    "authorId": "49081796",
+                    "name": "M. Tewes"
+                },
+                {
+                    "authorId": "2246668525",
+                    "name": "John H. Young"
+                },
+                {
+                    "authorId": "2299260089",
+                    "name": "Jason V. Lombardi"
+                }
+            ],
+            "abstract": "Abstract Anthropogenic noise (anthrophony) can have significant negative effects on wildlife, causing both physiological (i.e., increased stress hormone production) and behavioral (i.e., altered anti‐predator behaviors, space use, or diel activity) changes in individuals. Roads are a major source of anthrophony, often contributing the most to the anthrophony in rural areas. Most efforts to reduce road effects on wildlife have focused on decreasing road‐associated mortality through the construction of wildlife crossing structures (WCSs) with little consideration for the anthrophony associated with these structures. Given the impacts of anthrophony on wildlife behavior, the effectiveness of WCSs could be altered without consideration of noise pollution. Therefore, understanding how anthrophony is structured in space and time and how it impacts WCS use is an important aspect of assessing the effectiveness of WCSs. We developed a framework for assessing anthrophony at WCS using an array of autonomous recording units to monitor overall acoustic conditions. We then examined how wildlife crossing rates were associated with anthrophony using camera traps. We monitored five underpass‐style WCSs built in the Lower Rio Grande Valley of South Texas, USA, using camera traps and acoustic recording units. We measured sound pressure level (SPL [dB]) and relative level of anthrophony (using the normalized difference soundscape index [NDSI]) at six positions around each WCS: two at elevation (road grade) with the road surface (west and east), two at the WCS entrances, and two in the middle of the WCSs. We then used SPL and NDSI to predict the probability of a successful crossing by Virginia opossum (Didelphis virginiana), a common, disturbance‐tolerant mammal. While the relative amount of anthrophony did not differ, smaller WCSs and those with less traffic were up to 40 dB quieter than larger WCSs and those with more traffic. Opossums spent more time at WCSs when it was quieter on average and were more likely to successfully cross through a WCS when there was less vehicle noise. Our study highlights the importance of considering soundscapes in assessing WCS effectiveness and represents a framework that can be used for further exploration of the impacts of anthrophony on WCS use."
+        }
+    ],
+    "vegetation acoustic shielding urban birds": [
+        {
+            "paperId": "5123efe066ffbfeef45538c181f885807db55a6f",
+            "title": "Influence of Food Distribution and Human Disturbance on the Reproductive Success of Herring Gulls",
+            "year": 1972,
+            "openAccessPdf": {
+                "url": "https://escholarship.org/content/qt0g21d8g9/qt0g21d8g9.pdf?t=nvwp25",
+                "status": "GREEN",
+                "license": "CCBY",
+                "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.2307/1935417?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.2307/1935417, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "143948383",
+                    "name": "G. Hunt"
+                }
+            ],
+            "abstract": "A three year study of Herring Gull (Larus argentatus) reproductive success on four i~lands in Maine indicate.d that production of young was controlled by different factors operating on the eggs and chicks. Hatching success was inversely related to the disturbance of co.Ionics by pic~i~kers, which apparently caused the adults to leave their eggs exposed 10 sufficient solar rad1a11on to addle the eggs. The survival of chicks was lower on islands distant ~rom sources of edible r~~use (ou.ter. islands) than o.n. islands close to sources of waste (inner islands), regardless of visits by picnickers. The nutrition and growth rates of chicks on inner and outer islands were similar. The attendance of parents on the territories was found to be less o~ an out~r islan~ than on an inner island. It is concluded that differences in parental behavior associated with greater foraging effort were responsible for a higher loss of chicks to predation on the outer islands."
+        },
+        {
+            "paperId": "8725e66091850cc6c5d1c91a7bb1bee877af4f31",
+            "title": "EFFECTS OF HUMAN RECREATION ON THE INCUBATION BEHAVIOR OF AMERICAN OYSTERCATCHERS",
+            "year": 2006,
+            "openAccessPdf": {
+                "url": "https://www.biodiversitylibrary.org/partpdf/240823",
+                "status": "GREEN",
+                "license": "CCBYNCSA",
+                "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1676/05-084.1?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1676/05-084.1, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "32096460",
+                    "name": "C. McGowan"
+                },
+                {
+                    "authorId": "5219899",
+                    "name": "T. Simons"
+                }
+            ],
+            "abstract": "Abstract Human recreational disturbance and its effects on wildlife demographics and behavior is an increasingly important area of research. We monitored the nesting success of American Oystercatchers (Haematopus palliatus) in coastal North Carolina in 2002 and 2003. We also used video monitoring at nests to measure the response of incubating birds to human recreation. We counted the number of trips per hour made by adult birds to and from the nest, and we calculated the percent time that adults spent incubating. We asked whether human recreational activities (truck, all-terrain vehicle ;obATV;cb, and pedestrian traffic) were correlated with parental behavioral patterns. Eleven a priori models of nest survival and behavioral covariates were evaluated using Akaike's Information Criterion (AIC) to see whether incubation behavior influenced nest survival. Factors associated with birds leaving their nests (n = 548) included ATV traffic (25%), truck traffic (17%), pedestrian traffic (4%), aggression with neighboring oystercatchers or paired birds exchanging incubation duties (26%), airplane traffic (1%) and unknown factors (29%). ATV traffic was positively associated with the rate of trips to and away from the nest (β1 = 0.749, P < 0.001) and negatively correlated with percent time spent incubating (β1 = −0.037, P = 0.025). Other forms of human recreation apparently had little effect on incubation behaviors. Nest survival models incorporating the frequency of trips by adults to and from the nest, and the percentage of time adults spent incubating, were somewhat supported in the AIC analyses. A low frequency of trips to and from the nest and, counter to expectations, low percent time spent incubating were associated with higher daily nest survival rates. These data suggest that changes in incubation behavior might be one mechanism by which human recreation affects the reproductive success of American Oystercatchers."
+        },
+        {
+            "paperId": "7df17d725f4a2295defce431724ec8dfb9d8cefe",
+            "title": "Research, part of a Special Feature on Effects of Roads and Traffic on Wildlife Populations and Landscape Function Impacts of Traffic Noise and Traffic Volume on Birds of Roadside Habitats",
+            "year": 2009,
+            "openAccessPdf": {
+                "url": "http://www.ecologyandsociety.org/vol14/iss1/art29/ES-2008-2761.pdf",
+                "status": "GOLD",
+                "license": "CCBY",
+                "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.5751/ES-02761-140129?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.5751/ES-02761-140129, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "4719116",
+                    "name": "Kirsten M. Parris"
+                },
+                {
+                    "authorId": "2071233845",
+                    "name": "A. Schneider"
+                }
+            ],
+            "abstract": "Roadside habitats are important for a range of taxa including plants, insects, mammals, and birds, particularly in developed countries in which large expanses of native vegetation have been cleared for agriculture or urban development. Although roadside vegetation may provide suitable habitat for many species, resident animals can be exposed to high levels of traffic noise, visual disturbance from passing vehicles, and the risk of collision with cars and trucks. Traffic noise can reduce the distance over which acoustic signals such as song can be detected, an effect known as acoustic interference or masking. Studies from the northern hemisphere show that the singing behavior of birds changes in the presence of traffic noise. We investigated the impact of traffic noise and traffic volume on two species of birds, the Grey Shrike-thrush (Colluricincla harmonica) and the Grey Fantail (Rhipidura fuliginosa), at 58 roadside sites on the Mornington Peninsula, southeastern Australia. The lower singing Grey Shrike-thrush sang at a higher frequency in the presence of traffic noise, with a predicted increase in dominant frequency of 5.8 Hz/dB of traffic noise, and a total effect size of 209 Hz. In contrast, the higher singing Grey Fantail did not appear to change its song in traffic noise. The probability of detecting each species on a visit to a site declined substantially with increasing traffic noise and traffic volume, with several lines of evidence supporting a larger effect of traffic noise. Traffic noise could hamper detection of song by conspecifics, making it more difficult for birds to establish and maintain territories, attract mates and maintain pair bonds, and possibly leading to reduced breeding success in noisy roadside habitats. Closing key roads during the breeding season is a potential, but untested, management strategy to protect threatened bird species from traffic noise and collision with vehicles at the time of year when they are most vulnerable to their impacts. Other management options include reducing the speed and/or volume of traffic on such roads to an acceptably low level. Ours is the first study to investigate the effect of traffic noise on the singing behavior of birds in the southern hemisphere."
+        },
+        {
+            "paperId": "e68e9d81cb37c3695fba17d5e7a510a06ddb206d",
+            "title": "Impacts of noise pollution from high-speed rail and road on bird diversity: a case study in a protected area of Italy",
+            "year": 2024,
+            "openAccessPdf": {
+                "url": "https://link.springer.com/content/pdf/10.1007/s11356-024-33372-0.pdf",
+                "status": "HYBRID",
+                "license": "CCBY",
+                "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC11133032, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "48363940",
+                    "name": "E. Bergamini"
+                },
+                {
+                    "authorId": "2297459673",
+                    "name": "Sofia Prandelli"
+                },
+                {
+                    "authorId": "2325375519",
+                    "name": "Fausto Minelli"
+                },
+                {
+                    "authorId": "2247771762",
+                    "name": "R. C. Gatti"
+                }
+            ],
+            "abstract": "The disturbance of infrastructures may affect biological communities that are exposed to them. This study assesses the impact of high-speed (highway and railway) infrastructures in a protected study site, the Natural Reserve Fontanili di Corte Valle Re (Emilia–Romagna, Italy). We compared bird diversity with sound intensity and frequency in three sampling areas, increasingly distant from the infrastructures at the border with the reserve, during the last 4 years (2019–2022), monitoring sedentary, nesting, and migratory bird species. We hypothesize a decreasing diversity closer to the source of disturbance, which is mostly attributable to noise pollution. Our findings confirmed this trend, and we show that, in particular, disturbance seems to influence species richness more than the total abundance of birds. We also discovered that highway disturbance was much higher than railway in terms of frequency and duration. In light of these results, we suggest that some species, which have a behavioral ecology strongly based on singing to communicate with each other for their reproductive and defensive strategies, may suffer more from constant acoustic disturbance. The installation of effective noise barriers to shield the sound produced by the highways should be considered a mandatory request not only in proximity to houses but also in the vicinity of protected areas."
+        },
+        {
+            "paperId": "fdb29edc076bab6dea125ccbe5bb9a2358e59b60",
+            "title": "Evaluation of the Acoustic Impact of the Public Road Network on a Nature Conservation Area: A Case Study",
+            "year": 2025,
+            "openAccessPdf": {
+                "url": "",
+                "status": null,
+                "license": null,
+                "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3390/app15126511?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3390/app15126511, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "2307510202",
+                    "name": "Jordan Wilk"
+                },
+                {
+                    "authorId": "1403597119",
+                    "name": "J. Szyszlak-Bargłowicz"
+                },
+                {
+                    "authorId": "2307139810",
+                    "name": "Tomasz Słowik"
+                },
+                {
+                    "authorId": "87991028",
+                    "name": "P. Stachyra"
+                },
+                {
+                    "authorId": "2280672734",
+                    "name": "Grzegorz Zając"
+                }
+            ],
+            "abstract": "Despite the formal protection of many natural areas, the problem of noise pollution poses a serious challenge to the preservation of their ecological integrity and biodiversity. Traffic noise generated by vehicle traffic on public roads disrupts natural biological processes, negatively affecting animals and the quality of the audiosphere. This research aimed to assess the acoustic impact of the public road network crossing the Roztocze National Park (RPN, Poland) and to characterize noise propagation as a factor polluting the environment and disrupting the functioning of natural forest ecosystems. The equivalent sound pressure level (LAeq) was measured at different distances from four public roads crossing the park. A terrain analysis was also taken into account to determine the impact of height differences on sound propagation. To enhance the acoustic analysis, recordings of environmental sounds were made, and their components, including both natural and anthropogenic sounds, were identified. It was found that traffic noise dominated natural sounds at distances 250 m from roads. The results obtained indicate the need for an integrated approach to protected area management, including noise monitoring, the implementation of noise protection regulations, and environmental education."
+        }
+    ]
+}

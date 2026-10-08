@@ -367,7 +367,16 @@ def group_synonyms(items: list[str], threshold: int = 75) -> list[tuple[str, int
 # ==========================================
 def visualize_findings(df: pd.DataFrame, output_dir: str = "./Outputs"):
     os.makedirs(output_dir, exist_ok=True)
-    sns.set_theme(style="whitegrid")
+    sns.set_theme(
+        style="whitegrid",
+        rc={
+            "font.size": 12,
+            "axes.titlesize": 15,
+            "axes.labelsize": 13,
+            "xtick.labelsize": 11.5,
+            "ytick.labelsize": 11.5,
+        },
+    )
 
     # 1. Sentiment Distribution
     plt.figure(figsize=(8, 5))

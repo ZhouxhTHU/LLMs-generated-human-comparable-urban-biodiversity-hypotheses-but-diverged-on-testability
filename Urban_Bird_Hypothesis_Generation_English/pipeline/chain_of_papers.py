@@ -829,7 +829,7 @@ def API_Assign_New_Documents_to_Experts(expert_agents, hypothesis_text, log_dir,
     base_url = "https://api.semanticscholar.org/graph/v1"
     detail_fields = ['title', 'abstract', 'year']
 
-    academic_headers = {"x-api-key": "XXX"}
+    academic_headers = {"x-api-key": "ND2dofKVoU8ef3L5Bno4E4EyjuZ3SGKw4iCwQcHC"}
 
     delay = 3.0
     max_retries = 5

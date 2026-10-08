@@ -3,6 +3,41 @@ import config
 research_topic = config.CONFIG["research"]["RESEARCH_TOPIC"]
 research_background = config.CONFIG["research"]["RESEARCH_BACKGROUND"]
 
+def Quality_X():
+    prompt_content = (
+        f"""
+        ## Hypothesis Quality Standards and the "Quality X" Principle
+        Below are tiered examples of hypotheses across quality levels
+        **Your goal is to generate hypotheses that match or surpass the standard of Group A — expert-level hypotheses.**
+        Group B and Group C are provided as contrastive references to illustrate common structural weaknesses to avoid.
+        
+        ### Tiered Examples of Hypotheses by Quality Level
+        **Group A — expert-level hypotheses:**
+        1. If standing snag density is increased, then the native-to-invasive cavity-nester ratio will increase in landscapes providing continuous invertebrate-rich foraging substrates but decrease in landscapes dominated by anthropogenic impervious cover. 
+        2. If the spatial aggregation of native vegetation patches increases, then the abundance of specialized insectivorous birds will increase non-linearly, exhibiting a sharp inflection point only after patch aggregation exceeds a critical structural threshold. 
+        3. If leaf litter and coarse woody debris are removed from canopy-poor urban patches, then ground-foraging insectivore diversity will decline disproportionately compared to canopy-rich sites subjected to identical removal. 
+        4. If broad-spectrum ALAN redistributes phototactic insect biomass from the open aerosphere to low-altitude clutter zones, then high-aspect-ratio aerial insectivores will decline relative to maneuverable generalists. 
+        5. If urban birds substitute natural organic nesting materials with inert anthropogenic polymers, then nestling fitness will decline because the exclusion of predatory micro-arthropods releases ectoparasite populations from top-down biotic regulation. 
+        
+        **Group B — plausible but structurally weaker hypotheses:**
+        31. If urban building density exceeds 50%, triggering the systematic removal of vertical vegetation structure, then functional diversity will collapse precipitously due to the loss of redundant synanthropes, whereas phylogenetic diversity will decline linearly in response to increasing landscape imperviousness.
+        32. If urban heavy metal pollution intensifies, then avian community composition will shift towards increased plumage melanization and decreased carotenoid chroma, independent of dietary breadth.
+        33. If the penetration resistance of urban green space soils increases, then the abundance of subsurface-probing bird guilds will significantly decrease relative to the abundance of surface-gleaning guilds.
+        34. If residents possess specific taxonomic literacy, then they will override social tidiness norms to retain complex structural micro-habitats, resulting in higher avian functional diversity than stewardship driven by generic nature connectedness.
+        35. If heatwaves induce avian convergence in mesic refugia, then mortality will be driven by the synergistic burden of crowding-dependent ectoparasites and vector-borne pathogens, which amplifies lethality by depressing the host's critical thermal maximum.
+        
+        **Group C — low-quality or poorly grounded hypotheses:**
+        86. If urban landscape connectivity increases, then viral mortality will rise disproportionately in bird populations reliant on high-lipid anthropogenic subsidies compared to natural-diet populations, driven by the synergy between facilitated pathogen dissemination and diet-induced immune intolerance.
+        87. If the density of high-yield winter-flowering exotic trees increases, then the intensity of interspecific aggression by despot nectarivores will increase, driving a decline in small-bodied insectivore abundance independent of local insect prey availability.
+        88. If historical legacies and contemporary stressors act as seasonally distinct filters, then historical soil compaction will negatively predict breeding ground-insectivore richness, whereas contemporary heat-island intensity will positively predict winter omnivore abundance.
+        89. If anthropogenic caloric subsidies induce gut dysbiosis and pathobiont amplification in synanthropic reservoirs, then high-dose spillover will cause lethal septicemia in native birds by overwhelming immune defenses adapted to lower natural microbial loads.
+        90. If the density of immunologically tolerant synanthropes increases, then the local extinction of native species will be predicted by micro-habitat co-occurrence and phylogenetic proximity to these reservoirs, independent of dietary niche overlap.
+        
+        """
+    )
+    return prompt_content
+
+
 # Context of hypothesis generation
 def Context_of_hypothesis_generation():
     prompt_content = (
@@ -37,6 +72,10 @@ def Definition_inspiration():
     )
     return prompt_content
 
+# Definition of hypothesis
+# 7. **Applicability**
+# - The hypothesis must yield findings with practical implications for urban bird conservation.
+# 10. The hypothesis should yield findings with clear practical implications for urban bird conservation. If supported, its outcomes should directly inform conservation practice, urban planning, or management decisions. Hypotheses that focus on narrow theoretical questions, highly localized patterns, or purely explanatory mechanisms without offering a clear pathway to conservation action should be avoided, even if they are novel or academically rigorous.
 def Definition_hypothesis():
     prompt_content = (
         f"""
@@ -139,6 +178,11 @@ def get_Screener_Sys_prompt():
 
 
 # ------------------------------------ User Prompt ------------------------------------
+# Expert prompt in phase 1, which guides the expert to generate inspiration.
+        # Omit reasoning for inspirations to conserve resources.
+# "Reasoning": "Provide a structured rationale for the inspiration, covering three points: Key Finding of the paper(s): Directly state the main observation, finding, or theory from the scientific paper(s). Logical Connection: Explain how this specific finding leads to the inspiration. Research Relevance: Articulate how the inspiration addresses, challenges, or expands the research topic.",
+        # 4. **Generate {min_num} to {max_num} inspirations.** The number of inspirations is unrestricted.
+# def Phase_one_Expert_Window_prompt(documents_text, min_num, max_num):
 def Phase_one_Expert_Window_prompt(documents_text):
     prompt_content = (
         f"""
@@ -177,7 +221,9 @@ def Phase_one_Expert_Window_prompt(documents_text):
     )
     return prompt_content
 
-
+# Screener prompt, which guides the screener to update the Inspiration Pool.
+        # Omit reasoning for inspirations to conserve resources.
+# ,"reasoning": "The reasoning behind the inspiration, possibly synthesized from merged ideas"
 def get_screener_update_prompt(current_inspiration_pool, current_hypothesis, min_pool_num, max_pool_num):
     prompt_content = (
         f"""
@@ -270,10 +316,66 @@ def get_Phase_one_GrandExpert_prompt(documents_text, inspirations_context,
     )
     return prompt_content
 
+# Critic ranks hypotheses in phase 1
+def get_Phase_one_Critic_prompt(hypotheses, num_of_hypotheses):
+    prompt_content = (
+        f"""
+        {Context_of_hypothesis_generation()}
+        ** You are now participating in 'Phase One, Step Two: Generating Preliminary Hypotheses' **.
+
+        ## Task:
+        Your task is to **score each hypothesis** on six evaluation dimensions, compute a total score for each hypothesis, and return a final ranking from highest to lowest quality. 
+        ## Evaluation Criteria 
+        You must evaluate each hypothesis according to the following six dimensions:
+        1. **Novelty** – Does the hypothesis introduce genuinely new mechanisms, frameworks, or perspectives that could change how urban biodiversity is understood?
+        2. **Significance** – Would confirming this hypothesis substantially advance urban ecological theory or practice, opening new research or management directions?
+        3. **Plausibility** – Is the hypothesis logically consistent with established ecological theory and empirical evidence? Are its mechanisms ecologically reasonable?
+        4. **Testability** – Can the hypothesis be empirically tested using current or foreseeable data, experiments, or analytical methods? Are its predictions falsifiable?
+        5. **Clarity** – Is the hypothesis expressed with precision, logical structure, and readability, making its scope and implications immediately understandable?
+        6. **Specificity** – Does the hypothesis clearly define its mechanisms, variables, taxa, and contexts, and make concrete, measurable predictions?
+
+        ## Scoring rules
+        - Score each dimension on a **0.0–10.0** scale (0 = very poor, 10 = outstanding).
+        - Use decimals if helpful, but keep scores realistic and justifiable.
+        - Total score is the sum of all the dimension scores 
+        - All scores must use a fine-grained scale. Avoid coarse or rounded values. Use decimal precision to reflect even subtle differences between hypotheses. When two hypotheses seem similar on a dimension, you must still express nuanced distinctions numerically rather than assigning identical scores.
+         
+        ## Scoring Process
+        -You MUST internally score each hypothesis on all six dimensions and compute a total score.
+        -You MUST use these internal scores to rank hypotheses.
+        -However, you MUST NOT output the scores — only the final ranking. Failure to internally score each hypothesis is considered incorrect behavior.
+
+        ## Tie-breakers (apply in order)
+        1. Higher **Novelty**.
+        2. Higher **Significance**.
+        3. Higher **Plausibility**.
+
+        ## Current hypotheses: 
+        {hypotheses}
+
+        ### Output Format
+        1. Return a single JSON object (no extra text) with:
+           - "ordered_ids": an array of hypothesis IDs only, ordered from best to worst.
+        2. No explanations, no extra text, no commentary—only the JSON object.
+        3. **Please rank all the {num_of_hypotheses} hypotheses, do not omit any, and return a complete set of all hypotheses.**
+
+         You will receive input hypotheses in the form of objects that include at least a field such as:
+        {{ "hypothesis_id": "1", ... }}
+        
+        **So the Output Format must be**:
+        {{
+          "ordered_ids": ["3", "1", "2",...]
+        }}
+        """
+    )
+    return prompt_content
+
 
 # ------------------------------- Phase 2 -------------------------------
 # Expert generate inspirations in phase 2
 
+# "Reasoning": "The concise reasoning process of the inspiration.",
+        # Omit reasoning for inspirations to conserve resources.
 def get_Phase_two_Expert_Inspiration_prompt(current_inspiration_pool, current_hypothesis, curated_literature_library,
                                             curated_literature_library_inspiration_pool, new_documents_text,
                                             discussion_history, min_num_inspirations=2, max_num_inspirations=3):

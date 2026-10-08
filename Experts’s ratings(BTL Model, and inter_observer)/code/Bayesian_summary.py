@@ -642,7 +642,7 @@ def draw_horizontal_interval_panel(
     ax.set_xlim(*xlim)
     ax.set_xticks(xticks)
     ax.set_ylim(-0.55, 2.55)
-    ax.set_title(title, loc="left", fontsize=9.5, fontweight="semibold", pad=8)
+    ax.set_title(title, loc="left", fontsize=10, fontweight="semibold", pad=8)
     ax.set_xlabel(xlabel, labelpad=6)
     ax.set_yticks(y_positions)
 
@@ -672,11 +672,11 @@ def make_figure(results: pd.DataFrame) -> None:
         {
             "font.family": "sans-serif",
             "font.sans-serif": ["Arial", "DejaVu Sans", "Liberation Sans"],
-            "font.size": 8,
-            "axes.titlesize": 9.5,
-            "axes.labelsize": 8.5,
-            "xtick.labelsize": 7.5,
-            "ytick.labelsize": 8.5,
+            "font.size": 9.5,
+            "axes.titlesize": 10,
+            "axes.labelsize": 10,
+            "xtick.labelsize": 9,
+            "ytick.labelsize": 10,
             "pdf.fonttype": 42,
             "ps.fonttype": 42,
             "axes.unicode_minus": False,
@@ -692,7 +692,7 @@ def make_figure(results: pd.DataFrame) -> None:
         nrows=1,
         ncols=3,
         width_ratios=[1.18, 1.0, 1.0],
-        wspace=0.42,
+        wspace=0.56,
     )
     axes = [
         fig.add_subplot(grid[0, 0]),
@@ -739,7 +739,7 @@ def make_figure(results: pd.DataFrame) -> None:
             1.10,
             label,
             transform=ax.transAxes,
-            fontsize=10.5,
+            fontsize=11,
             fontweight="bold",
             va="bottom",
             ha="left",

@@ -1,0 +1,1318 @@
+{
+    "vertical complexity canopy foraging niches": [
+        {
+            "paperId": "ddcb5f12547096162ac5281ac84fa4c5f758ab2f",
+            "title": "Disentangling vegetation diversity from climate–energy and habitat heterogeneity for explaining animal geographic patterns",
+            "year": 2016,
+            "openAccessPdf": {
+                "url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/ece3.1972",
+                "status": "GOLD",
+                "license": "CCBY",
+                "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC4747316, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "1404949142",
+                    "name": "B. Jiménez‐Alfaro"
+                },
+                {
+                    "authorId": "88224102",
+                    "name": "M. Chytrý"
+                },
+                {
+                    "authorId": "5272131",
+                    "name": "L. Mucina"
+                },
+                {
+                    "authorId": "34318006",
+                    "name": "J. Grace"
+                },
+                {
+                    "authorId": "1391155489",
+                    "name": "M. Rejmánek"
+                }
+            ],
+            "abstract": "Abstract Broad‐scale animal diversity patterns have been traditionally explained by hypotheses focused on climate–energy and habitat heterogeneity, without considering the direct influence of vegetation structure and composition. However, integrating these factors when considering plant–animal correlates still poses a major challenge because plant communities are controlled by abiotic factors that may, at the same time, influence animal distributions. By testing whether the number and variation of plant community types in Europe explain country‐level diversity in six animal groups, we propose a conceptual framework in which vegetation diversity represents a bridge between abiotic factors and animal diversity. We show that vegetation diversity explains variation in animal richness not accounted for by altitudinal range or potential evapotranspiration, being the best predictor for butterflies, beetles, and amphibians. Moreover, the dissimilarity of plant community types explains the highest proportion of variation in animal assemblages across the studied regions, an effect that outperforms the effect of climate and their shared contribution with pure spatial variation. Our results at the country level suggest that vegetation diversity, as estimated from broad‐scale classifications of plant communities, may contribute to our understanding of animal richness and may be disentangled, at least to a degree, from climate–energy and abiotic habitat heterogeneity."
+        },
+        {
+            "paperId": "90a31eb9e33ea2c7bcb6bc848888fea0ea6e5a0a",
+            "title": "Disentangling direct and indirect effects of water availability, vegetation, and topography on avian diversity",
+            "year": 2018,
+            "openAccessPdf": {
+                "url": "https://www.nature.com/articles/s41598-018-33671-w.pdf",
+                "status": "GOLD",
+                "license": "CCBY",
+                "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC6195560, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "35122471",
+                    "name": "V. Remeš"
+                },
+                {
+                    "authorId": "19384543",
+                    "name": "Lenka Harmáčková"
+                }
+            ],
+            "abstract": "Climate is a major driver of species diversity. However, its effect can be either direct due to species physiological tolerances or indirect, whereby wetter climates facilitate more complex vegetation and consequently higher diversity due to greater resource availability. Yet, studies quantifying both direct and indirect effects of climate on multiple dimensions of diversity are rare. We used extensive data on species distributions, morphological and ecological traits, and vegetation across Australia to quantify both direct (water availability) and indirect (habitat diversity and canopy height) effects of climate on the species richness (SR), phylogenetic diversity (PD), and functional diversity (FD) of 536 species of birds. Path analyses revealed that SR increased with wetter climates through both direct and indirect effects, lending support for the influence of both physiological tolerance and vegetation complexity. However, residual PD and residual FD (adjusted for SR by null models) were poorly predicted by environmental conditions. Thus, the FD and PD of Australian birds mostly evolved in concert with SR, with the possible exception of the higher-than-expected accumulation of avian lineages in wetter and more productive areas in northern and eastern Australia (with high residual PD), permitted probably by older biome age."
+        },
+        {
+            "paperId": "7add1b340ec0bdb1859029d2d210b9248223c189",
+            "title": "Functional diversity of avian communities increases with canopy height: From individual behavior to continental‐scale patterns",
+            "year": 2021,
+            "openAccessPdf": {
+                "url": "https://oist.repo.nii.ac.jp/record/2243/files/Remes-2021-Functional-diversity-of-avian-commu.pdf",
+                "status": "GREEN",
+                "license": "CCBY",
+                "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC8427649, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "35122471",
+                    "name": "V. Remeš"
+                },
+                {
+                    "authorId": "150990545",
+                    "name": "Eva Remešová"
+                },
+                {
+                    "authorId": "40556155",
+                    "name": "Nicholas R. Friedman"
+                },
+                {
+                    "authorId": "3989750",
+                    "name": "Beata Matysioková"
+                },
+                {
+                    "authorId": "2279990674",
+                    "name": "Lucia Rubáčová"
+                }
+            ],
+            "abstract": "Abstract Vegetation complexity is an important predictor of animal species diversity. Specifically, taller vegetation should provide more potential ecological niches and thus harbor communities with higher species richness and functional diversity (FD). Resource use behavior is an especially important functional trait because it links species to their resource base with direct relevance to niche partitioning. However, it is unclear how exactly the diversity of resource use behavior changes with vegetation complexity. To address this question, we studied avian FD in relation to vegetation complexity along a continental‐scale vegetation gradient. We quantified foraging behavior of passerine birds in terms of foraging method and substrate use at 21 sites (63 transects) spanning 3,000 km of woodlands and forests in Australia. We also quantified vegetation structure on 630 sampling points at the same sites. Additionally, we measured morphological traits for all 111 observed species in museum collections. We calculated individual‐based, abundance‐weighted FD in morphology and foraging behavior and related it to species richness and vegetation complexity (indexed by canopy height) using structural equation modeling, rarefaction analyses, and distance‐based metrics. FD of morphology and foraging methods was best predicted by species richness. However, FD of substrate use was best predicted by canopy height (ranging 10–30 m), but only when substrates were categorized with fine resolution (17 categories), not when categorized coarsely (8 categories). These results suggest that, first, FD might increase with vegetation complexity independently of species richness, but whether it does so depends on the studied functional trait. Second, patterns found might be shaped by how finely we categorize functional traits. More complex vegetation provided larger \"ecological space\" with more resources, allowing the coexistence of more species with disproportionately more diverse foraging substrate use. We suggest that the latter pattern was driven by nonrandom accumulation of functionally distinct species with increasing canopy height."
+        },
+        {
+            "paperId": "497909ea39e72094b5753cace76686760c353411",
+            "title": "Three‐Dimensional Habitat Structure Drives Avian Functional and Trait Diversity Across North America",
+            "year": 2025,
+            "openAccessPdf": {
+                "url": "",
+                "status": null,
+                "license": "CCBY",
+                "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC12015643, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "2304884913",
+                    "name": "Colin P Sweeney"
+                },
+                {
+                    "authorId": "2304887259",
+                    "name": "W. Peterman"
+                },
+                {
+                    "authorId": "2305063137",
+                    "name": "Kaiguang Zhao"
+                },
+                {
+                    "authorId": "2304884267",
+                    "name": "Karen Goodell"
+                },
+                {
+                    "authorId": "3751509",
+                    "name": "B. Zuckerberg"
+                },
+                {
+                    "authorId": "4927581",
+                    "name": "Marta A. Jarzyna"
+                }
+            ],
+            "abstract": "ABSTRACT Understanding how three‐dimensional (3D) habitat structure drives biodiversity patterns is key to predicting how habitat alteration and loss will affect species and community‐level patterns in the future. To date, few studies have contrasted the effects of 3D habitat composition with those of 3D habitat configuration on biodiversity, with existing investigations often limited to measures of taxonomic diversity (i.e., species richness). Here, we examined the influence of Light Detecting and Ranging (LiDAR)‐derived 3D habitat structure–both its composition and configuration–on multiple facets of bird diversity. Specifically, we used data from the National Ecological Observatory Network (NEON) to test the associations between 11 measures of 3D habitat structure and avian species richness, functional and trait diversity, and phylogenetic diversity. We found that 3D habitat structure was the most consistent predictor of avian functional and trait diversity, with little to no effect on species richness or phylogenetic diversity. Functional diversity and individual trait characteristics were strongly associated with both 3D habitat composition and configuration, but the magnitude and the direction of the effects varied across the canopy, subcanopy, midstory, and understory vertical strata. Our findings suggest that 3D habitat structure influences avian diversity through its effects on traits. By examining the effects of multiple aspects of habitat structure on multiple facets of avian diversity, we provide a broader framework for future investigations on habitat structure."
+        },
+        {
+            "paperId": "1308d442d15cc7f33a0ebc5c9fbeca86fcb4e435",
+            "title": "Habitat heterogeneity from lidar and hyperspectral data: Implications for bird guilds and restoration management of coal mines",
+            "year": 2025,
+            "openAccessPdf": {
+                "url": "",
+                "status": null,
+                "license": null,
+                "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1111/1365-2664.70071?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1111/1365-2664.70071, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "27098105",
+                    "name": "Lucie Moudrá"
+                },
+                {
+                    "authorId": "49579884",
+                    "name": "V. Barták"
+                },
+                {
+                    "authorId": "3104676",
+                    "name": "Vítězslav Moudrý"
+                },
+                {
+                    "authorId": "2954512",
+                    "name": "Ruben Remelgado"
+                },
+                {
+                    "authorId": "1490527986",
+                    "name": "S. Roilo"
+                },
+                {
+                    "authorId": "2559250",
+                    "name": "D. Rocchini"
+                },
+                {
+                    "authorId": "4072274",
+                    "name": "V. Bejček"
+                },
+                {
+                    "authorId": "2266511397",
+                    "name": "Karel Šťastný"
+                },
+                {
+                    "authorId": "2266592632",
+                    "name": "Ondřej Volf"
+                },
+                {
+                    "authorId": "2266593754",
+                    "name": "Petr Musil"
+                },
+                {
+                    "authorId": "2266590379",
+                    "name": "Miroslav Šálek"
+                }
+            ],
+            "abstract": "\n\n\nA global transition of energy production is underway. Coal‐based power production is gradually being replaced by renewable energies, leading to the decommissioning of coal‐mining sites. In Europe, this presents an opportunity for restoring degraded habitats, in alignment with the goals of the Nature Restoration Law. However, systematic approaches to monitoring restoration of mining sites are lacking as current practices are often labour‐intensive and (both spatially and temporally) constrained.\n\nIn this study, we evaluated the suitability of habitat heterogeneity metrics derived through airborne remote sensing for monitoring the restoration of coal‐mining sites. Specifically, we tested the response of guild‐specific bird species richness to various metrics of habitat heterogeneity, both at and around a restored coal‐mining site. We (i) examined differences in habitat heterogeneity, including terrain characteristics, vegetation structure and senescent vegetation, between restored and surrounding areas; (ii) documented key aspects of habitat heterogeneity that influence bird richness and different bird guilds; and (iii) tested for significant differences among bird responses between restored and surrounding areas.\n\nGeneralised additive models explained between 19% and 78% of the variability in guild richness. Canopy cover, understory cover, the standard deviation of vegetation height, and senescent vegetation positively affected overall bird richness, while terrain characteristics significantly influenced some guilds (e.g. ground‐nesting birds). The effects of evaluated variables on guild diversity were generally similar in both restored and surrounding areas, with the standard deviation of vegetation height being the only exception. Increasing standard deviation of vegetation height positively affected the richness of understory nesters and foragers in the restored area but had no (or slightly negative) effect in the surrounding area.\n\nSynthesis and applications. This study underscores the need to design a mosaic of habitats with complex vertical structures, emphasising the critical role of senescent vegetation and unaltered terrain features in supporting biodiversity. Finally, it provides evidence that integrating habitat heterogeneity metrics derived from airborne remote sensing data into restoration success assessment can support biodiversity‐promoting management measures.\n\n"
+        }
+    ],
+    "urban canopy continuity bird movement": [
+        {
+            "paperId": "7e23c4d4fc42f668bb3ed4a8067b42ee1b140ffd",
+            "title": "The Ocean and Cryosphere in a Changing Climate",
+            "year": 2022,
+            "openAccessPdf": {
+                "url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/A05E6C9F8638FA7CE1748DE2EB7B491B/9781009157971AR.pdf/The_Ocean_and_Cryosphere_in_a_Changing_Climate.pdf?event-type=FTLA",
+                "status": "BRONZE",
+                "license": null,
+                "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1017/9781009157964?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1017/9781009157964, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "145485871",
+                    "name": "N. Abram"
+                }
+            ],
+            "abstract": "IPCC Special the Ocean and Cryosphere in a Changing third Special Report on This IPCC Special Report on the Ocean and Cryosphere in a Changing Climate (SROCC), is the third Special Report to be produced in the Intergovernmental Panel on Climate Change’s (IPCC) Sixth Assessment Report (AR6) cycle. Its ﬁndings reinforce those of the two earlier Special Reports, the IPCC Special Report on Global Warming of 1.5ºC and the IPCC Special Report on Climate Change and Land. The report was jointly prepared by Working Groups I and II, with the Working Group II Technical Support Unit leading the operational production. It was prepared following IPCC principles and procedures. This Special Report builds upon the IPCC’s Fifth Assessment Report (AR5) in 2013– 2014 and on relevant research published in the scientiﬁc, technical and socio-economic literature. The report sits alongside other related reports from other UN Bodies, including Intergovernmental Science Policy Platform on Biodiversity and Ecosystem Services (IPBES) Global Assessment Report on Biodiversity and Ecosystem Services."
+        },
+        {
+            "paperId": "a72e8ff083e3b3b67bf70955747f1a74bd455c43",
+            "title": "Our future in the Anthropocene biosphere",
+            "year": 2021,
+            "openAccessPdf": {
+                "url": "https://link.springer.com/content/pdf/10.1007/s13280-021-01544-8.pdf",
+                "status": "HYBRID",
+                "license": "CCBY",
+                "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC7955950, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "49081667",
+                    "name": "C. Folke"
+                },
+                {
+                    "authorId": "2775332",
+                    "name": "S. Polasky"
+                },
+                {
+                    "authorId": "50393319",
+                    "name": "J. Rockström"
+                },
+                {
+                    "authorId": "46288175",
+                    "name": "V. Galaz"
+                },
+                {
+                    "authorId": "97458203",
+                    "name": "Frances Westley"
+                },
+                {
+                    "authorId": "145179264",
+                    "name": "M. Lamont"
+                },
+                {
+                    "authorId": "145644167",
+                    "name": "M. Scheffer"
+                },
+                {
+                    "authorId": "5017151",
+                    "name": "H. Österblom"
+                },
+                {
+                    "authorId": "35280006",
+                    "name": "S. Carpenter"
+                },
+                {
+                    "authorId": "46601508",
+                    "name": "F. Chapin"
+                },
+                {
+                    "authorId": "47095235",
+                    "name": "K. Seto"
+                },
+                {
+                    "authorId": "3221701",
+                    "name": "E. Weber"
+                },
+                {
+                    "authorId": "4592848",
+                    "name": "B. Crona"
+                },
+                {
+                    "authorId": "5951314",
+                    "name": "G. Daily"
+                },
+                {
+                    "authorId": "50140537",
+                    "name": "P. Dasgupta"
+                },
+                {
+                    "authorId": "4654855",
+                    "name": "O. Gaffney"
+                },
+                {
+                    "authorId": "2228094647",
+                    "name": "L. Gordon"
+                },
+                {
+                    "authorId": "144395228",
+                    "name": "H. Hoff"
+                },
+                {
+                    "authorId": "49535686",
+                    "name": "S. Levin"
+                },
+                {
+                    "authorId": "4927799",
+                    "name": "J. Lubchenco"
+                },
+                {
+                    "authorId": "30346473",
+                    "name": "W. Steffen"
+                },
+                {
+                    "authorId": "2150915520",
+                    "name": "B. Walker"
+                }
+            ],
+            "abstract": "The COVID-19 pandemic has exposed an interconnected and tightly coupled globalized world in rapid change. This article sets the scientific stage for understanding and responding to such change for global sustainability and resilient societies. We provide a systemic overview of the current situation where people and nature are dynamically intertwined and embedded in the biosphere, placing shocks and extreme events as part of this dynamic; humanity has become the major force in shaping the future of the Earth system as a whole; and the scale and pace of the human dimension have caused climate change, rapid loss of biodiversity, growing inequalities, and loss of resilience to deal with uncertainty and surprise. Taken together, human actions are challenging the biosphere foundation for a prosperous development of civilizations. The Anthropocene reality—of rising system-wide turbulence—calls for transformative change towards sustainable futures. Emerging technologies, social innovations, broader shifts in cultural repertoires, as well as a diverse portfolio of active stewardship of human actions in support of a resilient biosphere are highlighted as essential parts of such transformations."
+        },
+        {
+            "paperId": "9075e4bd04cd7ee886d1dfde0d3acc987a41e586",
+            "title": "The ‘Bush Capital’—A Review of 100+ Years of Integrative Spatio-Temporal Planning for a City in the Landscape and Nature in the City",
+            "year": 2022,
+            "openAccessPdf": {
+                "url": "https://www.mdpi.com/2073-445X/11/2/169/pdf?version=1643102858",
+                "status": "GOLD",
+                "license": "CCBY",
+                "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3390/land11020169?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3390/land11020169, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "50258566",
+                    "name": "A. Lynch"
+                }
+            ],
+            "abstract": "Over approximately 100 years, the Australian capital, Canberra, has evolved in association with the predominant values, vision and cultural relationships of people to the area. The location and design of the city derived from a formal intention to integrate nature and culture for the benefit and edification of residents and in symbolisation of the city’s importance as the seat of national decision-making and legislature. Established on a native grassland surrounded by wooded hills and ridges, and with nearby confluences of rivers as security of water supply, the city’s landscape was transformed through centralised planning and implementation of Garden City and City Beautiful constructs to become one of the world’s most liveable regions. Twentieth-century expansion of the city’s suburbs, tree streetscapes and gardens progressed with varying emphasis on exotic versus native species, and contemporary programs aim to increase urban tree canopy cover to 30%. Yet, there is increasing acknowledgement of the landscape’s rich history of culture–nature interactions extending back at least 25,000 years. Indicators are evident in human modification of tree-dominated ecosystems, the overlapping ways in which people related to elemental landscape features, and a continuity of valuing particular sites for ceremonies, social activities and human movement. With projected steady population growth, climate change, and associated impacts on the environment and natural resources, contemporary planning must be innovative and integrative to ensure ecologically sustainable development. Strong visionary leadership is needed to develop a landscape policy that encompasses key natural assets including threatened woodlands and mature native trees for their intrinsic values and as habitat for threatened fauna, cultural landscape values such as forested montane and ridge areas, and heritage and protected trees. From pre-European to current times, planning, modification and management of environmental and ecosystem values has been integral to enabling local people to sustain themselves. The next challenge is to create clarity about the future of this cultural landscape and enhance the community’s attachment to and stewardship of the city and its landscape."
+        },
+        {
+            "paperId": "8451a8248dbb092997a9e669d20124711b98d025",
+            "title": "A Preliminary Study on the Landscape Design of the External Space of Commercial Complexes: Taking Happy Harbor as an Example",
+            "year": 2022,
+            "openAccessPdf": {
+                "url": "http://ojs.bbwpublisher.com/index.php/JARD/article/download/4472/3919",
+                "status": "GOLD",
+                "license": null,
+                "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.26689/jard.v6i6.4472?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.26689/jard.v6i6.4472, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "2112079996",
+                    "name": "Ruofan Li"
+                }
+            ],
+            "abstract": "With the development of urban construction in China and the improvement of living standards among urban residents, people today have higher requirements for space quality, and the development of urban commercial complexes has also become an important part of urban development. In this process, the functions of urban commercial complexes, in terms of culture, leisure, commerce, tourism, and office work, are gradually compounded. The integration of the commercial complex landscape with the urban environment shapes a place that provides more humanized services to the urban population. The landscape facilities in the commercial complex square are no longer just a foil, but they are constantly improved and optimized for the benefit of the crowd. Beginning from the exterior space of commercial complexes, this study investigates and analyzes the landscape design, and based on the external landscape distribution of Happy Harbor and the environment created by the landscape, this paper expounds the commercial landscape design and development of a more comprehensive and humanized commercial urban complex space landscape."
+        },
+        {
+            "paperId": "1a1d4347c593457581103d0edb2d5f6944e7f5d8",
+            "title": "Exploration on Innovative Teaching Practice of the Course \"Residential Space Design\" Based on the Concept of Residential Business",
+            "year": 2023,
+            "openAccessPdf": {
+                "url": "http://www.clausiuspress.com/assets/default/article/2023/08/13/article_1691977970.pdf",
+                "status": "GOLD",
+                "license": "CCBY",
+                "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.23977/aetp.2023.070904?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.23977/aetp.2023.070904, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "2354704440",
+                    "name": "Minghui Liao"
+                }
+            ],
+            "abstract": ": In the existing teaching of the course “Residential Space Design”, there is a lack of sufficient theoretical injection, especially the design concepts and methods positioned in the field of residential and commercial design, which makes it difficult to obtain in-depth teaching research. This has certain limitations on students' professional literacy and design abilities. This article studies the innovative teaching practice of the course “Residential Space Design” based on the concept of living and business. By analyzing the current teaching situation of residential space design courses and pointing out the existing teaching problems, this paper summarized the implementation strategies of teaching models. The innovative teaching practice of the course “Residential Space Design” based on the concept of housing and business is a promising teaching model. It focuses on human and nature, pays attention to practice and innovation and meets the requirements of modern Design education. By testing the teaching effectiveness of the “Residential Space Design” course based on the concept of residential and business, it was found that the teaching model based on the concept of residential and business can guide students to have a more comprehensive and in-depth understanding and mastery of residential space design, enhancing its innovation and practicality. Students were more satisfied with the teaching mode of the course “Residential Space Design” based on the concept of living and business; student satisfaction increased by approximately 6.4%, and the teaching effectiveness of the course also been improved. The innovative teaching practice of the course “Residential Space Design” based on the concept of housing and business provides new ideas and directions for the current Design education."
+        }
+    ],
+    "urban canopy structure functional connectivity": [
+        {
+            "paperId": "e1ad1240ff370405c04ca518fd90902f8f1da321",
+            "title": "Multi-scale factors influencing the characteristics of avian communities in urban parks across Beijing during the breeding season",
+            "year": 2016,
+            "openAccessPdf": {
+                "url": "https://www.nature.com/articles/srep29350.pdf",
+                "status": "GOLD",
+                "license": "CCBY",
+                "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC4941401, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "9261708",
+                    "name": "Shilin Xie"
+                },
+                {
+                    "authorId": "144002683",
+                    "name": "F. Lu"
+                },
+                {
+                    "authorId": "50260667",
+                    "name": "Lei Cao"
+                },
+                {
+                    "authorId": "12997991",
+                    "name": "Weiqi Zhou"
+                },
+                {
+                    "authorId": "144932723",
+                    "name": "Z. Ouyang"
+                }
+            ],
+            "abstract": "Understanding the factors that influence the characteristics of avian communities using urban parks at both the patch and landscape level is important to focus management effort towards enhancing bird diversity. Here, we investigated this issue during the breeding season across urban parks in Beijing, China, using high-resolution satellite imagery. Fifty-two bird species were recorded across 29 parks. Analysis of residence type of birds showed that passengers were the most prevalent (37%), indicating that Beijing is a major node in the East Asian–Australasian Flyway. Park size was crucial for total species abundance, but foliage height diversity was the most important factor influencing avian species diversity. Thus, optimizing the configuration of vertical vegetation structure in certain park areas is critical for supporting avian communities in urban parks. Human visitation also showed negative impact on species diversity. At the landscape level, the percentage of artificial surface and largest patch index of woodland in the buffer region significantly affected total species richness, with insectivores and granivores being more sensitive to the landscape pattern of the buffer region. In conclusion, urban birds in Beijing are influenced by various multi-scale factors; however, these effects vary with different feeding types."
+        },
+        {
+            "paperId": "8e3b682fb9be8a8ad50c65ca1277b9fc3ce9bcf6",
+            "title": "The effects of residential greenspace on avian Biodiversity in Beijing",
+            "year": 2020,
+            "openAccessPdf": {
+                "url": "https://doi.org/10.1016/j.gecco.2020.e01223",
+                "status": "GOLD",
+                "license": "CCBYNCND",
+                "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.gecco.2020.e01223?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.gecco.2020.e01223, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "9261708",
+                    "name": "Shilin Xie"
+                },
+                {
+                    "authorId": "3391899",
+                    "name": "Xiaoke Wang"
+                },
+                {
+                    "authorId": "12997991",
+                    "name": "Weiqi Zhou"
+                },
+                {
+                    "authorId": "145559969",
+                    "name": "Tong Wu"
+                },
+                {
+                    "authorId": "4097747",
+                    "name": "Yuguo Qian"
+                },
+                {
+                    "authorId": "144002683",
+                    "name": "F. Lu"
+                },
+                {
+                    "authorId": "2057184919",
+                    "name": "Cheng Gong"
+                },
+                {
+                    "authorId": "2112151907",
+                    "name": "He Zhao"
+                },
+                {
+                    "authorId": "144932723",
+                    "name": "Z. Ouyang"
+                }
+            ],
+            "abstract": "Abstract Residential communities are the primary living spaces for people in China. Their associated greenspaces are important elements of the urban ecosystem, providing neighborhood ecosystem services and hosting bird populations of differing community structures compared with other urban green areas. This study analyzes avian community characteristics within residential communities and their differences compared with urban parks in Beijing. Furthermore, we assess the key environmental factors determining species composition and population sizes and the spatial scales at which these factors are most significant. We randomly selected 27 residential communities to assess the habitat structure and landscape characteristics that underpin residential avian assemblages across multiple spatial scales. Independent sample t-test and model selection methods based on AICc were used for data analysis. Eurasian Tree Sparrow (Passer montanus) (hereafter ETS) alone accounted for 91.0% of total individuals. Compared with urban parks, more migrants and omnivores were found in residential communities. Within-site forest patch connectivity simultaneously decided resident species diversity and individual abundance, with the exception of ETS. Tree species richness and coverage are key predictors for resident species richness and ETS numbers, respectively. Even in the most urbanized species, ETS retained ecological attributes found in “wilder” settings. Residential communities skewed toward avian communities with dominant numbers of ETS. In these low-quality habitats, our results suggest that landscape configuration is more important than local habitat structure. Within-site habitat connectivity and the number of surrounding forest patches with shorter between-patch distances deserve more attention in future landscape design for residential communities."
+        },
+        {
+            "paperId": "26523fea37ef6e2fdf853ec9f27c97bc67d0e6d7",
+            "title": "Taxonomic and functional components of avian metacommunity structure along an urban gradient",
+            "year": 2022,
+            "openAccessPdf": {
+                "url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0271405&type=printable",
+                "status": "GOLD",
+                "license": "CCBY",
+                "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC9362948, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "91023248",
+                    "name": "Erin E. Stukenholtz"
+                },
+                {
+                    "authorId": "48102077",
+                    "name": "R. Stevens"
+                }
+            ],
+            "abstract": "Identifying biological processes that structure natural communities has long interested ecologists. Community structure may be determined by various processes, including differential responses of species to environmental characteristics, regional-level spatial influences such as dispersal, or stochasticity generated from ecological drift. Few studies have used the metacommunity paradigm (interacting communities linked by dispersal) to investigate avian community composition along an urban gradient, yet such a theoretical construct may provide insights into species turnover even in unnatural settings such as rural to urban gradients. We measured the influence of spatial and environmental characteristics on two aspects of avian community structure across a gradient of urbanization: 1) taxonomic composition and 2) functional richness based on diet, foraging strategies, nesting locations and morphology. We also measured the relationship between species traits and environmental variables with an RLQ-fourth corner analysis. Together, environmental and spatial processes were significantly related to taxonomic structure and functional richness, but spatial variables accounted for more variation than environmental variables. Fine spatial scales were positively correlated with insectivorous birds and negatively correlated with body and wing size. Urbanization was positively correlated with birds that forage at the canopy level, while emergent wetlands were negatively correlated with birds that nested in cliffs and frugivorous birds. Functional richness and urbanization were significantly related to fine spatial variables. Spatial and environmental factors played an important role in taxonomic and functional structure in avian metacommunity structure. This study highlights the importance of studying multiple aspects of biodiversity, such as taxonomic and functional dimensions, especially when examining effects of complementary spatial and environmental processes."
+        },
+        {
+            "paperId": "9a87c6f2219e875e40e2822abe0611effc35f0cc",
+            "title": "Correspondence Analysis on Sparse Bipartite Graphs with Hyperspecialization",
+            "year": 2025,
+            "openAccessPdf": {
+                "url": "",
+                "status": null,
+                "license": null,
+                "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1080/10618600.2025.2546451?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1080/10618600.2025.2546451, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "1455021934",
+                    "name": "Cassandra Handan‐Nader"
+                }
+            ],
+            "abstract": "Abstract Correspondence analysis (CA) and its covariate-based counterpart, canonical correspondence analysis (CCA), are classic yet popular scaling methods in the natural, social, and biomedical sciences to estimate latent gradients that drive the formation of edges in a bipartite graph. However, these methods struggle to identify latent gradients when they exist in sparse graphs where small subsets of nodes are hyperspecialized to each other. This article proposes a new computational method to prevent hyperspecialized nodes from obscuring latent gradient solutions based on a Markov chain interpretation of the CA eigenvalue problem. This approach identifies small subsets of hyperspecialized nodes with greater precision than traditional graph clustering techniques, and outperforms existing regularization techniques at identifying a latent gradient on a real-world political fundraising network of candidates for U.S. federal office, which spans three decades and includes nearly 20,000 candidates for federal office and 3 million of their donors. Supplementary materials for this article are available online."
+        },
+        {
+            "paperId": "8d8d5ef1f140a0960daaba0eca4166b316f71334",
+            "title": "Correspondence Analysis and PMI-Based Word Embeddings: A Comparative Study",
+            "year": 2024,
+            "openAccessPdf": {
+                "url": "",
+                "status": null,
+                "license": null,
+                "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/2405.20895, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "2298831538",
+                    "name": "Qianqian Qi"
+                },
+                {
+                    "authorId": "2261403495",
+                    "name": "Ayoub Bagheri"
+                },
+                {
+                    "authorId": "68980635",
+                    "name": "D. Hessen"
+                },
+                {
+                    "authorId": "2091920321",
+                    "name": "Peter G. M. van der Heijden"
+                }
+            ],
+            "abstract": "Popular word embedding methods such as GloVe and Word2Vec are related to the factorization of the pointwise mutual information (PMI) matrix. In this paper, we establish a formal connection between correspondence analysis (CA) and PMI-based word embedding methods. CA is a dimensionality reduction method that uses singular value decomposition (SVD), and we show that CA is mathematically close to the weighted factorization of the PMI matrix. We further introduce variants of CA for word-context matrices, namely CA applied after a square-root transformation (ROOT-CA) and after a fourth-root transformation (ROOTROOT-CA). We analyze the performance of these methods and examine how their success or failure is influenced by extreme values in the decomposed matrix. Although our primary focus is on traditionalstatic word embedding methods, we also include a comparison with a transformer-based encoder (BERT) to situate the results relative to contextual embeddings. Empirical evaluations across multiple corpora and word-similarity benchmarks show that ROOT-CA and ROOTROOT-CA perform slightly better overall than standard PMI-based methods and achieve results competitive with BERT."
+        }
+    ],
+    "foliage height diversity avian richness": [
+        {
+            "paperId": "cc8cf5e068c667e3201bd1a5a597637d6bd8d797",
+            "title": "Bird Migration Advances More Strongly in Urban Environments",
+            "year": 2013,
+            "openAccessPdf": {
+                "url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0063482&type=printable",
+                "status": "GOLD",
+                "license": "CCBY",
+                "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC3648465, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "6530966",
+                    "name": "P. Tryjanowski"
+                },
+                {
+                    "authorId": "46797077",
+                    "name": "T. Sparks"
+                },
+                {
+                    "authorId": "5074877",
+                    "name": "S. Kuźniak"
+                },
+                {
+                    "authorId": "47425583",
+                    "name": "P. Czechowski"
+                },
+                {
+                    "authorId": "4904700",
+                    "name": "L. Jerzak"
+                }
+            ],
+            "abstract": "Urbanization has a marked effect on the reproduction and other ecological and behavioural traits of many living organisms, including birds. In migrant birds, survival and reproductive output is influenced by the (mis)synchronization of arrival with the availability of resources. Many recent studies have shown that arrival timing is related to temperatures en-route and at destination. Because urban areas are “heat islands”, with higher temperatures that influence earlier vegetation and invertebrate development, this should favour earlier arrival of migrant birds to cities rather than to rural areas. In this paper, we analysed differences between urban and rural habitats in mean dates and trends of first arrival dates of 18 species of migratory bird species in western Poland during 1983–2010. For many individual species, and overall, mean first arrival date was significantly earlier in rural areas than in urban areas (significant for 11 species). However, the trend towards earlier first arrival dates was stronger in urban areas for 15 of the 18 species (significantly stronger in four species). Consequently, arrival dates in urban areas are fast approaching, or have now matched or passed those in rural areas. These findings suggest that recent environmental changes may have more rapidly changed the migratory habits of birds occupying urban habitats than those occupying rural habitats."
+        },
+        {
+            "paperId": "b13d572f47b2f13b631e47ce9a26e7ab26d757b6",
+            "title": "Winter Bird Assemblages in Rural and Urban Environments: A National Survey",
+            "year": 2015,
+            "openAccessPdf": {
+                "url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0130299&type=printable",
+                "status": "GOLD",
+                "license": "CCBY",
+                "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC4472663, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "6530966",
+                    "name": "P. Tryjanowski"
+                },
+                {
+                    "authorId": "46797077",
+                    "name": "T. Sparks"
+                },
+                {
+                    "authorId": "49581555",
+                    "name": "W. Biaduń"
+                },
+                {
+                    "authorId": "4845364",
+                    "name": "Tomasz Brauze"
+                },
+                {
+                    "authorId": "4373611",
+                    "name": "T. Hetmański"
+                },
+                {
+                    "authorId": "4234508",
+                    "name": "R. Martyka"
+                },
+                {
+                    "authorId": "4970957",
+                    "name": "P. Skórka"
+                },
+                {
+                    "authorId": "5887787",
+                    "name": "P. Indykiewicz"
+                },
+                {
+                    "authorId": "6057198",
+                    "name": "Ł. Myczko"
+                },
+                {
+                    "authorId": "2096634450",
+                    "name": "P. Kunysz"
+                },
+                {
+                    "authorId": "40428358",
+                    "name": "Piotr Kawa"
+                },
+                {
+                    "authorId": "2094103981",
+                    "name": "Stanisław Czyż"
+                },
+                {
+                    "authorId": "47425583",
+                    "name": "P. Czechowski"
+                },
+                {
+                    "authorId": "118790038",
+                    "name": "M. Polakowski"
+                },
+                {
+                    "authorId": "5518536",
+                    "name": "Piotr Zduniak"
+                },
+                {
+                    "authorId": "4904700",
+                    "name": "L. Jerzak"
+                },
+                {
+                    "authorId": "4425477",
+                    "name": "T. Janiszewski"
+                },
+                {
+                    "authorId": "5052484",
+                    "name": "A. Goławski"
+                },
+                {
+                    "authorId": "48299398",
+                    "name": "Leszek Duduś"
+                },
+                {
+                    "authorId": "36312264",
+                    "name": "J. Nowakowski"
+                },
+                {
+                    "authorId": "2077324499",
+                    "name": "A. Wuczyński"
+                },
+                {
+                    "authorId": "6371599",
+                    "name": "D. Wysocki"
+                }
+            ],
+            "abstract": "Urban development has a marked effect on the ecological and behavioural traits of many living organisms, including birds. In this paper, we analysed differences in the numbers of wintering birds between rural and urban areas in Poland. We also analysed species richness and abundance in relation to longitude, latitude, human population size, and landscape structure. All these parameters were analysed using modern statistical techniques incorporating species detectability. We counted birds in 156 squares (0.25 km2 each) in December 2012 and again in January 2013 in locations in and around 26 urban areas across Poland (in each urban area we surveyed 3 squares and 3 squares in nearby rural areas). The influence of twelve potential environmental variables on species abundance and richness was assessed with Generalized Linear Mixed Models, Principal Components and Detrended Correspondence Analyses. Totals of 72 bird species and 89,710 individual birds were recorded in this study. On average (±SE) 13.3 ± 0.3 species and 288 ± 14 individuals were recorded in each square in each survey. A formal comparison of rural and urban areas revealed that 27 species had a significant preference; 17 to rural areas and 10 to urban areas. Moreover, overall abundance in urban areas was more than double that of rural areas. There was almost a complete separation of rural and urban bird communities. Significantly more birds and more bird species were recorded in January compared to December. We conclude that differences between rural and urban areas in terms of winter conditions and the availability of resources are reflected in different bird communities in the two environments."
+        },
+        {
+            "paperId": "57e8a0b12dd5a15792a4beb7274709ab8f724a25",
+            "title": "Avian community composition, but not richness, differs between urban and exurban parks",
+            "year": 2020,
+            "openAccessPdf": {
+                "url": "https://academic.oup.com/jue/article-pdf/6/1/juaa028/34695498/juaa028.pdf",
+                "status": "GOLD",
+                "license": "CCBY",
+                "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1093/jue/juaa028?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1093/jue/juaa028, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "49943445",
+                    "name": "A. Haas"
+                },
+                {
+                    "authorId": "3909263",
+                    "name": "Sara M. Kross"
+                },
+                {
+                    "authorId": "4141485",
+                    "name": "Jamie M. Kneitel"
+                }
+            ],
+            "abstract": "Urban development alters landscape structure and available resources, potentially threatening avian diversity worldwide. However, it is unclear how bird communities respond in areas currently undergoing urban development, particularly in the non-breeding season. We examined avian communities at 8 parks in urban (within established urban matrix; >50% built cover) and 9 parks in exurban (within adjacent grassland; 5–20% built cover) areas in Sacramento County, CA. We measured bird species and abundance, conducting five line-transect surveys per park (85 total). We investigated factors influencing avian assemblage, including local habitat features (land cover, number of trees, fruiting trees and tree species, tree height and diameter at breast height, park size, park age), and landscape features (land cover within 500 m and distance to riparian habitat). Fifty bird species, including 15 migrants, were observed. Total species richness and abundance at urban and exurban parks was not significantly different, but community assemblages differed significantly. Park area positively predicted species richness. Abundance was negatively associated with inpark percent built cover, average number of fruiting trees and landscape-scale percent water cover. Species composition changes were associated with distance to riparian habitat and landscape percent grass cover for all but one exurban park; and with tree height, DBH and park and landscape percent tree cover for urban parks. The expansion of exurban areas in many parts of the world poses a significant risk for natural habitat loss. Parks in such areas should be planned to harbor some of the displaced biodiversity."
+        },
+        {
+            "paperId": "44bc095167e2874aeb8a02eace8ce829eea14e82",
+            "title": "Responses of Urban Bird Assemblages to Land-Sparing and Land-Sharing Development Styles in Two Argentinian Cities",
+            "year": 2023,
+            "openAccessPdf": {
+                "url": "https://www.mdpi.com/2076-2615/13/5/894/pdf?version=1677655349",
+                "status": "GOLD",
+                "license": "CCBY",
+                "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC10000187, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "51954941",
+                    "name": "Maximiliano A Cristaldi"
+                },
+                {
+                    "authorId": "2136316361",
+                    "name": "Ianina N. Godoy"
+                },
+                {
+                    "authorId": "6739216",
+                    "name": "Lucas M. Leveau"
+                }
+            ],
+            "abstract": "Simple Summary Urbanization negatively affects biodiversity worldwide. As cities are expected to grow in the future, alternative urban developments which allow the conservation of biodiversity within cities are required. Our main aim was to compare the response of bird assemblages to two alternative urban development styles (land-sparing vs. land-sharing) in two Argentinian cities: Santa Fe and Buenos Aires. Additionally, we assessed the response of bird assemblages to landscape features (the coverage of vegetation and distance to the main rivers) and human activity (represented by pedestrian rate and environmental noise). In Buenos Aires, land-sparing enhanced species richness, whereas land-sharing favored the Shannon diversity and Simpson diversity. The pedestrian traffic was negatively associated with bird diversity. We found that each urban development style supported different bird assemblages during the breeding season. Bird species composition was also related to the surrounding coverage of vegetation. Therefore, our study shows that both urban development styles support different bird assemblages, especially during the breeding season, and indicate the need of reducing pedestrian traffic and increasing the coverage of vegetation to enhance species diversity and composition in both cities. Abstract Urbanization negatively affects biodiversity worldwide. Consequently, alternative urban development styles are required for an eco-friendlier urbanization process. Thus, two development styles have been suggested: land-sharing (buildings mixed with dispersed green space) and land-sparing (buildings interspersed with large green patches). We assessed differences in species diversity and composition of bird assemblages between both development styles in two Argentinian cities: Santa Fe and Buenos Aires. We surveyed birds in land-sharing and land-sparing areas during the breeding and non-breeding seasons. As a control, we also surveyed birds in areas dominated by impervious surfaces. At a local scale, we also measured the environmental noise and pedestrian traffic. At a landscape scale, we measured the percent vegetation cover surrounding development styles and their distance to the main river. In Buenos Aires, species richness was higher in land-sparing than in land-sharing. However, the Shannon diversity and Simpson diversity were higher in land-sharing. In Santa Fe, both urban development styles supported similar species richness and diversity. Species composition varied between land-sharing and land-sparing in both cities during the breeding season. The pedestrian traffic was negatively associated with species diversity. Therefore, both development styles and strategies to reduce pedestrian traffic should be taken into account to enhance different components of species diversity and composition within the urban matrix."
+        },
+        {
+            "paperId": "e57ed13371e3f1eaaae77b6035fc9519c82dd4d5",
+            "title": "Urban form shapes bird niches: insights from the European green capital 2024",
+            "year": 2025,
+            "openAccessPdf": {
+                "url": "https://doi.org/10.1007/s10531-025-03050-9",
+                "status": "HYBRID",
+                "license": "CCBY",
+                "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s10531-025-03050-9?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s10531-025-03050-9, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "2350050157",
+                    "name": "Cristina del Pilar Buenaño-Mariño"
+                },
+                {
+                    "authorId": "2350051535",
+                    "name": "Judit Sabán"
+                },
+                {
+                    "authorId": "2274792710",
+                    "name": "E. Barba"
+                },
+                {
+                    "authorId": "1403811352",
+                    "name": "J. García-Esparza"
+                }
+            ],
+            "abstract": "This study underscores the critical importance of integrating biodiversity considerations into urban planning, demonstrating how diverse urban structures can support bird populations while contributing to the resilience of urban ecosystems. The research investigates whether significant differences exist among urban configurations in terms of species richness and individual abundance. The proposed urban configurations—historic centres, open blocks, and closed blocks—were examined in Valencia, Spain. Urban composition data were obtained from open-access platforms, and bird information was sourced from the SACRE citizen science program. Data were organized hierarchically and analyzed using Generalized Linear Mixed Models (GLMMs), complemented by the AIC criterion and QQ plot residuals. The study recorded 23 bird species, with the lowest richness observed in historic centres (13 species). Significant ecological differences were found among birds that feed in the air, in trees and shrubs, and those that nest in buildings. The findings highlight the ecological value of historic buildings, which offer critical nesting opportunities. Among the three urban habitat types, the most common species were the common swift (Apus apus), rock pigeon (Columba livia), house sparrow (Passer domesticus), and Eurasian collared dove (Streptopelia decaocto). Additionally, this research discusses the decline of European swift populations and house sparrow, linking it to modern building practices that reduce nesting sites. By emphasizing the ecological consequences of urban development and the need for biodiversity-friendly measures, this study contributes to understanding how urban planning can promote conservation and mitigate biodiversity loss in rapidly changing urban landscapes."
+        }
+    ],
+    "built environment canopy bird dispersal": [
+        {
+            "paperId": "2f68ad7458b47f1367ead01aab5ea24c644e7af0",
+            "title": "How urban green management is influencing passerine birds’ nesting in the Mediterranean: A case study in a Catalan city",
+            "year": 2019,
+            "openAccessPdf": {
+                "url": "https://ddd.uab.cat/pub/artpub/2019/205315/urbforurbgre_a2019v41p221pp.pdf",
+                "status": "GREEN",
+                "license": "CCBYNCND",
+                "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/J.UFUG.2019.03.012?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/J.UFUG.2019.03.012, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "2128811494",
+                    "name": "Jaume Marlès Magre"
+                },
+                {
+                    "authorId": "2128811816",
+                    "name": "Martí Boada Juncà"
+                },
+                {
+                    "authorId": "5336431",
+                    "name": "Josep M. Campanera"
+                },
+                {
+                    "authorId": "1491853955",
+                    "name": "Albert Bach Pagès"
+                },
+                {
+                    "authorId": "2131580123",
+                    "name": "Isabel Ruiz Mallén"
+                },
+                {
+                    "authorId": "2128800251",
+                    "name": "Roser Maneja Zaragoza"
+                },
+                {
+                    "authorId": "2131583416",
+                    "name": "Sònia Sánchez Mateo"
+                },
+                {
+                    "authorId": "2131580082",
+                    "name": "Montserrat Pallarès Barberà"
+                },
+                {
+                    "authorId": "2249268758",
+                    "name": "Carles Barriocanal Lozano"
+                }
+            ],
+            "abstract": "Abstract The vegetation within the urban system provides sheltering and food provisions to birds, influencing their nesting options. This study analyses for the first time in the Mediterranean area how different socio-ecological factors related with public urban green management can influence the nesting of the passerine bird order. It uses a case study in the city of Valls (Catalonia, Spain). First, the public urban green was quantitatively and qualitatively characterised; then the nests from the passerine birds were collected and identified, and finally, potential associations between nests and urban green-related socio-ecological factors such as vegetation type (tree, shrub, herb, liana), plant species, neighbourhood type, pruning type, fruit and seed production, and presence of insect plague were analysed. A total of 300 nests were identified and belonged, mostly, to the family of Fringillidae and Sylviidae, all from Mediterranean agroforestry areas. Passerine birds show preference for the historic centre, being this area the one with highest biodiversity of vegetation in the city, in detriment of surrounding neighbourhoods, which in turn are less biodiverse. Passerine birds do not consider four tree species (Celtis australis, Laurus nobilis, Robinia pseudoacacia and Pinus pinea) suitable for nesting whereas showing preference for two tree species of medium height and size (Hibiscus syriacus and Melia azederach). Also, passerine birds seem to preferably nest in trees that have been pruned intensively. These results suggest that, to strengthen the passerine bird diversity in cities, urban green management should promote certain species of trees of medium size and intensive pruning while supporting the overall biodiversity of the urban green. All these results contribute to inform effective urban planning and management strategies for passerine birds conservation that aim to reconcile urban development and urban biodiversity protection."
+        },
+        {
+            "paperId": "cbad49cbd6f4fcea8a0dc1d3113d54a6ee99094a",
+            "title": "Responses of avian assemblages to spatiotemporal landscape dynamics in urban ecosystems",
+            "year": 2022,
+            "openAccessPdf": {
+                "url": "https://link.springer.com/content/pdf/10.1007/s10980-022-01550-5.pdf",
+                "status": "HYBRID",
+                "license": "CCBY",
+                "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s10980-022-01550-5?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s10980-022-01550-5, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "50095093",
+                    "name": "Maurizio Fraissinet"
+                },
+                {
+                    "authorId": "6383807",
+                    "name": "L. Ancillotto"
+                },
+                {
+                    "authorId": "5216558",
+                    "name": "A. Migliozzi"
+                },
+                {
+                    "authorId": "2097241828",
+                    "name": "Silvia Capasso"
+                },
+                {
+                    "authorId": "6484796",
+                    "name": "L. Bosso"
+                },
+                {
+                    "authorId": "40512279",
+                    "name": "D. Chamberlain"
+                },
+                {
+                    "authorId": "2129317011",
+                    "name": "D. Russo"
+                }
+            ],
+            "abstract": "Context Urbanization and its associated impacts on biodiversity are increasing globally. There is a need to enhance our understanding of species responses to inform strategies for sustainable urbanization. Objectives Three extensive bird monitoring campaigns took place over the last three decades in the city of Naples, Italy, providing a comprehensive longitudinal dataset to analyse occurrence trends of urban birds. We aimed to assess both species-specific and assemblage-level changes in urban birds according to land cover dynamics. Methods We extracted bird data for the periods 1990–95, 2000–05, and 2014–18, and explored the spatial and temporal relationships between bird presence/avian assemblage composition, and land cover variation. Results The species richness of breeding birds remained stable over time, despite a notable species turnover, influenced by changes in the species’ key land cover classes. Species associated with forest and urban land cover tended to colonise the area, while those dependent on abandoned and cultivated areas decreased or went locally extinct. Birds changed their degree of dependence upon their key habitat type over time, as species from marginal and open habitat types needed larger amounts of habitat to persist within the area, while forest species showed an opposite trend. Conclusions Habitat-driven changes in avian assemblages within the urban landscape led to an increase in forest-associated species, and a decrease in birds associated with declining habitat types. Our findings may inform urban planning to promote more wildlife-friendly cities, which for our study area should prioritise open and marginal habitats."
+        },
+        {
+            "paperId": "ccba3791ab952159d5a2be817cc37eed3a40ef34",
+            "title": "Urban biodiversity conservation: A framework for ecological network construction and priority areas identification considering habit differences within species.",
+            "year": 2024,
+            "openAccessPdf": {
+                "url": "https://doi.org/10.1016/j.jenvman.2024.121512",
+                "status": "HYBRID",
+                "license": "CCBY",
+                "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.jenvman.2024.121512?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.jenvman.2024.121512, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "2282905891",
+                    "name": "Xiaoxi Li"
+                },
+                {
+                    "authorId": "2153901735",
+                    "name": "Xiaoyang Ou"
+                },
+                {
+                    "authorId": "2048776566",
+                    "name": "Xing Sun"
+                },
+                {
+                    "authorId": "2298272027",
+                    "name": "Haoran Li"
+                },
+                {
+                    "authorId": "2297927906",
+                    "name": "Yixiao Li"
+                },
+                {
+                    "authorId": "2282948337",
+                    "name": "Xi Zheng"
+                }
+            ],
+            "abstract": "The construction of ecological networks within the context of urbanization is an effective approach to cope with the challenges of urban biodiversity decline, representing a crucial goal in urban planning and development. However, existing studies often overlook the richness and uniqueness within species communities by homogenizing traits of species in the same class. This study proposes a framework for constructing and optimizing ecological networks focused on differential conservation within the same class. By classifying birds into three groups (specialists of water, forest or urban areas) based on their ecological requirements and urbanization tolerance, we constructed an ecological network tailored to their distinct migratory dispersal patterns. We then identified strategic areas including pinch points, barriers, and breakpoints specific to each bird group. Our findings reveal notable variations in suitable habitat distribution among different bird groups in urban environments. Corridor layouts varied according to habitat preferences and migratory dispersal patterns. Despite these differences, urban built-up areas persist as central hubs for the distribution of suitable habitats for 75% of bird species, with peripheral mountain-plain transition areas constituting 63% of crucial dispersal corridors. This emphasizes the critical role of urban built-up areas in maintaining biodiversity and ecological connectivity. Prioritizing connectivity between central urban areas and distant natural spaces is imperative. Our approach innovatively classifies and constructs networks to identify strategic areas with diverse species-specific attributes, providing valuable spatial information for land planning and guiding solutions to enhance target species. While the primary focus is on bird conservation in Beijing, our framework is broadly applicable to global biodiversity management and green planning under urbanization challenges. Overall, this study offers innovative insights for urban planning development and serves as decision support for prioritizing urban actions."
+        },
+        {
+            "paperId": "1af17e8841490f8b452f87492de4429080913651",
+            "title": "A Hybrid Exponential Smoothing–DRP– Framework for Sustainable Distribution Optimization in a Traditional Food Rengginang",
+            "year": 2025,
+            "openAccessPdf": {
+                "url": "",
+                "status": null,
+                "license": null,
+                "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.59976/jurit.v3i2.204?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.59976/jurit.v3i2.204, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "2278655161",
+                    "name": "Jurit Jurnal"
+                },
+                {
+                    "authorId": "2278649121",
+                    "name": "Riset Ilmu"
+                },
+                {
+                    "authorId": "2278652209",
+                    "name": "Teknik"
+                },
+                {
+                    "authorId": "2386037757",
+                    "name": "Qurratu Ainun"
+                },
+                {
+                    "authorId": "2386036720",
+                    "name": "Ferry Irawan Sutisna"
+                },
+                {
+                    "authorId": "2386038930",
+                    "name": "Leny Andini"
+                },
+                {
+                    "authorId": "2386040869",
+                    "name": "Irma Kinari"
+                }
+            ],
+            "abstract": "Purpose: Distribution Requirement Planning (DRP), and route optimization using the Saving Matrix method. The goal is to enhance inventory accuracy, minimize logistics costs, and improve delivery efficiency under fluctuating market demand. Methodology: A quantitative–descriptive analysis was conducted using primary data (field observation and interviews) and secondary data (production and sales records). Weekly demand forecasting was performed using the Exponential Smoothing method with α = 0.9, evaluated through Mean Absolute Deviation (MAD), Mean Squared Error (MSE), and Mean Absolute Percentage Error (MAPE). The DRP model was used to determine gross and net requirements, while the Saving Matrix method was applied to design optimal delivery routes. Findings: The Exponential Smoothing model achieved a high predictive accuracy (MAPE = 10.33%), showing reliable short-term forecasting for MSMEs. DRP implementation with a one-week lead time and a 168-unit safety stock successfully balanced production capacity and customer demand. Integration of DRP and Saving Matrix resulted in approximately 30% reduction in total logistics cost and significant improvement in stock availability. Compared to 17 related studies (2021–2024), this hybrid model demonstrated superior efficiency and cost stability within traditional food industries. Practical Implications: The results provide MSMEs with a data-driven framework to synchronize production, inventory, and distribution planning, reducing decision-making errors and improving operational sustainability. The proposed model can serve as a replicable reference for traditional food SMEs facing fluctuating demand conditions. Value: The novelty of this study lies in combining Exponential Smoothing forecasting, DRP scheduling, and Saving Matrix routing into a unified optimization framework—rarely applied in Indonesia’s traditional food sectors. This integrative method strengthens both academic insight and managerial practice in MSME supply chain efficiency. \n "
+        },
+        {
+            "paperId": "edd4553e6dee885f157911db7f5e18e4400b395c",
+            "title": "Optimising the Quality of Postpaid Electricity Billing Information Services through the Integration of the SERVQUAL Mixed Methods Approach",
+            "year": 2025,
+            "openAccessPdf": {
+                "url": "",
+                "status": null,
+                "license": null,
+                "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.24014/sitekin.v23i1.38469?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.24014/sitekin.v23i1.38469, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "2400297424",
+                    "name": "Moh Naufal Khumaidi"
+                },
+                {
+                    "authorId": "2100160042",
+                    "name": "S. S. Dahda"
+                }
+            ],
+            "abstract": "The quality of postpaid electricity billing information services is a critical factor in maintaining customer satisfaction and the operational sustainability of electricity service providers. However, the complexity of identifying service quality gaps requires an integrative and comprehensive approach. The integration of a mixed methods approach with the SERVQUAL model is considered to have the potential to optimise service quality through holistic problem identification and data-driven solutions. This study used a mixed methods design with an explanatory sequential design approach. The quantitative phase was conducted through a survey using a SERVQUAL questionnaire that measured five dimensions of service quality (tangibles, reliability, responsiveness, assurance, empathy) among 400 postpaid electricity customer respondents. Quantitative data were analysed using regression tests and gap analysis to identify discrepancies between customer expectations and perceptions. The qualitative phase was conducted through in-depth interviews with 15 customers and focus group discussions (FGD) with service staff to explore the causes of the gaps and potential solutions. Data integration was carried out through joint display analysis and triangulation. Quantitative analysis revealed negative gaps in all SERVQUAL dimensions, with the highest gaps in reliability (-1.85) and responsiveness (-1.72). The lowest gap was in tangibles (-0.95). Qualitative analysis revealed the root causes, including inaccurate billing information, slow response to complaints, and lack of empathy in communication. Data integration identified three main wastes: waiting time in delivering information, reprocessing billing data, and overburdening the information system. Improvement priorities focused on developing a real-time data integration system and training service staff. The integration of SERVQUAL mixed methods is effective in identifying service quality gaps and root causes that need to be addressed. Optimising the quality of postpaid electricity billing information services requires both a technical approach (improving the information system) and a human approach (staff training). Implementing solutions based on the findings of this study can improve customer satisfaction and operational efficiency. Further studies are recommended to test the effectiveness of the solutions in a broader context."
+        }
+    ],
+    "vertical stratification urban bird coexistence": [
+        {
+            "paperId": "4f36e18f2c49b908fe9c2f7c89f5db50ecb7645e",
+            "title": "Rarefaction and extrapolation with Hill numbers: a framework for sampling and estimation in species diversity studies",
+            "year": 2014,
+            "openAccessPdf": {
+                "url": "https://dash.harvard.edu/bitstream/1/11148822/1/Chao2013.pdf",
+                "status": "GREEN",
+                "license": "CCBY",
+                "disclaimer": "Notice: Paper or abstract available at https://core.ac.uk/download/pdf/28943270.pdf, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "49642270",
+                    "name": "A. Chao"
+                },
+                {
+                    "authorId": "4490352",
+                    "name": "N. Gotelli"
+                },
+                {
+                    "authorId": "152654765",
+                    "name": "T. Hsieh"
+                },
+                {
+                    "authorId": "37861164",
+                    "name": "Elizabeth L. Sander"
+                },
+                {
+                    "authorId": "90968070",
+                    "name": "K. Ma"
+                },
+                {
+                    "authorId": "2575768",
+                    "name": "Robert K. Colwell"
+                },
+                {
+                    "authorId": "2405804",
+                    "name": "A. Ellison"
+                }
+            ],
+            "abstract": "Quantifying and assessing changes in biological diversity are central aspects of many ecological studies, yet accurate methods of estimating biological diversity from sampling data have been elusive. Hill numbers, or the effective number of species, are increasingly used to characterize the taxonomic, phylogenetic, or functional diversity of an assemblage. However, empirical estimates of Hill numbers, including species richness, tend to be an increasing function of sampling effort and, thus, tend to increase with sample completeness. Integrated curves based on sampling theory that smoothly link rarefaction (interpolation) and prediction (extrapolation) standardize samples on the basis of sample size or sample completeness and facilitate the comparison of biodiversity data. Here we extended previous rarefaction and extrapolation models for species richness (Hill number q D, where q ¼ 0) to measures of taxon diversity incorporating relative abundance (i.e., for any Hill number q D, q . 0) and present a unified approach for both individual-based (abundance) data and sample- based (incidence) data. Using this unified sampling framework, we derive both theoretical formulas and analytic estimators for seamless rarefaction and extrapolation based on Hill numbers. Detailed examples are provided for the first three Hill numbers: q ¼ 0 (species richness), q ¼ 1 (the exponential of Shannon's entropy index), and q ¼ 2 (the inverse of Simpson's concentration index). We developed a bootstrap method for constructing confidence intervals around Hill numbers, facilitating the comparison of multiple assemblages of both rarefied and extrapolated samples. The proposed estimators are accurate for both rarefaction and short-range extrapolation. For long-range extrapolation, the performance of the estimators depends on both the value of q and on the extrapolation range. We tested our methods on simulated data generated from species abundance models and on data from large species inventories. We also illustrate the formulas and estimators using empirical data sets from biodiversity surveys of temperate forest spiders and tropical ants."
+        },
+        {
+            "paperId": "784e0da17bfc2acee1a3151b3369245c11a4a645",
+            "title": "Spatial scaling of plant and bird diversity from 50 to 10,000 ha in a lowland tropical rainforest",
+            "year": 2021,
+            "openAccessPdf": {
+                "url": "https://link.springer.com/content/pdf/10.1007/s00442-021-04925-8.pdf",
+                "status": "HYBRID",
+                "license": "CCBY",
+                "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC8139934, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "88842278",
+                    "name": "Richard J. Hazell"
+                },
+                {
+                    "authorId": "47525718",
+                    "name": "K. Chmel"
+                },
+                {
+                    "authorId": "114757760",
+                    "name": "J. Riegert"
+                },
+                {
+                    "authorId": "50106558",
+                    "name": "L. Paul"
+                },
+                {
+                    "authorId": "4093482",
+                    "name": "Brus Isua"
+                },
+                {
+                    "authorId": "90382990",
+                    "name": "Graham S. Kaina"
+                },
+                {
+                    "authorId": "2404637178",
+                    "name": "Pavel Fibich"
+                },
+                {
+                    "authorId": "3853071",
+                    "name": "Kenneth Molem"
+                },
+                {
+                    "authorId": "145612790",
+                    "name": "A. Stewart"
+                },
+                {
+                    "authorId": "8494012",
+                    "name": "M. Peck"
+                },
+                {
+                    "authorId": "6840238",
+                    "name": "G. Weiblen"
+                },
+                {
+                    "authorId": "3634265",
+                    "name": "V. Novotný"
+                }
+            ],
+            "abstract": "While there are numerous studies of diversity patterns both within local communities and at regional scales, the intermediate scale of tens to thousands of km2 is often neglected. Here we present detailed local data on plant communities (using 20 × 20 m plots) and bird communities (using point counts) for a 50 ha ForestGEO plot in lowland rainforest at Wanang, Papua New Guinea. We compare these local diversity patterns with those documented in the surrounding 10,000 ha of lowland rainforest. Woody plant species richness was lower within 50 ha (88% of 10,000 ha richness), even when both were surveyed with identical sampling effort. In contrast, bird communities exhibited identical species accumulation patterns at both spatial scales. Similarity in species composition (Chao-Jaccard) remained constant while similarity in dominance structure (Bray–Curtis) decreased with increased distance between samples across the range from < 1 to 13.8 km for both plant and bird communities. The similarity decay was more rapid in plants, but in both cases was slow. The results indicate low to zero beta-diversity at the spatial scale represented here, particularly for birds but also for woody plants. A 50 ha plot provided a highly accurate representation of broader-scale diversity and community composition within 10,000 ha for birds, and a relatively good representation for woody plants. This suggests potential for wider generalization of data from ForestGEO plots which are almost always locally unreplicated, at least for those in lowland tropical forest."
+        },
+        {
+            "paperId": "d1c42bc73bdd7fbd63b7f9e23b26ac9e3f7ee544",
+            "title": "Habitat-specific diversity in Central European birds",
+            "year": 2022,
+            "openAccessPdf": {
+                "url": "https://doi.org/10.1080/00063657.2022.2156979",
+                "status": "HYBRID",
+                "license": "CCBYNCND",
+                "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1080/00063657.2022.2156979?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1080/00063657.2022.2156979, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "50787023",
+                    "name": "J. Reif"
+                },
+                {
+                    "authorId": "8233554",
+                    "name": "Zdeněk Vermouzek"
+                },
+                {
+                    "authorId": "50755681",
+                    "name": "P. Voříšek"
+                },
+                {
+                    "authorId": "3695007",
+                    "name": "D. Romportl"
+                },
+                {
+                    "authorId": "1441151436",
+                    "name": "Javier Rivas-Salvador"
+                },
+                {
+                    "authorId": "5172241",
+                    "name": "F. Morelli"
+                }
+            ],
+            "abstract": "ABSTRACT Capsule Bird species richness was highest in forest and urban habitat types, lower in grassland and wetland, and lowest in cropland. Aims To investigate bird species richness patterns across different habitat types in Czechia, Central Europe. Methods Data from a national breeding bird monitoring scheme in Czechia, based on mapping of positions of individual birds along transects, were used to express the number of species in habitat polygons. Each polygon was represented by one of the eight habitat types (coniferous, mixed and deciduous forest, cropland, grassland and other open habitat types, urban habitat, and wetland) obtained by detailed country-wide vegetation mapping. Species richness of individual polygons was related to polygon habitat type and area by linear mixed effects models, taking the surrounding land cover composition into account. Results Bird species richness was highest in forest, as predicted, and respective forest habitat types did not differ from each other. Urban habitat hosted a similar number of species as forest. Species richness varied greatly between different open habitat types: cropland was the most species-poor of all the habitat types considered, whereas grassland and other types of open habitats hosted significantly more species, albeit fewer than forests, and did not differ from wetland. Slopes of species-area relationships in respective habitat types largely followed the patterns in species richness. Conclusions The observed patterns are partly driven by natural habitat characteristics, such as high vertical stratification of forest vegetation facilitating coexistence of a higher number of species. However, biogeography may also play a role, for example, and the relatively short time periods for colonization from Eastern European source areas may underpin lower bird species richness in grasslands. In addition, human interventions may drive the steep slope of the species-area relationship in forest, presumably caused by mosaic harvesting, as well as the shallow slope of this relationship in cropland and wetland, as a result of their intensive exploitation."
+        },
+        {
+            "paperId": "cd541ceec2c0bdceb9dd57714dffc2ca72d7743a",
+            "title": "The time of acquisition of multispectral predictors matters: the role of seasonality in bird species distribution models",
+            "year": 2025,
+            "openAccessPdf": {
+                "url": "",
+                "status": null,
+                "license": null,
+                "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1002/ecog.07935?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1002/ecog.07935, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "2187864783",
+                    "name": "Dominika Prajzlerová"
+                },
+                {
+                    "authorId": "49579884",
+                    "name": "V. Barták"
+                },
+                {
+                    "authorId": "89911979",
+                    "name": "Petr Balej"
+                },
+                {
+                    "authorId": "3104676",
+                    "name": "Vítězslav Moudrý"
+                },
+                {
+                    "authorId": "2355499",
+                    "name": "P. Šímová"
+                }
+            ],
+            "abstract": "Species distribution models (SDMs) analyse the relationships between species occurrences and environmental predictors. Their efficacy largely depends on the selection of ecologically relevant predictors, with remote sensing (RS) data being one of the most commonly used sources. The usability of multispectral predictors is influenced by temporal changes in vegetation and environmental conditions. However, the impact of seasonality is often overlooked, despite its potential to affect model accuracy. This study aims to assess the influence of seasonality in RS predictors on SDM performance for bird species. The study was conducted for an area of the Czech Republic, using presence–absence data from the Breeding Bird Survey (2018–2021) covering 147 survey squares and 104 bird species. We used Sentinel‐2 satellite imagery to derive monthly and full‐season composites of vegetation indices and reflectance bands from March to September (hereafter ‘periods'). Precipitation, terrain, and vegetation structure were also included. SDMs were constructed using Lasso‐regularized logistic regression, and model performance was assessed through area under the ROC curve (AUC) and R². Linear mixed‐effects models were employed to evaluate model performance, temporal prediction stability, and predictor importance stability across all species. Our results show that model performance depends on the period from which the predictors were derived. This dependence varies significantly among species and is partially associated with habitat preferences and prevalence, with forest species exhibiting greater stability. Differences in model performance across periods aligned with shifts in predictor importance, causing different RS predictors to become significant with seasonal changes. In conclusion, seasonal changes in vegetation, as reflected in the temporal variability of RS predictors, significantly affect SDM performance and predictor selection. Although species' ecological characteristics played a role, the effects remained species‐dependent, making it difficult to develop universal recommendations. Nevertheless, accounting for seasonal variations in RS predictors can enhance model accuracy for many species."
+        },
+        {
+            "paperId": "27596a05f82e9967ffd63d87e8369cd74ce215c0",
+            "title": "Geographical and seasonal distribution of the Short-crested Coquette hummingbird: a microendemic and endangered species",
+            "year": 2025,
+            "openAccessPdf": {
+                "url": "",
+                "status": null,
+                "license": "CCBY",
+                "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC12617369, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "2105191642",
+                    "name": "Pablo Sierra-Morales"
+                },
+                {
+                    "authorId": "1405608009",
+                    "name": "O. Rojas-Soto"
+                },
+                {
+                    "authorId": "1411012119",
+                    "name": "L. A. Sánchez-González"
+                },
+                {
+                    "authorId": "1422823826",
+                    "name": "Carina Gutiérrez-Flores"
+                },
+                {
+                    "authorId": "1403813719",
+                    "name": "R. Almazán-Núñez"
+                }
+            ],
+            "abstract": "Species movements along elevational or latitudinal gradients occur primarily due to climatic variations and food resource availability. However, the role of seasonal climatic conditions in species with highly restricted distributions has been poorly addressed. In this study, we analyzed the geographic distribution and seasonal climatic niche during the dry and rainy seasons of the Short-crested Coquette hummingbird (SCCH; Lophornis brachylophus), a species with high conservation priority at the global scale. We generated ecological niche and species distribution models for both seasons and used niche similarity tests to represent and compare their climatic differences. We recorded the availability of flowering and fruiting plants that the SCCH feeds on within its distribution area during both seasons and performed a kernel density analysis to evaluate the main peaks in food availability. Our results revealed that the potential distribution of the SCCH is larger (642 pixels) in the dry season than in the rainy season (487 pixels). In the dry season, the distribution of this hummingbird includes sites at lower elevations (reaching 780 m above sea level [masl]). In contrast, in the rainy season, it extends to higher elevations (up to 1,450 masl). This seasonal shift between the two seasons coincides with the availability of flowers and fruits along the elevational gradient. The climatic niche similarity between the dry and rainy seasons shows moderate overlap (Schoener’s D = 0.50) and is higher than expected by chance. Our results suggest that the SCCH moderate changes in its climatic niche throughout the year, with plant phenology being a primary driver of changes in its elevational range between seasons."
+        }
+    ],
+    "Vertical vegetation volume bird connectivity": [
+        {
+            "paperId": "d1dfb11cb822091529581094becbeb1e5b2b0c4a",
+            "title": "What are the Benefits of Interacting with Nature?",
+            "year": 2013,
+            "openAccessPdf": {
+                "url": "https://www.mdpi.com/1660-4601/10/3/913/pdf?version=1403140227",
+                "status": "GOLD",
+                "license": "CCBY",
+                "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC3709294, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "3522776",
+                    "name": "Lucy Keniger"
+                },
+                {
+                    "authorId": "2480146",
+                    "name": "K. Gaston"
+                },
+                {
+                    "authorId": "50682136",
+                    "name": "K. Irvine"
+                },
+                {
+                    "authorId": "39246481",
+                    "name": "R. Fuller"
+                }
+            ],
+            "abstract": "There is mounting empirical evidence that interacting with nature delivers measurable benefits to people. Reviews of this topic have generally focused on a specific type of benefit, been limited to a single discipline, or covered the benefits delivered from a particular type of interaction. Here we construct novel typologies of the settings, interactions and potential benefits of people-nature experiences, and use these to organise an assessment of the benefits of interacting with nature. We discover that evidence for the benefits of interacting with nature is geographically biased towards high latitudes and Western societies, potentially contributing to a focus on certain types of settings and benefits. Social scientists have been the most active researchers in this field. Contributions from ecologists are few in number, perhaps hindering the identification of key ecological features of the natural environment that deliver human benefits. Although many types of benefits have been studied, benefits to physical health, cognitive performance and psychological well-being have received much more attention than the social or spiritual benefits of interacting with nature, despite the potential for important consequences arising from the latter. The evidence for most benefits is correlational, and although there are several experimental studies, little as yet is known about the mechanisms that are important for delivering these benefits. For example, we do not know which characteristics of natural settings (e.g., biodiversity, level of disturbance, proximity, accessibility) are most important for triggering a beneficial interaction, and how these characteristics vary in importance among cultures, geographic regions and socio-economic groups. These are key directions for future research if we are to design landscapes that promote high quality interactions between people and nature in a rapidly urbanising world."
+        },
+        {
+            "paperId": "1c82ff228677caf13a8490b66b08ad3bb2795e82",
+            "title": "Movement of feeder-using songbirds: the influence of urban features",
+            "year": 2016,
+            "openAccessPdf": {
+                "url": "https://www.nature.com/articles/srep37669.pdf",
+                "status": "GOLD",
+                "license": "CCBY",
+                "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC5120271, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "34821304",
+                    "name": "D. Cox"
+                },
+                {
+                    "authorId": "4018266",
+                    "name": "Richard Inger"
+                },
+                {
+                    "authorId": "145330411",
+                    "name": "S. Hancock"
+                },
+                {
+                    "authorId": "143693504",
+                    "name": "K. Anderson"
+                },
+                {
+                    "authorId": "2480146",
+                    "name": "K. Gaston"
+                }
+            ],
+            "abstract": "Private gardens provide vital opportunities for people to interact with nature. The most popular form of interaction is through garden bird feeding. Understanding how landscape features and seasons determine patterns of movement of feeder-using songbirds is key to maximising the well-being benefits they provide. To determine these patterns we established three networks of automated data loggers along a gradient of greenspace fragmentation. Over a 12-month period we tracked 452 tagged blue tits Cyantistes caeruleus and great tits Parus major moving between feeder pairs 9,848 times, to address two questions: (i) Do urban features within different forms, and season, influence structural (presence-absence of connections between feeders by birds) and functional (frequency of these connections) connectivity? (ii) Are there general patterns of structural and functional connectivity across forms? Vegetation cover increased connectivity in all three networks, whereas the presence of road gaps negatively affected functional but not structural connectivity. Across networks structural connectivity was lowest in the summer when birds maintain breeding territories, however patterns of functional connectivity appeared to vary with habitat fragmentation. Using empirical data this study shows how key urban features and season influence movement of feeder-using songbirds, and we provide evidence that this is related to greenspace fragmentation."
+        },
+        {
+            "paperId": "3df12f07a92f955c006170afd200e37d3bf875eb",
+            "title": "Ecological connectivity in the three-dimensional urban green volume using waveform airborne lidar",
+            "year": 2017,
+            "openAccessPdf": {
+                "url": "https://www.nature.com/articles/srep45571.pdf",
+                "status": "GOLD",
+                "license": "CCBY",
+                "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC5382541, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "6716789",
+                    "name": "Stefano Casalegno"
+                },
+                {
+                    "authorId": "2318275076",
+                    "name": "K. Anderson"
+                },
+                {
+                    "authorId": "34821304",
+                    "name": "D. Cox"
+                },
+                {
+                    "authorId": "2056182195",
+                    "name": "Steven Hancock"
+                },
+                {
+                    "authorId": "2242587729",
+                    "name": "K. J. Gaston"
+                }
+            ],
+            "abstract": "The movements of organisms and the resultant flows of ecosystem services are strongly shaped by landscape connectivity. Studies of urban ecosystems have relied on two-dimensional (2D) measures of greenspace structure to calculate connectivity. It is now possible to explore three-dimensional (3D) connectivity in urban vegetation using waveform lidar technology that measures the full 3D structure of the canopy. Making use of this technology, here we evaluate urban greenspace 3D connectivity, taking into account the full vertical stratification of the vegetation. Using three towns in southern England, UK, all with varying greenspace structures, we describe and compare the structural and functional connectivity using both traditional 2D greenspace models and waveform lidar-generated vegetation strata (namely, grass, shrubs and trees). Measures of connectivity derived from 3D greenspace are lower than those derived from 2D models, as the latter assumes that all vertical vegetation strata are connected, which is rarely true. Fragmented landscapes that have more complex 3D vegetation showed greater functional connectivity and we found highest 2D to 3D functional connectivity biases for short dispersal capacities of organisms (6 m to 16 m). These findings are particularly pertinent in urban systems where the distribution of greenspace is critical for delivery of ecosystem services."
+        },
+        {
+            "paperId": "c5de061e543a2b5fddababf61b96ef7ddd55f090",
+            "title": "Remote Sensing for Urban Biodiversity: A Review and Meta-Analysis",
+            "year": 2024,
+            "openAccessPdf": {
+                "url": "",
+                "status": null,
+                "license": null,
+                "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3390/rs16234483?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3390/rs16234483, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "2097783982",
+                    "name": "M. Finizio"
+                },
+                {
+                    "authorId": "2333162127",
+                    "name": "Federica Pontieri"
+                },
+                {
+                    "authorId": "2333168808",
+                    "name": "Chiara Bottaro"
+                },
+                {
+                    "authorId": "5902662",
+                    "name": "M. Febbraro"
+                },
+                {
+                    "authorId": "8027805",
+                    "name": "M. Innangi"
+                },
+                {
+                    "authorId": "2283506975",
+                    "name": "Giovanna Sona"
+                },
+                {
+                    "authorId": "2324820322",
+                    "name": "M. L. Carranza"
+                }
+            ],
+            "abstract": "Urban settlements can support significant biodiversity and provide a wide range of ecosystem services. Remote sensing (RS) offers valuable tools for monitoring and conserving urban biodiversity. Our research, funded by the Italian Recovery and Resilience Plan (National Biodiversity Future Centre—Urban Biodiversity), undertakes a systematic scientific review to assess the current status and future prospects of urban biodiversity evaluation using RS. An extensive literature search of indexed peer-reviewed papers published between 2008 and 2023 was conducted on the Scopus database, using a selective choice of keywords. After screening the titles, abstracts, and keywords of 500 articles, 117 relevant papers were retained for meta-data analysis. Our analysis incorporated technical (e.g., sensor, platform, algorithm), geographic (e.g., country, city extent, population) and ecological (biodiversity target, organization level, biome) meta-data, examining their frequencies, temporal trends (Generalized Linear Model—GLM), and covariations (Cramer’s V). The rise in publications over time is linked to the increased availability of imagery, enhanced computing power, and growing awareness of the importance of urban biodiversity. Most research focused on the Northern Hemisphere and large metropolitan areas, with smaller cities often overlooked. Consequently, data coverage is predominantly concentrated on Mediterranean and temperate habitats, with limited attention given to boreal, desert, and tropical biomes. A strong association was observed between the source of RS data (e.g., satellite missions), pixel size, and the purpose of its use (e.g., modeling, detection). This research provides a comprehensive summary of RS applications for evaluating urban biodiversity with a focus on the biomes studied, biodiversity targets, and ecological organization levels. This work can provide information on where future studies should focus their efforts on the study of urban biodiversity using remote sensing instruments in the coming years."
+        },
+        {
+            "paperId": "60c8e46138905613fe6329200697794353530515",
+            "title": "Soil ecosystem services in urban areas and methods for their assessment using remote sensing",
+            "year": 2026,
+            "openAccessPdf": {
+                "url": "",
+                "status": null,
+                "license": null,
+                "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3389/fenvs.2025.1734143?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3389/fenvs.2025.1734143, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "2344474497",
+                    "name": "Ludwika Poręba"
+                },
+                {
+                    "authorId": "2299063778",
+                    "name": "Ewa Głowienka"
+                },
+                {
+                    "authorId": "2248380179",
+                    "name": "Grzegorz Siebielec"
+                }
+            ],
+            "abstract": "Cities and nature are interdependent. Many of the needs of urban population are fulfilled by ecosystem services, which are typically grouped into four categories: provisioning, regulating, habitat, and cultural services. These include such benefits as food and water supply, climate regulation, biodiversity support, as well as various cultural and recreational values. Soil, through its functions, is an important element of the environment that provides ecosystem services in urban areas. This publication focuses on a review of the literature on soil ecosystem services, with particular emphasis on the urban context. It also highlights how remote sensing tools and spatial planning approaches can be applied to monitor soil ecosystem services in cities and support sustainable urban management. The increasing level of urbanization poses a major threat to soil and its ability to provide ecosystem services. Urbanization worsens climatic conditions in cities, threatens biodiversity by interrupting ecological corridors, increases surface runoff creating flood risks, and contributes to elevated levels of pollution in both soil and air. Given that this process is inevitable, minimizing environmental damage requires well-designed land management approaches. Integrating ecosystem services into urban planning will not only contribute to preserving nature in the best possible condition, but will also enhance the quality of life for city dwellers."
+        }
+    ]
+}

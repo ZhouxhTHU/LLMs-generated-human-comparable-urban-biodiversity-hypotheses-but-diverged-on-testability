@@ -3,23 +3,23 @@ a_sentiment,Positive,0
 a_sentiment,Mixed,7
 a_sentiment,Neutral,2
 a_sentiment,Negative,7
-b_pros,Highly Novel,2
-b_pros,Highly Structured,1
+b_pros,Highly Novel,3
+b_pros,Well-Structured,2
 b_pros,Mechanism-Rich,1
 b_pros,Supports Early Ideation,1
-b_pros,Well-Structured,1
 b_pros,Valid,1
 b_pros,Theoretically Aligned,1
 b_pros,Simplicity,1
 b_pros,Complex Hypotheses,1
 b_pros,Recombines Ideas,1
+b_pros,Identifies Connections,1
+c_cons,Overly Complex,3
 c_cons,Hard To Evaluate,2
-c_cons,Too Complicated,2
+c_cons,Vague Formulation,2
+c_cons,Excessive Length,2
+c_cons,Difficult To Test,2
 c_cons,Low Plausibility,2
-c_cons,Overly Complex,1
 c_cons,Nonsensical Jargon,1
 c_cons,Limited Empirical Operability,1
 c_cons,Requires Refinement,1
-c_cons,Vague Formulation,1
-c_cons,Lack Of Specificity,1
-c_cons,Too Long,1
+c_cons,Convoluted Structure,1

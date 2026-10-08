@@ -56,12 +56,12 @@ GRID_COLOR = "#d9d9d9"
 def setup_style():
     plt.rcParams.update({
         "font.family": "Arial",
-        "font.size": 9,
-        "axes.titlesize": 10,
-        "axes.labelsize": 9,
-        "xtick.labelsize": 8.5,
-        "ytick.labelsize": 8.5,
-        "legend.fontsize": 8.2,
+        "font.size": 11,
+        "axes.titlesize": 12.5,
+        "axes.labelsize": 11,
+        "xtick.labelsize": 10.5,
+        "ytick.labelsize": 10.5,
+        "legend.fontsize": 10,
         "axes.linewidth": 0.9,
         "xtick.major.width": 0.8,
         "ytick.major.width": 0.8,
@@ -79,6 +79,7 @@ def find_file(filename):
 
     stem = Path(filename).stem
     suffix = Path(filename).suffix
+
     candidates = sorted(
         INPUT_DIR.glob(f"{stem}*{suffix}"),
         key=lambda p: p.stat().st_mtime,
@@ -88,7 +89,9 @@ def find_file(filename):
     if candidates:
         return candidates[0]
 
-    raise FileNotFoundError(f"Cannot find required file: {INPUT_DIR / filename}")
+    raise FileNotFoundError(
+        f"Cannot find required file: {INPUT_DIR / filename}"
+    )
 
 
 def read_csv(filename):
@@ -103,8 +106,10 @@ def clean_model_name(model):
 
     if "claude" in low:
         return "claude"
+
     if "gemini" in low:
         return "gemini"
+
     if "gpt" in low:
         return "gpt"
 
@@ -114,7 +119,12 @@ def clean_model_name(model):
 def prepare_model_column(df):
     df = df.copy()
     df["model"] = df["model"].apply(clean_model_name)
-    model_order = [m for m in ["claude", "gemini", "gpt"] if m in set(df["model"])]
+
+    model_order = [
+        m for m in ["claude", "gemini", "gpt"]
+        if m in set(df["model"])
+    ]
+
     return df[df["model"].isin(model_order)], model_order
 
 
@@ -129,7 +139,13 @@ def model_color(model):
 def save_figure(fig, filename):
     for ext in SAVE_FORMATS:
         out_path = OUTPUT_DIR / f"{filename}.{ext}"
-        fig.savefig(out_path, dpi=DPI, bbox_inches="tight")
+
+        fig.savefig(
+            out_path,
+            dpi=DPI,
+            bbox_inches="tight"
+        )
+
         print(f"Saved: {out_path}")
 
     if SHOW_FIGURES:
@@ -144,7 +160,7 @@ def panel_label(ax, label):
         1.08,
         label,
         transform=ax.transAxes,
-        fontsize=12,
+        fontsize=14,
         fontweight="bold",
         va="top",
         ha="left"
@@ -154,15 +170,31 @@ def panel_label(ax, label):
 def clean_axis(ax):
     ax.spines["top"].set_visible(False)
     ax.spines["right"].set_visible(False)
-    ax.grid(axis="y", color=GRID_COLOR, linewidth=0.6, alpha=0.8)
+
+    ax.grid(
+        axis="y",
+        color=GRID_COLOR,
+        linewidth=0.6,
+        alpha=0.8
+    )
+
     ax.set_axisbelow(True)
 
 
 def set_percent_axis(ax, ymin=0.0, ymax=1.0, step=0.2):
     ax.set_ylim(ymin, ymax)
-    ticks = np.arange(ymin, ymax + 1e-9, step)
+
+    ticks = np.arange(
+        ymin,
+        ymax + 1e-9,
+        step
+    )
+
     ax.set_yticks(ticks)
-    ax.set_yticklabels([f"{int(round(t * 100))}%" for t in ticks])
+
+    ax.set_yticklabels(
+        [f"{int(round(t * 100))}%" for t in ticks]
+    )
 
 
 def make_model_legend(model_order, include_human=False):
@@ -199,11 +231,19 @@ def make_model_legend(model_order, include_human=False):
 # Four-panel consistency figure
 # ============================================================
 
-def plot_figure_1(overall, by_dimension, tie_behavior, by_dimension_pair_type):
+def plot_figure_1(
+    overall,
+    by_dimension,
+    tie_behavior,
+    by_dimension_pair_type
+):
+
     overall, model_order = prepare_model_column(overall)
     by_dimension, _ = prepare_model_column(by_dimension)
     tie_behavior, _ = prepare_model_column(tie_behavior)
-    by_dimension_pair_type, _ = prepare_model_column(by_dimension_pair_type)
+    by_dimension_pair_type, _ = prepare_model_column(
+        by_dimension_pair_type
+    )
 
     fig, axes = plt.subplots(
         2,
@@ -212,9 +252,10 @@ def plot_figure_1(overall, by_dimension, tie_behavior, by_dimension_pair_type):
         constrained_layout=True
     )
 
-    # --------------------------------------------------------
+    # ========================================================
     # b. Overall agreement
-    # --------------------------------------------------------
+    # ========================================================
+
     ax = axes[0, 1]
 
     metrics = [
@@ -228,11 +269,20 @@ def plot_figure_1(overall, by_dimension, tie_behavior, by_dimension_pair_type):
     width = 0.22
 
     for i, model in enumerate(model_order):
-        row = overall[overall["model"] == model].iloc[0]
-        values = [float(row[col]) for col, _ in metrics]
+
+        row = overall[
+            overall["model"] == model
+        ].iloc[0]
+
+        values = [
+            float(row[col])
+            for col, _ in metrics
+        ]
 
         ax.bar(
-            x + (i - (len(model_order) - 1) / 2) * width,
+            x + (
+                i - (len(model_order) - 1) / 2
+            ) * width,
             values,
             width=width,
             color=model_color(model),
@@ -241,14 +291,25 @@ def plot_figure_1(overall, by_dimension, tie_behavior, by_dimension_pair_type):
             label=model_label(model)
         )
 
-    ax.axhline(0, color="black", linewidth=0.8)
+    ax.axhline(
+        0,
+        color="black",
+        linewidth=0.8
+    )
+
     ax.set_xticks(x)
-    ax.set_xticklabels([label for _, label in metrics])
+
+    ax.set_xticklabels(
+        [label for _, label in metrics]
+    )
+
     ax.set_ylabel("Agreement")
     ax.set_title("Overall agreement")
     ax.set_ylim(-0.04, 0.48)
+
     clean_axis(ax)
     panel_label(ax, "b")
+
     ax.legend(
         frameon=False,
         loc="upper center",
@@ -256,21 +317,30 @@ def plot_figure_1(overall, by_dimension, tie_behavior, by_dimension_pair_type):
         ncol=len(model_order)
     )
 
-    # --------------------------------------------------------
+
+    # ========================================================
     # c. Agreement by dimension
-    # --------------------------------------------------------
+    # ========================================================
+
     ax = axes[1, 0]
 
     x = np.arange(len(DIMENSION_ORDER))
 
     for model in model_order:
+
         data = (
-            by_dimension[by_dimension["model"] == model]
+            by_dimension[
+                by_dimension["model"] == model
+            ]
             .set_index("Dimension")
             .reindex(DIMENSION_ORDER)
         )
 
-        values = data["exact_agreement"].astype(float).values
+        values = (
+            data["exact_agreement"]
+            .astype(float)
+            .values
+        )
 
         ax.plot(
             x,
@@ -284,19 +354,33 @@ def plot_figure_1(overall, by_dimension, tie_behavior, by_dimension_pair_type):
 
     ax.set_xticks(x)
     ax.set_xticklabels(DIMENSION_ORDER)
+
     ax.set_ylabel("Exact agreement")
     ax.set_title("Agreement by dimension")
     ax.set_ylim(0.36, 0.46)
+
     clean_axis(ax)
     panel_label(ax, "c")
-    ax.legend(frameon=False, loc="upper right")
 
-    # --------------------------------------------------------
+    ax.legend(
+        frameon=False,
+        loc="upper right"
+    )
+
+
+    # ========================================================
     # d. Tie behavior by dimension
-    # --------------------------------------------------------
+    # Grouped bar chart
+    # ========================================================
+
     ax = axes[1, 1]
 
     x = np.arange(len(DIMENSION_ORDER))
+
+
+    # --------------------------------------------------------
+    # Human experts
+    # --------------------------------------------------------
 
     human_tie = (
         tie_behavior
@@ -307,51 +391,178 @@ def plot_figure_1(overall, by_dimension, tie_behavior, by_dimension_pair_type):
         .values
     )
 
-    ax.plot(
-        x,
-        human_tie,
-        marker="s",
-        linewidth=1.9,
-        markersize=5,
-        color=HUMAN_COLOR,
-        label="Human experts"
-    )
+
+    # --------------------------------------------------------
+    # LLM models
+    # --------------------------------------------------------
+
+    model_values = {}
 
     for model in model_order:
+
         data = (
-            tie_behavior[tie_behavior["model"] == model]
+            tie_behavior[
+                tie_behavior["model"] == model
+            ]
             .set_index("Dimension")
             .reindex(DIMENSION_ORDER)
         )
 
-        values = data["llm_tie_rate"].astype(float).values
-
-        ax.plot(
-            x,
-            values,
-            marker="o",
-            linewidth=1.8,
-            markersize=5,
-            color=model_color(model),
-            label=model_label(model)
+        model_values[model] = (
+            data["llm_tie_rate"]
+            .astype(float)
+            .values
         )
 
+
+    # --------------------------------------------------------
+    # Bar positions
+    # --------------------------------------------------------
+
+    n_groups = 1 + len(model_order)
+
+    total_width = 0.78
+    width = total_width / n_groups
+
+    offsets = (
+        np.arange(n_groups)
+        - (n_groups - 1) / 2
+    ) * width
+
+
+    # --------------------------------------------------------
+    # Human experts
+    # --------------------------------------------------------
+
+    human_bars = ax.bar(
+        x + offsets[0],
+        human_tie,
+        width=width,
+        color=HUMAN_COLOR,
+        edgecolor="white",
+        linewidth=0.7,
+        label="Human experts",
+        zorder=3
+    )
+
+
+    # --------------------------------------------------------
+    # LLM models
+    # --------------------------------------------------------
+
+    model_bars = {}
+
+    for i, model in enumerate(
+        model_order,
+        start=1
+    ):
+
+        values = model_values[model]
+
+        bars = ax.bar(
+            x + offsets[i],
+            values,
+            width=width,
+            color=model_color(model),
+            edgecolor="white",
+            linewidth=0.7,
+            label=model_label(model),
+            zorder=3
+        )
+
+        model_bars[model] = bars
+
+
+    # --------------------------------------------------------
+    # Label zero values only
+    #
+    # No extra marker or baseline line is added.
+    # --------------------------------------------------------
+
+    zero_label_y = 0.006
+
+    all_bars = [human_bars] + [
+        model_bars[model]
+        for model in model_order
+    ]
+
+    all_values = [human_tie] + [
+        model_values[model]
+        for model in model_order
+    ]
+
+    all_colors = [HUMAN_COLOR] + [
+        model_color(model)
+        for model in model_order
+    ]
+
+    for bars, values, color in zip(
+        all_bars,
+        all_values,
+        all_colors
+    ):
+
+        for bar, value in zip(
+            bars,
+            values
+        ):
+
+            if np.isclose(
+                value,
+                0,
+                atol=1e-12
+            ):
+
+                ax.text(
+                    bar.get_x() + bar.get_width() / 2,
+                    zero_label_y,
+                    "0%",
+                    ha="center",
+                    va="bottom",
+                    fontsize=9.5,
+                    color=color,
+                    zorder=5
+                )
+
+
+    # --------------------------------------------------------
+    # Axes
+    # --------------------------------------------------------
+
     ax.set_xticks(x)
-    ax.set_xticklabels(DIMENSION_ORDER)
+
+    ax.set_xticklabels(
+        DIMENSION_ORDER
+    )
+
     ax.set_ylabel("Tie rate")
     ax.set_title("Tie behavior")
-    set_percent_axis(ax, ymin=0.0, ymax=0.26, step=0.05)
+
+    set_percent_axis(
+        ax,
+        ymin=0.0,
+        ymax=0.26,
+        step=0.05
+    )
+
     clean_axis(ax)
     panel_label(ax, "d")
+
+
+    # --------------------------------------------------------
+    # Legend
+    # --------------------------------------------------------
+
     ax.legend(
-        handles=make_model_legend(model_order, include_human=True),
         frameon=False,
         loc="upper left"
     )
 
-    # --------------------------------------------------------
+
+    # ========================================================
     # a. Source preference in HUM-vs-LLM pairs
-    # --------------------------------------------------------
+    # ========================================================
+
     ax = axes[0, 0]
 
     source_df = by_dimension_pair_type[
@@ -360,9 +571,13 @@ def plot_figure_1(overall, by_dimension, tie_behavior, by_dimension_pair_type):
 
     x = np.arange(len(DIMENSION_ORDER))
 
+
+    # Human preference
     human_pref = (
         source_df
-        .groupby("Dimension")["human_prefers_llm_rate_in_hum_vs_llm"]
+        .groupby("Dimension")[
+            "human_prefers_llm_rate_in_hum_vs_llm"
+        ]
         .mean()
         .reindex(DIMENSION_ORDER)
         .astype(float)
@@ -379,14 +594,25 @@ def plot_figure_1(overall, by_dimension, tie_behavior, by_dimension_pair_type):
         label="Human experts"
     )
 
+
+    # LLM preference
     for model in model_order:
+
         data = (
-            source_df[source_df["model"] == model]
+            source_df[
+                source_df["model"] == model
+            ]
             .set_index("Dimension")
             .reindex(DIMENSION_ORDER)
         )
 
-        values = data["llm_prefers_llm_rate_in_hum_vs_llm"].astype(float).values
+        values = (
+            data[
+                "llm_prefers_llm_rate_in_hum_vs_llm"
+            ]
+            .astype(float)
+            .values
+        )
 
         ax.plot(
             x,
@@ -398,21 +624,51 @@ def plot_figure_1(overall, by_dimension, tie_behavior, by_dimension_pair_type):
             label=model_label(model)
         )
 
-    ax.axhline(0.5, color="#777777", linestyle="--", linewidth=1.0)
+
+    ax.axhline(
+        0.5,
+        color="#777777",
+        linestyle="--",
+        linewidth=1.0
+    )
+
     ax.set_xticks(x)
-    ax.set_xticklabels(DIMENSION_ORDER)
+
+    ax.set_xticklabels(
+        DIMENSION_ORDER
+    )
+
     ax.set_ylabel("LLM preference rate")
     ax.set_title("Source preference")
-    set_percent_axis(ax, ymin=0.0, ymax=1.0, step=0.2)
+
+    set_percent_axis(
+        ax,
+        ymin=0.0,
+        ymax=1.0,
+        step=0.2
+    )
+
     clean_axis(ax)
     panel_label(ax, "a")
+
     ax.legend(
-        handles=make_model_legend(model_order, include_human=True),
+        handles=make_model_legend(
+            model_order,
+            include_human=True
+        ),
         frameon=False,
         loc="lower left"
     )
 
-    save_figure(fig, "llm_human_consistency")
+
+    # ========================================================
+    # Save figure
+    # ========================================================
+
+    save_figure(
+        fig,
+        "llm_human_consistency"
+    )
 
 
 # ============================================================
@@ -420,12 +676,22 @@ def plot_figure_1(overall, by_dimension, tie_behavior, by_dimension_pair_type):
 # ============================================================
 
 def main():
+
     setup_style()
 
     overall = read_csv("overall.csv")
-    by_dimension = read_csv("by_dimension.csv")
-    tie_behavior = read_csv("tie_behavior.csv")
-    by_dimension_pair_type = read_csv("by_dimension_pair_type.csv")
+
+    by_dimension = read_csv(
+        "by_dimension.csv"
+    )
+
+    tie_behavior = read_csv(
+        "tie_behavior.csv"
+    )
+
+    by_dimension_pair_type = read_csv(
+        "by_dimension_pair_type.csv"
+    )
 
     plot_figure_1(
         overall=overall,

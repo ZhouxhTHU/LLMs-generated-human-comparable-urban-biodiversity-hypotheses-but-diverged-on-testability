@@ -332,7 +332,7 @@ def draw_grouped_intervals(
     ax.set_xlim(*xlim)
     ax.set_xticks(xticks)
     ax.set_ylim(-0.48, 2.48)
-    ax.set_title(title, loc="left", fontsize=9.5, fontweight="semibold", pad=8)
+    ax.set_title(title, loc="left", fontsize=11.5, fontweight="semibold", pad=8)
     ax.set_xlabel(xlabel, labelpad=6)
     ax.set_yticks([2.0, 1.0, 0.0])
 
@@ -360,11 +360,11 @@ def make_figure(results: pd.DataFrame) -> None:
         {
             "font.family": "sans-serif",
             "font.sans-serif": ["Arial", "DejaVu Sans", "Liberation Sans"],
-            "font.size": 8,
-            "axes.titlesize": 9.5,
-            "axes.labelsize": 8.5,
-            "xtick.labelsize": 7.5,
-            "ytick.labelsize": 8.0,
+            "font.size": 9.5,
+            "axes.titlesize": 11.5,
+            "axes.labelsize": 10,
+            "xtick.labelsize": 9,
+            "ytick.labelsize": 9.5,
             "pdf.fonttype": 42,
             "ps.fonttype": 42,
             "axes.unicode_minus": False,
@@ -423,7 +423,7 @@ def make_figure(results: pd.DataFrame) -> None:
     )
 
     for label, ax in zip(("a", "b", "c"), axes):
-        ax.text(-0.15, 1.10, label, transform=ax.transAxes, fontsize=10.5, fontweight="bold", va="bottom", ha="left")
+        ax.text(-0.15, 1.10, label, transform=ax.transAxes, fontsize=12.5, fontweight="bold", va="bottom", ha="left")
 
     legend_handles = [
         Line2D(
@@ -449,7 +449,7 @@ def make_figure(results: pd.DataFrame) -> None:
         frameon=False,
         handletextpad=0.4,
         columnspacing=1.3,
-        fontsize=8,
+        fontsize=9.5,
     )
 
     fig.subplots_adjust(left=0.09, right=0.995, bottom=0.24, top=0.78)

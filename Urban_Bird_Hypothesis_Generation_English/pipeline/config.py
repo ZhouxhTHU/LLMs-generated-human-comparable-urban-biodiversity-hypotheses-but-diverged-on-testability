@@ -1,12 +1,72 @@
+import os
 
 # ------------------------------------ API Configuration ------------------------------------
+# Using Zhipu AI API as an example.
+# Replace with your preferred model configuration.
+
+# Free official Gemini API (slow)
+# API_CONFIG = {
+#     "config_name": "my_config",
+#     "model_type": "openai_chat",
+#     "model_name": "cdeepseek-r1",
+#     "api_key": "YOUR_API_KEY",
+#     "base_url": "https://generativelanguage.googleapis.com/v1beta/openai/",
+# }
+
+# Official Zhipu AI API
+# MODEL_CONFIG = {
+#     "config_name": "my_config",
+#     "model_type": "zhipuai_chat",
+#     "model_name": "glm-4", # -airx
+#     "api_key": "YOUR_API_KEY",  # Please replace with your API key
+#     "base_url": "https://open.bigmodel.cn/api/paas/v4/",
+# }
+
+# API call via a third-party service (Usually used, Models are optional via "model_name")
+# Expert_MODEL_CONFIG = {
+#             "config_name": "Expert_config",
+#         "model_type": "zhipuai_chat",
+#         "model_name": "glm-4", # -airx
+#         "api_key": "YOUR_API_KEY",  # Please replace with your API key
+#         "base_url": "https://open.bigmodel.cn/api/paas/v4/",
+#         }
+#
+# GrandExpert_MODEL_CONFIG = {
+#             "config_name": "GrandExpert_config",
+#     "model_type": "zhipuai_chat",
+#     "model_name": "glm-4",  # -airx
+#     "api_key": "YOUR_API_KEY",  # Please replace with your API key
+#     "base_url": "https://open.bigmodel.cn/api/paas/v4/",
+#         }
+#
+# Screener_MODEL_CONFIG = {
+#             "config_name": "Screener_config",
+#     "model_type": "zhipuai_chat",
+#     "model_name": "glm-4",  # -airx
+#     "api_key": "YOUR_API_KEY",  # Please replace with your API key
+#     "base_url": "https://open.bigmodel.cn/api/paas/v4/",
+#         }
+#
+# Critic_MODEL_CONFIG = {
+#             "config_name": "Critic_config",
+#     "model_type": "zhipuai_chat",
+#     "model_name": "glm-4",  # -airx
+#     "api_key": "YOUR_API_KEY",  # Please replace with your API key
+#     "base_url": "https://open.bigmodel.cn/api/paas/v4/",
+#         }
+
+# gemini-3.1-pro-preview-thinking-thinking
+# gemini-3.1-pro-preview-thinking-thinking
+# gemini-3.1-pro-preview-thinking-thinking
+# # API call via a third-party service (Usually used, Models are optional via "model_name")
 Expert_MODEL_CONFIG = {
             "config_name": "Expert_config",
             "model_type": "openai_chat",
             "model_name": "gemini-3.1-pro-preview-thinking",
-            "api_key": "",
+            "api_key": os.environ.get("LLM_API_KEY", ""),
             "client_args": {
-                "base_url": "",
+                #"base_url": "https://svip.xty.app/v1",
+                "base_url": "https://svip-ip.xty.app/v1",
                 "timeout": 600
              },
             "generation_kwargs": {
@@ -20,9 +80,10 @@ GrandExpert_MODEL_CONFIG = {
             "config_name": "GrandExpert_config",
             "model_type": "openai_chat",
             "model_name": "gemini-3.1-pro-preview-thinking",
-            "api_key": "",
+            "api_key": os.environ.get("LLM_API_KEY", ""),
             "client_args": {
-                "base_url": "",
+                #"base_url": "https://svip.xty.app/v1",
+                "base_url": "https://svip-ip.xty.app/v1",
                 "timeout": 600
             },
             "generation_kwargs": {
@@ -36,9 +97,10 @@ Screener_MODEL_CONFIG = {
             "config_name": "Screener_config",
             "model_type": "openai_chat",
             "model_name": "gemini-3.1-pro-preview-thinking",
-            "api_key": "",
+            "api_key": os.environ.get("LLM_API_KEY", ""),
             "client_args": {
-                "base_url": "",
+                #"base_url": "https://svip.xty.app/v1",
+                "base_url": "https://svip-ip.xty.app/v1",
                 "timeout": 600
             },
             "generation_kwargs": {
@@ -52,9 +114,10 @@ Critic_MODEL_CONFIG = {
             "config_name": "Critic_config",
             "model_type": "openai_chat",
             "model_name": "gemini-3.1-pro-preview-thinking",
-            "api_key": "",
+            "api_key": os.environ.get("LLM_API_KEY", ""),
             "client_args": {
-                "base_url": "",
+                #"base_url": "https://svip.xty.app/v1",
+                "base_url": "https://svip-ip.xty.app/v1",
                 "timeout": 600
             },
             "generation_kwargs": {
@@ -63,6 +126,17 @@ Critic_MODEL_CONFIG = {
                     }
                 }
         }
+
+# Another third-party service
+# MODEL_CONFIG =   {
+#             "config_name": "my_config",
+#             "model_type": "openai_chat",
+#             "model_name": "gemini-3.1-pro-preview-thinking-thinking",
+#             "api_key": "YOUR_API_KEY",
+#             "client_args": {
+#                 "base_url": "https://www.chataiapi.com/v1",
+#             },
+#         }
 
 
 CONFIG = {

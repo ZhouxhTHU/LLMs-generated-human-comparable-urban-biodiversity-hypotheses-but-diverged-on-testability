@@ -1,0 +1,1342 @@
+{
+    "Circadian disruption avian gut dysbiosis": [
+        {
+            "paperId": "3e6d69c4dd6bf160d0c278c5c5429fd0fafacc4b",
+            "title": "Circadian clock component PER2 negatively regulates CD4+ T cell IFN-γ production in ulcerative colitis.",
+            "year": 2024,
+            "openAccessPdf": {
+                "url": "https://doi.org/10.1016/j.mucimm.2024.07.010",
+                "status": "HYBRID",
+                "license": "CCBY",
+                "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.mucimm.2024.07.010?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.mucimm.2024.07.010, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "2305245849",
+                    "name": "Yulan Ye"
+                },
+                {
+                    "authorId": "2131011196",
+                    "name": "Changqin Liu"
+                },
+                {
+                    "authorId": "2271439468",
+                    "name": "Ruijin Wu"
+                },
+                {
+                    "authorId": "2304302576",
+                    "name": "Dengfeng Kang"
+                },
+                {
+                    "authorId": "2149066443",
+                    "name": "Han Gao"
+                },
+                {
+                    "authorId": "46386634",
+                    "name": "Huiying Lv"
+                },
+                {
+                    "authorId": "2149059510",
+                    "name": "Zhong Feng"
+                },
+                {
+                    "authorId": "2294174543",
+                    "name": "Yan Shi"
+                },
+                {
+                    "authorId": "2256108609",
+                    "name": "Zhanju Liu"
+                },
+                {
+                    "authorId": "2304321162",
+                    "name": "Liang Chen"
+                }
+            ],
+            "abstract": "Period circadian clock 2 (PER2) is involved in the pathogenesis of various inflammatory and autoimmune diseases. However, there are gaps in our understanding of the role of PER2 in regulating CD4+ T cells beyond its time-keeping function in ulcerative colitis (UC) pathogenesis. Our findings revealed PER2 was predominantly expressed in CD4+ T cells, while it was significantly decreased in the inflamed mucosa and peripheral blood CD4+ T cells of UC patients compared with that in Crohn's disease (CD) patients and healthy controls (HC). Notably, PER2 expression was significantly recovered in UC patients in remission (R-UC) compared to that in active UC patients (A-UC) but not in CD patients. It was negatively correlated with the Ulcerative Colitis Endoscopic Index of Severity (UCEIS), Crohn's Disease Activity Index (CDAI), Simple Endoscopic Score for Crohn's disease (SES-CD), and C-reactive protein (CRP), respectively. Overexpression of PER2 markedly inhibited IFN-γ production in UC CD4+ T cells. RNA-seq analysis showed that overexpression of PER2 could repress the expression of a disintegrin and metalloproteinase 12 (ADAM12), a costimulatory molecule that determines Th1 cell fate. Mechanistically, cleavage under targets and tagmentation (CUT&Tag) analysis revealed that PER2 down-regulated ADAM12 expression by reducing its binding activity, thereby suppressing IFN-γ production in UC CD4+ T cells. Additionally, our data further demonstrated that ADAM12 was upregulated in CD4+ T cells and inflamed mucosa of A-UC patients compared to HC. Our study reveals a critical role of PER2 in regulating CD4+ T cell differentiation and highlights its potential as a therapeutic target for UC treatment."
+        },
+        {
+            "paperId": "bdb1c091776f4079748c0c1d9dfa8ab85460da0e",
+            "title": "Circadian Rhythm Dysregulation in Inflammatory Bowel Disease: Mechanisms and Chronotherapeutic Approaches",
+            "year": 2025,
+            "openAccessPdf": {
+                "url": "https://doi.org/10.3390/ijms26083724",
+                "status": "GOLD",
+                "license": "CCBY",
+                "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC12028002, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "2060589149",
+                    "name": "Yuko Nagao"
+                },
+                {
+                    "authorId": "2300261396",
+                    "name": "Akihiko Taguchi"
+                },
+                {
+                    "authorId": "2162646837",
+                    "name": "Ysuharu Ohta"
+                }
+            ],
+            "abstract": "Inflammatory bowel disease (IBD), comprising ulcerative colitis (UC) and Crohn’s disease (CD), is characterized by chronic intestinal inflammation. Recent research has highlighted the significant interplay between IBD pathogenesis and circadian rhythms. This review synthesizes current evidence regarding circadian regulation in IBD, covering three main areas: (1) circadian rhythms in intestinal physiology, (2) circadian disruption patterns in IBD patients, and (3) the role of clock genes in IBD pathogenesis. We discuss how these findings may inform novel chronotherapeutic approaches for IBD treatment. Future research directions that could facilitate translation of chronobiological insights into clinical applications are also explored."
+        },
+        {
+            "paperId": "e28860a3696760d1ed1e6b260072857408f74788",
+            "title": "How Shift Work Affects Our Gut Microbiota: Impact on Gastrointestinal Diseases",
+            "year": 2025,
+            "openAccessPdf": {
+                "url": "",
+                "status": null,
+                "license": "CCBY",
+                "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC12195091, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "66512170",
+                    "name": "A. Saviano"
+                },
+                {
+                    "authorId": "5320405",
+                    "name": "M. Candelli"
+                },
+                {
+                    "authorId": "150204229",
+                    "name": "M. Brigida"
+                },
+                {
+                    "authorId": "153336884",
+                    "name": "C. Petruzziello"
+                },
+                {
+                    "authorId": "2364281003",
+                    "name": "Pietro Tilli"
+                },
+                {
+                    "authorId": "2238747444",
+                    "name": "Francesco Franceschi"
+                },
+                {
+                    "authorId": "2248385874",
+                    "name": "V. Ojetti"
+                }
+            ],
+            "abstract": "Background and Objectives: Shift work and night work are common among emergency physicians. It is necessary to provide continuous care to patients, especially with acute diseases, including throughout the night. Literature studies show that shift and night workers have an altered light exposure, timing of sleep and intake of food. The consequence of this desynchronization with the biological clock can lead these workers to be more exposed to developing some acute and chronic health conditions. In particular, the alteration of the sleep–wake cycle, fatigue, the shortened sleep duration and the misalignment of the body’s hormone production is a codified risk factor of gut dysbiosis that can lead to acute and chronic diseases, also gastrointestinal ones. the aim of this narrative review is to collect and summarize evidence about the association between the disruption of the circadian rhythm, sleep and food timing alterations, gut dysbiosis and the risk of gastrointestinal diseases among shift and night workers. Materials and Methods: we searched for evidence about the association of shift and night work, dysbiosis, gut microbiota and gastrointestinal diseases among shift workers in healthcare settings. Results: shift work and night work are associated with a higher risk of diseases, an inflammatory state and the alteration of the gut microbiota composition; but definitive data are still inconsistent. Conclusions: Until now, obtaining conclusive results in regard to the relationship between shift work, the gut microbiota and the increased risk of gastrointestinal disorders has been particularly complex and not yet feasible. More confirmatory studies are needed to better characterize risk factors and realize preventive measures."
+        },
+        {
+            "paperId": "5f37eb535cf155212402b7288dfe6631f9042af2",
+            "title": "Gut Microbiota α- and β-Diversity, but Not Dietary Patterns, Differ Between Underweight and Normal-Weight Japanese Women Aged 20–39 Years",
+            "year": 2025,
+            "openAccessPdf": {
+                "url": "",
+                "status": null,
+                "license": "CCBY",
+                "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC12567037, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "2319302283",
+                    "name": "Risako Yamamoto-Wada"
+                },
+                {
+                    "authorId": "2349545610",
+                    "name": "Eri Hiraiwa"
+                },
+                {
+                    "authorId": "2185632958",
+                    "name": "Kana Okuma"
+                },
+                {
+                    "authorId": "2324277480",
+                    "name": "M. Yamada"
+                },
+                {
+                    "authorId": "8680404",
+                    "name": "Chihiro Ushiroda"
+                },
+                {
+                    "authorId": "2264659802",
+                    "name": "Kanako Deguchi"
+                },
+                {
+                    "authorId": "2284136853",
+                    "name": "Hiroyuki Naruse"
+                },
+                {
+                    "authorId": "2185555721",
+                    "name": "Hiroaki Masuyama"
+                },
+                {
+                    "authorId": "2060407459",
+                    "name": "K. Iizuka"
+                }
+            ],
+            "abstract": "Background and Aim: Underweight young adult women are vulnerable to health risks such as menstrual disorders and vitamin deficiencies. Because few seek medical care for low body weight, the underlying causes remain unclear. This study aimed to examine the associations of body type with dietary patterns and gut microbiota diversity in young women. Methods: We enrolled 40 women aged 20–39 years who visited a nutrition evaluation clinic with a BMI < 17.5 at their first consultation (underweight group) and 40 age-matched women with 18.5 ≤ BMI < 25 (control group). Some women in the underweight group were no longer underweight at the time of analysis but were classified based on their initial BMI. Dietary patterns were assessed based on ten major food categories (meat, fish, eggs, dairy products, soybeans, green and yellow vegetables, seaweed, fruit, tubers, and fats and oil) based on the Food Frequency Questionnaire based on Food Groups. Gut microbiota α-diversity was evaluated using the Shannon, Simpson, and Pielou indices, while β-diversity was analyzed by nonmetric multidimensional scaling (NMDS) and redundancy analysis (RDA). Genera contributing to group differences were identified by RDA and ANOVA-Like Differential Expression tool (ALDEx2). Results: Underweight women had significantly lower gut microbiota α-diversity, while no difference was observed in dietary patterns. NMDS revealed significant β-diversity differences in gut microbiota (PERMANOVA: R2 = 0.064, F = 5.31, p = 0.0001) but not in dietary patterns (p = 0.99). RDA showed that body type explained 4.5% of variance (adjusted R2 = 0.032, F = 3.65, p = 0.0005). Bacteroides, Bifidobacterium, Enterocloster, and Erysipelatoclostridium were enriched in underweight women, whereas Fusicatenibacter, Agathobacter, Dorea, and Prevotella were enriched in controls. AldEx2 confirmed increases in Bacteroides, Enterocloster, and Erysipelatoclostridium and a decrease in Dorea. Conclusions: Underweight women demonstrated reduced gut microbiota diversity and enrichment of taxa associated with inflammatory tendencies. Dietary therapies involving not only prebiotics but also probiotics may beneficially modulate gut microbiota and contribute to the management of low body weight."
+        },
+        {
+            "paperId": "a04e516fe6e9c16c3142918fd3b4680296315fb6",
+            "title": "Underweight in Young Adult Women as a Dynamic Nutritional State: Evidence from Four Complementary Longitudinal Methods",
+            "year": 2026,
+            "openAccessPdf": {
+                "url": "",
+                "status": null,
+                "license": null,
+                "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3390/nu18071156?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3390/nu18071156, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "2060407459",
+                    "name": "K. Iizuka"
+                },
+                {
+                    "authorId": "38685486",
+                    "name": "Hitomi Matsuura"
+                },
+                {
+                    "authorId": "2216700531",
+                    "name": "Kotone Yanagi"
+                },
+                {
+                    "authorId": "2349545610",
+                    "name": "Eri Hiraiwa"
+                },
+                {
+                    "authorId": "2265538755",
+                    "name": "Yuka Sato"
+                },
+                {
+                    "authorId": "2405248786",
+                    "name": "Kiyomi Kaito"
+                },
+                {
+                    "authorId": "2319302283",
+                    "name": "Risako Yamamoto-Wada"
+                },
+                {
+                    "authorId": "2264659802",
+                    "name": "Kanako Deguchi"
+                },
+                {
+                    "authorId": "2284136853",
+                    "name": "Hiroyuki Naruse"
+                }
+            ],
+            "abstract": "Background: Underweight (BMI < 18.5 kg/m2) remains prevalent among young Japanese women but lacks standardized measurement approaches. We compared four analytical methods and identified discrepancies. Methods: A retrospective analysis of 883 underweight women aged 20–29 years followed for 6.1 ± 4.2 years was performed. We compared (1) year-to-year transitions, (2) state occupancy, (3) the Aalen–Johansen estimator, and (4) time-weighted average. We performed bidirectional flow analysis quantifying inflow/outflow rates, BMI distribution analysis, and time-weighted classification. Results: Methods 1 and 4 showed 31-point discrepancies (78.1% vs. 47.1% in women). In bidirectional flow, inflow exceeded outflow at ages 22–27 (35.7%/yr vs. 20.7%/yr, outflow/inflow ratio: 0.58), balanced at ages 27–37 (ratio: 1.02) and showed outflow-dominant pattern at ages 37–47 (ratio: 4.92). BMI clustered at 18.0–19.0 kg/m2 (42.7%); 69.4% crossed the threshold once. Time-weighted classification revealed four phenotypes: persistent (≥75% time underweight; 40.1%, BMI: 17.54 kg/m2), moderate (50–74%; 17.6%, BMI: 18.40 kg/m2), intermittent (25–49%; 17.6%, BMI: 18.97 kg/m2), and transient (<25%; 24.8%, BMI: 19.49 kg/m2). The moderate + intermittent group showed yo-yo phenotypes (35.2%). Conclusions: Underweight in young Japanese women should be viewed as a heterogeneous dynamic nutritional state. The methodological discrepancy, threshold crossing, and phenotypic classification show that BMI-defined underweight comprises distinct patterns. Cross-sectional data evaluation may lead to incorrect assessments. Future research examining relationships between longitudinal low body weight subgroups and clinical outcomes could identify at-risk populations within the underweight group."
+        }
+    ],
+    "Melatonin suppression bird microbiome stress": [
+        {
+            "paperId": "d67bbc0a7b4feaf70f5a13a217ff78ea8246886e",
+            "title": "Curcumin Prevents Aflatoxin B1 Hepatoxicity by Inhibition of Cytochrome P450 Isozymes in Chick Liver",
+            "year": 2016,
+            "openAccessPdf": {
+                "url": "https://www.mdpi.com/2072-6651/8/11/327/pdf?version=1478771313",
+                "status": "GOLD",
+                "license": "CCBY",
+                "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC5127124, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "153708848",
+                    "name": "Niya Zhang"
+                },
+                {
+                    "authorId": "49179417",
+                    "name": "M. Qi"
+                },
+                {
+                    "authorId": "2111641211",
+                    "name": "Ling Zhao"
+                },
+                {
+                    "authorId": "32415160",
+                    "name": "Mingkun Zhu"
+                },
+                {
+                    "authorId": "2148901056",
+                    "name": "Jiao Guo"
+                },
+                {
+                    "authorId": "2146652036",
+                    "name": "Jie Liu"
+                },
+                {
+                    "authorId": "120561153",
+                    "name": "Chang-Qin Gu"
+                },
+                {
+                    "authorId": "5078899",
+                    "name": "Shahid Ali Rajput"
+                },
+                {
+                    "authorId": "6742875",
+                    "name": "C. Krumm"
+                },
+                {
+                    "authorId": "143948562",
+                    "name": "D. Qi"
+                },
+                {
+                    "authorId": "7014403",
+                    "name": "Lv-Hui Sun"
+                }
+            ],
+            "abstract": "This study was designed to establish if Curcumin (CM) alleviates Aflatoxin B1 (AFB1)-induced hepatotoxic effects and to determine whether alteration of the expression of cytochrome P450 (CYP450) isozymes is involved in the regulation of these effects in chick liver. One-day-old male broilers (n = 120) were divided into four groups and used in a two by two factorial trial in which the main factors included supplementing AFB1 (< 5 vs. 100 μg/kg) and CM (0 vs. 150 mg/kg) in a corn/soybean-based diet. Administration of AFB1 induced liver injury, significantly decreasing albumin and total protein concentrations and increasing alanine aminotransferase and aspartate aminotransferase activities in serum, and induced hepatic histological lesions at week 2. AFB1 also significantly decreased hepatic glutathione peroxidase, catalase, and glutathione levels, while increasing malondialdehyde, 8-hydroxydeoxyguanosine, and exo-AFB1-8,9-epoxide (AFBO)-DNA concentrations. In addition, the mRNA and/or activity of enzymes responsible for the bioactivation of AFB1 into AFBO—including CYP1A1, CYP1A2, CYP2A6, and CYP3A4—were significantly induced in liver microsomes after 2-week exposure to AFB1. These alterations induced by AFB1 were prevented by CM supplementation. Conclusively, dietary CM protected chicks from AFB1-induced liver injury, potentially through the synergistic actions of increased antioxidant capacities and inhibition of the pivotal CYP450 isozyme-mediated activation of AFB1 to toxic AFBO."
+        },
+        {
+            "paperId": "7a408bcd35f79eb2e63856c83ccf1b8848115f31",
+            "title": "Protective effect of curcumin on ochratoxin A–induced liver oxidative injury in duck is mediated by modulating lipid metabolism and the intestinal microbiota",
+            "year": 2019,
+            "openAccessPdf": {
+                "url": "https://doi.org/10.1016/j.psj.2019.10.041",
+                "status": "GOLD",
+                "license": "CCBYNCND",
+                "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC7587726, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "40435209",
+                    "name": "S. Zhai"
+                },
+                {
+                    "authorId": "4695936",
+                    "name": "D. Ruan"
+                },
+                {
+                    "authorId": "2634920",
+                    "name": "Yongwen Zhu"
+                },
+                {
+                    "authorId": "2319750160",
+                    "name": "M. Li"
+                },
+                {
+                    "authorId": "79648147",
+                    "name": "H. Ye"
+                },
+                {
+                    "authorId": "7634928",
+                    "name": "W. C. Wang"
+                },
+                {
+                    "authorId": "2107820115",
+                    "name": "L. Yang"
+                }
+            ],
+            "abstract": "Curcumin has antioxidant functions, regulates the intestinal microbial composition, and alleviates mycotoxin toxicity. The present study aimed to explore whether curcumin could alleviate ochratoxin A (OTA)-induced liver injury via the intestinal microbiota. A total of 720 mixed-sex 1-day-old White Pekin ducklings were randomly assigned into 4 groups: CON (control group, without OTA), OTA (fed a diet with 2 mg/kg OTA), CUR (ducks fed a diet with 400 mg/kg curcumin), and OTA + CUR (2 mg/kg OTA plus 400 mg/kg curcumin). Each treatment consisted of 6 replicates and 30 ducklings per replicate. Treatment lasted for 21 D. Results were analyzed by a two-tailed Student t test between 2 groups. Our results demonstrated that OTA treatment had the highest serum low-density lipoprotein (LDL) level among 4 groups. Compared with OTA group, OTA + CUR decreased serum LDL level (P < 0.05). OTA decreased liver catalase (CAT) activity in ducks (P < 0.05), while addition of curcumin in OTA group increased liver CAT activity (P < 0.05). 16S ribosomal RNA sequencing suggested that curcumin increased the richness indices (ACE index) and diversity indices (Simpson index) compared with OTA group (P < 0.05) and recovered the OTA-induced alterations in composition of the intestinal microbiota. Curcumin supplementation relieved the decreased abundance of butyric acid producing bacteria, including blautia, butyricicoccus, and butyricimonas, induced by OTA (P < 0.05). OTA also significantly influenced the metabolism of the intestinal microbiota, such as tryptophan metabolism and glyceropholipid metabolism. Curcumin could alleviate the upregulation of oxidative stress pathways induced by OTA. OTA treatment also increased SREBP-1c expression (P < 0.05). The curcumin group had the lowest expression of FAS and PPARG mRNA (P < 0.05) and the highest expression of NRF2 and HMOX1 mRNA. These results indicated that curcumin could alleviate OTA-induced oxidative injury and lipid metabolism disruption by modulating the cecum microbiota."
+        },
+        {
+            "paperId": "faac684d5291f8f915382dfb3c2b2f697e7d0ac6",
+            "title": "Curcumin alleviates LPS-induced intestinal homeostatic imbalance through reshaping gut microbiota structure and regulating group 3 innate lymphoid cells in chickens.",
+            "year": 2022,
+            "openAccessPdf": {
+                "url": "https://pubs.rsc.org/en/content/articlepdf/2022/fo/d2fo02598a",
+                "status": "HYBRID",
+                "license": "CCBYNC",
+                "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1039/d2fo02598a?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1039/d2fo02598a, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "4695936",
+                    "name": "D. Ruan"
+                },
+                {
+                    "authorId": "15921455",
+                    "name": "Shaowen Wu"
+                },
+                {
+                    "authorId": "31838730",
+                    "name": "A. Fouad"
+                },
+                {
+                    "authorId": "2634920",
+                    "name": "Yongwen Zhu"
+                },
+                {
+                    "authorId": "144024284",
+                    "name": "Wenjie Huang"
+                },
+                {
+                    "authorId": "2156961643",
+                    "name": "Zhilong Chen"
+                },
+                {
+                    "authorId": "144426091",
+                    "name": "Z. Gou"
+                },
+                {
+                    "authorId": "2108824807",
+                    "name": "Yibing Wang"
+                },
+                {
+                    "authorId": "2112373547",
+                    "name": "Yongquan Han"
+                },
+                {
+                    "authorId": "5742663",
+                    "name": "Shijuan Yan"
+                },
+                {
+                    "authorId": "48393953",
+                    "name": "C. Zheng"
+                },
+                {
+                    "authorId": "50558578",
+                    "name": "Shouqun Jiang"
+                }
+            ],
+            "abstract": "Gastrointestinal dysfunction is associated with a disturbance of immune homeostasis, changes in the intestinal microbiome, alteration of the composition of the bile acid pool, and dynamic imbalance of group 3 innate lymphoid cells (ILC3s). Curcumin (CUR), a polyphenolic compound isolated from turmeric, has been known to attenuate intestinal inflammation in potential therapies for gastrointestinal diseases. It was hypothesized that CUR could target the gut microbiome to modulate bile acid (BA) metabolism and the function of ILC3s in ameliorating lipopolysaccharide (LPS)-induced imbalance of intestinal homeostasis in chickens. Seven hundred and twenty 1-day-old crossbred chickens were randomly divided into four treatments, namely CON_saline (basal diet + saline control), CUR_saline (basal diet + 300 mg kg-1 curcumin + saline), CON_LPS (basal diet + LPS), and CUR_LPS (basal diet + 300 mg kg-1 curcumin + LPS), each consisting of 6 replicates of 30 birds. On days 14, 17, and 21, the chickens in the CON_LPS and CUR_LPS treatments were intraperitoneally injected with LPS at 0.5 mg per kg BW. Dietary CUR supplementation significantly decreased LPS-induced suppression of growth performance and injury to the intestinal tight junctions and decreased the vulnerability to LPS-induced acute inflammatory response by inhibiting pro-inflammatory (interleukin-1β and tumor necrosis factor-α) cytokines. CUR reshaped the cecal microbial community and BA metabolism, contributing to regulation of the intestinal mucosal immunity by promoting the anti-inflammatory (interleukin 10, IL-10) cytokines and enhancing the concentrations of primary and secondary BA metabolites (chenodexycholic acid, lithocholic acid). LPS decreased farnesoid X receptor (FXR) and G protein-coupled receptor class C group 5 member A synthesis, which was reversed by CUR administration, along with an increase in interleukin 22 (IL-22) production from ILC3s. Dietary supplementation of CUR increased the prevalence of Butyricicoccus and Enterococcus and enhanced the tricarboxylic acid cycle of intestinal epithelial cells. In addition, curcumin supplementation significantly increased sirtuin 1 and sirtuin 5 transcription and protein expression, which contributes to regulating mitochondrial metabolic and oxidative stress responses to alleviate LPS-induced enteritis. Our findings demonstrated that curcumin played a pivotal role in regulating the structure of the intestinal microbiome for health promotion and the treatment of intestinal dysbiosis. The beneficial effects of CUR may be attributed to the modulation of the BA-FXR pathway and inhibition of inflammation that induces IL-22 secretion by ILC3s in the intestinal lamina propria."
+        },
+        {
+            "paperId": "355356e20db56ec44007211fabfe4ceb7f757432",
+            "title": "The Enteric Nervous System as a Mediator of Microbiota‐Gut‐Brain Interactions in Parkinson's Disease",
+            "year": 2026,
+            "openAccessPdf": {
+                "url": "",
+                "status": null,
+                "license": "CCBY",
+                "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC12766150, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "2034360623",
+                    "name": "L. Valdetaro"
+                },
+                {
+                    "authorId": "2173846553",
+                    "name": "Maria Carolina Ricciardi"
+                },
+                {
+                    "authorId": "39571946",
+                    "name": "P. P. Almeida"
+                },
+                {
+                    "authorId": "2316108482",
+                    "name": "M. B. Stockler-Pinto"
+                },
+                {
+                    "authorId": "2050868111",
+                    "name": "Ana Lúcia Tavares-Gomes"
+                }
+            ],
+            "abstract": "Parkinson's disease (PD) is a multifactorial neurodegenerative disorder in which gastrointestinal dysfunction is highly prevalent and often precedes motor symptoms. Although research on gut microbiota alterations in PD has expanded rapidly, inconsistent findings and the absence of a reproducible microbial signature reveal the limitations of a microbiota‐centered view. The enteric nervous system (ENS), the intrinsic neural network of the gut, has been comparatively overlooked and remains underexplored, yet mounting evidence indicates that it undergoes profound alterations in PD. Pathological changes in enteric neurons and glial cells, including α‐synuclein accumulation, disrupted neurotransmission, impaired epithelial barrier regulation, and neuroinflammation, not only contribute to gastrointestinal dysfunction but may also drive disease propagation along the gut–brain axis. In parallel, PD‐related dysbiosis alters microbial metabolites and immune signaling, disrupting ENS physiology. This review reframes PD gut pathology by emphasizing the ENS as a central mediator of microbiota–brain communication. We highlight potential key pathways underlying this crosstalk, including short‐chain fatty acids (SCFAs), Toll‐like receptor (TLR) signaling, and serotonergic circuits, which normally sustain ENS function but, in the context of PD, contribute to barrier impairment, neuroinflammation, and neuronal alterations. By integrating evidence from human studies and experimental models, we argue that investigating ENS–microbiota interactions provides a more comprehensive perspective on PD pathophysiology and may guide the identification of novel biomarkers and therapeutic approaches capable of addressing both gastrointestinal and neurological manifestations of the disease."
+        },
+        {
+            "paperId": "20fd24a6ad5f73ad163629e47b3ce4e68c6e34a2",
+            "title": "The Gut Microbiota in Parkinson’s Disease: Mechanistic Insights into Microbial–Host Interactions",
+            "year": 2026,
+            "openAccessPdf": {
+                "url": "",
+                "status": null,
+                "license": "CCBY",
+                "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC13029550, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "2424379715",
+                    "name": "Luis Enrique Guerrero-Torres"
+                },
+                {
+                    "authorId": "2187530599",
+                    "name": "Jesús Jonathan García-Galindo"
+                },
+                {
+                    "authorId": "1581652577",
+                    "name": "María Fernanda Gómez-Galindo"
+                },
+                {
+                    "authorId": "2424236242",
+                    "name": "Diego Ian Rosales Delgado"
+                },
+                {
+                    "authorId": "2424383210",
+                    "name": "Cesar Eduardo Retolaza Carlos"
+                },
+                {
+                    "authorId": "2377139265",
+                    "name": "Daniel Osmar Suárez-Rico"
+                },
+                {
+                    "authorId": "2187530716",
+                    "name": "Alberto Beltrán-Ramírez"
+                },
+                {
+                    "authorId": "2307179106",
+                    "name": "Luis Ricardo Balleza Alejandri"
+                }
+            ],
+            "abstract": "Parkinson’s disease (PD) is a multifactorial neurodegenerative disorder characterized by progressive motor and non-motor manifestations, including early gastrointestinal dysfunction. Growing evidence implicates the gut microbiota as an active modulator of host immune tone and neurodegenerative vulnerability, extending beyond descriptive taxonomic associations toward functional and metabolic mechanisms. PD-associated dysbiosis is consistently characterized by altered microbial functional capacity, including reduced short-chain fatty acid (SCFA) production, enrichment of pro-inflammatory metabolic traits, and sustained immune stimulation at the intestinal interface. These shifts promote chronic low-grade inflammation and intestinal barrier perturbations, creating conditions that may facilitate abnormal α-synuclein aggregation within the enteric nervous system. Current management predominantly relies on dopaminergic replacement and related symptomatic strategies, such as levodopa combinations, dopamine agonists, monoamine oxidase-B and catechol-O-methyltransferase (COMT) inhibitors, and device-aided therapies, which alleviate symptoms but do not halt underlying neurodegeneration or modify long-term disease course. These therapeutic limitations have intensified interest in upstream mechanisms that might be amenable to disease-modifying interventions, particularly those arising at the level of the gut microbiota and gut–immune–brain axis. This narrative review integrates clinical, metagenomic, metabolomic, and mechanistic evidence to propose a unified model in which microbiota-driven immune and metabolic perturbations may act as upstream drivers converging on α-synuclein pathology, neuroinflammation, and neurovascular dysfunction."
+        }
+    ],
+    "ALAN mediated bird physiological stress": [
+        {
+            "paperId": "a8c92a43df250de131331d0a619f5032fbc41714",
+            "title": "Effects of high ambient temperature on the community structure and composition of ileal microbiome of broilers",
+            "year": 2018,
+            "openAccessPdf": {
+                "url": "https://doi.org/10.3382/ps/pey032",
+                "status": "HYBRID",
+                "license": "CCBYNCND",
+                "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3382/ps/pey032?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3382/ps/pey032, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "2251851206",
+                    "name": "Xuejie Wang"
+                },
+                {
+                    "authorId": "2196596753",
+                    "name": "Jing-hai Feng"
+                },
+                {
+                    "authorId": "2251394794",
+                    "name": "Min Hong Zhang"
+                },
+                {
+                    "authorId": "98228938",
+                    "name": "X. Li"
+                },
+                {
+                    "authorId": "46604773",
+                    "name": "D. Ma"
+                },
+                {
+                    "authorId": "2107604689",
+                    "name": "S. S. Chang"
+                }
+            ],
+            "abstract": "ABSTRACT The intestinal microbiome has been shown to influence animal nutrient metabolism and immune homeostasis. The present study aimed to examine the effect of heat stress on the intestinal microbiome of broilers using pyrosequencing technologies. Ninety‐six Arbor Acres broiler chicks were allocated to thermoneutral control (TC; 21 ± 1°C) and high ambient temperature (HT; 31 ± 1°C) groups (6 cages of 8 birds per group), respectively, and raised in 2 controlled climate chambers from 28 to 42 d old. Genomic DNA was extracted from ileal contents isolated from 6 male broiler chicks of each group at 42 d old, and then amplified based on the V3‐4 hyper‐variable region of 16S rRNA. High temperature had no significant effects, but tended to influence the relative abundance of major phyla and orders in the broilers' ileal microbiota. Analysis of linear effect size feature selection identified 9 discriminative features (genus level, linear discriminant analysis score > 3). Clostridium XIVb, Streptophyta, Faecalibacterium, Rothia, Alistipes, Azospirillum, and Oscillibacter were enriched, while Coprococcus and Streptococcus were reduced in heat‐stressed broilers. High temperature significantly influenced the alpha diversity, with higher observed species (P = 0.004), whole‐tree phylogenetic diversity (P = 0.002), and Chao 1 (P = 0.002), but the Pielou, Shannon, and Simpson indices were unaltered (P > 0.05), indicating that high temperature increased the ileal microbiota species richness. Based on unweighted UniFrac distance metric matrices, principal component analysis showed that the HT group formed a distinct cluster clearly set apart from the TC group. Analysis of similarity also indicated that samples within groups were more similar to each other than to any samples from other groups (R = 0.626; P = 0.004). In conclusion, high temperature influenced the bacterial composition and community structure of the ileal microbiota of broilers, specifically by increasing the species richness."
+        },
+        {
+            "paperId": "0ebecb5d61ba72c997d4d9fe10a8a90110e0abce",
+            "title": "Impact of gut microbiota structure in heat-stressed broilers.",
+            "year": 2019,
+            "openAccessPdf": {
+                "url": "https://doi.org/10.3382/ps/pez026",
+                "status": "HYBRID",
+                "license": "CCBYNCND",
+                "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3382/ps/pez026?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3382/ps/pez026, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "7581966",
+                    "name": "D. Shi"
+                },
+                {
+                    "authorId": "2075397806",
+                    "name": "Lin Bai"
+                },
+                {
+                    "authorId": "50482640",
+                    "name": "Qian Qu"
+                },
+                {
+                    "authorId": "2037301381",
+                    "name": "Shanshan Zhou"
+                },
+                {
+                    "authorId": "2062063",
+                    "name": "Meimei Yang"
+                },
+                {
+                    "authorId": "5016995",
+                    "name": "Shining Guo"
+                },
+                {
+                    "authorId": "48934135",
+                    "name": "Qiuhong Li"
+                },
+                {
+                    "authorId": "2107995151",
+                    "name": "Cui Liu"
+                }
+            ],
+            "abstract": "Gut microbiota** play important roles in the health and disease status of both humans and animals. Little is known about whether heat stress changes the composition of the gut microbiota in chicken. The aim of this study was to investigate the effects of heat stress on changes in caecal microbiota, including changes in growth performance as well as HSP70 and cortisol levels. Sixty 14-day-old female broilers were equally divided into 2 treatment groups with different housing temperatures for 28 D: a control group (C) at 24 to 26°C and a heat stress (HS) group at 34 to 38°C. The caecal contents of the broiler chicken were then extracted on days 1, 3, 7, 14, and 28. Genomic DNA was extracted and amplified based on the V3∼V4 hypervariable region of 16S rRNA high-throughput sequence analyses. The results showed that the average daily gain and average daily feed intake were significantly decreased and that the feed conversion ratio was increased by heat stress. The concentrations of HSP70 and cortisol in the serum were significantly increased. The composition of gut microbiota was influenced by heat stress** through beta diversity analysis and taxon-based analysis. In particular, at the phylum level the composition of Firmicutes, Tenericutes, and Proteobacteria in HS group was increased than that of C group, and Bacteroidetes and Cyanobacteria in HS group were reduced than that of C group. In addition, the composition of Anaeroplasma and Lactobacillus phyla in HS group were increased than that of C group, whereas the Bacteroides, Oscillospira, Faecalibacterium, and Dorea genera in HS group were decreased than that of C group. In conclusion, the gut microbiota in broilers were changed by heat stress. And the changes of the gut microbiota could provide the basis for further research on the heat stress."
+        },
+        {
+            "paperId": "151ba40c1f5781821b479b9333442644fca9f0cc",
+            "title": "Physiological Stress Mediated by Corticosterone Administration Alters Intestinal Bacterial Communities and Increases the Relative Abundance of Clostridium perfringens in the Small Intestine of Chickens",
+            "year": 2020,
+            "openAccessPdf": {
+                "url": "https://www.mdpi.com/2076-2607/8/10/1518/pdf?version=1602485388",
+                "status": "GOLD",
+                "license": "CCBY",
+                "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC7650536, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "7935222",
+                    "name": "S. J. Zaytsoff"
+                },
+                {
+                    "authorId": "144518428",
+                    "name": "R. Uwiera"
+                },
+                {
+                    "authorId": "143820931",
+                    "name": "G. Inglis"
+                }
+            ],
+            "abstract": "A model of physiological stress mediated by the administration of corticosterone (CORT) was used to investigate the impact of stress on the intestinal microbiota of chickens. Birds were administered CORT in their drinking water at 0, 10 (low dose CORT; LDC), and 30 (high dose CORT; HDC) mg/L. Digesta from the small intestine and ceca were examined after 1, 5, and 12 days post-initiation of CORT administration by 16S rRNA gene sequencing. A decrease in phylogenetic diversity and altered composition of bacteria were observed for HDC in the small intestine. Analysis by ANOVA-Like Differential Expression 2 (ALDEx2) showed that densities of Clostridium sensu stricto 1 bacteria were increased in the small intestine for LDC and HDC. Quantitative PCR confirmed that CORT administration increased densities of Clostridium perfringens in the small intestine, but only HDC was associated with increased densities of the bacterium in ceca. Predictive functional analysis by Phylogenetic Investigation of Communities by Reconstruction of Unobserved States 2 (PICRUSt2) showed pathways of carbohydrate metabolism to be enriched with CORT, and amino acid synthesis to be enriched in control birds in the small intestine. In conclusion, physiological stress mediated by CORT modulated bacterial communities in the small intestine and increased densities of C. perfringens. This implicates stress as an important mediator of this important enteric pathogen in poultry."
+        },
+        {
+            "paperId": "0b5388787626f2621c449b8301d119a3241cb558",
+            "title": "The Microbiota-Gut-Brain Axis During Heat Stress in Chickens: A Review",
+            "year": 2021,
+            "openAccessPdf": {
+                "url": "https://www.frontiersin.org/articles/10.3389/fphys.2021.752265/pdf",
+                "status": "GOLD",
+                "license": "CCBY",
+                "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC8563997, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "153522654",
+                    "name": "C. Cao"
+                },
+                {
+                    "authorId": "3906479",
+                    "name": "V. S. Chowdhury"
+                },
+                {
+                    "authorId": "144748127",
+                    "name": "M. Cline"
+                },
+                {
+                    "authorId": "145890883",
+                    "name": "E. Gilbert"
+                }
+            ],
+            "abstract": "Heat stress is a global issue for the poultry industries with substantial annual economic losses and threats to bird health and welfare. When chickens are exposed to high ambient temperatures, like other species they undergo multiple physiological alterations, including behavioral changes, such as cessation of feeding, initiation of a stress signaling cascade, and intestinal immune, and inflammatory responses. The brain and gut are connected and participate in bidirectional communication via the nervous and humoral systems, this network collectively known as the gut-brain axis. Moreover, heat stress not only induces hyperthermia and oxidative stress at the gut epithelium, leading to impaired permeability and then susceptibility to infection and inflammation, but also alters the composition and abundance of the microbiome. The gut microflora, primarily via bacterially derived metabolites and hormones and neurotransmitters, also communicate via similar pathways to regulate host metabolic homeostasis, health, and behavior. Thus, it stands to reason that reshaping the composition of the gut microbiota will impact intestinal health and modulate host brain circuits via multiple reinforcing and complementary mechanisms. In this review, we describe the structure and function of the microbiota-gut-brain axis, with an emphasis on physiological changes that occur in heat-stressed poultry."
+        },
+        {
+            "paperId": "d3c5b41a75b598d290a5e07377e9ce688475658d",
+            "title": "Rethinking Poultry Welfare—Integrating Behavioral Science and Digital Innovations for Enhanced Animal Well-Being",
+            "year": 2025,
+            "openAccessPdf": {
+                "url": "",
+                "status": null,
+                "license": null,
+                "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3390/poultry4020020?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3390/poultry4020020, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "2152333812",
+                    "name": "S. Neethirajan"
+                }
+            ],
+            "abstract": "The relentless drive to meet global demand for poultry products has pushed for rapid intensification in chicken farming, dramatically boosting efficiency and yield. Yet, these gains have exposed a host of complex welfare challenges that have prompted scientific scrutiny and ethical reflection. In this review, I critically evaluate recent innovations aimed at mitigating such concerns by drawing on advances in behavioral science and digital monitoring and insights into biological adaptations. Specifically, I focus on four interconnected themes: First, I spotlight the complexity of avian sensory perception—encompassing vision, auditory capabilities, olfaction, and tactile faculties—to underscore how lighting design, housing configurations, and enrichment strategies can better align with birds’ unique sensory worlds. Second, I explore novel tools for gauging emotional states and cognition, ranging from cognitive bias tests to developing protocols for identifying pain or distress based on facial cues. Third, I examine the transformative potential of computer vision, bioacoustics, and sensor-based technologies for the continuous, automated tracking of behavior and physiological indicators in commercial flocks. Fourth, I assess how data-driven management platforms, underpinned by precision livestock farming, can deploy real-time insights to optimize welfare on a broad scale. Recognizing that climate change and evolving production environments intensify these challenges, I also investigate how breeds resilient to extreme conditions might open new avenues for welfare-centered genetic and management approaches. While the adoption of cutting-edge techniques has shown promise, significant hurdles persist regarding validation, standardization, and commercial acceptance. I conclude that truly sustainable progress hinges on an interdisciplinary convergence of ethology, neuroscience, engineering, data analytics, and evolutionary biology—an integrative path that not only refines welfare assessment but also reimagines poultry production in ethically and scientifically robust ways."
+        }
+    ],
+    "Microbiome diversity bird light reduction": [
+        {
+            "paperId": "f65e367877f50ec324be798cc870ea8382a4ec30",
+            "title": "Long-Term Effects of Chronic Light Pollution on Seasonal Functions of European Blackbirds (Turdus merula)",
+            "year": 2013,
+            "openAccessPdf": {
+                "url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0085069&type=printable",
+                "status": "GOLD",
+                "license": "CCBY",
+                "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC3869906, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "2385273890",
+                    "name": "Davide M. Dominoni"
+                },
+                {
+                    "authorId": "6832647",
+                    "name": "Michael Quetting"
+                },
+                {
+                    "authorId": "4028814",
+                    "name": "J. Partecke"
+                }
+            ],
+            "abstract": "Light pollution is known to affect important biological functions of wild animals, including daily and annual cycles. However, knowledge about long-term effects of chronic exposure to artificial light at night is still very limited. Here we present data on reproductive physiology, molt and locomotor activity during two-year cycles of European blackbirds (Turdus merula) exposed to either dark nights or 0.3 lux at night. As expected, control birds kept under dark nights exhibited two regular testicular and testosterone cycles during the two-year experiment. Control urban birds developed testes faster than their control rural conspecifics. Conversely, while in the first year blackbirds exposed to light at night showed a normal but earlier gonadal cycle compared to control birds, during the second year the reproductive system did not develop at all: both testicular size and testosterone concentration were at baseline levels in all birds. In addition, molt sequence in light-treated birds was more irregular than in control birds in both years. Analysis of locomotor activity showed that birds were still synchronized to the underlying light-dark cycle. We suggest that the lack of reproductive activity and irregular molt progression were possibly the results of i) birds being stuck in a photorefractory state and/or ii) chronic stress. Our data show that chronic low intensities of light at night can dramatically affect the reproductive system. Future studies are needed in order to investigate if and how urban animals avoid such negative impact and to elucidate the physiological mechanisms behind these profound long-term effects of artificial light at night. Finally we call for collaboration between scientists and policy makers to limit the impact of light pollution on animals and ecosystems."
+        },
+        {
+            "paperId": "b3fb9e6db2b62e0c2310831053f40c5859cd0192",
+            "title": "Artificial Light at Night Promotes Activity Throughout the Night in Nesting Common Swifts (Apus apus)",
+            "year": 2019,
+            "openAccessPdf": {
+                "url": "https://www.nature.com/articles/s41598-019-47544-3.pdf",
+                "status": "GOLD",
+                "license": "CCBY",
+                "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC6667432, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "5879224",
+                    "name": "Eran Amichai"
+                },
+                {
+                    "authorId": "1399067928",
+                    "name": "N. Kronfeld-Schor"
+                }
+            ],
+            "abstract": "The use of artificial light at night (ALAN) is a rapidly expanding anthropogenic effect that transforms nightscapes throughout the world, causing light pollution that affects ecosystems in a myriad of ways. One of these is changing or shifting activity rhythms, largely synchronized by light cues. We used acoustic loggers to record and quantify activity patterns during the night of a diurnal bird – the common swift – in a nesting colony exposed to extremely intensive artificial illumination throughout the night at Jerusalem’s Western Wall. We compared that to activity patterns at three other colonies exposed to none, medium, or medium-high ALAN. We found that in the lower-intensity ALAN colonies swifts ceased activity around sunset, later the more intense the lighting. At the Western Wall, however, swifts remained active throughout the night. This may have important implications for the birds’ physiology, breeding cycle, and fitness, and may have cascading effects on their ecosystems."
+        },
+        {
+            "paperId": "d3a39a9d00158b9b323501dee7dfb9aa2d6e29c5",
+            "title": "Effects of artificial light on bird movement and distribution: a systematic map",
+            "year": 2021,
+            "openAccessPdf": {
+                "url": "https://environmentalevidencejournal.biomedcentral.com/counter/pdf/10.1186/s13750-021-00246-8",
+                "status": "GOLD",
+                "license": "CCBY",
+                "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1186/s13750-021-00246-8?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1186/s13750-021-00246-8, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "145942257",
+                    "name": "Carrie Ann Adams"
+                },
+                {
+                    "authorId": "1403090569",
+                    "name": "E. Fernández‐Juricic"
+                },
+                {
+                    "authorId": "2369016",
+                    "name": "E. Bayne"
+                },
+                {
+                    "authorId": "145394186",
+                    "name": "C. S. St. Clair"
+                }
+            ],
+            "abstract": "Background Artificial light is ubiquitous in the built environment with many known or suspected impacts on birds. Birds flying at night are known to aggregate around artificial light and collide with illuminated objects, which may result from attraction and/or disorientation. In other contexts, birds are repelled by light-based deterrents, including lasers and spotlights. Artificial light can also change birds’ perceptions of habitat quality, resulting in selection or avoidance of illuminated areas. Studies documenting aggregation, deterrence, and habitat selection are typically considered separate literature bodies, but they actually study a common set of populations, interventions/exposures, and responses. Our systematic map provides a comprehensive, searchable database of evidence of the effects of artificial light on bird movement and distribution, increasing both the quantity and diversity of studies that are accessible for further comparison and synthesis. We identify and describe the evidence available for four secondary questions relevant to conservation or management: aggregation/mortality at structures with artificial lights, evidence that light attracts and/or disorients birds, light-based deterrent efficacy, and the influence of continuous illumination on habitat selection. Methods Using the principles of systematic reviews and methods published in an earlier protocol, we conducted an extensive and interdisciplinary literature search. We searched multidisciplinary citation indices as well as databases and websites specific to conservation, pest management, transportation, and energy. In our map, we included all studies reporting eligible populations (birds), interventions/exposures (artificial light), and outcomes (movement through space, behaviour preceding movement, or distribution). We evaluated the quantity of available evidence based on meta-data fields related to study context, population traits, light source characteristics, and outcome variables. We used these meta-data to identify relevant evidence for each secondary question and describe aspects of our secondary questions that may support reviews (evidence clusters) and others that require more research (knowledge gaps). Review findings We manually screened 26,208 articles and coded meta-data for 490 eligible studies in a searchable database, organizing the literature to facilitate future reviews and evidence-based management. Much of the evidence was concentrated in particular locations (Northern hemisphere), taxonomic orders ( Passeriformes, Charadriiformes , and others), and light wavelengths (red and white). We identified 56 distinct response variables and organized them into 3 categories (behaviour, distribution, and avian community), showing the diversity in bird responses to light. Conclusions Our database can be used to answer the secondary questions we identified and other questions about the effects of artificial light on bird movement and resulting changes to distribution. There may be sufficient evidence for a review of the weather and lunar conditions associated with collisions, which could help identify nights when reduction of artificial light is most important. Further experiments should investigate whether specific types of light can reduce collisions by increasing the detectability of structures with artificial lights. The efficacy of lasers as deterrents could be evaluated through systematic review, though more studies are needed for UV/violet lasers. To reduce the impacts of outdoor lighting on birds, research should investigate how spectral composition of white light influences bird attraction, orientation, and habitat selection."
+        },
+        {
+            "paperId": "cee0aae769cfc993e40f5cfcf1ca463f80c6b104",
+            "title": "Artificial Light at Night Consistently Impacts Avian Physiology and Behaviour: A Meta‐Analysis",
+            "year": 2026,
+            "openAccessPdf": {
+                "url": "",
+                "status": null,
+                "license": "CCBYNCND",
+                "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC13043137, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "2387346344",
+                    "name": "Diaz-Palma Sayuri"
+                },
+                {
+                    "authorId": "2387344939",
+                    "name": "Capilla-Lasheras Pablo"
+                },
+                {
+                    "authorId": "2387341912",
+                    "name": "Dominoni Davide"
+                },
+                {
+                    "authorId": "2387341033",
+                    "name": "Cichoń Mariusz"
+                },
+                {
+                    "authorId": "2387341851",
+                    "name": "Sudyka Joanna"
+                }
+            ],
+            "abstract": "ABSTRACT Artificial light at night (ALAN) is a major anthropogenic pressure across the tree of life. While ALAN drives population declines in insects and reptiles, birds defy simple patterns. Avian responses to ALAN vary in direction and magnitude, yet the fitness consequences of these responses remain unresolved. We conducted a meta‐analysis to test whether ALAN alters avian physiology, behaviour and life‐histories, analysing 675 effect sizes from 36 studies across 30 species. We found consistent physiological and behavioural shifts under ALAN, while life‐history traits were unaffected. ALAN disrupted physiology through reduced sleep, higher metabolic rate and accelerated reproductive maturation. Behaviourally, daily activity was extended, with earlier onset, later offset, and increased nocturnal activity and foraging effort. Subset analyses revealed stronger ALAN effects in migratory species compared to residents and more pronounced in adults and females than in nestlings and males. Activity shifts, accelerated ageing and sleep disruption were amplified with brighter light. Birds appeared to buffer ALAN effects through physiological and behavioural adjustments, minimising impacts on life‐histories, a paradox likely explained by phenotypic plasticity or evolutionary adaptation. We identified key ecological vulnerabilities, emphasising the need for targeted conservation strategies in our increasingly illuminated world."
+        },
+        {
+            "paperId": "c2e530a71eb3f4370872af9c8f593d98851e6bf2",
+            "title": "Awake and hungry: artificial light at night disrupts behaviour and reproductive ecology in a wild migratory bird",
+            "year": 2025,
+            "openAccessPdf": {
+                "url": "",
+                "status": null,
+                "license": null,
+                "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1101/2025.06.10.658843?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1101/2025.06.10.658843, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "2367137259",
+                    "name": "Juliette Champenois"
+                },
+                {
+                    "authorId": "1441357864",
+                    "name": "Sayuri Diaz-Palma"
+                },
+                {
+                    "authorId": "35280977",
+                    "name": "Irene Di Lecce"
+                },
+                {
+                    "authorId": "117969622",
+                    "name": "M. Cichoń"
+                },
+                {
+                    "authorId": "2331481837",
+                    "name": "Lars Gustafsson"
+                },
+                {
+                    "authorId": "6064952",
+                    "name": "Joanna Sudyka"
+                }
+            ],
+            "abstract": "Artificial light at night (ALAN), a growing consequence of global urbanisation, disrupts natural light cues that regulate biological rhythms across taxa. However, the behavioural pathways linking ALAN exposure to broader ecological impacts remain poorly understood. Here, we experimentally introduced ALAN into nestboxes of a long-distance migratory bird, the collared flycatcher (Ficedula albicollis), breeding in Gotland, Sweden, to assess ALAN effects on development and reproductive ecology. Nestlings were exposed to ALAN from two days post-hatching until fledging, and we video-recorded parental and nestling activity over 24 hours on day 8 post-hatching. From a high-resolution behavioural dataset (32,100 nestling and 3,709 parental events), we found that ALAN-exposed nestlings begged more frequently and for longer at night compared to dark controls, revealing disrupted nocturnal behaviour. These effects cascaded to parental care: both females and males in ALAN nests extended their daily activity, initiating feeding earlier and terminating later, but traded off this extension by reducing their hourly feeding counts compared to parents in dark conditions. Consequently, nestlings under ALAN fledged at an older age and had a lower fledging rate after day eight post-hatching, despite no difference in total fledging numbers compared to controls. Our findings provide the first comprehensive experimental evidence that ALAN alters the behaviour of both parents alongside their offspring and reduces reproductive success in a long-distance migrant, a species group that increasingly encounters light pollution during nocturnal migration. ALAN, though directly affecting mainly nestlings and females in nestboxes, triggered socially-mediated responses that altered the circadian behaviour of entire bird families. This study underscores the need to consider behavioural disruption as a critical mechanism underlying the ecological impacts of ALAN in natural populations. Summary figure: Cascading effects of artificial light at night, an aspect of human-induced light pollution, on the behaviour and reproductive ecology of collared flycatchers"
+        }
+    ],
+    "Photoperiodic regulation avian gut-brain axis": [
+        {
+            "paperId": "31922da2bae05b16f21f07213dedac0b1109d352",
+            "title": "Melatonin Ameliorates Corticosterone-Mediated Oxidative Stress-Induced Colitis in Sleep-Deprived Mice Involving Gut Microbiota",
+            "year": 2021,
+            "openAccessPdf": {
+                "url": "https://downloads.hindawi.com/journals/omcl/2021/9981480.pdf",
+                "status": "GOLD",
+                "license": "CCBY",
+                "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC8246302, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "2072687237",
+                    "name": "Ting Gao"
+                },
+                {
+                    "authorId": "2108400749",
+                    "name": "Zixu Wang"
+                },
+                {
+                    "authorId": "50491878",
+                    "name": "Jing Cao"
+                },
+                {
+                    "authorId": "2219055704",
+                    "name": "Yulan Dong"
+                },
+                {
+                    "authorId": "7378124",
+                    "name": "Yaoxing Chen"
+                }
+            ],
+            "abstract": "Background Inflammatory bowel disease (IBD) is a result of a complex interplay, making development of a specific treatment a challenging task. Corticosterone was considered a risk factor of stress relative enteritis. Our previous studies found that melatonin exerts an improvement effect in sleep deprivation (SD)- induced corticosterone overproduction and colitis. A present study further explored the mechanism whereby melatonin prevented corticosterone-mediated SD-induced colitis. Methods A 72-hour SD mouse model with or without melatonin supplementation and fecal microbiota transplantation (FMT) to investigate the core role of corticosterone in melatonin-mediated gut microbiota improving SD-induced colitis. Further, corticosterone-treated mice were assessed to the effect of melatonin on corticosterone-mediated gut microbiota dysbiosis-induced colitis. Meanwhile, an in vitro test studied modulatory mechanism of metabolite melatonin. Results SD caused an excessive corticosterone, gut microbiota disorder and colitis phenotype. Similarly, corticosterone-supplemented mice also exhibited gut microbiota dysbiosis and colitis, and the FMT from SD-mice to normal mice could restore the SD-like colitis, but no change in the corticosterone level, which suggested that corticosterone-mediated intestinal microbiota imbalance plays a central role in SD-induced colitis. Further, we demonstrated melatonin-mediated MT2 weakened GR feedback, suppressed oxidative stress, restored the intestinal microbiota and its metabolites homeostasis, and inactivated the STAT3/AP-1/NF-κB pathway-induced inflammatory response in vivo and in vitro. Conclusions We revealed that excessive corticosterone is a core risk factor for SD-induced colitis and provided a better understanding of the effects of melatonin, expected to be a personalized targeted therapy drug, on corticosterone-mediated gut microbiota inducing colitis."
+        },
+        {
+            "paperId": "f396461719588fa281c2d64000aa8248a73c93a6",
+            "title": "Melatonin–Microbiome Two-Sided Interaction in Dysbiosis-Associated Conditions",
+            "year": 2022,
+            "openAccessPdf": {
+                "url": "https://www.mdpi.com/2076-3921/11/11/2244/pdf?version=1668437600",
+                "status": "GOLD",
+                "license": "CCBY",
+                "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC9686962, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "17098074",
+                    "name": "M. Ieșanu"
+                },
+                {
+                    "authorId": "11358805",
+                    "name": "C. Zahiu"
+                },
+                {
+                    "authorId": "2188440378",
+                    "name": "Ioana-Alexandra Dogaru"
+                },
+                {
+                    "authorId": "1436166792",
+                    "name": "D. M. Chitimus"
+                },
+                {
+                    "authorId": "3799091",
+                    "name": "G. Pîrcălăbioru"
+                },
+                {
+                    "authorId": "6604853",
+                    "name": "S. Voiculescu"
+                },
+                {
+                    "authorId": "16806152",
+                    "name": "Sebastian Isac"
+                },
+                {
+                    "authorId": "7167966",
+                    "name": "F. Galoș"
+                },
+                {
+                    "authorId": "145874021",
+                    "name": "B. Pavel"
+                },
+                {
+                    "authorId": "1400672041",
+                    "name": "S. O'Mahony"
+                },
+                {
+                    "authorId": "4991692",
+                    "name": "A. Zăgrean"
+                }
+            ],
+            "abstract": "Melatonin is a pineal indolamine, allegedly known as a circadian rhythm regulator, and an antioxidative and immunomodulatory molecule. In both experimental and clinical trials, melatonin has been shown to have positive effects in various pathologies, as a modulator of important biochemical pathways including inflammation, oxidative stress, cell injury, apoptosis, and energy metabolism. The gut represents one of melatonin’s most abundant extra pineal sources, with a 400-times-higher concentration than the pineal gland. The importance of the gut microbial community—namely, the gut microbiota, in multiple critical functions of the organism— has been extensively studied throughout time, and its imbalance has been associated with a variety of human pathologies. Recent studies highlight a possible gut microbiota-modulating role of melatonin, with possible implications for the treatment of these pathologies. Consequently, melatonin might prove to be a valuable and versatile therapeutic agent, as it is well known to elicit positive functions on the microbiota in many dysbiosis-associated conditions, such as inflammatory bowel disease, chronodisruption-induced dysbiosis, obesity, and neuropsychiatric disorders. This review intends to lay the basis for a deeper comprehension of melatonin, gut microbiota, and host-health subtle interactions."
+        },
+        {
+            "paperId": "80e5b8e99aa3a30e40880224cd65fac05d382370",
+            "title": "Navigating mental health in space: gut–brain axis and microbiome dynamics",
+            "year": 2025,
+            "openAccessPdf": {
+                "url": "",
+                "status": null,
+                "license": "CCBY",
+                "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC12226736, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "2109807903",
+                    "name": "Jiseon Yang"
+                },
+                {
+                    "authorId": "2144360051",
+                    "name": "Hee-dae Kim"
+                },
+                {
+                    "authorId": "6407230",
+                    "name": "Jennifer Barrila"
+                },
+                {
+                    "authorId": "2341875585",
+                    "name": "Se-Hui Lee"
+                },
+                {
+                    "authorId": "2369235889",
+                    "name": "Cheryl A. Nickerson"
+                },
+                {
+                    "authorId": "2252367556",
+                    "name": "C. Ott"
+                },
+                {
+                    "authorId": "2369236144",
+                    "name": "Sharon A Israel"
+                },
+                {
+                    "authorId": "2237421807",
+                    "name": "A. Choukér"
+                },
+                {
+                    "authorId": "2341828250",
+                    "name": "Jin-Young Yang"
+                }
+            ],
+            "abstract": "Long-term space travel presents significant mental health challenges, with documented psychological and neurological impacts observed during spaceflight and in simulated space environments. Terrestrial studies have highlighted the connection between the human gut microbiome and neuropsychological health, known as the gut–brain axis. Recent research has demonstrated alterations in astronauts’ microbiomes during spaceflight. Here we explore interesting parallels between these microbiome changes in astronauts and those observed in terrestrial studies involving individuals experiencing psychological distress. Key areas of focus include how various space-related stressors impact the complex interplay between the gut microbiome, immune responses and mental health outcomes. This is illustrated by the effects of space radiation and circadian rhythm disruptions on the microbiome, as well as the roles of immune regulation and the integrity of gut and blood–brain barriers in shaping mental health outcomes through the gut–brain axis. Potential interventions and strategies for microbiome monitoring are suggested as critical to mitigating psychological risks during extended space missions. These findings underscore the need for further research to better understand how the microbiome responds to spaceflight environments and to develop targeted interventions that safeguard mental health during long-duration missions. Space travel poses unique challenges, including increased risk of psychological conditions such as anxiety and depression. Researchers explore how spaceflight may impact mental health through changes in the gut microbiome, which is closely link to brain function. Data from astronauts aboard the International Space Station show microbiome shifts similar to those seen in individuals with mental health disorders on Earth, in human and animal studies. In this Review, the authors suggest space stressors—such as microgravity, radiation and circadian disruption—may alter gut microbial composition and host immune function, potentially affecting neuropsychological outcomes. The authors propose microbiome monitoring as a noninvasive method to detect early signs of mental health risks in space. Understanding microbiome dynamics and gut–brain interactions in spaceflight is crucial for safeguarding the mental health of astronauts during long-duration missions. This summary was initially drafted using artificial intelligence, then revised and fact-checked by the author."
+        },
+        {
+            "paperId": "7d3d1f6deb3d551489baef0f99af41c6acab0c0b",
+            "title": "Chronobiome medicine: circadian regulation of host–microbiota crosstalk in systemic physiology",
+            "year": 2025,
+            "openAccessPdf": {
+                "url": "",
+                "status": null,
+                "license": "CCBY",
+                "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC12623188, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "2051602193",
+                    "name": "Jhommara Bautista"
+                },
+                {
+                    "authorId": "2364291858",
+                    "name": "Andrés López-Cortés"
+                }
+            ],
+            "abstract": "Circadian rhythms, governed by central and peripheral clocks, orchestrate nearly all aspects of human physiology, including metabolism, endocrine function, neuroimmune activity, and behavior. Emerging evidence reveals that these oscillations are closely intertwined with the gut microbiota, which itself displays diurnal fluctuations in composition and metabolite production. This bidirectional regulation establishes a dynamic circadian–microbiota axis that synchronizes nutrient processing, hormonal secretion, immune surveillance, and neural signaling. Disruption of this temporal alignment, through genetic, environmental, or lifestyle factors, precipitates systemic dysregulation, fostering metabolic syndrome, endocrine imbalance, immune dysfunction, neuropsychiatric vulnerability, cardiovascular alterations, and carcinogenesis. Mechanistic studies highlight that microbial-derived metabolites such as short-chain fatty acids, bile acids, and indoles act as circadian cues, while host clock genes modulate microbial ecology and intestinal barrier integrity. These insights underscore the translational potential of circadian precision medicine, in which time-restricted feeding, probiotics, prebiotics, and chronotherapy restore synchrony between microbial and host clocks. This review synthesizes current knowledge on circadian modulation of microbiota-mediated crosstalk across metabolic, neural, immune, and endocrine pathways, emphasizing its implications for health, disease, and novel therapeutic strategies."
+        },
+        {
+            "paperId": "4d484999ce1e6bcac1fea968465e2f464bd5679b",
+            "title": "The hallmarks of host-microbiome decoupling",
+            "year": 2026,
+            "openAccessPdf": {
+                "url": "",
+                "status": null,
+                "license": null,
+                "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3389/fmicb.2026.1801100?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3389/fmicb.2026.1801100, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "2051602193",
+                    "name": "Jhommara Bautista"
+                },
+                {
+                    "authorId": "2364291858",
+                    "name": "Andrés López-Cortés"
+                }
+            ],
+            "abstract": "The human host and its resident microbiome maintain continuous interactions that influence immune regulation, metabolism, neuroendocrine signaling, epithelial barrier function, and circadian organization. Although multi-omics approaches have improved mechanistic understanding of host-microbiome interactions, dominant translational models remain largely based on compositional descriptions and often do not capture persistence, systemic propagation, or temporal instability in microbiome-associated disease. Host-microbiome decoupling is defined here as a progressive reduction in functional coordination between host regulatory systems and microbial ecological behavior. The concept refers to conditions in which microbial signals, activities, or rhythmic patterns no longer remain aligned with host physiological regulation. A hallmarks-based framework is proposed to examine biological domains in which coordination between host regulation and microbial ecology deteriorates. Core hallmarks include breakdown of signaling fidelity, microbiome-driven immune miscalibration, barrier compartment failure, endocrine-microbiome uncoupling, ecological destabilization, and temporal desynchronization between host circadian programs and microbial oscillations. Additional dimensions include pathological microbial metabolite dominance with epigenetic embedding, endocrine and neuro-microbiome regulatory uncoupling, ecological destabilization of microbiome functional capacity, and temporal desynchronization between host circadian programs and microbial oscillations. Across inflammatory, metabolic, neurodegenerative, and neoplastic conditions, microbial activity may operate outside normal ecological constraints, influencing immune regulation, metabolic signaling, neuroimmune communication, and tumor-associated processes. Within this framework, resilience, signaling proportionality, host responses appropriately scaled to microbial input, and temporal coordination represent central properties of host-microbiome compatibility."
+        }
+    ],
+    "Nocturnal lighting avian metabolic-microbial coupling": [
+        {
+            "paperId": "1d8bdda687b614d642ff6f714486a8c36a84e21b",
+            "title": "Transposable elements mark a repeat‐rich region associated with migratory phenotypes of willow warblers (Phylloscopus trochilus)",
+            "year": 2021,
+            "openAccessPdf": {
+                "url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/mec.16292",
+                "status": "HYBRID",
+                "license": "CCBYNCND",
+                "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1111/mec.16292?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1111/mec.16292, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "1441564633",
+                    "name": "Violeta Caballero-López"
+                },
+                {
+                    "authorId": "4582904",
+                    "name": "Max Lundberg"
+                },
+                {
+                    "authorId": "81381110",
+                    "name": "K. Sokolovskis"
+                },
+                {
+                    "authorId": "2974304",
+                    "name": "S. Bensch"
+                }
+            ],
+            "abstract": "The genetic basis of bird migration has been the focus of several studies. Two willow warbler subspecies (Phylloscopus trochilus trochilus and Phylloscopus trochilus acredula) follow different migratory routes to wintering grounds in Africa. Their breeding populations overlap in contact areas or “migratory divides” located in central Scandinavia and in eastern Poland. Earlier analyses demonstrated that the genetic differences between these two migratory phenotypes are few and cluster on chromosomes 1 and 5. In addition, an amplified fragment length polymorphism‐derived biallelic marker (known as WW2) presents steep clines across both migratory divides but failed to be mapped in the genome. Here, we characterize the WW2 marker and describe its two variants (WW2 ancestral and WW2 derived) as portions of long terminal repeat retrotransposons originating from an ancient infection by an endogenous retrovirus. We used quantitative polymerase chain reaction techniques to quantify copy numbers of the WW2 derived variant in the two subspecies and their hybrids. This, together with genome analyses revealed that WW2 derived variants are much more abundant in P. t. acredula and appear embedded in a large repeat‐rich region (>12 Mbp), not associated with the divergent regions of chromosomes 1 or 5. However, it might interact with genetic elements controlling migration direction. Testing this hypothesis further will require knowing the exact location of this region, such as by obtaining more complete genome assemblies preferably in combination with techniques like fluorescence in situ hybridization applied to a willow warbler karyotype, and finally to investigate the copy number of this marker in hybrids with known migratory tracks."
+        },
+        {
+            "paperId": "05cd546bac1fcbcd7e684edece0cad462070f1e8",
+            "title": "Migration direction in a songbird explained by two loci",
+            "year": 2023,
+            "openAccessPdf": {
+                "url": "https://www.nature.com/articles/s41467-023-35788-7.pdf",
+                "status": "GOLD",
+                "license": "CCBY",
+                "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC9834303, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "81381110",
+                    "name": "K. Sokolovskis"
+                },
+                {
+                    "authorId": "4582904",
+                    "name": "Max Lundberg"
+                },
+                {
+                    "authorId": "2832343",
+                    "name": "S. Åkesson"
+                },
+                {
+                    "authorId": "4294678",
+                    "name": "Mikkel Willemoes"
+                },
+                {
+                    "authorId": "1738699720",
+                    "name": "Tianhao Zhao"
+                },
+                {
+                    "authorId": "1441564633",
+                    "name": "Violeta Caballero-López"
+                },
+                {
+                    "authorId": "2974304",
+                    "name": "S. Bensch"
+                }
+            ],
+            "abstract": "Migratory routes and remote wintering quarters in birds are often species and even population specific. It has been known for decades that songbirds mainly migrate solitarily, and that the migration direction is genetically controlled. Yet, the underlying genetic mechanisms remain unknown. To investigate the genetic basis of migration direction, we track genotyped willow warblers Phylloscopus trochilus from a migratory divide in Sweden, where South-West migrating, and South-East migrating subspecies form a hybrid swarm. We find evidence that migration direction follows a dominant inheritance pattern with epistatic interaction between two loci explaining 74% of variation. Consequently, most hybrids migrate similarly to one of the parental subspecies, and therefore do not suffer from the cost of following an inferior, intermediate route. This has significant implications for understanding the selection processes that maintain narrow migratory divides. The genetic determinants of long-distance migration in birds are largely unknown. Sokolovskis et al. tracked genotyped hybrid willow warblers from a migratory divide in Sweden and find that autumn migration direction is consistent with a dominant inheritance pattern of two large effect loci that interact through epistasis."
+        },
+        {
+            "paperId": "a413e13c9489d4f43e133ab861e372c127e55f0e",
+            "title": "Genetic Control of Avian Migration: Insights from Studies in Latitudinal Passerine Migrants",
+            "year": 2023,
+            "openAccessPdf": {
+                "url": "https://www.mdpi.com/2073-4425/14/6/1191/pdf?version=1685416008",
+                "status": "GOLD",
+                "license": "CCBY",
+                "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC10297951, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "2109261302",
+                    "name": "Aakansha Sharma"
+                },
+                {
+                    "authorId": "2056287177",
+                    "name": "Sayantan Sur"
+                },
+                {
+                    "authorId": "2151473035",
+                    "name": "Vatsala Tripathi"
+                },
+                {
+                    "authorId": "2140939593",
+                    "name": "Vinod Kumar"
+                }
+            ],
+            "abstract": "Twice-a-year, large-scale movement of billions of birds across latitudinal gradients is one of the most fascinating behavioral phenomena seen among animals. These seasonal voyages in autumn southwards and in spring northwards occur within a discrete time window and, as part of an overall annual itinerary, involve close interaction of the endogenous rhythm at several levels with prevailing photoperiod and temperature. The overall success of seasonal migrations thus depends on their close coupling with the other annual sub-cycles, namely those of the breeding, post-breeding recovery, molt and non-migratory periods. There are striking alterations in the daily behavior and physiology with the onset and end of the migratory period, as shown by the phase inversions in behavioral (a diurnal passerine bird becomes nocturnal and flies at night) and neural activities. Interestingly, there are also differences in the behavior, physiology and regulatory strategies between autumn and spring (vernal) migrations. Concurrent molecular changes occur in regulatory (brain) and metabolic (liver, flight muscle) tissues, as shown in the expression of genes particularly associated with 24 h timekeeping, fat accumulation and the overall metabolism. Here, we present insights into the genetic basis of migratory behavior based on studies using both candidate and global gene expression approaches in passerine migrants, with special reference to Palearctic-Indian migratory blackheaded and redheaded buntings."
+        },
+        {
+            "paperId": "763c4d9777817d4ee49724604ae0c08a20221550",
+            "title": "Conservation‐focused mapping of avian migratory routes using a pan‐European automated telemetry network",
+            "year": 2025,
+            "openAccessPdf": {
+                "url": "",
+                "status": null,
+                "license": "CCBY",
+                "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC12309642, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "2203430201",
+                    "name": "Lucy Mitchell"
+                },
+                {
+                    "authorId": "5497951",
+                    "name": "Vera Brust"
+                },
+                {
+                    "authorId": "1717451282",
+                    "name": "Thiemo Karwinkel"
+                },
+                {
+                    "authorId": "2250729849",
+                    "name": "Susanne Åkesson"
+                },
+                {
+                    "authorId": "2312052726",
+                    "name": "Dmitry Kishkinev"
+                },
+                {
+                    "authorId": "6926672",
+                    "name": "G. Norevik"
+                },
+                {
+                    "authorId": "2331826588",
+                    "name": "Tibor Szép"
+                },
+                {
+                    "authorId": "2277617338",
+                    "name": "Anders Hedenström"
+                },
+                {
+                    "authorId": "2096546737",
+                    "name": "S. Lagerveld"
+                },
+                {
+                    "authorId": "2282258115",
+                    "name": "Barbara Helm"
+                },
+                {
+                    "authorId": "1752256",
+                    "name": "Heiko Schmaljohann"
+                }
+            ],
+            "abstract": "Accelerated biodiversity loss has destabilized functional links within and between ecosystems. Species that cross different ecosystems during migration between breeding and nonbreeding sites are particularly sensitive to global change because they are exposed to various, often ecosystem‐specific, threats. Because these threats have lethal and nonlethal effects on populations, many migratory species are declining, making this group especially vulnerable to global change. To mitigate their decline, research at a continental and flyway scale is required to adequately monitor changes in the migratory and demographic processes of populations during all parts of the annual cycle. The Motus Wildlife Tracking System (Motus) could provide a solution to data gaps that exist for small, migratory species. Motus is an automated telemetry system for animal tracking that uses a single very‐high‐frequency radio signal to track tagged individuals. Motus can provide information on movements made by individuals of small migrant species, thereby aiding the understanding of aspects of their migration that could affect demographic parameters. Conservation‐focused research opportunities related to Motus include identification of critical stopover sites that support and connect multiple species and insight into migratory decisions in small migrant birds related to environmental stressors, such as artificial light at night. Examples of stopover studies from the existing network that demonstrate its utility include identification of a high‐conservation‐value stopover area for the blackpoll warbler (Setophaga striata) in the eastern United States. Geographical gaps in the network across the Mediterranean region and across eastern Europe need to be filled to track continent‐wide movements. Motus can provide individual‐level migration information for a variety of small‐bodied taxa, and a drive to expand the network will improve its ability to direct conservation plans for such species."
+        },
+        {
+            "paperId": "b5caa7f101f2ac493e18ff897627d627c33cb576",
+            "title": "movetrack: An R package to model flight paths from radio‐telemetry networks",
+            "year": 2026,
+            "openAccessPdf": {
+                "url": "",
+                "status": null,
+                "license": null,
+                "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1111/2041-210x.70273?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1111/2041-210x.70273, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "20517258",
+                    "name": "Georg Rüppel"
+                },
+                {
+                    "authorId": "1717451282",
+                    "name": "Thiemo Karwinkel"
+                },
+                {
+                    "authorId": "5497951",
+                    "name": "Vera Brust"
+                },
+                {
+                    "authorId": "1752256",
+                    "name": "Heiko Schmaljohann"
+                }
+            ],
+            "abstract": "Tracking small‐ to large‐scale movements of animals is important for studying their interactions with the environment, including how they adjust and adapt their migration in response to environmental and human‐induced changes. Despite the technical progress in tracking devices, a major challenge remains for small animals—such as songbirds, bats and insects—because GPS transmitters are still too heavy to be carried by these lightweight species. Automated radio‐telemetry offers a lightweight, scalable alternative. However, unlike GPS, radio‐telemetry does not yield precise location data—only information about receiving antennas and the strength of detected signals. Existing localisation methods either rely solely on receiver locations, offer only small‐scale, site‐specific estimates or were less user‐friendly though already integrating antenna geometry, signal strength and spatiotemporal uncertainty, limiting their ability either to reconstruct full flight paths or to be easily applied by practitioners. We fill this gap by presenting movetrack, an R package that reconstructs animal trajectories from automated radio‐telemetry data—such as that collected by the Motus Wildlife Tracking System—using a hidden Markov model (HMM) framework. Our approach combines coarse geometric position estimates—based on antenna bearing and signal strength—with an HMM that accounts for measurement error, temporal gaps, and movement dynamics. The model distinguishes behavioural states such as migratory flight, local movement and stopovers by analysing directional persistence and speed of the animal. We validate movetrack using controlled low‐altitude aircraft flights, simultaneously recorded with GPS and radiotelemetry, to simulate migratory flights of aerial species. Our results convincingly demonstrate that movetrack produces biologically realistic flight path estimates with quantifiable uncertainty, enhancing localisation in telemetry‐based movement research. movetrack provides a straightforward and practical approach, without requiring enhanced mathematical knowledge, to precisely reconstruct flight movements in a high spatiotemporal resolution. The R package enables researchers and conservationists to better study the response of aerial animals to environmental change and, ultimately, to formulate more effective conservation measures, for instance in relation to potential conflicts with anthropogenic stressors, such as artificial light at night, pesticides and human‐made structures."
+        }
+    ],
+    "Restored darkness avian microbial homeostasis": [
+        {
+            "paperId": "5310e92fda0c4b1ef575b06481128564325fd1ba",
+            "title": "Homeostatic crosstalk among gut microbiome, hypothalamic and hepatic circadian clock oscillations, immunity and metabolism in response to different light–dark cycles: A multiomics study",
+            "year": 2023,
+            "openAccessPdf": {
+                "url": "",
+                "status": "CLOSED",
+                "license": null,
+                "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1111/jpi.12892?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1111/jpi.12892, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "1398010650",
+                    "name": "Yongkang Zhen"
+                },
+                {
+                    "authorId": "2115568576",
+                    "name": "Yifan Wang"
+                },
+                {
+                    "authorId": "2065069693",
+                    "name": "Feiyang He"
+                },
+                {
+                    "authorId": "2109142706",
+                    "name": "Yifei Chen"
+                },
+                {
+                    "authorId": "49164319",
+                    "name": "Liangyu Hu"
+                },
+                {
+                    "authorId": "2147328379",
+                    "name": "Ling Ge"
+                },
+                {
+                    "authorId": "2143416495",
+                    "name": "Yusu Wang"
+                },
+                {
+                    "authorId": "2149193149",
+                    "name": "Wenjun Wei"
+                },
+                {
+                    "authorId": "2058811896",
+                    "name": "A. Rahmat"
+                },
+                {
+                    "authorId": "4049977",
+                    "name": "J. Loor"
+                },
+                {
+                    "authorId": "2274742520",
+                    "name": "Mengzhi Wang"
+                }
+            ],
+            "abstract": "The accelerated pace of life at present time has resulted in tremendous alterations in living patterns. Changes in diet and eating patterns, in particular, coupled with irregular light–dark (LD) cycles will further induce circadian misalignment and lead to disease. Emerging data has highlighted the regulatory effects of diet and eating patterns on the host‐microbe interactions with the circadian clock (CC), immunity, and metabolism. Herein, we studied how LD cycles regulate the homeostatic crosstalk among the gut microbiome (GM), hypothalamic and hepatic CC oscillations, and immunity and metabolism using multiomics approaches. Our data demonstrated that central CC oscillations lost rhythmicity under irregular LD cycles, but LD cycles had minimal effects on diurnal expression of peripheral CC genes in the liver including Bmal1. We further demonstrated that the GM could regulate hepatic circadian rhythms under irregular LD cycles, the candidate bacteria including Limosilactobacillus, Actinomyces, Veillonella, Prevotella, Campylobacter, Faecalibacterium, Kingella, and Clostridia vadinBB60 et al. A comparative transcriptomic study of innate immune genes indicated that different LD cycles had varying effects on immune functions, while irregular LD cycles had greater impacts on hepatic innate immune functions than those in the hypothalamus. Extreme LD cycle alterations (LD0/24 and LD24/0) had worse impacts than slight alterations (LD8/16 and LD16/8), and led to gut dysbiosis in mice receiving antibiotics. Metabolome data also demonstrated that hepatic tryptophan metabolism mediated the homeostatic crosstalk among GM‐liver–brain axis in response to different LD cycles. These research findings highlighted that GM could regulate immune and metabolic disorders induced by circadian dysregulation. Further, the data provided potential targets for developing probiotics for individuals with circadian disruption such as shift workers."
+        },
+        {
+            "paperId": "73d535b28b34da85a3aea166d2894e61c80e8785",
+            "title": "The modulatory role of short-chain fatty acids on peripheral circadian gene expression: a systematic review",
+            "year": 2025,
+            "openAccessPdf": {
+                "url": "",
+                "status": null,
+                "license": "CCBY",
+                "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC12301408, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "2061493289",
+                    "name": "Adriano dos Santos"
+                },
+                {
+                    "authorId": "2373374145",
+                    "name": "Andrii Vasylyshyn"
+                }
+            ],
+            "abstract": "Circadian rhythm disruption significantly impacts health and causes a wide range of metabolic, cardiovascular, and psychiatric disorders. Changes in peripheral circadian clock expression are associated with the gut microbiome, particularly via the activity of short-chain fatty acids (SCFAs). The objective of this review is to explore the association between SCFA levels and peripheral circadian gene expression. This review was performed according to PRISMA guidelines. In total, eight studies were included after the PubMed database search and screening process based on inclusion and exclusion criteria. Risk of bias assessment was conducted using the SYRCLE and RoB 2 tools for animal and human studies, respectively. The results showed that propionate, acetate, and butyrate levels correlated with the expression of PER1, PER2, BMAL1, CRY1, and CRY2 in peripheral tissues, including the submandibular gland, liver, kidney, and blood serum. These findings suggest that SCFA supplementation may offer therapeutic potential for individuals with circadian misalignment, such as shift workers or patients with metabolic disorders. Although there was methodological variability among the included studies, it did not significantly compromise the overall quality of the review. The limited availability of human studies (n = 1) represents a significant constraint. Nevertheless, the findings support that SCFA supplementation may serve as a potential strategy for peripheral clock modulation. However, further human trials are needed to validate these findings in clinical settings. Systematic Review Registration: https://osf.io/6kd5q."
+        },
+        {
+            "paperId": "dfc5de326f18ad4e8fa586da7c4d92478b4889ca",
+            "title": "Bidirectional interactions between circadian rhythms and the gut microbiome",
+            "year": 2025,
+            "openAccessPdf": {
+                "url": "",
+                "status": null,
+                "license": "CCBYNCND",
+                "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC12513875, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "2051602193",
+                    "name": "Jhommara Bautista"
+                },
+                {
+                    "authorId": "2364301162",
+                    "name": "Sofía Ojeda-Mosquera"
+                },
+                {
+                    "authorId": "2298316272",
+                    "name": "Adriana Altamirano-Colina"
+                },
+                {
+                    "authorId": "2372046340",
+                    "name": "Camila Hidalgo-Tinoco"
+                },
+                {
+                    "authorId": "2385145633",
+                    "name": "Miranda Di Capua Delgado"
+                },
+                {
+                    "authorId": "2364291858",
+                    "name": "Andrés López-Cortés"
+                }
+            ],
+            "abstract": "Circadian rhythms are endogenous, near-24-h cycles that synchronize physiological and behavioral functions with environmental cues such as light/dark cycles and food intake. While the central pacemaker in the suprachiasmatic nucleus orchestrates these rhythms, peripheral clocks distributed across organs, including the gastrointestinal tract, exhibit autonomous oscillations that are crucial for local homeostasis. Concurrently, the gut microbiota undergoes diurnal fluctuations in composition and metabolic activity that are tightly coupled to host circadian mechanisms. Recent discoveries reveal a bidirectional relationship: host clocks influence microbial dynamics through feeding behavior, immune signaling, and epithelial renewal, whereas microbial metabolites such as short-chain fatty acids (SCFAs) and bile acids modulate circadian gene expression in peripheral tissues. Disruptions in circadian alignment, whether due to genetic mutations, lifestyle factors like shift work and irregular eating, or environmental perturbations, lead to microbial dysbiosis, metabolic dysfunction, inflammation, and heightened disease susceptibility. Conversely, altered microbiota rhythms can feed back into host systems, impairing metabolic control, immune responses, and neuroendocrine signaling. This reciprocal regulation extends to disease contexts, where circadian-microbiota misalignment contributes to obesity, type 2 diabetes, inflammatory bowel disease, and even neuropsychiatric disorders. This review synthesizes current insights into the molecular and physiological cross-talk between host circadian clocks and the gut microbiota. We discuss how temporal dynamics at the cellular, systemic, and microbial levels are integrated and how their disruption underlies pathogenesis. We further explore the potential of chronobiotics and chrononutrition, including time-restricted feeding (TRF) and bioactive dietary compounds, as emerging strategies to restore circadian-microbial synchrony and improve metabolic health. Understanding this intricate dialogue between host and microbiome may pave the way for personalized, time-based interventions to enhance healthspan and prevent disease occurrence or progression. • Circadian rhythms and microbiota form a bidirectional regulatory feedback loop. • Disruption of circadian-microbial synchrony drives metabolic and inflammatory disease. • Chrononutrition offers novel strategies to restore health via circadian–microbiota alignment."
+        },
+        {
+            "paperId": "b72a384f1b230f6ed18041f595028774a517fc15",
+            "title": "The Indole Scaffold in Biochemistry and Therapeutics: A Privileged Structure with Diverse Chemical, Biological, and Clinical Significance",
+            "year": 2026,
+            "openAccessPdf": {
+                "url": "",
+                "status": null,
+                "license": null,
+                "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3390/targets4010004?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3390/targets4010004, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "1916915",
+                    "name": "C. Drăgoi"
+                },
+                {
+                    "authorId": "6159682",
+                    "name": "A. Nicolae"
+                },
+                {
+                    "authorId": "87461081",
+                    "name": "I. Dumitrescu"
+                }
+            ],
+            "abstract": "The indole scaffold represents a privileged structural motif in medicinal chemistry, celebrated for its remarkable chemical versatility, biological ubiquity, and clinical relevance. This review provides a comprehensive analysis of the recent research on the indole nucleus, emphasizing its physicochemical properties, reactivity patterns, and capacity to interact with a wide array of biological targets. Found in key endogenous compounds such as serotonin and melatonin, indole serves as a cornerstone in neurochemical signaling, circadian regulation, and chrono-metabolic homeostasis. Beyond its physiological roles, synthetic indole derivatives have shown extensive therapeutic potential across diverse domains, including oncology, infectious diseases, neurodegenerative disorders, immunomodulation, and metabolic syndromes. The review explores structure–activity relationships (SAR), pharmacokinetics, and the molecular mechanisms by which indole-based compounds exert their tremendous effects, that are ranging from enzyme inhibition to receptor modulation. Special focus is given to current clinical applications and emerging strategies for enhancing drug specificity, bioavailability, and safety through indolic frameworks. Additionally, we highlight the translational potential of indole-containing molecules in personalized medicine, underscoring opportunities for future drug discovery. By integrating insights from medicinal chemistry, biochemistry, pharmacology, and clinical science, this review affirms the indole ring’s enduring value as a central scaffold in therapeutic innovation."
+        },
+        {
+            "paperId": "f70b5dd7fdfd85760e3138e1da0bf316cc3ff5db",
+            "title": "Solvent-mediated organocatalytic browning of biogenic indoles enables the formation of zwitterionic nanoparticles",
+            "year": 2026,
+            "openAccessPdf": {
+                "url": "",
+                "status": null,
+                "license": "CCBYNC",
+                "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC12970300, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "4418409",
+                    "name": "T. Hu"
+                },
+                {
+                    "authorId": "2423165441",
+                    "name": "Hsin-Hui Lin"
+                },
+                {
+                    "authorId": "1988541193",
+                    "name": "Chun-Yi Huang"
+                },
+                {
+                    "authorId": "144324207",
+                    "name": "Mei-Hsiang Lin"
+                },
+                {
+                    "authorId": "33957220",
+                    "name": "Shih-Jiuan Chiu"
+                }
+            ],
+            "abstract": "Solvent-mediated browning has recently emerged as a distinctive mode of chemical transformation in solution-phase chemistry. In this study, we extend this concept to biogenic indoles and show that an organocatalytic browning process can be achieved in a mixed DMSO/acetone system under mild, catalyst-free conditions. Tryptamine, a decarboxylated metabolite of l-tryptophan, underwent spontaneous browning despite lacking the zwitterionic framework characteristic of amino acids. Notably, the presence of indole-3-acetic acid (I3AA) markedly intensified the reaction and accelerated mesityl oxide formation, indicating a cooperative catalytic effect on acetone self-condensation. Upon transfer of the browned reaction mixtures into water, the hydrophobic products became supersaturated and spontaneously assembled into uniform nanoparticles via liquid–liquid nanoprecipitation. The resulting browned indole-derived nanoparticles exhibited spherical morphology, pH-responsive surface charge reversal near pH 9, and stable electrostatic association with the model polynucleotide G3139. Overall, this work illustrates how intermolecular interactions and reaction chemistry in organic solvents can be coupled with solvent exchange to drive the bottom-up formation of zwitterionic soft-matter nanostructures, providing a simple and versatile route to biogenic colloidal systems."
+        }
+    ]
+}

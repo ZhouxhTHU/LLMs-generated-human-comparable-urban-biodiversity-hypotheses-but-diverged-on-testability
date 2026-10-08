@@ -1,0 +1,1326 @@
+{
+    "ruderal vegetation insectivorous bird foraging": [
+        {
+            "paperId": "939c64c1a7edb4526e5eeefe4f4c867d22d1061a",
+            "title": "Nonnative plants reduce population growth of an insectivorous bird",
+            "year": 2018,
+            "openAccessPdf": {
+                "url": "https://www.pnas.org/content/pnas/115/45/11549.full.pdf",
+                "status": "BRONZE",
+                "license": null,
+                "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1073/pnas.1809259115?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1073/pnas.1809259115, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "23604358",
+                    "name": "D. Narango"
+                },
+                {
+                    "authorId": "6401648",
+                    "name": "D. Tallamy"
+                },
+                {
+                    "authorId": "2073814",
+                    "name": "P. Marra"
+                }
+            ],
+            "abstract": "Significance Nonnative plants lack an evolutionary history with native fauna and support insect communities that are less abundant and diverse, and this may change food availability for vertebrate consumers. Most insectivorous birds are absent or declining in urban areas, yet no study has tested whether nonnative plants impact bird populations via food limitation. We monitored reproduction and survival of Carolina chickadees within residential yards and found that when nonnative plants increased, both insect availability and chickadee population growth declined. We also found that populations could only be sustained if nonnative plants constituted <30% of plant biomass. Our results demonstrate that nonnative plants reduce habitat quality for insectivorous birds and restoration of human-dominated areas should prioritize native plants to support local food webs. Human-dominated landscapes represent one of the most rapidly expanding and least-understood ecosystems on earth. Yet, we know little about which features in these landscapes promote sustainable wildlife populations. Historically, in urban areas, landowners have converted native plant communities into habitats dominated by nonnative species that are not susceptible to pest damage and require little maintenance. However, nonnative plants are also poor at supporting insects that are critical food resources for higher order consumers. Despite the logical connection, no study has examined the impact of nonnative plants on subsequent population responses of vertebrate consumers. Here, we demonstrate that residential yards dominated by nonnative plants have lower arthropod abundance, forcing resident Carolina chickadees (Poecile carolinensis) to switch diets to less preferred prey and produce fewer young, or forgo reproduction in nonnative sites altogether. This leads to lower reproductive success and unsustainable population growth in these yards compared with those with >70% native plant biomass. Our results reveal that properties landscaped with nonnative plants function as population sinks for insectivorous birds. To promote sustainable food webs, urban planners and private landowners should prioritize native plant species."
+        },
+        {
+            "paperId": "a083e8dc92d6b2addfe3fa164d37e13cff32f17d",
+            "title": "Great tits feed their nestlings with more but smaller prey items and fewer caterpillars in cities than in forests",
+            "year": 2021,
+            "openAccessPdf": {
+                "url": "https://www.nature.com/articles/s41598-021-03504-4.pdf",
+                "status": "GOLD",
+                "license": "CCBY",
+                "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC8683465, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "40948732",
+                    "name": "C. Sinkovics"
+                },
+                {
+                    "authorId": "5578491",
+                    "name": "G. Seress"
+                },
+                {
+                    "authorId": "5594053",
+                    "name": "I. Pipoly"
+                },
+                {
+                    "authorId": "39050341",
+                    "name": "E. Vincze"
+                },
+                {
+                    "authorId": "5676596",
+                    "name": "A. Liker"
+                }
+            ],
+            "abstract": "Rapidly increasing urbanisation is one of the most significant anthropogenic environmental changes which can affect demographic traits of animal populations, for example resulting in reduced reproductive success. The food limitation hypothesis suggests that the shortage of high-quality nestling food in cities is a major factor responsible for the reduced reproductive performance in insectivorous birds. To study this explanation, we collected data on the parental provisioning behaviour of urban and forest great tits (Parus major) in three years that varied both in caterpillar availability (the main food of great tit nestlings) and in reproductive success of the birds. In all years, urban parents provisioned caterpillars in a smaller proportion to their nestlings, but the total amount of food per nestling (estimated by the volumes of all prey items) did not differ between habitats. In the two years with much lower reproductive success in urban than forest habitats, urban parents had higher provisioning rates, but provided more non-arthropod food and brought smaller prey items than forest parents. In the year with reduced habitat difference in reproductive success, urban parents were able to compensate for the scarcity of caterpillars by provisioning other arthropods rather than non-arthropod food, and by delivering larger preys than in the other years. Specifically, in this latter year, caterpillars provisioned by urban pairs were cc. twice as large as in the other two years, and were similar in size to caterpillars provisioned in the forest broods. These results show that although urban great tit parents can provide the same quantity of food per nestling as forest parents by reducing their brood size and increasing the per capita feeding rates for nestlings, they cannot compensate fully for the scarcity of high-quality preys (caterpillars) in poor years. In some years, however, favourable conditions for urban caterpillar development can greatly reduce food limitation in cities, allowing urban birds to achieve higher reproductive success. We suggest that urban green areas designed and managed in a way to facilitate conditions for phytophagous arthropods could improve habitat quality for urban birds."
+        },
+        {
+            "paperId": "91bc21742d9d81c0a89cce243c45a30ac17ba34e",
+            "title": "Radio‐tracking urban breeding birds: The importance of native vegetation",
+            "year": 2025,
+            "openAccessPdf": {
+                "url": "https://doi.org/10.1002/eap.3095",
+                "status": "HYBRID",
+                "license": "CCBYNCND",
+                "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC11754724, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "5578491",
+                    "name": "G. Seress"
+                },
+                {
+                    "authorId": "88783241",
+                    "name": "Krisztina Sándor"
+                },
+                {
+                    "authorId": "5062311",
+                    "name": "V. Bókony"
+                },
+                {
+                    "authorId": "2114541443",
+                    "name": "Boglárka Bukor"
+                },
+                {
+                    "authorId": "7264292",
+                    "name": "K. Hubai"
+                },
+                {
+                    "authorId": "5676596",
+                    "name": "A. Liker"
+                }
+            ],
+            "abstract": "Abstract As urban areas continue to expand globally, a deeper understanding of the functioning of urban green spaces is crucial for maintaining habitats that effectively support wildlife within our cities. Cities typically harbor a wide variety of nonnative vegetation, providing limited support for insect populations. The resulting scarcity of arthropods has been increasingly linked to adverse effects at higher trophic levels, such as the reduced reproductive success of insectivorous birds in urban environments. However, the responses by which urban breeding birds cope with the challenges of food limitation remain largely unexplored. To address this knowledge gap, in a Central European city, we employed radiotelemetry tracking and real‐time observations on urban‐breeding female great tits' habitat use, combined with detailed plant surveys and video recordings of nestlings' diet. This integrated approach enabled us to establish direct links between great tits' foraging behavior, vegetation preferences, and nestling diet. We found that besides tree canopies, great tits also frequently foraged on the ground and that the availability of bird feeders notably affected birds' habitat use. Foraging great tits generally avoided nonnative plants, particularly broadleaved species. When searching for nestling food, great tits were most time‐efficient on conifers, albeit these trees provided low amounts of caterpillars (a preferred prey type). Great tits were more likely to forage on and deliver nestling food from large native trees and foraged less on and collected fewer prey items from the most abundant tree species. Our results underscore the importance of several factors that may help improve habitat quality for urban insectivorous birds, with preserving large trees and increasing diverse native vegetation being key elements in this endeavor."
+        },
+        {
+            "paperId": "14a59b69ac0e7c08c9bba73f577c7dd83163b125",
+            "title": "The New Zealand Biodiversity Factor—Residential (NZBF-R): A Tool to Rapidly Score the Relative Biodiversity Value of Urban Residential Developments",
+            "year": 2025,
+            "openAccessPdf": {
+                "url": "https://doi.org/10.3390/land14030526",
+                "status": "GOLD",
+                "license": "CCBY",
+                "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3390/land14030526?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3390/land14030526, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "2348437930",
+                    "name": "Jacqueline Theis"
+                },
+                {
+                    "authorId": "2289883161",
+                    "name": "Chris Woolley"
+                },
+                {
+                    "authorId": "2270062348",
+                    "name": "Philip J. Seddon"
+                },
+                {
+                    "authorId": "2289883573",
+                    "name": "Danielle Shanahan"
+                },
+                {
+                    "authorId": "2238277337",
+                    "name": "Claire Freeman"
+                },
+                {
+                    "authorId": "147564495",
+                    "name": "M. Pedersen Zari"
+                },
+                {
+                    "authorId": "7903103",
+                    "name": "Yolanda van Heezik"
+                }
+            ],
+            "abstract": "The loss of biodiversity in urban residential areas that are densifying in response to increasing housing demand has serious implications for urban ecosystem functioning and human wellbeing. There is an urgent need for integrating biodiversity-sensitive design into urban planning and development. While several existing “Green Factor” tools guide greening strategies in cities, none have biodiversity as their primary focus. We describe here a tool that specifically evaluates biodiversity in residential developments, with a particular emphasis on supporting native biodiversity. The NZBF-R (New Zealand Biodiversity Factor—Residential) also educates users through embedded explanations on how various design features positively impact biodiversity and it provides tailored recommendations for effective biodiversity enhancement, enabling urban professionals to make informed landscape design decisions. Developed through literature review, analyses of existing Green Factor tools, and a robust weighting process, the NZBF-R identifies and ranks characteristics that support urban biodiversity, based on evidence from the scientific literature. We demonstrate the application of the NZBF-R on one case study. The NZBF-R can be applied across the planning, design, and retrofitting stages of urban residential projects, making it a valuable resource for urban planners and designers."
+        },
+        {
+            "paperId": "edbc940da4eccd2305f3be2ca6ab47aec8303fe5",
+            "title": "Desirable Small-Scale Solar Power Production in a Global Context: Local Tradition-Inspired Solutions to Global Issues",
+            "year": 2025,
+            "openAccessPdf": {
+                "url": "",
+                "status": null,
+                "license": null,
+                "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3390/solar5040047?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3390/solar5040047, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "2102556697",
+                    "name": "Nina-Cristina Diţoiu"
+                },
+                {
+                    "authorId": "2373529891",
+                    "name": "Altan Abdulamit"
+                },
+                {
+                    "authorId": "2173039887",
+                    "name": "Radu Tarau"
+                },
+                {
+                    "authorId": "2386724592",
+                    "name": "Dan Sebastian Săcui"
+                }
+            ],
+            "abstract": "The polder in this case study addresses several environmental issues, risk management concerns related to localities served by existing non-permanent dams, energy requirements that can meet a locality’s needs during the renewable energy transition, and their impacts on both rural and urban built environments. Cultural landscape preservation or solar regeneration on agricultural plots in Romania’s rural wetland areas focuses on traditionally inspired design, emphasising the technical versus humanistic approach as an optimal path through some inspiring “Dyads”. Briefly, the dyads are related to Bennett’s systematic approach to ensure the knowledge necessary for achieving understanding without experiencing it. With a two-way spiral, the defined methodology applies energy as solar photovoltaic technology to water-related natural aspects in the built environment without reducing or harming the relevant water management related to nature or built cultural heritage. The Solar Regeneration Monad “Nature -Energy- Built” is a holistic visual framework, replicable in any built environment for a “Built” regenerative culture, that enables the best solution to be identified for the conservation of cultural heritage values in an “Energy” transition context with “Nature”, biodiversity, or other water-related issues."
+        }
+    ],
+    "vacant lot arthropod prey bird reproduction": [
+        {
+            "paperId": "0eb6f225f720413110ef387a76444d66e52c4ddf",
+            "title": "Long‐term declines of European insectivorous bird populations and potential causes",
+            "year": 2019,
+            "openAccessPdf": {
+                "url": "",
+                "status": "CLOSED",
+                "license": null,
+                "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1111/cobi.13307?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1111/cobi.13307, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "36716776",
+                    "name": "D. Bowler"
+                },
+                {
+                    "authorId": "8158086",
+                    "name": "H. Heldbjerg"
+                },
+                {
+                    "authorId": "145251503",
+                    "name": "A. D. Fox"
+                },
+                {
+                    "authorId": "6175965",
+                    "name": "Maaike A de Jong"
+                },
+                {
+                    "authorId": "1397357368",
+                    "name": "K. Böhning‐Gaese"
+                }
+            ],
+            "abstract": "Evidence of declines in insect populations has recently received considerable scientific and societal attention. However, the lack of long‐term insect monitoring makes it difficult to assess whether declines are geographically widespread. By contrast, bird populations are well monitored and often used as indicators of environmental change. We compared the population trends of European insectivorous birds with those of other birds to assess whether patterns in bird population trends were consistent with declines of insects. We further examined whether declines were evident for insectivores with different habitats, foraging strata, and other ecological preferences. Bird population trends were estimated for Europe (1990–2015) and Denmark (1990–2016). On average, insectivores declined over the study period (13% across Europe and 28% in Denmark), whereas omnivores had stable populations. Seedeaters also declined (28% across Europe; 34% in Denmark), but this assessment was based on fewer species than for other groups. The effects of insectivory were stronger for farmland species (especially grassland species), for ground feeders, and for cold‐adapted species. Insectivory was associated with long‐distance migration, which was also linked to population declines. However, many insectivores had stable populations, especially habitat generalists. Our findings suggest that the decline of insectivores is primarily associated with agricultural intensification and loss of grassland habitat. The loss of both seed and insect specialists indicates an overall trend toward bird communities dominated by diet generalists."
+        },
+        {
+            "paperId": "fe59fe362e73e11f930efac331265864844d69f1",
+            "title": "Consequences of arthropod community structure for an at-risk insectivorous bird",
+            "year": 2023,
+            "openAccessPdf": {
+                "url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0281081&type=printable",
+                "status": "GOLD",
+                "license": "CC0",
+                "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC9917275, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "2205192235",
+                    "name": "Cee S Nell"
+                },
+                {
+                    "authorId": "32530546",
+                    "name": "Riley Pratt"
+                },
+                {
+                    "authorId": "11652630",
+                    "name": "J. Burger"
+                },
+                {
+                    "authorId": "3566825",
+                    "name": "K. Preston"
+                },
+                {
+                    "authorId": "6337726",
+                    "name": "K. Treseder"
+                },
+                {
+                    "authorId": "2205347056",
+                    "name": "Dana Kamada"
+                },
+                {
+                    "authorId": "2205202103",
+                    "name": "Karly Moore"
+                },
+                {
+                    "authorId": "4652671",
+                    "name": "Kailen A. Mooney"
+                }
+            ],
+            "abstract": "Global declines in bird and arthropod abundance highlights the importance of understanding the role of food limitation and arthropod community composition for the performance of insectivorous birds. In this study, we link data on nestling diet, arthropod availability and nesting performance for the Coastal Cactus Wren (Campylorhynchus brunneicapillus sandiegensis), an at-risk insectivorous bird native to coastal southern California and Baja Mexico. We used DNA metabarcoding to characterize nestling diets and monitored 8 bird territories over two years to assess the relationship between arthropod and vegetation community composition and bird reproductive success. We document a discordance between consumed prey and arthropod biomass within nesting territories, in which Diptera and Lepidoptera were the most frequently consumed prey taxa but were relatively rare in the environment. In contrast other Orders (e.g., Hemiptera, Hymenoptera)were abundant in the environment but were absent from nestling diets. Accordingly, variation in bird reproductive success among territories was positively related to the relative abundance of Lepidoptera (but not Diptera), which were most abundant on 2 shrub species (Eriogonum fasciculatum, Sambucus nigra) of the 9 habitat elements characterized (8 dominant plant species and bare ground). Bird reproductive success was in turn negatively related to two invasive arthropods whose abundance was not associated with preferred bird prey, but instead possibly acted through harassment (Linepithema humile; Argentine ants) and parasite transmission or low nutritional quality (Armadillidium vulgare; \"pill-bug\"). These results demonstrate how multiple aspects of arthropod community structure can influence bird performance through complementary mechanisms, and the importance of managing for arthropods in bird conservation efforts."
+        },
+        {
+            "paperId": "2e8e9fdd704758381910560074c8ff6da1612f47",
+            "title": "Prey choice in insectivorous steppe passerines: New insights from DNA metabarcoding",
+            "year": 2023,
+            "openAccessPdf": {
+                "url": "https://doi.org/10.1016/j.gecco.2023.e02738",
+                "status": "GOLD",
+                "license": "CCBY",
+                "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.gecco.2023.e02738?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.gecco.2023.e02738, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "2100695890",
+                    "name": "J. Zurdo"
+                },
+                {
+                    "authorId": "118514861",
+                    "name": "M. Reverter"
+                },
+                {
+                    "authorId": "2004243770",
+                    "name": "A. Barrero"
+                },
+                {
+                    "authorId": "2124881747",
+                    "name": "D. Bustillo-de la Rosa"
+                },
+                {
+                    "authorId": "1412578253",
+                    "name": "J. Gómez‐Catasús"
+                },
+                {
+                    "authorId": "2370346363",
+                    "name": "C. Pérez‐Granados"
+                },
+                {
+                    "authorId": "2267722397",
+                    "name": "Manuel B Morales"
+                },
+                {
+                    "authorId": "33304823",
+                    "name": "J. Traba"
+                }
+            ],
+            "abstract": "Food availability plays a key role affecting almost every aspect of bird ecology, including bird population, distribution, reproduction, and behavior. Understanding the functional relationship between prey availability and insectivorous birds ’ diet is important in the current scenario of habitat loss and declining of insect and bird populations. We used a fecal metabarcoding approach coupled with prey availability sampling (arthropod abundance and biomass) to test for evidence of selective foraging in a shrub-steppe passerine assemblage over the 2017 – 2019 breeding seasons in semi-natural steppes of central Spain. The results showed that the six bird species selected specific arthropod taxa. Heteroptera, Orthoptera, Araneae, Lepidoptera and some Coleoptera families were the main selected prey taxa, while Formicidae appeared to be avoided, suggesting that shrub-steppe passerines tend to select prey items providing essential nutrients and energy during the breeding season, while poor quality ones are neglected. Our findings highlight the utility of metabarcoding dietary data to assess prey selection patterns in insectivorous pas-serines and provide valuable information for the development of conservation and management programs to ensure the long-term availability of crucial food resources for shrub-steppe birds and other insectivores."
+        },
+        {
+            "paperId": "69417a73ff33d26b9f47134163b0c9938db5a6cb",
+            "title": "Spatio-temporal variation of the endangered Dupont’s Lark diet across Iberia and Morocco",
+            "year": 2024,
+            "openAccessPdf": {
+                "url": "https://doi.org/10.1371/journal.pone.0301318",
+                "status": "GOLD",
+                "license": "CCBY",
+                "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC11633968, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "2100695890",
+                    "name": "J. Zurdo"
+                },
+                {
+                    "authorId": "2124881747",
+                    "name": "D. Bustillo-de la Rosa"
+                },
+                {
+                    "authorId": "2004243770",
+                    "name": "A. Barrero"
+                },
+                {
+                    "authorId": "1412578253",
+                    "name": "J. Gómez‐Catasús"
+                },
+                {
+                    "authorId": "118514861",
+                    "name": "M. Reverter"
+                },
+                {
+                    "authorId": "2370346363",
+                    "name": "C. Pérez‐Granados"
+                },
+                {
+                    "authorId": "2292895016",
+                    "name": "Jesús T García"
+                },
+                {
+                    "authorId": "2248698153",
+                    "name": "Javier Viñuela"
+                },
+                {
+                    "authorId": "2292758928",
+                    "name": "Julio C. Dominguez"
+                },
+                {
+                    "authorId": "2267722397",
+                    "name": "Manuel B Morales"
+                },
+                {
+                    "authorId": "33304823",
+                    "name": "J. Traba"
+                }
+            ],
+            "abstract": "A species’ diet is highly dependent on the availability of food resources in space and time, as well as on intrinsic factors such as sex or age. Accurate assessments of variations in the diet composition of bird populations across spatial scales, seasons and demographic groups are essential not only for understanding the basic ecology of species, but also for the conservation of endangered ones. However, our current knowledge about how birds’ diet change according to spatio-temporal variations or intrinsic factors is very limited. Here, we used a multi-marker metabarcoding approach to characterize the diet of a declining shrub-steppe passerine, the Dupont’s Lark (Chersophilus duponti), throughout a large part of its global distribution range. We also investigated spatial, phenological and sexual variations in its diet. Using markers from two genomic regions (18S and COI), we analyzed fecal samples from 303 adult Dupont’s larks from Morocco and Spain during the breeding and non-breeding seasons. Overall, arthropods from the orders Coleoptera, Lepidoptera, Julida and Orthoptera were the main prey consumed by Dupont’s Larks. We found that Dupont’s Lark diet varied spatially, as well as temporally, reflecting dietary plasticity in response to changes in prey availability across landscapes and the species’ phenological periods. High dietary overlap and no differences between sexes were observed, suggesting similar foraging behavior and nutritional requirements in both sexes. This is the first study providing detailed information on Dupont’s Lark food ecology over much of its distribution, which is fundamental for the management and conservation of this declining steppe species."
+        },
+        {
+            "paperId": "472fa8fc642ac2c73ae43b58f08bb103615ae3be",
+            "title": "Adverse winter conditions reduce adult survival of the Endangered Dupont’s Lark Chersophilus duponti",
+            "year": 2026,
+            "openAccessPdf": {
+                "url": "",
+                "status": null,
+                "license": null,
+                "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1017/S0959270925100233?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1017/S0959270925100233, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "1405595003",
+                    "name": "C. Pérez‐Granados"
+                },
+                {
+                    "authorId": "1412037397",
+                    "name": "A. Payo‐Payo"
+                },
+                {
+                    "authorId": "1404361575",
+                    "name": "P. Sáez‐Gómez"
+                },
+                {
+                    "authorId": "1405595035",
+                    "name": "G. López-Iborra"
+                }
+            ],
+            "abstract": "Summary Survival is a key life history trait influenced by climate variability and resource availability in many bird species. Understanding the factors affecting survival in threatened species is critical for effective conservation management. However, we lack knowledge regarding survival rates and their annual variations for most threatened species. In this study, we use mark-recapture data collected in eastern Spain between 2011 and 2019 to estimate the annual adult survival of the Endangered Dupont’s Lark Chersophilus duponti, a steppe specialist passerine. We also aim to assess whether survival rates are linked to plant productivity, as a surrogate of resources available, and climate variability during the post-breeding (autumn) and winter periods. A total of 113 adults (89 males and 24 females) were ringed, which yielded 43 recaptures. The average adult survival rate over the nine-year period was slightly higher than previous estimates for Dupont’s Lark and other related species. Nonetheless, we observed substantial annual fluctuations in survival (ranging from 0.34 to 0.80), largely driven by winter climate conditions. Survival rates decreased during winters with a higher number of frost days (below 0ºC) and increased accumulated rainfall. These findings provide new insights into the population dynamics of the species and suggest that factors other than adult annual survival may be contributing to its declining status. Among those factors, a critical area for further research is to study and characterise the dispersal patterns and survival of juvenile birds, which remain largely unknown for this species."
+        }
+    ],
+    "mowing intensity urban bird breeding success": [
+        {
+            "paperId": "06f3b5f35cfb014e8f75ff1066f61e90625f7344",
+            "title": "Integrated behavioural and stable isotope data reveal altered diet linked to low breeding success in urban-dwelling blue tits (Cyanistes caeruleus)",
+            "year": 2017,
+            "openAccessPdf": {
+                "url": "https://www.nature.com/articles/s41598-017-04575-y.pdf",
+                "status": "GOLD",
+                "license": "CCBY",
+                "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1038/s41598-017-04575-y?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1038/s41598-017-04575-y, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "47506181",
+                    "name": "C. Pollock"
+                },
+                {
+                    "authorId": "1389234226",
+                    "name": "P. Capilla-Lasheras"
+                },
+                {
+                    "authorId": "33895391",
+                    "name": "R. McGill"
+                },
+                {
+                    "authorId": "4469459",
+                    "name": "B. Helm"
+                },
+                {
+                    "authorId": "4255133",
+                    "name": "Davide M. Dominoni"
+                }
+            ],
+            "abstract": "Animals often show reduced reproductive success in urban compared to adjacent natural areas. The lower availability and quality of natural food in cities is suggested as one key limiting factor. However, only few studies have provided conclusive support by simultaneously assessing food availability, diet and fitness. We consolidate this evidence by taking a holistic approach, comparing blue tits breeding in forest, suburban and urban areas. We (a) assessed arthropod availability, (b) investigated parental provisioning behaviour, (c) inferred diet through stable isotope analysis, and (d) measured reproductive success. At the urban site, we found a significant reduction in caterpillar availability, the main food source of blue tits, and consequently urban tits fed their offspring with fewer caterpillars than forest and suburban birds. Stable isotope analysis confirmed that diet in the urban area was fundamentally different than in the other sites. Reproductive success was lower in both urban and suburban sites compared to the forest site, and was positively associated with volume of provisioned caterpillars. Our findings provide strong integrative evidence that urban blue tit nestlings are not receiving a suitable diet, and this may be an important limiting factor for urban populations of this and potentially many other species."
+        },
+        {
+            "paperId": "281b02d47a0ae67eaeca2d9f213f4b44200e2557",
+            "title": "Elevated Immune Gene Expression Is Associated with Poor Reproductive Success of Urban Blue Tits",
+            "year": 2017,
+            "openAccessPdf": {
+                "url": "https://www.frontiersin.org/articles/10.3389/fevo.2017.00064/pdf",
+                "status": "GOLD",
+                "license": "CCBY",
+                "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3389/fevo.2017.00064?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3389/fevo.2017.00064, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "1389234226",
+                    "name": "P. Capilla-Lasheras"
+                },
+                {
+                    "authorId": "4255133",
+                    "name": "Davide M. Dominoni"
+                },
+                {
+                    "authorId": "3868583",
+                    "name": "S. Babayan"
+                },
+                {
+                    "authorId": "1401221564",
+                    "name": "P. O’Shaughnessy"
+                },
+                {
+                    "authorId": "19590775",
+                    "name": "Magdalena Mladenova"
+                },
+                {
+                    "authorId": "4644898",
+                    "name": "Luke Woodford"
+                },
+                {
+                    "authorId": "4826878",
+                    "name": "C. Pollock"
+                },
+                {
+                    "authorId": "144877197",
+                    "name": "T. Barr"
+                },
+                {
+                    "authorId": "46605725",
+                    "name": "Francesco Baldini"
+                },
+                {
+                    "authorId": "4469459",
+                    "name": "B. Helm"
+                }
+            ],
+            "abstract": "Urban and forest habitats differ in many aspects that can lead to modifications of the immune system of wild animals. Altered parasite communities, pollution and artificial light at night in cities have been associated with exacerbated inflammatory responses, with possibly negative fitness consequences, but few data are available from free-living animals. Here, we investigate how urbanisation affects major immune pathways and experimentally test potentially contributing factors in blue tits (Cyanistes caeruleus) from an urban and forest site. We first compared breeding adults by quantifying the mRNA transcript levels of proteins associated with anti-bacterial, anti-malarial (TLR4, LY86) and anti-helminthic (Type 2 transcription factor GATA3) immune responses. Adult urban and forest blue tits differed in gene expression, with significantly increased TLR4 and GATA3, but not LY86, in the city. We then experimentally tested whether these differences were environmentally induced by cross-fostering eggs between the sites and measuring mRNA transcripts in nestlings. The populations differed in reduced reproductive success, with a lower fledging success and lower fledgling weight recorded at the urban site. This mirrors the findings of our twin study reporting that the urban site was severely resource limited when compared to the forest. Because of low urban survival, robust gene expression data were only obtained from nestlings reared in the forest. Transcript levels in these nestlings showed no (TLR4, LY86), or weak (GATA3), differences according to their origin from forest or city nests, suggesting little genetic or maternal contribution to nestling immune transcript levels. Lastly, to investigate differences in parasite pressure between urban and forest sites, we measured the prevalence of malaria in adult and nestling blood. Prevalence was invariably high across environments and not associated with the transcript levels of the studied immune genes. Our results support the hypothesis that inflammatory pathways are activated in an urban environment and suggest that these differences are most likely induced by environmental factors."
+        },
+        {
+            "paperId": "14f90673f73e7bbd5ca754253a9eaf4c9b52ed1e",
+            "title": "Integrated behavioural and stable isotope data reveal altered diet linked to low breeding success in urban-dwelling blue tits (Cyanistes caeruleus)",
+            "year": 2017,
+            "openAccessPdf": {
+                "url": "https://www.nature.com/articles/s41598-017-04575-y.pdf",
+                "status": "GOLD",
+                "license": "CCBY",
+                "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC5503996, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "4826878",
+                    "name": "C. Pollock"
+                },
+                {
+                    "authorId": "1389234226",
+                    "name": "P. Capilla-Lasheras"
+                },
+                {
+                    "authorId": "33895391",
+                    "name": "R. McGill"
+                },
+                {
+                    "authorId": "4469459",
+                    "name": "B. Helm"
+                },
+                {
+                    "authorId": "4255133",
+                    "name": "Davide M. Dominoni"
+                }
+            ],
+            "abstract": "Animals often show reduced reproductive success in urban compared to adjacent natural areas. The lower availability and quality of natural food in cities is suggested as one key limiting factor. However, only few studies have provided conclusive support by simultaneously assessing food availability, diet and fitness. We consolidate this evidence by taking a holistic approach, comparing blue tits breeding in forest, suburban and urban areas. We (a) assessed arthropod availability, (b) investigated parental provisioning behaviour, (c) inferred diet through stable isotope analysis, and (d) measured reproductive success. At the urban site, we found a significant reduction in caterpillar availability, the main food source of blue tits, and consequently urban tits fed their offspring with fewer caterpillars than forest and suburban birds. Stable isotope analysis confirmed that diet in the urban area was fundamentally different than in the other sites. Reproductive success was lower in both urban and suburban sites compared to the forest site, and was positively associated with volume of provisioned caterpillars. Our findings provide strong integrative evidence that urban blue tit nestlings are not receiving a suitable diet, and this may be an important limiting factor for urban populations of this and potentially many other species."
+        },
+        {
+            "paperId": "d1b8df39655b55d0b3c6914efbcf304ea999f9ad",
+            "title": "The importance of unsealed areas in the urban core and periphery for bird diversity in a large central european city",
+            "year": 2023,
+            "openAccessPdf": {
+                "url": "https://link.springer.com/content/pdf/10.1007/s11252-023-01361-9.pdf",
+                "status": "HYBRID",
+                "license": "CCBY",
+                "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s11252-023-01361-9?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s11252-023-01361-9, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "2214914983",
+                    "name": "Arne Hastedt"
+                },
+                {
+                    "authorId": "3942750",
+                    "name": "D. Tietze"
+                }
+            ],
+            "abstract": "Although urbanization poses one of the largest threats for biodiversity, only few studies have so far examined its impact in large Central European cities. Our study aimed at investigating the effects of urbanization on bird diversity using two methods to describe the urban environment. The first measure used the degree of sealing, portion of traffic infrastructure, number of floors of the tallest building at a site scale (100-m radius), and the distance from the city center, while the second one relied on land-cover data at a local scale (1000-m radius). We conducted bird surveys at 761 sites across Hamburg. Bird diversity was assessed as species richness, abundance, and Shannon index. Additionally, evenness was calculated. Both urbanization measures represented a rural-to-urban gradient and were negatively correlated with bird diversity as well as evenness. At the site scale, the degree of sealing had the strongest negative effect on bird diversity followed by the portion of traffic infrastructure and the tallest building. At the local scale, artificial surfaces proved to have the strongest negative effect, while agricultural areas and forests were positively associated with bird diversity. In general, models using the site scale for measuring urbanization showed higher associations with diversity. The results emphasize the importance of unsealed areas in the urban environment and of natural habitats in the periphery for bird diversity in Central European cities with millions of human inhabitants. Considering this for future city planning can help to preserve biodiversity in the urban environment, increase bird diversity in development areas, and thus improve living conditions for people."
+        },
+        {
+            "paperId": "0e2cba2d3d0bdfae27dce83f3439734f9fe3cb68",
+            "title": "Bird community responses to urbanization and vegetation parameters across the city of Salzburg, Austria",
+            "year": 2025,
+            "openAccessPdf": {
+                "url": "",
+                "status": null,
+                "license": "CCBY",
+                "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC12119745, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "4077211",
+                    "name": "Beate A. Apfelbeck"
+                },
+                {
+                    "authorId": "2363964604",
+                    "name": "Marina Navalpotro Buscail"
+                },
+                {
+                    "authorId": "75131933",
+                    "name": "A. Sommer"
+                },
+                {
+                    "authorId": "2363963974",
+                    "name": "Jana S. Petermann"
+                }
+            ],
+            "abstract": "Urbanization continues to be a major threat to biodiversity. The knowledge of local and site characteristics that influence species diversity within cities is of importance to design and manage urban spaces that promote biodiversity and ecosystem services. While the characteristics of urban green spaces for biodiversity have been studied in detail, the urban matrix has received less attention. We, therefore, studied the role of sampling site and local-scale parameters at different urbanization intensities on bird and tree communities during the breeding season across the city of Salzburg encompassing the heterogeneity of the urban landscape. We found more exotic than native tree species, however areas with many trees, were dominated by native tree species. Although building cover negatively related to bird species richness at all scales, bird species richness increased with the amount of grass cover, the number of trees and the number of native tree species at the smallest, i.e. sampling site, scale. Building cover and the number of trees in a sampling site also influenced bird community composition. At larger scales, land cover (i.e., building cover and green urban area) was more strongly related to bird community composition than sampling site characteristics. Relationships with community composition can partly be explained by species-specific responses as the occurrence of different species was associated with different sampling site characteristics. Our study shows the importance of unsealed soil, i.e. grass cover, and native trees on bird communities within cities, but different species may require different configurations of these habitat parameters. Furthermore, also within the urban matrix site characteristics can promote avian diversity even in areas with high building cover."
+        }
+    ],
+    "early successional urban bird nest predation": [
+        {
+            "paperId": "62fcec725c9ce2c516a5fdeb2cc71c6d5002c433",
+            "title": "Brain size as a driver of avian escape strategy",
+            "year": 2015,
+            "openAccessPdf": {
+                "url": "https://www.nature.com/articles/srep11913.pdf",
+                "status": "GOLD",
+                "license": "CCBY",
+                "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC4490409, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "6687723",
+                    "name": "Diogo S. M. Samia"
+                },
+                {
+                    "authorId": "1400937857",
+                    "name": "A. Pape Møller"
+                },
+                {
+                    "authorId": "2002364",
+                    "name": "D. Blumstein"
+                }
+            ],
+            "abstract": "After detecting an approaching predator, animals make a decision when to flee. Prey will initiate flight soon after detecting a predator so as to minimize attentional costs related to on-going monitoring of the whereabouts of the predator. Such costs may compete with foraging and other maintenance activities and hence be larger than the costs of immediate flight. The drivers of interspecific variation in escape strategy are poorly known. Here we investigated the morphological, life history and natural history traits that correlate with variation in avian escape strategy across a sample of 96 species of birds. Brain mass, body size, habitat structure and group size were the main predictors of escape strategy. The direction of the effect of these traits was consistent with selection for a reduction of monitoring costs. Therefore, attentional costs depend on relative brain size, which determines the ability to monitor the whereabouts of potential predators and the difficulty of this task as reflected by habitat and social complexity. Thus brain size and the cognitive functions associated with it, constitute a general framework for explaining the effects of body size, habitat structure and sociality identified as determinants of avian escape strategy."
+        },
+        {
+            "paperId": "f4ff99939a12012d0a020aa925593835eaf369c8",
+            "title": "Increased tolerance to humans among disturbed wildlife",
+            "year": 2015,
+            "openAccessPdf": {
+                "url": "https://www.nature.com/articles/ncomms9877.pdf",
+                "status": "GOLD",
+                "license": "CCBY",
+                "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC4660219, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "6687723",
+                    "name": "Diogo S. M. Samia"
+                },
+                {
+                    "authorId": "143676798",
+                    "name": "Shinichi Nakagawa"
+                },
+                {
+                    "authorId": "6829340",
+                    "name": "F. Nomura"
+                },
+                {
+                    "authorId": "1987597",
+                    "name": "T. Rangel"
+                },
+                {
+                    "authorId": "2002364",
+                    "name": "D. Blumstein"
+                }
+            ],
+            "abstract": "Human disturbance drives the decline of many species, both directly and indirectly. Nonetheless, some species do particularly well around humans. One mechanism that may explain coexistence is the degree to which a species tolerates human disturbance. Here we provide a comprehensive meta-analysis of birds, mammals and lizards to investigate species tolerance of human disturbance and explore the drivers of this tolerance in birds. We find that, overall, disturbed populations of the three major taxa are more tolerant of human disturbance than less disturbed populations. The best predictors of the direction and magnitude of bird tolerance of human disturbance are the type of disturbed area (urbanized birds are more tolerant than rural or suburban populations) and body mass (large birds are more tolerant than small birds). By identifying specific features associated with tolerance, these results guide evidence-based conservation strategies to predict and manage the impacts of increasing human disturbance on birds. Some animal species tolerate the presence of humans better than others. In a meta-analysis, Samia et al. find that populations of wildlife exposed to greater levels of human disturbance are more tolerant than undisturbed populations, with large birds in urbanized areas showing the highest levels of tolerance."
+        },
+        {
+            "paperId": "4e9af682e0d72ef02b21391c5cd9a8c7eae316e9",
+            "title": "Does Urbanization Affect Predation of Bird Nests? A Meta-Analysis",
+            "year": 2017,
+            "openAccessPdf": {
+                "url": "https://www.frontiersin.org/articles/10.3389/fevo.2017.00029/pdf",
+                "status": "GOLD",
+                "license": "CCBY",
+                "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3389/fevo.2017.00029?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3389/fevo.2017.00029, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "39050341",
+                    "name": "E. Vincze"
+                },
+                {
+                    "authorId": "5578491",
+                    "name": "G. Seress"
+                },
+                {
+                    "authorId": "5608313",
+                    "name": "M. Lagisz"
+                },
+                {
+                    "authorId": "143676798",
+                    "name": "Shinichi Nakagawa"
+                },
+                {
+                    "authorId": "6279193",
+                    "name": "N. Dingemanse"
+                },
+                {
+                    "authorId": "4941715",
+                    "name": "P. Sprau"
+                }
+            ],
+            "abstract": "Urbanization can affect interspecific interactions such as predator-prey relationships. Several hypotheses have been postulated to predict how predation on bird nests changes along urbanization gradients; some predict increased and others decreased predation pressures in urban compared to rural habitats. Using a formal meta-analytical approach, we carried out a systematic literature review to test whether predation on natural and artificial bird nests increased or decreased with urbanization. We found that the effect was highly heterogeneous among studies, due to contrasting results between studies that used artificial nests and those that used natural nests. For artificial nests, survival rate tended to decrease with increasing urbanization, with higher predation in more urbanized study sites. For natural nests, survival tended to increase with the level of urbanization. The latter finding supports predictions of the ‘urban habitats as predation-safe zones’ and ‘urban nest predator paradox’ hypotheses, but the effect may be confounded by many studies not distinguishing between predation and other sources of mortality. None of the other considered methodological and ecological variables explained the variation in a robust way. The discrepancy between the results of artificial and natural nest studies may be due to differences in experimental design (e.g., cavity nests have been more commonly studied in natural nest studies), intrinsic differences between the two nest types (e.g., lack of parental nest defense in artificial nests), or sampling bias. We conclude that the direction of the relationship between urbanization and nest predation is likely to depend on the methodology of the study. Therefore, results from studies using different methodologies, particularly natural or artificial nests, should be generalized with caution to avoid over-interpretations."
+        },
+        {
+            "paperId": "08f4d369f19959a9970ea5886182b2525c4eb754",
+            "title": "A multidimensional framework to quantify the effects of urbanization on avian breeding fitness",
+            "year": 2023,
+            "openAccessPdf": {
+                "url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/ece3.10259",
+                "status": "GOLD",
+                "license": "CCBY",
+                "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC10316489, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "2156091016",
+                    "name": "Sihao Chen"
+                },
+                {
+                    "authorId": "2146401689",
+                    "name": "Yu Liu"
+                },
+                {
+                    "authorId": "40034615",
+                    "name": "S. Patrick"
+                },
+                {
+                    "authorId": "4686268",
+                    "name": "E. Goodale"
+                },
+                {
+                    "authorId": "5598687",
+                    "name": "R. Safran"
+                },
+                {
+                    "authorId": "1438262851",
+                    "name": "Emilio Pagani‐Núñez"
+                }
+            ],
+            "abstract": "Abstract Urbanization has dramatically altered Earth's landscapes and changed a multitude of environmental factors. This has resulted in intense land‐use change, and adverse consequences such as the urban heat island effect (UHI), noise pollution, and artificial light at night (ALAN). However, there is a lack of research on the combined effects of these environmental factors on life‐history traits and fitness, and on how these interactions shape food resources and drive patterns of species persistence. Here, we systematically reviewed the literature and created a comprehensive framework of the mechanistic pathways by which urbanization affects fitness and thus favors certain species. We found that urbanization‐induced changes in urban vegetation, habitat quality, spring temperature, resource availability, acoustic environment, nighttime light, and species behaviors (e.g., laying, foraging, and communicating) influence breeding choices, optimal time windows that reduce phenological mismatch, and breeding success. Insectivorous and omnivorous species that are especially sensitive to temperature often experience advanced laying behaviors and smaller clutch sizes in urban areas. By contrast, some granivorous and omnivorous species experience little difference in clutch size and number of fledglings because urban areas make it easier to access anthropogenic food resources and to avoid predation. Furthermore, the interactive effect of land‐use change and UHI on species could be synergistic in locations where habitat loss and fragmentation are greatest and when extreme‐hot weather events take place in urban areas. However, in some instances, UHI may mitigate the impact of land‐use changes at local scales and provide suitable breeding conditions by shifting the environment to be more favorable for species' thermal limits and by extending the time window in which food resources are available in urban areas. As a result, we determined five broad directions for further research to highlight that urbanization provides a great opportunity to study environmental filtering processes and population dynamics."
+        },
+        {
+            "paperId": "1a7e686964a77f6761eea043ba9048808a5da22f",
+            "title": "The Impact of Urbanization on Avian Communities During the Breeding Season in the Huanghuai Plain of China",
+            "year": 2025,
+            "openAccessPdf": {
+                "url": "",
+                "status": null,
+                "license": "CCBY",
+                "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC11975628, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "2354352686",
+                    "name": "Meiting Liu"
+                },
+                {
+                    "authorId": "2300488754",
+                    "name": "Jiayi Shi"
+                },
+                {
+                    "authorId": "2354634452",
+                    "name": "Ziruo Zhang"
+                },
+                {
+                    "authorId": "2376196455",
+                    "name": "Xinyi Zhang"
+                },
+                {
+                    "authorId": "2281080935",
+                    "name": "Xiaohan Li"
+                },
+                {
+                    "authorId": "2384073579",
+                    "name": "R. Tang"
+                },
+                {
+                    "authorId": "2300593198",
+                    "name": "Chunna Zhang"
+                },
+                {
+                    "authorId": "2300427160",
+                    "name": "Siyu Wu"
+                },
+                {
+                    "authorId": "2237502493",
+                    "name": "Chen Wu"
+                },
+                {
+                    "authorId": "2305016282",
+                    "name": "Jun Zhu"
+                },
+                {
+                    "authorId": "2300421744",
+                    "name": "Zhirong He"
+                },
+                {
+                    "authorId": "2354331953",
+                    "name": "Yujia Sun"
+                },
+                {
+                    "authorId": "2295087422",
+                    "name": "Yuehua Wang"
+                },
+                {
+                    "authorId": "2300989949",
+                    "name": "Supen Wang"
+                },
+                {
+                    "authorId": "2300399669",
+                    "name": "Na Zhao"
+                }
+            ],
+            "abstract": "ABSTRACT The noise pollution, habitat loss, and human disturbance caused by urbanization have damaged bird communities. Research on the relationship between urbanization and birds has predominantly focused on highly urbanized areas, with relatively few studies in underdeveloped urbanized areas. Here, we conducted bird surveys along the urban–rural continuum by utilizing 150 line transects within a 51,385 km2 area from June to August in 2022 and 2023, aiming to explore the impact of urbanization on bird species diversity and functional traits during the breeding season in the Huanghuai Plain of China. We found significant differences in species diversity and functional traits among three habitats along the urban–rural continuum (i.e., urban, suburban, and rural). Additionally, a measure combining several aspects of urbanization (the urban synthetic index) had significant negative correlations with species richness and the Shannon‐Wiener index, while it had no significant correlation with functional traits. We then assessed that the environmental noise, the distance to the county center, and the proportion of building area within a 250‐m radius were critical factors affecting species diversity, as well as environmental noise and the distance to the county center were the best predictors for functional traits. The composition and proportions of diets and nest types of birds were similar across the urban, suburban, and rural habitats. Our study highlights the importance of environmental noise, the distance to the county center, and the building index in protecting urban birds in the Huanghuai Plain. The research findings filled a gap in the study area regarding the relationship between urbanization and avian communities based on the urban–rural continuum."
+        }
+    ],
+    "urban wasteland insect biomass bird diet": [
+        {
+            "paperId": "1f628f1856e498d2e7e916a62230afc5513a29bb",
+            "title": "Urban meadows as an alternative to short mown grassland: effects of composition and height on biodiversity",
+            "year": 2019,
+            "openAccessPdf": {
+                "url": "https://esajournals.onlinelibrary.wiley.com/doi/pdfdirect/10.1002/eap.1946",
+                "status": "HYBRID",
+                "license": "CCBY",
+                "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC6851864, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "4160043",
+                    "name": "Briony A. Norton"
+                },
+                {
+                    "authorId": "4160043",
+                    "name": "Briony A. Norton"
+                },
+                {
+                    "authorId": "3509380",
+                    "name": "G. Bending"
+                },
+                {
+                    "authorId": "31819841",
+                    "name": "Rachel Clark"
+                },
+                {
+                    "authorId": "6191054",
+                    "name": "R. Corstanje"
+                },
+                {
+                    "authorId": "40063726",
+                    "name": "N. Dunnett"
+                },
+                {
+                    "authorId": "153249672",
+                    "name": "K. Evans"
+                },
+                {
+                    "authorId": "5915504",
+                    "name": "D. Grafius"
+                },
+                {
+                    "authorId": "5915504",
+                    "name": "D. Grafius"
+                },
+                {
+                    "authorId": "133894073",
+                    "name": "Emily Gravestock"
+                },
+                {
+                    "authorId": "94483014",
+                    "name": "Samuel M. Grice"
+                },
+                {
+                    "authorId": "88270173",
+                    "name": "J. Harris"
+                },
+                {
+                    "authorId": "50348579",
+                    "name": "Sally Hilton"
+                },
+                {
+                    "authorId": "89457455",
+                    "name": "Helen E. Hoyle"
+                },
+                {
+                    "authorId": "89457455",
+                    "name": "Helen E. Hoyle"
+                },
+                {
+                    "authorId": "2057770487",
+                    "name": "Edward Lim"
+                },
+                {
+                    "authorId": "49364374",
+                    "name": "T. Mercer"
+                },
+                {
+                    "authorId": "49364374",
+                    "name": "T. Mercer"
+                },
+                {
+                    "authorId": "5791189",
+                    "name": "M. Pawlett"
+                },
+                {
+                    "authorId": "3630361",
+                    "name": "O. Pescott"
+                },
+                {
+                    "authorId": "144381069",
+                    "name": "J. Richards"
+                },
+                {
+                    "authorId": "4100525",
+                    "name": "Georgina E. Southon"
+                },
+                {
+                    "authorId": "38848290",
+                    "name": "P. Warren"
+                }
+            ],
+            "abstract": "Abstract There are increasing calls to provide greenspace in urban areas, yet the ecological quality, as well as quantity, of greenspace is important. Short mown grassland designed for recreational use is the dominant form of urban greenspace in temperate regions but requires considerable maintenance and typically provides limited habitat value for most taxa. Alternatives are increasingly proposed, but the biodiversity potential of these is not well understood. In a replicated experiment across six public urban greenspaces, we used nine different perennial meadow plantings to quantify the relative roles of floristic diversity and height of sown meadows on the richness and composition of three taxonomic groups: plants, invertebrates, and soil microbes. We found that all meadow treatments were colonized by plant species not sown in the plots, suggesting that establishing sown meadows does not preclude further locally determined grassland development if management is appropriate. Colonizing species were rarer in taller and more diverse plots, indicating competition may limit invasion rates. Urban meadow treatments contained invertebrate and microbial communities that differed from mown grassland. Invertebrate taxa responded to changes in both height and richness of meadow vegetation, but most orders were more abundant where vegetation height was longer than mown grassland. Order richness also increased in longer vegetation and Coleoptera family richness increased with plant diversity in summer. Microbial community composition seems sensitive to plant species composition at the soil surface (0–10 cm), but in deeper soils (11–20 cm) community variation was most responsive to plant height, with bacteria and fungi responding differently. In addition to improving local residents’ site satisfaction, native perennial meadow plantings can produce biologically diverse grasslands that support richer and more abundant invertebrate communities, and restructured plant, invertebrate, and soil microbial communities compared with short mown grassland. Our results suggest that diversification of urban greenspace by planting urban meadows in place of some mown amenity grassland is likely to generate substantial biodiversity benefits, with a mosaic of meadow types likely to maximize such benefits."
+        },
+        {
+            "paperId": "2aa5efc80a5f693755e03f430f598b7d9a9cf125",
+            "title": "Urbanization as a disrupter and facilitator of insect herbivore behaviors and life cycles.",
+            "year": 2021,
+            "openAccessPdf": {
+                "url": "https://doi.org/10.1016/j.cois.2021.02.016",
+                "status": "HYBRID",
+                "license": "CCBY",
+                "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.cois.2021.02.016?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.cois.2021.02.016, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "2052025985",
+                    "name": "L. Schmitt"
+                },
+                {
+                    "authorId": "38044805",
+                    "name": "K. Burghardt"
+                }
+            ],
+            "abstract": "Insect herbivores require a variety of habitats across their lifecycle, with behavior often mediating transitions between life stages or habitats. Human management strongly alters urban habitats, yet herbivore behavior is rarely examined in cities. We review the existing literature on several key behaviors: host finding, feeding, egg placement and pupation location, and antipredator defense. We emphasize that unapparent portions of the life cycle, such as the habitat of the overwintering stage, may influence if urbanized areas act as population sources or sinks. Here, management of the soil surface and aboveground biomass are two areas with especially pressing research gaps. Lastly, high variability in urban environments may select for more plastic behaviors or greater generalism. We encourage future research that assesses both behavior and less apparent portions of insect life cycles to determine best practices for conservation and management."
+        },
+        {
+            "paperId": "81c4e0dd4817e067a34bc2df643b70fb9c438b78",
+            "title": "Diet of moulting Swainson's Thrushes (Catharus ustulatus) and Tennessee Warblers (Leiothlypis peregrina) at a stopover site during fall migration measured with fecal DNA metabarcoding",
+            "year": 2024,
+            "openAccessPdf": {
+                "url": "https://www.nature.com/articles/s41598-024-59462-0.pdf",
+                "status": "GOLD",
+                "license": "CCBY",
+                "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC11061280, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "2299138479",
+                    "name": "Ana Blanc-Benigeri"
+                },
+                {
+                    "authorId": "2260786739",
+                    "name": "Vanessa Poirier"
+                },
+                {
+                    "authorId": "2366793944",
+                    "name": "Desirée Narango"
+                },
+                {
+                    "authorId": "2294840251",
+                    "name": "Kyle H. Elliott"
+                },
+                {
+                    "authorId": "2273498873",
+                    "name": "Barbara Frei"
+                }
+            ],
+            "abstract": "Moult and migration are energetically demanding and require adequate nutrition. In some species, individuals may interrupt their fall migration to moult at discrete stopover locations outside of their breeding grounds (i.e., moult-migration) leading to competing nutritional demands for moult and migration. Here, we use DNA barcoding of fecal samples to compare the diet of moulting and actively migrating (post-moult) Swainson’s Thrushes (Catharus ustulatus) and Tennessee Warblers (Leiothlypis peregrina) during their fall migration stopover at a large urban greenspace in Montreal, Canada. Diet differed according to moult status, species, and seasonality. Swainson’s Thrushes had a broad diet with frequent detections of both insects and berry-producing shrubs; while detections in Tennessee Warblers’ diets were mainly arthropods. For both species, more actively migrating individuals consumed fleshy-fruiting plants than moulting individuals. A higher proportion of moulting birds consumed arthropods compared to active migrants, due to either arthropod availability or a dietary preference for proteinaceous foods to grow feathers. Both species and moult classes consumed more native plants than non-native plants later in the season. We show the importance of managing urban greenspaces with native plants and diverse food sources that can provide for the different dietary needs of migratory birds."
+        },
+        {
+            "paperId": "8c02b1279ebb5d69b9f7718c2c92754444d76dc0",
+            "title": "Seasonally frugivorous forest birds and window collision fatalities: novel integration of bird counts in fall improves assessment of species vulnerability to collisions",
+            "year": 2025,
+            "openAccessPdf": {
+                "url": "",
+                "status": null,
+                "license": "CCBYNC",
+                "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC12401023, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "2267610483",
+                    "name": "Viviane Zulian"
+                },
+                {
+                    "authorId": "2378380032",
+                    "name": "Louise K. Blight"
+                },
+                {
+                    "authorId": "153597703",
+                    "name": "J. Osborne"
+                },
+                {
+                    "authorId": "2262081266",
+                    "name": "Adam C. Smith"
+                },
+                {
+                    "authorId": "2267608132",
+                    "name": "Andrea R. Norris"
+                },
+                {
+                    "authorId": "2378382596",
+                    "name": "Rebecca Golat"
+                },
+                {
+                    "authorId": "2091836568",
+                    "name": "Krista De Groot"
+                }
+            ],
+            "abstract": "Bird-window collisions are a significant and growing threat to birds, but the issue is still understudied in many geographical areas and stages of the avian annual life cycle. The mountainous topography and numerous distinct biogeoclimatic zones along the Pacific coast of Canada and the United States may result in regional and seasonal differences in collision mortality and species vulnerability to collisions. We surveyed daily for evidence of bird-window collisions over six 21-day periods in fall, early winter, and late winter between 2019 and 2022 at a university campus in southwestern British Columbia, Canada, and assessed individual species’ vulnerability to collisions by examining whether species-specific collision rates were disproportionate to their local abundance. We accounted for poor detectability of some species in fall, by integrating point count data from our study site with mist net capture data from a nearby banding station to improve abundance estimates. Collision mortality peaked in fall, but early winter collision mortality was significantly higher than in the later winter months, potentially due to movements of altitudinal migrants into our low-elevation study area in early winter. We estimated that an average of 885–1,342 (median = 1,095) birds are killed at 51 buildings campus-wide each year between September 15 and February 10, the peak fall migration wintering period. Forest birds, particularly species that switch to highly frugivorous diets in fall and winter, were most vulnerable to collisions across the seasons studied. Non-breeding season mortality due to collisions may be substantial for these species, particularly when considering cumulative mortality across the entire non-breeding period. The potential role of collision mortality in species declines should be further explored by assessing collision frequency and species vulnerability across life cycle stages in other geographical locations, and through improved data on migratory connectivity and linkages between declining breeding populations and non-breeding season mortality."
+        },
+        {
+            "paperId": "50d3f7d2845ff603d05d2f5ddd42f5bc51b0c1f5",
+            "title": "Bird-window collisions: An attempt to inspire and encourage more research and advocacy",
+            "year": 2025,
+            "openAccessPdf": {
+                "url": "",
+                "status": null,
+                "license": null,
+                "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.32800/abc.2025.48.0202?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.32800/abc.2025.48.0202, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "2266864646",
+                    "name": "D. Klem Jr"
+                }
+            ],
+            "abstract": "Clear and reflective sheet glass and plastic in the form of windows are a lethal threat to birds wherever birds and windows coexist. Accounting for birds that survive but later succumb after treatment for their injuries, the most recent estimate of the annual toll windows exact on birds is 1.28 to 3.46 billion in the\nUnited States alone, billions more worldwide. Currently most documentation of\nwindow fatalities is from North America, but reports of window casualties are\nincreasing markedly around the globe. Uniformly covering existing or new indows\nwith pattern elements separated minimally by 4 inches (10 cm) in vertical columns or by 2 inches (5 cm) in horizontal rows (2 x 4 Rule) will reduce the risk\nof a bird strike by 95-100 %. Several effective methods are currently available to\nretrofit existing and novel windows used in remodeling and new construction\nthat transform windows into barriers that birds see and avoid. Tunnel testing\nto evaluate the effectiveness of bird-window collision deterrent methods has\nvalue in testing several prospective techniques in a short period of time, but its\nlimitations make it unsuitable as a standard experimental assessment protocol.\nField experiments that provide the most objective data on how a strike deterrent\nwill perform when installed in a human structure is required as a final validating\nmeasure of window strike prevention effectiveness. Legislation to protect birds\nfrom windows has the most universal promise, but confusion and objection from\nspecial interest groups among building professionals make such protection currently unlikely. Relying on building industry professionals to voluntarily act to protect birds from windows in the buildings they construct has only rarely occurred and is not expected to be meaningfully successful for protecting birds everywhere. Several specific research needs are recommended, among others: globally documenting the species killed and injured, studying the details of behavior and the features associated with strikes, their resultant injuries, and the use of the latest methods to reveal the dynamic outcomes for victims. The use of all manner of media to educate, stimulate additional research, and advocacy to protect innocent birds that have no voice or means to protect themselves from this invisible threat is highly recommended. Before it is too late for any individual species or birds in general, collaboration between social and natural scientists is recommended and will be needed to capture a critical mass of the general public to in turn convince all principals capable of acting to save birds from windows."
+        }
+    ],
+    "unmanaged habitat avian provisioning rates": [
+        {
+            "paperId": "8e2971c6017b897955a28d820db23434eec3aa99",
+            "title": "Using Next-Generation Sequencing to Contrast the Diet and Explore Pest-Reduction Services of Sympatric Bird Species in Macadamia Orchards in Australia",
+            "year": 2016,
+            "openAccessPdf": {
+                "url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0150159&type=printable",
+                "status": "GOLD",
+                "license": "CCBY",
+                "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC4773005, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "1422178687",
+                    "name": "Eduardo Crisol‐Martínez"
+                },
+                {
+                    "authorId": "1401350598",
+                    "name": "Laura T. Moreno-Moyano"
+                },
+                {
+                    "authorId": "4751943",
+                    "name": "K. Wormington"
+                },
+                {
+                    "authorId": "144197020",
+                    "name": "P. Brown"
+                },
+                {
+                    "authorId": "48112188",
+                    "name": "D. Stanley"
+                }
+            ],
+            "abstract": "Worldwide, avian communities inhabiting agro-ecosystems are threatened as a consequence of agricultural intensification. Unravelling their ecological role is essential to focus conservation efforts. Dietary analysis can elucidate bird-insect interactions and expose avian pest-reduction services, thus supporting avian conservation. In this study, we used next-generation sequencing to analyse the dietary arthropod contents of 11 sympatric bird species foraging in macadamia orchards in eastern Australia. Across all species and based on arthropod DNA sequence similarities ≥98% with records in the Barcode of Life Database, 257 operational taxonomy units were assigned to 8 orders, 40 families, 90 genera and 89 species. These taxa included 15 insect pests, 5 of which were macadamia pests. Among the latter group, Nezara viridula (Pentatomidae; green vegetable bug), considered a major pest, was present in 23% of all faecal samples collected. Results also showed that resource partitioning in this system is low, as most bird species shared large proportion of their diets by feeding primarily on lepidopteran, dipteran and arachnids. Dietary composition differed between some species, most likely because of differences in foraging behaviour. Overall, this study reached a level of taxonomic resolution never achieved before in the studied species, thus contributing to a significant improvement in the avian ecological knowledge. Our results showed that bird communities prey upon economically important pests in macadamia orchards. This study set a precedent by exploring avian pest-reduction services using next-generation sequencing, which could contribute to the conservation of avian communities and their natural habitats in agricultural systems."
+        },
+        {
+            "paperId": "1742947510adc39be0df0b91bb4b57ef44f082d1",
+            "title": "Potential of pest regulation by insectivorous birds in Mediterranean woody crops",
+            "year": 2017,
+            "openAccessPdf": {
+                "url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0180702&type=printable",
+                "status": "GOLD",
+                "license": "CCBY",
+                "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC5587304, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "2323983003",
+                    "name": "J. M. Rey Benayas"
+                },
+                {
+                    "authorId": "49283303",
+                    "name": "Jorge Meltzer"
+                },
+                {
+                    "authorId": "1422266088",
+                    "name": "D. De las Heras-Bravo"
+                },
+                {
+                    "authorId": "2529241",
+                    "name": "L. Cayuela"
+                }
+            ],
+            "abstract": "Regulation of agricultural pests managing their natural enemies represents an alternative to chemical pesticides. We assessed the potential of insectivorous birds as pest regulators in woody crops located in central Spain. A total of 417 nest boxes installed in five field study sites (one vineyard, two fruit orchards, and two olive groves) were monitored for use and breeding of insectivorous birds and other species for four consecutive years (2013–2016). At all field sites except the two olive groves, where birds never occupied the nest boxes, predation experiments were conducted with Greater wax moth (Galleria mellonella) sentinel caterpillars, and food consumption by birds was estimated. Nesting of insectivorous birds, chiefly Great tit (Parus major), and sparrows (Passer domesticus and P. montanus) increased over time, averaging 60% per field site in the vineyard and fruit orchards by the fourth year. Use of nest boxes by sparrows and by Garden dormouse (Eliomys quercinus) was high at the fruit orchards (70%) and the vineyard (30%), respectively. Micro-habitat characteristics (nest box level) and meso-habitat characteristics (patch level) strongly affected use of nest boxes and bird breeding (i.e. number of laid eggs and produced chicks) in different years. Distance to natural or semi-natural vegetation did not consistently affect bird breeding, nor did we see consistent evidence of competition between adjacent breeding birds. Predation rates of sentinel caterpillars were approximately one-third higher near boxes with nesting birds (31.51 ± 43.13%) than at paired distant areas without nest boxes (22.45% ± 38.58%). Food consumption by insectivorous birds per ha and breeding season were conservatively estimated to range from 0.02 kg in one fruit orchard to 0.15 kg in the vineyard. We conclude that installation of nest boxes in Mediterranean woody crops enhances populations of insectivorous birds that regulate pests, but that the effects are moderate and highly context-dependent."
+        },
+        {
+            "paperId": "2678fff5818e1a49044faf0afac9dd91bd7dbb90",
+            "title": "Comparing Insect Predation by Birds and Insects in an Apple Orchard and Neighboring Unmanaged Habitat: Implications for Ecosystem Services",
+            "year": 2023,
+            "openAccessPdf": {
+                "url": "https://www.mdpi.com/2076-2615/13/11/1785/pdf?version=1685176572",
+                "status": "GOLD",
+                "license": "CCBY",
+                "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC10252115, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "4278162",
+                    "name": "M. Nagari"
+                },
+                {
+                    "authorId": "3185247",
+                    "name": "M. Charter"
+                }
+            ],
+            "abstract": "Simple Summary The study aimed to understand the differences in predation of insect pests between managed apple orchards and surrounding habitats. The researchers used mealworm (Tenebrio molitor) pupae as a proxy for coddling moth (Cydia pomonella) pupae and placed them in 42 stations within the orchard and 42 stations in a Eucalyptus stand. Half of the stations were covered with nets to prevent bird predation, while the other half were accessible to birds and insects. The researchers recorded the predation of the pupae and analyzed the videos to determine which species were responsible for the predation. They found that in net-free stations, the predation rate inside the orchard was higher than in the Eucalyptus stand, and the video analysis confirmed that birds were responsible for most of the predation. In netted stations, the predation rate was higher in the Eucalyptus trees, and most of these predations were carried out by ants. The results suggest that the orchard environment negatively affects insect activity as the distance into the orchard increases, specifically predatory ants and that bird predation of insect pests inside the orchard may be more intense than in the surrounding unmanaged habitat. This study highlights the importance of considering the impact of insecticides on the activity of beneficial insect predators in agriculture and suggests that birds may play an important role in controlling insect populations in the orchard. Abstract Preserving ecosystem services, such as natural enemies that can provide pest control, can positively impact crops without compromising agricultural yield. Even though controlling pests by natural enemies has been suggested to reduce pests in agriculture, growers continue using conventional pesticides that kill beneficial predators. Here we studied whether the predation of avian and insect-beneficial predators varies in an apple orchard with conventional insecticide use compared to a bordering tree stand without insecticides. We studied the predation rates of mealworm pupae as a proxy to coddling moth pupae at 42 stations in both an apple orchard and a Eucalyptus stand at three distances (0 m, 50 m, and 100 m) from the border. Half of the stations were netted to prevent bird predation but were accessible to insects. The other half were non-netted and accessible to birds. We conducted six trials, each lasting two weeks, during which we recorded the predation of 504 stations with 5040 pupae. To validate which species predated the pupae, we added video cameras that took RGB videos during the day and IR videos at night in 45 stations and found that in net-free stations, birds preyed in 94.1% of stations in the orchard and 81.8% in the Eucalyptus stand. However, ants predated 70% of the pupae in stations with nets in the orchards and 100% in stations in the Eucalyptus strands. In addition, we found a significant rise in predation by birds as the distance into the orchard increased. Conversely, insect predation declined within the orchard but escalated in the adjacent unmanaged area. These findings suggest that the orchard’s environment negatively affects beneficial insect activity, specifically predatory ants. This study demonstrates that birds can play an essential role in predating insect pests inside the orchard. In addition, we believe that the decreased predation of ants within the orchard was due to intense insecticide use."
+        },
+        {
+            "paperId": "ac97f99d4cb921d6ddc5ce13544219d0ac5ef7ed",
+            "title": "Understanding insect predator–prey interactions using camera trapping: A review of current research and perspectives",
+            "year": 2024,
+            "openAccessPdf": {
+                "url": "",
+                "status": null,
+                "license": null,
+                "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1111/afe.12646?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1111/afe.12646, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "1441228387",
+                    "name": "Gaëtan Seimandi‐Corda"
+                },
+                {
+                    "authorId": "2317445109",
+                    "name": "Thomas Hood"
+                },
+                {
+                    "authorId": "2317271853",
+                    "name": "Samantha M. Cook"
+                }
+            ],
+            "abstract": "Cameras are increasingly used by ecologists to study species distribution and interactions. They are mainly used to study large animals such as mammals but can also be used to record small invertebrates, including insects. Camera traps, capturing images within a specified field of view, can be used for biomonitoring and investigating insect‐related interactions, such as predation. Understanding predation on insect prey has direct implications for agriculture and conservation biology, enabling predator species identification and quantification of biological control. This review examines 28 studies published between 1988 and March 2024 focusing on the use of cameras to monitor insect predator–prey interactions, predominantly targeting agricultural pests. Studies varied in recording equipment used and tended to be spatially and temporally limited, making results difficult to generalise at larger scale. We provide an overview of equipment options, camera settings, the merits of video versus picture recording, night‐time imaging strategies, trigger mechanisms, equipment costs, and strategies for managing theft and vandalism. Additionally, we discuss avenues for improving image processing efficiency, including enhancing predator identification through artificial intelligence methods. Challenges related to limitations in the taxonomic levels of predator identification are also addressed. Finally, we offer guidelines for researchers interested in using camera technology and propose future perspectives on their use in insect conservation and biocontrol efforts."
+        },
+        {
+            "paperId": "1ff88db066056cc6a0f34a70cacb557dd2d2476d",
+            "title": "Ecoacoustics for context‐rich direct and indirect trophic interaction data and ecological network construction",
+            "year": 2026,
+            "openAccessPdf": {
+                "url": "",
+                "status": null,
+                "license": null,
+                "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1111/2041-210x.70288?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1111/2041-210x.70288, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "1396393399",
+                    "name": "W. Dawson"
+                },
+                {
+                    "authorId": "2300045564",
+                    "name": "Darren M. Evans"
+                },
+                {
+                    "authorId": "39980923",
+                    "name": "C. Abrahams"
+                },
+                {
+                    "authorId": "2335965598",
+                    "name": "James J. N. Kitson"
+                },
+                {
+                    "authorId": "2114205753",
+                    "name": "Larissa Collins"
+                },
+                {
+                    "authorId": "2360022719",
+                    "name": "Jordan P. Cuff"
+                }
+            ],
+            "abstract": "\n \n \n \n Understanding species interactions is critical for ecology and conservation, yet conventional network construction methods often lack spatiotemporal resolution and important contextual information.\n \n \n The growing field of ecoacoustics enables remote sensing across large spatiotemporal scales and the monitoring of otherwise cryptic communities. This provides direct and indirect evidence of interactions by detecting characteristic acoustic signatures.\n \n \n Investigating species‐interactions through ecoacoustics presents a unique opportunity to enhance the construction, inference and interpretation of ecological networks, advancing the frontier of next‐generation biomonitoring.\n \n \n Application of ecoacoustics to the study of ecological interactions is, however, currently lacking, hindering the promising application of this approach to a broad range of contexts. In this perspective article, we explore the potential of ecoacoustics to detect and infer predator–prey interactions and outline how individual interactions can be detected from specific acoustic signatures such as feeding sounds, alarm calls and shifts in prey behaviour, each supported by case studies from the literature.\n \n \n When used in conjunction with other methods, ecoacoustics can provide contextual information that can guide inference of trophic networks by approximating structural properties of networks.\n \n \n Ecoacoustics offers a scalable, cost‐effective tool for identifying species interactions, biomonitoring and constructing trophic networks across a diverse range of ecological contexts, for which we envisage this article providing a foundation.\n \n \n"
+        }
+    ],
+    "ruderal patch ground bird recruitment": [
+        {
+            "paperId": "86a1ddac0dd4376abba867ae0959a7fdfcf539be",
+            "title": "Effects of Patch-Burn Management on Dickcissel Nest Success in a Tallgrass Prairie",
+            "year": 2008,
+            "openAccessPdf": {
+                "url": "",
+                "status": null,
+                "license": null,
+                "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.2193/2007-365?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.2193/2007-365, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "88340575",
+                    "name": "R. Churchwell"
+                },
+                {
+                    "authorId": "46427254",
+                    "name": "C. Davis"
+                },
+                {
+                    "authorId": "5444823",
+                    "name": "S. Fuhlendorf"
+                },
+                {
+                    "authorId": "2762813",
+                    "name": "D. Engle"
+                }
+            ],
+            "abstract": "Abstract Grassland birds have declined more than any other North American habitat-associated bird community. Because most species of grassland birds evolved within heterogeneous landscapes created by the interaction of fire and grazing, traditional rangeland management that promotes homogeneity, including annual dormant-season burning combined with early-intensive grazing, might be partly responsible for these declines, especially in some regions of the Great Plains, USA. Recently, an alternative grassland management practice known as patch-burning has been promoted as a means of restoring heterogeneity to grasslands by mimicking the grazing–fire interaction that once occurred on the prairie before European settlement. From 2003 to 2004, we examined effects of patch-burning and traditional management (annual burning followed by early-intensive grazing) on the reproductive success of dickcissels (Spiza americana) in tallgrass prairie in Oklahoma. We monitored 296 dickcissel nests and found that dickcissel nesting phenology differed between traditional and patch-burned pastures. Specifically, dickcissels tended to initiate their nests later in the traditional pasture. Mean number of eggs laid and fledglings produced were similar between the treatments, but nest densities were higher in traditional pastures. Predation was the predominant cause of nest failure and was higher in traditional pastures than in patch-burned pastures. Brown-headed cowbird (Molothrus ater) parasitism was higher in traditional pastures than in patch-burned pastures. Overall, dickcissel nest success was higher in patch-burned pastures than in traditional pastures. The positive response of dickcissel nest success to patch-burn management provides further evidence that this practice can be a useful tool for grassland bird conservation. By creating a mosaic of different stature vegetation, patch-burn management enhances productivity of grassland bird species by providing a refuge area in the unburned patches that affords dickcissels and other nesting grassland birds some protection from the direct (e.g., trampling) and indirect (e.g., cowbird parasitism and predation) effects of grazing, which are not available under traditional management. Patch-burn management should be encouraged as a conservation strategy for grassland birds throughout the Great Plains."
+        },
+        {
+            "paperId": "acfcaf328fa163edf0574773d5a524e463e9f13b",
+            "title": "Structural heterogeneity increases diversity of non-breeding grassland birds",
+            "year": 2014,
+            "openAccessPdf": {
+                "url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1890/ES14-00062.1",
+                "status": "GOLD",
+                "license": "CCBY",
+                "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1890/ES14-00062.1?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1890/ES14-00062.1, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "4776179",
+                    "name": "T. Hovick"
+                },
+                {
+                    "authorId": "145979316",
+                    "name": "R. D. Elmore"
+                },
+                {
+                    "authorId": "5444823",
+                    "name": "S. Fuhlendorf"
+                }
+            ],
+            "abstract": "Grassland birds have experienced greater population declines than any other guild of birds in North America, and yet we know little about habitat use and the affects of management during their non-breeding period on wintering grounds. The paucity of information on wintering grassland birds limits our ability to develop effective conservation strategies. We investigated habitat use by the winter bird community in grasslands with restored heterogeneity resulting from the interactive effects of fire and grazing. We used 500 m line transects distributed across patches (i.e., 24 months post disturbance) resulting from spring burning with growing season grazing (April-Sept) and quantified avian relative abundance, community structure, and probability of patch occupancy while accounting for imperfect detection. Grassland structure that resulted from the fire-grazing interaction created heterogeneity among patches that influenced avian habitat use during winter. Generalist birds such as the Savan..."
+        },
+        {
+            "paperId": "1e588ce7f89294b1dde7fac5e2492a08cc145803",
+            "title": "Restoration of gallery forest patches improves recruitment of motacú palms (Attalea princeps) while diversifying and increasing wildlife populations",
+            "year": 2021,
+            "openAccessPdf": {
+                "url": "https://doi.org/10.1371/journal.pone.0250183",
+                "status": "GOLD",
+                "license": "CCBY",
+                "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC8084217, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "40506576",
+                    "name": "J. Peacock"
+                },
+                {
+                    "authorId": "6444571",
+                    "name": "C. Tonra"
+                },
+                {
+                    "authorId": "50250422",
+                    "name": "John W. King"
+                },
+                {
+                    "authorId": "90597756",
+                    "name": "G. Davies"
+                }
+            ],
+            "abstract": "Globally, forest-savanna mosaic landscapes are of significant conservation importance but have been widely impacted by human land-use. We studied how restoration, through cessation of long-term cattle grazing impacts (i) forest regeneration; (ii) forest understory structure and composition; and (iii) populations and diversity of large mammals and nocturnal birds, within naturally patchy gallery forests in the Beni Savannas of Bolivia. Comparing grazed and restored sites, we assessed the abundance and composition of tree functional types at different life stages (seedlings, saplings and adults), with focus on the region’s key palm species Attalea princeps (motacú). Additionally, we surveyed habitat structure and composition in the shrub and ground-layer, and monitored occurrence and encounter rates of large mammals and nocturnal birds along dusk and evening transects. We found evidence of lower recruitment of motacú palms on the grazed site and lower potential for natural motacú regeneration. Principal Components Analysis revealed forests on grazed sites had simpler, more open shrub-layers and altered ground-layer structure and composition including increased bare ground. Mammal species richness was greater on the restored site, and there were more declining, globally threatened and site-unique species. Species richness was similar for nocturnal birds within forests on both the grazed and restored site, but nearly all species tended to be encountered more frequently on the restored site. Our results suggest cattle negatively impact forest regeneration and alter the structure and composition of the shrub and ground layer with potential consequences for the diversity and abundance of wildlife. Our study represents one of only a handful completed in the Beni region of Bolivia to date. The Beni is currently under pressure from widespread, largely unregulated cattle ranching. Our results thus provide vital evidence to support development of restoration and conservation policy, and its integration with rangeland management in this threatened and critically understudied region."
+        },
+        {
+            "paperId": "7ed645bf2135b1bb745c607d414ef354d51028b0",
+            "title": "Habitat Selection of Three Neotropical Grassland Birds Is Dependent on Vegetation Structure and Resources",
+            "year": 2024,
+            "openAccessPdf": {
+                "url": "https://www.mdpi.com/1424-2818/16/4/229/pdf?version=1712744416",
+                "status": "GOLD",
+                "license": "CCBY",
+                "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3390/d16040229?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3390/d16040229, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "2296216402",
+                    "name": "Jo Peacock"
+                },
+                {
+                    "authorId": "2331641034",
+                    "name": "R. MacLeod"
+                },
+                {
+                    "authorId": "2296048482",
+                    "name": "G. M. Davies"
+                },
+                {
+                    "authorId": "153940979",
+                    "name": "T. Boorsma"
+                },
+                {
+                    "authorId": "6444571",
+                    "name": "C. Tonra"
+                }
+            ],
+            "abstract": "Grassland birds are globally imperiled. Those of endemic Neotropical savannas may be particularly threatened as knowledge of the ecology of many species is lacking, restricting our ability to take decisive conservation action. During the dry (non-breeding) season of 2010, we studied the population size, distribution, and habitat associations of the Cock-tailed Tyrant (Alectrurus tricolor), Black-masked Finch (Coryphaspiza melanotis), and Wedge-tailed Grass-finch (Emberiziodes herbicola) across a disturbance-mediated savanna–grassland gradient in Beni, Bolivia. We used distance sampling and surveyed structural and resource-specific habitat features at plots where birds were present versus random locations. Occupancy models identified fine-scale habitat associations. Cock-tailed Tyrant (7.1 ind./km2) specialized on open habitats in areas expected to be heavily inundated in the wet season, avoided trees, and selected tall grassy swards. Black-masked Finch (25.1 ind./km2) occurred across the gradient, associating with tall, forb-rich swards, sparse shrubs, and low levels of fruiting and seeding vegetation. Wedge-tailed Grass-finch (27.9 ind./km2) also occurred across the gradient, particularly associated with tall, forb-rich swards, abundant seeding grasses, and sparse shrubs. Our results offer the first quantitative abundance estimates for these species in Beni, provide vital baselines for future monitoring, and improve knowledge of the ecology and conservation management needs of these species. Importantly, our results suggest that populations of these three grassland birds may be best maintained in heterogenous, mosaic landscapes that can be produced by carefully managed burning and grazing. Further research in the breeding season would facilitate making stronger, more specific management recommendations."
+        },
+        {
+            "paperId": "a3ec121edf989a25941caeb763160d9e68bc9ec8",
+            "title": "Effect of Seasonal Grazing on Ground-Dwelling Insect Communities in the Desert Steppe of Ningxia",
+            "year": 2025,
+            "openAccessPdf": {
+                "url": "",
+                "status": null,
+                "license": "CCBY",
+                "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC12471267, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "2328349469",
+                    "name": "Chun Shi"
+                },
+                {
+                    "authorId": "2317154295",
+                    "name": "Changyu Xiong"
+                },
+                {
+                    "authorId": "2295853383",
+                    "name": "Ziyu Cao"
+                },
+                {
+                    "authorId": "2295844236",
+                    "name": "Haixiang Zhang"
+                },
+                {
+                    "authorId": "2296637095",
+                    "name": "Ying Wang"
+                },
+                {
+                    "authorId": "2317145004",
+                    "name": "Wei Sun"
+                },
+                {
+                    "authorId": "2317204692",
+                    "name": "Yifan Cui"
+                },
+                {
+                    "authorId": "2221671269",
+                    "name": "Rong Zhang"
+                },
+                {
+                    "authorId": "2295002440",
+                    "name": "Shuhua Wei"
+                }
+            ],
+            "abstract": "Simple Summary This study conducted seasonal grazing experiments in the desert steppe of Yanchi, Ningxia, employing five grazing regimes: spring-summer (Sp+Su), spring-autumn (Sp+Au), summer-autumn (Su+Au), year-round (Annual), and no grazing (CK). The research aimed to unravel grazing’s regulatory mechanisms on surface-dwelling insect communities. Insects were collected via pitfall traps and categorized into phytophagous and predatory functional groups, coupled with vegetation monitoring. Key findings reveal: year-round grazing significantly enhances phytophagous insect diversity, while spring-autumn grazing effectively suppresses their abundance; summer-autumn grazing boosts predatory insect abundance but reduces their diversity, whereas no grazing elevates predatory species richness. Beta diversity analysis indicates grazing primarily restructures communities through species replacement (Repl dominance), not richness changes, with NMDS confirming distinct insect assemblages under each regime. RDA and GAM models identify vegetation height and predatory insect abundance as critical drivers of phytophagous insect dynamics, with vegetation density and biomass exerting nonlinear regulatory effects. The study proposes an integrated “year-round grazing + seasonal rest” or “spring-autumn grazing” strategy to synergize pest control and biodiversity conservation in desert grasslands."
+        }
+    ]
+}

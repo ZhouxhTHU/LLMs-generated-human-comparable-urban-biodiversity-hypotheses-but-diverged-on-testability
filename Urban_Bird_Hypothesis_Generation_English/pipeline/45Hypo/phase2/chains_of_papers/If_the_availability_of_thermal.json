@@ -1,0 +1,1190 @@
+{
+    "thermal refugia decrease seasonal turnover": [
+        {
+            "paperId": "77e0dd12944fc0322624d5b9d00d84f43a21cd50",
+            "title": "Beyond the model: expert knowledge improves predictions of species' fates under climate change.",
+            "year": 2018,
+            "openAccessPdf": {
+                "url": "https://esajournals.onlinelibrary.wiley.com/doi/pdfdirect/10.1002/bes2.1522",
+                "status": "HYBRID",
+                "license": "CCBY",
+                "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1002/eap.1824?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1002/eap.1824, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "4675957",
+                    "name": "April E. Reside"
+                },
+                {
+                    "authorId": "2245232220",
+                    "name": "Kay Critchell"
+                },
+                {
+                    "authorId": "2231580359",
+                    "name": "D. Crayn"
+                },
+                {
+                    "authorId": "5631009",
+                    "name": "M. Goosem"
+                },
+                {
+                    "authorId": "9674489",
+                    "name": "S. Goosem"
+                },
+                {
+                    "authorId": "5886485",
+                    "name": "C. Hoskin"
+                },
+                {
+                    "authorId": "51895404",
+                    "name": "T. Sydes"
+                },
+                {
+                    "authorId": "2292756730",
+                    "name": "Eric Vanderduys"
+                },
+                {
+                    "authorId": "1930028",
+                    "name": "R. Pressey"
+                }
+            ],
+            "abstract": "The need to proactively manage landscapes and species to aid their adaptation to climate change is widely acknowledged. Current approaches to prioritizing investment in species conservation generally rely on correlative models, which predict the likely fate of species under different climate change scenarios. Yet, while model statistics can be improved by refining modeling techniques, gaps remain in understanding the relationship between model performance and ecological reality. To investigate this, we compared standard correlative species distribution models to highly accurate, fine-scale, distribution models. We critically assessed the ecological realism of each species' model, using expert knowledge of the geography and habitat in the study area and the biology of the study species. Using interactive software and an iterative vetting with experts, we identified seven general principles that explain why the distribution modeling under- or overestimated habitat suitability, under both current and predicted future climates. Importantly, we found that, while temperature estimates can be dramatically improved through better climate downscaling, many models still inaccurately reflected moisture availability. Furthermore, the correlative models did not account for biotic factors, such as disease or competitor species, and were unable to account for the likely presence of micro refugia. Under-performing current models resulted in widely divergent future projections of species' distributions. Expert vetting identified regions that were likely to contain micro refugia, even where the fine-scale future projections of species distributions predicted population losses. Based on the results, we identify four priority conservation actions required for more effective climate change adaptation responses. This approach to improving the ecological realism of correlative models to understand climate change impacts on species can be applied broadly to improve the evidence base underpinning management responses."
+        },
+        {
+            "paperId": "4d6de81fd3683f40e65af16ede1f308f716e871b",
+            "title": "Climate policy action needed to reduce vulnerability of conservation‐reliant grassland birds in North America",
+            "year": 2019,
+            "openAccessPdf": {
+                "url": "https://conbio.onlinelibrary.wiley.com/doi/pdfdirect/10.1111/csp2.21",
+                "status": "GOLD",
+                "license": "CCBY",
+                "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1111/csp2.21?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1111/csp2.21, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "2263421",
+                    "name": "Chad B. Wilsey"
+                },
+                {
+                    "authorId": "40702256",
+                    "name": "Lotem Taylor"
+                },
+                {
+                    "authorId": "34212953",
+                    "name": "B. Bateman"
+                },
+                {
+                    "authorId": "78942193",
+                    "name": "C. M. Jensen"
+                },
+                {
+                    "authorId": "48510725",
+                    "name": "Nicole L. Michel"
+                },
+                {
+                    "authorId": "9027224",
+                    "name": "A. Panjabi"
+                },
+                {
+                    "authorId": "3590171",
+                    "name": "G. Langham"
+                }
+            ],
+            "abstract": "Grassland birds have suffered dramatic population declines and are under threat of further grassland conversion. Simultaneously, grassland regions are projected to have high rates of future climate change. We assessed the vulnerability of grassland birds in North America under scenarios of global climate change reflecting the objectives of the Paris Agreement. The assessment incorporated model‐based projections of range losses and gains as well as trait‐based information on adaptive capacity. Nearly half (42%) of grassland birds were highly vulnerable during the breeding season under a 3.0°C increase in global mean temperature scenario representing current commitments under the Paris Accord. This proportion declined to 13% with a 2.0°C increase and to 8% with a 1.5°C increase over preindustrial global mean temperature. Regardless of scenario, more than 70% of grassland birds had some vulnerability to climate change. Policy actions beyond the present‐day national commitments under the Paris Accord are needed to reduce vulnerability of grassland birds in a changing climate."
+        },
+        {
+            "paperId": "1539f074c744c74fca9e78e81b6db22eb911c674",
+            "title": "Edge density affects demography of an exploited grassland bird",
+            "year": 2021,
+            "openAccessPdf": {
+                "url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/ecs2.3499",
+                "status": "GOLD",
+                "license": "CCBY",
+                "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1002/ECS2.3499?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1002/ECS2.3499, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "144939979",
+                    "name": "Paige E. Howell"
+                },
+                {
+                    "authorId": "12361059",
+                    "name": "Theron M. Terhune"
+                },
+                {
+                    "authorId": "2110108508",
+                    "name": "J. Martin"
+                }
+            ],
+            "abstract": ". Humans modify landscapes for a variety of reasons including agriculture, urbanization, and to facilitate recreation. Landscape modi ﬁ cations can lead to complete loss of existing cover types and/or fragmentation of remaining cover types. Grasslands are one of the ecosystems most heavily impacted by human modi ﬁ cations; however, for many species, an understanding of how fragmentation affects population parameters is lacking. We investigated the in ﬂ uence of landscape fragmentation on survival, reproduction, and density using the northern bobwhite ( Colinus virginianus ), a facultative grassland species, as our case study. We experimentally manipulated the level of edge density (none, low, and high) of bobwhite management units and estimated seasonal survival, productivity, and autumn densities. Winter survival was lower in edge density treatments, relative to the control. An increase in migratory raptor density during the winter, along with a decrease in thermal refugia, may be contributing to lower winter survival in edge density treatments. Fecundity was higher in the edge density treatments, relative to the control, and was negatively related to winter survival. Similarly, breeding season survival was higher in more fragmented sites. This indicated a density-dependent relationship, where lower bird densities at the beginning of the breeding season possibly led to greater resource availability, and thus survival and productivity, of the birds that remained. However, a density-dependent response in breeding season survival and productivity was not enough to offset the negative impact of edges in the low edge density sites. Consequently, autumn density was lower relative to both control and high edge density treatments. Our study demon-strates the importance of capturing the entire life cycle when exploring the relationship between landscape pattern and population parameters."
+        },
+        {
+            "paperId": "70f0657e85032aee82fba0b22ca8f8c570a914fd",
+            "title": "Correlations between human-modified landscape structure and bird diversity in Paseh Sub-district, Sumedang District, Indonesia",
+            "year": 2025,
+            "openAccessPdf": {
+                "url": "",
+                "status": null,
+                "license": null,
+                "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.13057/biodiv/d260421?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.13057/biodiv/d260421, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "90396181",
+                    "name": "Susanti Withaningsih"
+                },
+                {
+                    "authorId": "2360234154",
+                    "name": "Muhamad Galih Ramdhani"
+                },
+                {
+                    "authorId": "2391635345",
+                    "name": "Firman Hadi"
+                },
+                {
+                    "authorId": "90925442",
+                    "name": "P. Parikesit"
+                }
+            ],
+            "abstract": "Abstract. Withaningsih S, Ramdhani MG, Hadi F, Parikesit. 2025. Correlations between human-modified landscape structure and bird diversity in Paseh Sub-district, Sumedang District, Indonesia. Biodiversitas 26: 1706-1719. Various factors, including environmental conditions, human activities, and land use patterns, influence the diversity of bird species. The characteristics of each land use pattern will affect the diversity of bird species in a given area. The present study aims to investigate the correlations between human-modified landscape structures and bird diversity in the Paseh Sub-district, Sumedang District, West Java, Indonesia, highlighting how changes in land use and habitat composition influence avian species richness and distribution. Research on the relationship between bird species diversity and landscape structure in the Paseh Sub-district was conducted using the point count method for collecting bird data. Landscape structure was analyzed using Fragstats software, and the results were analyzed using Spearman correlation. The study recorded 74 bird species from 32 families, totaling 3,115 individuals. The Eurasian tree sparrow (Passer montanus) was the most abundant species, accounting for 38.1%. Bird diversity in Paseh Sub-district was assessed based on various land use patterns: settlements (H = 1.47), mixed gardens (H = 3.13), rice fields (H = 2.65), and others (H = 2.65). The overall bird species diversity was moderate (H = 2.91). The landscape influenced bird diversity. Larger areas (TA), longer edges (TE), more patches (NP, PR), complex patch shapes (MSI, MPFD), and lower landscape heterogeneity (SHDI) were correlated with higher bird species diversity."
+        },
+        {
+            "paperId": "a4b9e8aa4abb47c69771aa311615ea37e7062ef7",
+            "title": "Bird diversity in the Mount Dempo area, South Sumatra: An ecological resource for local-based biology learning",
+            "year": 2025,
+            "openAccessPdf": {
+                "url": "",
+                "status": null,
+                "license": null,
+                "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.33503/ebio.v10i02.2031?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.33503/ebio.v10i02.2031, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "2083377780",
+                    "name": "Fahmy Armanda"
+                },
+                {
+                    "authorId": "91500368",
+                    "name": "Anggun Wicaksono"
+                },
+                {
+                    "authorId": "51206880",
+                    "name": "Rian Oktiansyah"
+                }
+            ],
+            "abstract": "Mount Dempo, South Sumatra, hosted a diverse range of bird species, making it a valuable ecological resource for local-based biology learning. This study aimed to document bird diversity in the region and to explore its potential for ecological education. The research was conducted in 2020 during the COVID-19 pandemic era. Data collection was carried out in the Mount Dempo area, limited to an altitude of approximately 2,086 meters above sea level at Shelter 1. The research employed the observation (point count) method along ecotourism routes by recording trails traversed using GPS. Sampling was conducted by walking along the path accompanied by predetermined observation points. The results recorded 21 bird species with a total of 96 individuals. The diversity analysis using the Shannon-Wiener Index produced a value of H' = 2.68, indicating moderate to high diversity, while the Simpson’s Index (D = 0.092) suggested very low species dominance. Additionally, the Evenness Index (E = 0.88) reflected a relatively even distribution of individuals among species, highlighting ecological stability in the study area. The presence of various ecological niches and bird functional groups supported the development of environmental literacy and conservation awareness among students. Thus, integrating local bird diversity as a contextual learning resource was considered a strategic approach to enhance ecological understanding and foster pro-environmental behavior among learners."
+        }
+    ],
+    "food subsidies temporal biotic homogenization": [
+        {
+            "paperId": "502570e8c321f29862914c2366b668954aa91432",
+            "title": "The role of residential habitat type on the temporal variation of wintering bird assemblages in northern Finland",
+            "year": 2012,
+            "openAccessPdf": {
+                "url": "https://ornisfennica.journal.fi/article/download/133789/82339",
+                "status": "HYBRID",
+                "license": "CCBY",
+                "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.51812/of.133789?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.51812/of.133789, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "6084831",
+                    "name": "J. Jokimäki"
+                },
+                {
+                    "authorId": "1403737987",
+                    "name": "Marja‐Liisa Kaisanlahti‐Jokimäki"
+                }
+            ],
+            "abstract": "Wintertime ecological studies conducted in different kinds of residential areas over sev-eral winters have thus far been lacking. The objective of this study was to analyze if the between-winter variability of bird communities differs between urban residential habitat types. The study was conducted in five blocks of flats areas, five single-family house ar-eas, and five villages in Rovaniemi, northern Finland, during five winters. Birds were sur-veyed using a single-visit study plot (30 ha) method. The average between-winter varia-tion (CV%) in bird species richness was 27% and in bird abundance was 53%, and these values did not differ between the three types of residential areas. Temporal variation of species in residential areas was species-specific. The lowest between-winter variation was observed for omnivore or feeding table species such as the Great tit Parus major (50%), Magpie Pica pica (53%) and House Sparrow Passer domesticus (76%). The high-est variation was observed for berry-eating species, such as the Bullfinch Pyrrhula pyrrhula (196%) and Waxwing Bombycilla garrulus (192%). The between-winter vari-ation (CV%) of abundance of most species was greater in the blocks of flats areas than in the other residential-area types. The between-winter average qualitative similarity was 76.1% in the blocks of flats areas, 80.0% in the single-family house areas, and 78.0% in the villages, and these values did not differ between types of residential areas or between study winters. Stability of winter communities decreased from the centre to the periphery of Rovaniemi. We suggest that the stabilizing, warmer microclimate near the urban core of the town partly explains this result. The average species turnover rate (%) in the block of flats areas was 22.8, in single-family house areas was 20.5, and in the villages was 21.6. In general, the lowest between-winter similarities, highest species turnover rates, and the highest between-winter variation of abundance of individual species were observed in ar-eas of blocks of flats. Our results suggest that single-family house and village areas are better overwintering areas for wintering birds than areas of blocks-of-flats. Intensive win-ter feeding might stabilize the between-winter variation of bird assemblages especially in single-family house areas. In addition, the warmer microclimate near the urban core might probably also stabilizes variation in residential bird assemblages."
+        },
+        {
+            "paperId": "09b970eefba6bc1a15aa755ff5a231981feb13b5",
+            "title": "Habitat type, food resources, noise and light pollution explain the species composition, abundance and stability of a winter bird assemblage in an urban environment",
+            "year": 2017,
+            "openAccessPdf": {
+                "url": "https://link.springer.com/content/pdf/10.1007%2Fs11252-016-0613-6.pdf",
+                "status": "HYBRID",
+                "license": "CCBY",
+                "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s11252-016-0613-6?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s11252-016-0613-6, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "4312862",
+                    "name": "M. Ciach"
+                },
+                {
+                    "authorId": "40171427",
+                    "name": "A. Fröhlich"
+                }
+            ],
+            "abstract": "At present, urban areas cover almost 3% of the Earth’s terrestrial area, and this proportion is constantly increasing. Although urbanization leads to a decline in biodiversity, at the same time it creates extensive habitats that are exploited by an assemblage of organisms, including birds. The species composition and density of birds nesting in towns and cities are determined by the types of buildings, the structure and maturity of urban greenery, and habitat diversity. In contrast, the habitat traits shaping the community of birds wintering in urban areas are not known. The aim of this work was to assess the influence of habitat structure, food resources and the urban effects (pollution, noise, artificial light) on an assemblage of birds overwintering in an urban area. It was carried out in 2014 and 2015 in the city of Kraków (southern Poland), on 56 randomly chosen sample plots, in which the composition, density and interseasonal similarity of bird assemblage were assessed with line transect method. A total of 64 bird species (mean = 17.7 ± 4.9 SD species/plot) was recorded. The mean density was 89.6 ind./km ±63.3 SD. The most numerous species were Great Tit Parus major, Magpie Pica pica, Blackbird Turdus merula, Blue Tit Cyanistes caeruleus, Rook Corvus frugilegus, Fieldfare Turdus pilaris and House Sparrow Passer domesticus. Noise adversely affected species numbers and density, but artificial light acted positively on the density of birds and their interseasonal stability. The species richness and density of birds were also determined by the number of food sources available (e.g. bird-feeders). In addition, the greater the proportion of open areas, the fewer species were recorded. In contrast, the more urban greenery there was, the greater the density of the entire bird assemblage. Urban infrastructure (buildings, roads, refuse tips) had a positive effect on the interseasonal stabilization of the species composition of wintering birds. The results of this work indicate that the urban effect, i.e. noise and light pollution, apart from purely habitat factors, provide a good explanation for the species richness, density and stability of bird assemblage wintering in urban areas."
+        },
+        {
+            "paperId": "a628985389fe28c6453b1abf516e496e2d4f10ea",
+            "title": "Urbanization, environmental stabilization and temporal persistence of bird species: a view from Latin America",
+            "year": 2018,
+            "openAccessPdf": {
+                "url": "https://peerj.com/articles/6056.pdf",
+                "status": "GOLD",
+                "license": "CCBY",
+                "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC6286803, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "6739216",
+                    "name": "Lucas M. Leveau"
+                }
+            ],
+            "abstract": "Background A scarcely studied consequence of urbanization is the effect of temporal stabilization of the environment on bird communities. This alteration is thought to dampen environmental variations between day and night, seasons and years, promoting a temporal persistence of bird composition in urban areas. The aim of this study was to review current evidence of temporal stabilization of biotic and abiotic factors in urban environments and the potential effects of such stabilization on temporal variation of bird species presence at different temporal scales. Methods I selected the literature by searching published articles and book chapters using Scopus and Google scholar. I only included articles that compared the temporal variation of bird composition or resources between different levels of urbanization. Results In general, there is evidence of temporal stabilization of abiotic and biotic factors at the three time scales considered. At the diurnal scale, the main factor considered was artificial light in the context of light pollution. At the seasonal and interannual scales, several case studies found a smaller temporal variation of primary productivity in urban than in natural and rural areas. Bird species composition showed more stabilization in urban environments at the three temporal scales: (1) several case studies reported bird activity at night, associated with artificial light; (2) studies in urban parks and along urbanization gradients showed smaller seasonal variation of bird composition in the more urbanized areas; and (3) in general, case studies along urbanization gradients showed smaller interannual variation of bird composition in the more urbanized areas, although some studies showed no relationships or opposite trends than expected. Discussion The published evidence suggests that urban areas dampen the natural cycles at several temporal scales. The stabilization of biotic and abiotic factors, such as light, temperature, food and habitat structure, is desynchronized from natural diurnal, seasonal and interannual cycles. However, there is a dearth of long-term comparisons of bird composition and studies that simultaneously analyze the relationship between resources and bird composition stabilization at the seasonal and interannual scales. More research is needed in the Southern hemisphere, where there is a lack of studies dealing with the seasonal and interannual variations of primary productivity along urbanization gradients and nocturnal activity of bird species. A future research agenda should include differentiation of spatial and temporal homogenization of avifaunas."
+        },
+        {
+            "paperId": "b2ea3ec39b01de5d2a71c4324a43d291f4c79b98",
+            "title": "Does spring bring colors? Seasonal bird plumage color variation along urban-rural gradients",
+            "year": 2022,
+            "openAccessPdf": {
+                "url": "https://doi.org/10.1016/j.pecon.2021.11.002",
+                "status": "GOLD",
+                "license": "CCBYNCND",
+                "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.pecon.2021.11.002?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.pecon.2021.11.002, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "6739216",
+                    "name": "Lucas M. Leveau"
+                }
+            ],
+            "abstract": "Urbanization alters the landscape through the replacement of natural vegetation by impervious surfaces, probably inducing changes in interspeciﬁc bird color diversity and composition. However, the seasonal changes of bird color diversity and composition along urban-rural gradients have not been analyzed yet. The objective of this study was to analyze the seasonal variation of bird color diversity and composition of bird assemblages along urban-rural gradients of three cities in central Argentina. Bird surveys were made in urban, suburban and rural areas during the breeding and non-breeding seasons. Color description was obtained from the literature. Color diversity and the seasonal color dissimilarity were calculated using the mean pairwise distance functional index. Null models that control for species richness were used to estimate standardized effect sizes (SES). Color diversity increased during the breeding season. However, the SES of color diversity did not change between seasons. Color diversity and the SES of color diversity were higher in rural areas than in urban habitats. The color seasonal dissimilarity was the lowest in urban habitats. City size was negatively related to the color seasonal dissimilarity in urban and suburban habitats. Species with brown, black and dimorphic plumages showed seasonal changes in their abundances in rural habitats, whereas plumage colors in urban habitats remained stable between seasons. The results showed that bird color diversity increase during the breeding season, but this increase is related to the arrival of more species during the breeding season to rural areas. Urban areas showed a seasonal homogenization of bird colors."
+        },
+        {
+            "paperId": "aab5335c770100df04dff5a006a2ab88dc3faac7",
+            "title": "Bird color and taxonomic diversity are negatively related to human disturbance in urban parks",
+            "year": 2024,
+            "openAccessPdf": {
+                "url": "https://we.copernicus.org/articles/24/1/2024/we-24-1-2024.pdf",
+                "status": "GOLD",
+                "license": "CCBY",
+                "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.5194/we-24-1-2024?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.5194/we-24-1-2024, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "6739216",
+                    "name": "Lucas M. Leveau"
+                },
+                {
+                    "authorId": "2283023182",
+                    "name": "Juan Kopp"
+                }
+            ],
+            "abstract": "Abstract. Recently, studies have shown that highly urbanized areas are numerically dominated by birds with grey plumage, probably favoring camouflage with impervious grey surfaces. However, patterns of bird color diversity in urban green areas remain unexplored. In urban parks, sites surrounded by highly urbanized areas may be dominated by grey bird species, whereas urban parks with pedestrians that feed birds may favor commensal birds which also have grey plumage. Thus, we explore the relationship between environmental variables and bird taxonomic and color diversity in urban parks. Bird surveys were conducted twice by fixed points in urban parks of six cities in central Argentina. Bird color diversity was assessed by characterizing bird plumage coloration in different parts of the bird body and the presence of plumage sexual dimorphism, polymorphism, and iridescence. Then, color richness and color diversity (abundance-based) were calculated with species mean pairwise distance. Null models were used to quantify richness-corrected color diversity. Bird species richness and diversity increased with green-area size, and bird diversity decreased with increasing pedestrian traffic. Color richness decreased with increasing car traffic, whereas color diversity was positively related to green-area size and negatively related to car and pedestrian traffic. Richness-corrected color diversity related negatively to car and pedestrian traffic. The abundance of grey birds increased in parks near the urban centers and related positively to pedestrian and car traffic. The abundance of yellow birds increased in parks near rural areas or small cities. Color diversity increased with green-area size, but richness-corrected color diversity ceased to be related to area size. Therefore, the increase in color diversity with area size was mediated by increases in species richness. Color diversity was clustered in parks with the highest human disturbance, favoring the abundance of grey species which probably took advantage of food discarded by humans.\n"
+        }
+    ],
+    "supplemental feeding reduces bird migration": [
+        {
+            "paperId": "0ccc7691a9fa1ccd5005d84ef5ef542d450e4fc8",
+            "title": "The evolutionary history and genomics of European blackcap migration",
+            "year": 2020,
+            "openAccessPdf": {
+                "url": "https://doi.org/10.7554/elife.54462",
+                "status": "GOLD",
+                "license": "CCBY",
+                "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC7173969, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "4079225",
+                    "name": "K. Delmore"
+                },
+                {
+                    "authorId": "5848682",
+                    "name": "J. Illera"
+                },
+                {
+                    "authorId": "1401423792",
+                    "name": "J. Pérez‐Tris"
+                },
+                {
+                    "authorId": "3612335",
+                    "name": "G. Segelbacher"
+                },
+                {
+                    "authorId": "15220585",
+                    "name": "J. S. Lugo Ramos"
+                },
+                {
+                    "authorId": "47210829",
+                    "name": "Gillian Durieux"
+                },
+                {
+                    "authorId": "7402179",
+                    "name": "Jun Ishigohoka"
+                },
+                {
+                    "authorId": "6074529",
+                    "name": "M. Liedvogel"
+                }
+            ],
+            "abstract": "Seasonal migration is a taxonomically widespread behaviour that integrates across many traits. The European blackcap exhibits enormous variation in migration and is renowned for research on its evolution and genetic basis. We assembled a reference genome for blackcaps and obtained whole genome resequencing data from individuals across its breeding range. Analyses of population structure and demography suggested divergence began ~30,000 ya, with evidence for one admixture event between migrant and resident continent birds ~5000 ya. The propensity to migrate, orientation and distance of migration all map to a small number of genomic regions that do not overlap with results from other species, suggesting that there are multiple ways to generate variation in migration. Strongly associated single nucleotide polymorphisms (SNPs) were located in regulatory regions of candidate genes that may serve as major regulators of the migratory syndrome. Evidence for selection on shared variation was documented, providing a mechanism by which rapid changes may evolve."
+        },
+        {
+            "paperId": "e335468e5e72a1f91963fe22b44dff181959b06e",
+            "title": "Individual variability and versatility in an eco-evolutionary model of avian migration",
+            "year": 2020,
+            "openAccessPdf": {
+                "url": "https://royalsocietypublishing.org/doi/pdf/10.1098/rspb.2020.1339",
+                "status": "HYBRID",
+                "license": "CCBY",
+                "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC7735267, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "4079225",
+                    "name": "K. Delmore"
+                },
+                {
+                    "authorId": "7493917",
+                    "name": "Benjamin M. Van Doren"
+                },
+                {
+                    "authorId": "15793249",
+                    "name": "Greg J. Conway"
+                },
+                {
+                    "authorId": "89612158",
+                    "name": "Teja Curk"
+                },
+                {
+                    "authorId": "2007832447",
+                    "name": "T. Garrido-Garduño"
+                },
+                {
+                    "authorId": "5503663",
+                    "name": "Ryan R. Germain"
+                },
+                {
+                    "authorId": "91316604",
+                    "name": "T. Hasselmann"
+                },
+                {
+                    "authorId": "23947283",
+                    "name": "Dieter Hiemer"
+                },
+                {
+                    "authorId": "6773885",
+                    "name": "H. P. van der Jeugd"
+                },
+                {
+                    "authorId": "2007826397",
+                    "name": "Hannah C. Justen"
+                },
+                {
+                    "authorId": "15220585",
+                    "name": "J. S. Lugo Ramos"
+                },
+                {
+                    "authorId": "6897515",
+                    "name": "I. Maggini"
+                },
+                {
+                    "authorId": "39392119",
+                    "name": "Britta S. Meyer"
+                },
+                {
+                    "authorId": "2007427721",
+                    "name": "R. J. Phillips"
+                },
+                {
+                    "authorId": "21519345",
+                    "name": "M. Remisiewicz"
+                },
+                {
+                    "authorId": "2007823645",
+                    "name": "Graham C. M. Roberts"
+                },
+                {
+                    "authorId": "6799312",
+                    "name": "B. Sheldon"
+                },
+                {
+                    "authorId": "51226809",
+                    "name": "W. Vogl"
+                },
+                {
+                    "authorId": "6074529",
+                    "name": "M. Liedvogel"
+                }
+            ],
+            "abstract": "Seasonal migration is a complex and variable behaviour with the potential to promote reproductive isolation. In Eurasian blackcaps (Sylvia atricapilla), a migratory divide in central Europe separating populations with southwest (SW) and southeast (SE) autumn routes may facilitate isolation, and individuals using new wintering areas in Britain show divergence from Mediterranean winterers. We tracked 100 blackcaps in the wild to characterize these strategies. Blackcaps to the west and east of the divide used predominantly SW and SE directions, respectively, but close to the contact zone many individuals took intermediate (S) routes. At 14.0° E, we documented a sharp transition from SW to SE migratory directions across only 27 (10–86) km, implying a strong selection gradient across the divide. Blackcaps wintering in Britain took northwesterly migration routes from continental European breeding grounds. They originated from a surprisingly extensive area, spanning 2000 km of the breeding range. British winterers bred in sympatry with SW-bound migrants but arrived 9.8 days earlier on the breeding grounds, suggesting some potential for assortative mating by timing. Overall, our data reveal complex variation in songbird migration and suggest that selection can maintain variation in migration direction across short distances while enabling the spread of a novel strategy across a wide range."
+        },
+        {
+            "paperId": "321e692f38a5f8c1d4651b3ce9d894eab4373316",
+            "title": "Human activity shapes the wintering ecology of a migratory bird",
+            "year": 2021,
+            "openAccessPdf": {
+                "url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/gcb.15597",
+                "status": "HYBRID",
+                "license": "CCBY",
+                "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1111/gcb.15597?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1111/gcb.15597, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "7493917",
+                    "name": "Benjamin M. Van Doren"
+                },
+                {
+                    "authorId": "15793249",
+                    "name": "Greg J. Conway"
+                },
+                {
+                    "authorId": "2007427721",
+                    "name": "R. J. Phillips"
+                },
+                {
+                    "authorId": "2149870826",
+                    "name": "G. C. Evans"
+                },
+                {
+                    "authorId": "2007823645",
+                    "name": "Graham C. M. Roberts"
+                },
+                {
+                    "authorId": "6074529",
+                    "name": "M. Liedvogel"
+                },
+                {
+                    "authorId": "6799312",
+                    "name": "B. Sheldon"
+                }
+            ],
+            "abstract": "Human behavior profoundly affects the natural world. Migratory birds are particularly susceptible to adverse effects of human activities because the global networks of ecosystems on which birds rely are undergoing rapid change. In spite of these challenges, the blackcap (Sylvia atricapilla) is a thriving migratory species. Its recent establishment of high‐latitude wintering areas in Britain and Ireland has been linked to climate change and backyard bird feeding, exemplifying the interaction between human activity and migrant ecology. To understand how anthropogenic influences shape avian movements and ecology, we marked 623 wintering blackcaps at 59 sites across Britain and Ireland and compiled a dataset of 9929 encounters. We investigated visitation behavior at garden feeding sites, inter‐annual site fidelity, and movements within and across seasons. We analyzed migration tracks from 25 geolocators fitted to a subset of individuals to understand how garden behavior may impact subsequent migration and breeding. We found that blackcaps wintering in Britain and Ireland showed high site fidelity and low transience among wintering sites, in contrast to the itinerant movements characteristic of blackcaps wintering in their traditional winter range. First‐winter birds showed lower site fidelity and a greater likelihood of transience than adults. Adults that frequented gardens had better body condition, smaller fat stores, longer bills, and rounder wingtips. However, blackcaps did not exclusively feed in gardens; visits were linked to harsher weather. Individuals generally stayed at garden sites until immediately before spring departure. Our results suggest that supplementary feeding is modifying blackcap winter ecology and driving morphological evolution. Supplemental feeding may have multifaceted benefits on winter survival, and these positive effects may carry over to migration and subsequent breeding. Overall, the high individual variability in blackcap movement and foraging ecology, and the flexibility it imparts, may have allowed this species to flourish during rapid environmental change."
+        },
+        {
+            "paperId": "8a5501bb1e82c4641c65d50cbcb54ff0fb042095",
+            "title": "Habitat-use influences severe disease-mediated population declines in two of the most common garden bird species in Great Britain",
+            "year": 2022,
+            "openAccessPdf": {
+                "url": "https://www.nature.com/articles/s41598-022-18880-8.pdf",
+                "status": "GOLD",
+                "license": "CCBY",
+                "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC9445085, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "10677448",
+                    "name": "H. Hanmer"
+                },
+                {
+                    "authorId": "1767175",
+                    "name": "A. Cunningham"
+                },
+                {
+                    "authorId": "2149715936",
+                    "name": "S. John"
+                },
+                {
+                    "authorId": "2184143200",
+                    "name": "Shaheed K Magregor"
+                },
+                {
+                    "authorId": "2067855693",
+                    "name": "R. A. Robinson"
+                },
+                {
+                    "authorId": "1402019923",
+                    "name": "Katharina Seilern-Moy"
+                },
+                {
+                    "authorId": "87654532",
+                    "name": "G. Siriwardena"
+                },
+                {
+                    "authorId": "6699802",
+                    "name": "B. Lawson"
+                }
+            ],
+            "abstract": "The influence of supplementary feeding of wildlife on disease transmission and its consequent impacts on population dynamics are underappreciated. In Great Britain, supplementary feeding is hypothesised to have enabled the spread of the protozoan parasite, Trichomonas gallinae, from columbids to finches, leading to epidemic finch trichomonosis and a rapid population decline of greenfinch (Chloris chloris). More recently, chaffinch (Fringilla coelebs), has also declined markedly from the second to fifth commonest bird in Britain. Using citizen science data, we show that both declines were driven primarily by reduced adult survival, with the greatest reductions occurring in peri-domestic habitats, where supplementary food provision is common. Post-mortem examinations showed a proportional increase in chaffinch trichomonosis cases, near-contemporaneous with its population decline. Like greenfinches, chaffinches often use supplementary food, but are less associated with human habitation. Our results support the hypothesis that supplementary feeding can increase parasite transmission frequency within and between common species. However, the dynamics behind resultant population change can vary markedly, highlighting the need for integrating disease surveillance with demographic monitoring. Other species susceptible to T. gallinae infection may also be at risk. Supplementary feeding guidelines for wildlife should include disease mitigation strategies to ensure that benefits to target species outweigh risks."
+        },
+        {
+            "paperId": "9643a74ec8bbe0de8c8e0717ddc85bf8a85525c5",
+            "title": "A hemeroby gradient reveals the structure of bird communities in urban parks",
+            "year": 2024,
+            "openAccessPdf": {
+                "url": "https://doi.org/10.15421/012446",
+                "status": "GOLD",
+                "license": "CCBY",
+                "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.15421/012446?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.15421/012446, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "2287031197",
+                    "name": "Y. Komlyk"
+                },
+                {
+                    "authorId": "2287014879",
+                    "name": "O. Ponomarenko"
+                },
+                {
+                    "authorId": "2344453722",
+                    "name": "O. Zhukov"
+                }
+            ],
+            "abstract": "The spatial structure and composition of urban parks play a crucial role in shaping bird communities by determining the availability and quality of suitable sites for nesting, feeding, and shelter. In this study, we investigated bird communities inhabiting urban parks and squares in Dnipro, Ukraine, during the breeding seasons of 2022–2024. Using transect counts, information-logical data analysis, and ecological data classification methods, we analyzed bird species composition and their substrate preferences to identify ecological clusters. Based on substrate preferences and ecological adaptations, we identified 12 distinct clusters, some of which reflect different levels of hemeroby – the degree of anthropogenic impact on ecosystems. Species such as the lesser whitethroat ( Sylvia curruca ), tree pipit ( Anthus trivialis ), icterine warbler ( Hippolais icterina ), and common cuckoo ( Cuculus canorus ) were rarely found in urban parks due to specific habitat requirements, indicating areas of low hemeroby. Conversely, species like the woodpigeon ( Columba palumbus ), common starling ( Sturnus vulgaris ), collared flycatcher ( Ficedula albicollis ), and fieldfare ( Turdus pilaris ) were more prevalent, suggesting areas with moderate to high levels of hemeroby. Moreover, we identified bird species that exhibit remarkable adaptability, thriving both in urban park areas and natural habitats. These include the great tit ( Parus major ), hooded crow ( Corvus cornix ), and chaffinch ( Fringi l la coelebs ). Their widespread presence across diverse environments underscores their ecological versatility and importance in both urban and natural ecosystems. The widespread presence of species such as the tree sparrow ( Passer montanus ) indicates significant ecological transformation within these urban parks. These findings emphasize the importance of specific habitat features in supporting diverse bird communities and reveal varying degrees of species sensitivity to urbanization. The presence of these species in park bird communities allows one to assess the level of anthropogenic landscape transformation and can be used for monitoring the ecological state of urban areas. The results underscore the critical importance of conserving and restoring diverse habitats in urban parks and squares, which will support a wide range of bird species, including those adapted to urban environments and those more sensitive to changes."
+        }
+    ],
+    "urban overwintering temporal bird homogenization": [
+        {
+            "paperId": "7faf945d688c846a5da073ca73c8f3545d990178",
+            "title": "The effects of habitat heterogeneity on avian density and richness in soybean fields in Entre Ríos, Argentina",
+            "year": 2008,
+            "openAccessPdf": {
+                "url": "https://elhornero.avesargentinas.org.ar/index.php/home/article/download/734/721",
+                "status": "GOLD",
+                "license": "CCBYNC",
+                "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.56178/eh.v23i2.734?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.56178/eh.v23i2.734, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "2049636831",
+                    "name": "Andrea P. G Oijman"
+                },
+                {
+                    "authorId": "49086592",
+                    "name": "M. Zaccagnini"
+                }
+            ],
+            "abstract": "Birds play several roles in agricultural lands and respond to habitat heterogeneity within the agricultural landscape. Agricultural intensification in Argentina has increased the sown area, mainly with soybean, fragmenting landscapes in the pampas and mesopotamic region. In Entre Ríos Province, the original Espinal forest has been fragmented, leaving remnant patches of natural vegetation, in cases modified by cattle grazing. These changes represent a potential threat for avian conservation. In Entre Ríos, terraces may be a useful habitat in maintaining avian diversity, similar to other non-cropped linear habitats in agricultural landscapes. We tested the hypothesis that habitat heterogeneity created by terraces would maintain higher species richness and densities of avian species that use original or modified forests within cropped areas compared to fields without terraces. The study was carried out in soybean fields with an adjacent forest and either herbaceous, shrub or no terraces in two periods (March-April 2004). Birds were surveyed using line transects in field interior and edge, and observations were carried out in one forest remnant adjoining each field. Most bird species recorded in soybean fields were insectivorous or consume invertebrates during the breeding season. Species richness, total bird density and the density of granivores, insectivores and omnivores were higher in fields with terraces than in fields without terraces. Moreover, shrub terraces had higher effect on species richness and bird density than herbaceous terraces. Our results suggest that terraces may serve as a possible tool for maintaining avian diversity in agroecosystems in Entre Ríos."
+        },
+        {
+            "paperId": "16e05c73162ce2b35af0c624d57d6c73426d7f2b",
+            "title": "Uso de bordes de cultivo por aves durante invierno y primavera en la Pampa Austral",
+            "year": 2011,
+            "openAccessPdf": {
+                "url": "https://elhornero.avesargentinas.org.ar/index.php/home/article/download/685/668",
+                "status": "GOLD",
+                "license": "CCBYNC",
+                "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.56178/eh.v26i2.685?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.56178/eh.v26i2.685, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "2089437997",
+                    "name": "L. Leveau"
+                },
+                {
+                    "authorId": "2076863737",
+                    "name": "C. Leveau"
+                }
+            ],
+            "abstract": "La variación estacional de los ensambles de aves de los bordes de cultivo ha sido poco estudiada. El objetivo de este trabajo es analizar el uso de diferentes tipos de bordes de cultivo durante el invierno y la primavera en el sudeste de la provincia de Buenos Aires, Argentina. Se registró un mayor uso de los bordes durante primavera, aunque en invierno algunas especies hicieron un mayor uso del interior de los campos. Los bordes con arboledas y de pastizal fueron los más utilizados en ambas estaciones. Los bordes arbolados fueron más utilizados por especies insectívoras en primavera, mientras que durante el invierno los granívoros usaron más los bordes de pastizal. Los bordes tuvieron una mayor riqueza de especies en primavera, mientras que la abundancia de aves fue mayor durante ese periodo solo en bordes con arboledas y cultivados. La similitud entre los ensambles de aves estuvo relacionada con la similitud en la estructura de los distintos tipos de bordes. Los resultados obtenidos muestran que las políticas de manejo deben considerar la estacionalidad y las diferencias en la composición de los ensambles de los distintos tipos de bordes."
+        },
+        {
+            "paperId": "34fecee251030ca209782f2903c80da1a8f03446",
+            "title": "Urbanization and the temporal homogenization of bird communities: a case study in central Argentina",
+            "year": 2015,
+            "openAccessPdf": {
+                "url": "https://ri.conicet.gov.ar/bitstream/11336/48325/2/CONICET_Digital_Nro.f7fd9f35-fc24-4ace-8972-53daa4965175_A.pdf",
+                "status": "GREEN",
+                "license": "CCBYNCSA",
+                "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s11252-015-0469-1?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s11252-015-0469-1, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "6739216",
+                    "name": "Lucas M. Leveau"
+                },
+                {
+                    "authorId": "1868230",
+                    "name": "F. Isla"
+                },
+                {
+                    "authorId": "5739705",
+                    "name": "M. I. Bellocq"
+                }
+            ],
+            "abstract": "Urban expansion to rural and natural areas is a global process. Although several studies have analyzed bird community attributes along urbanization gradients, little is known on the impact of urbanization on temporal variability of bird communities. Rural areas show higher seasonal and interannual variability in environmental conditions and resources than do urban areas. Our objectives are to determine how seasonal and interannual variability in bird assemblages change along an urban–rural gradient, and how interannual variability in bird assemblages changes with season. Low seasonal and interannual variability of bird communities is expected in urbanized areas that show a process of temporal homogenization. Seasonal variability of bird richness and abundance were positively related to the percent cover of crops. Seasonal and interannual variability in community composition were positively related to coverage of herbaceous vegetation and crops, and negatively related to coverage of impervious areas. Interannual variability of bird richness and abundance were highest during the non-breeding season. We conclude that highly urbanized areas allow bird communities to have a more stable composition over time, promoting temporal homogenization. Our results emphasize that urbanization alters the temporal dynamics of resources and, therefore, the temporal variability of bird communities."
+        },
+        {
+            "paperId": "90bd91e3980722e6200a56253b3d527b8c58a296",
+            "title": "Temporally Stable Species Occupancy Frequency Distribution and Abundance–Occupancy Relationship Patterns in Urban Wintering Bird Assemblages",
+            "year": 2019,
+            "openAccessPdf": {
+                "url": "https://www.frontiersin.org/articles/10.3389/fevo.2019.00129/pdf",
+                "status": "GOLD",
+                "license": "CCBY",
+                "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3389/fevo.2019.00129?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3389/fevo.2019.00129, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "50454691",
+                    "name": "J. Suhonen"
+                },
+                {
+                    "authorId": "6084831",
+                    "name": "J. Jokimäki"
+                }
+            ],
+            "abstract": "Urbanization is negatively affecting biodiversity worldwide and general ecological patterns may also differ between urban and more natural areas. The main aim of this study was to examine if urbanization has effects on the wintering species occupancy frequency distribution (SOFD) and species abundance-occupancy relationship (SAOR), and if the observed patterns varied between winters, different sizes of towns and regionally in Finland. In this study temporal variation of the SOFD and SAOR patterns were studied in 29 town and village centers along a 950 km (60-68˚ N) latitudinal gradient during mid-winters in Finland. Wintering bird were counted during three winters (1991-1992, 1999-2000, and 2009-2010) from the same study sites and with the same survey methods. A total of 35 wintering bird species and 13285 individuals were detected. The bimodal symmetric SOFD pattern explained best the distribution of species in the pooled data, and the observed pattern was constant between the study winters, different sized of towns and towns located in southern and northern Finland. Three species (Parus major, Pica pica and Passer domesticus) were core species during all winters, irrespective of the size of town or latitude. There was slightly higher number of species belonging in satellite species group in the southern than in the northern towns. No changes of species from the core- to satellite-species were detected, and vice versa. However, occupancy rate of some species belonging to the intermediate species group either moved towards satellite-species or core-species across winters. The SAOR pattern was positive and stable over study winters and did not differ between different sizes of towns or town location. Our results indicated that urbanization leads a structure of winter bird community, where there is few widely distributed sedentary core species and many partially migratory or migratory satellite species with a restricted distribution. Our results also demonstrated that urbanization stabilize between-winter community structure, probably because of intensive winter feeding activities. Our results give support to the meta-population model, which predicts a bimodal SOFD pattern."
+        },
+        {
+            "paperId": "db3f88b5ff161b2156043447e322dae098596e3e",
+            "title": "Disentangling the drivers of urban bird diversity in the non‐breeding season: A general synthesis",
+            "year": 2024,
+            "openAccessPdf": {
+                "url": "https://doi.org/10.1111/gcb.17421",
+                "status": "HYBRID",
+                "license": "CCBYNCND",
+                "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1111/gcb.17421?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1111/gcb.17421, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "1403546322",
+                    "name": "Israel Moreno-Contreras"
+                },
+                {
+                    "authorId": "6084831",
+                    "name": "J. Jokimäki"
+                },
+                {
+                    "authorId": "1403737987",
+                    "name": "Marja‐Liisa Kaisanlahti‐Jokimäki"
+                },
+                {
+                    "authorId": "6739216",
+                    "name": "Lucas M. Leveau"
+                },
+                {
+                    "authorId": "50454691",
+                    "name": "J. Suhonen"
+                },
+                {
+                    "authorId": "2240671315",
+                    "name": "Joseph A. Tobias"
+                },
+                {
+                    "authorId": "2248689776",
+                    "name": "P. Tryjanowski"
+                }
+            ],
+            "abstract": "Current knowledge about the impacts of urbanisation on bird assemblages is based on evidence from studies partly or wholly undertaken in the breeding season. In comparison, the non‐breeding season remains little studied, despite the fact that winter conditions at higher latitudes are changing more rapidly than other seasons. During the non‐breeding season, cities may attract or retain bird species because they offer milder conditions or better feeding opportunities than surrounding habitats. However, the range of climatic, ecological and anthropogenic mechanisms shaping different facets of urban bird diversity in the non‐breeding season are poorly understood. We explored these mechanisms using structural equation modelling to assess how urbanisation affects the taxonomic, phylogenetic and functional diversity of avian assemblages sampled worldwide in the non‐breeding season. We found that minimum temperature, elevation, urban area and city age played a critical role in determining taxonomic diversity while a range of factors—including productivity, precipitation, elevation, distance to coasts and rivers, socio‐economic (as a proxy of human facilitation) and road density—each contributed to patterns of phylogenetic and functional diversity. The structure and function of urban bird assemblages appear to be predominantly shaped by temperature, productivity and city age, with effects of these factors differing across seasons. Our results underline the importance of considering multiple hypotheses, including seasonal effects, when evaluating the impacts of urbanisation on biodiversity."
+        }
+    ],
+    "winter food subsidies community turnover": [
+        {
+            "paperId": "edc42ebd10600bd73fa5c742867e2fa165f69aef",
+            "title": "Hypertension and Exposure to Noise Near Airports: the HYENA Study",
+            "year": 2007,
+            "openAccessPdf": {
+                "url": "https://doi.org/10.1289/ehp.10775",
+                "status": "GOLD",
+                "license": "public-domain",
+                "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC2265027, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "3699882",
+                    "name": "L. Jarup"
+                },
+                {
+                    "authorId": "6393303",
+                    "name": "W. Babisch"
+                },
+                {
+                    "authorId": "3851572",
+                    "name": "D. Houthuijs"
+                },
+                {
+                    "authorId": "3594026",
+                    "name": "G. Pershagen"
+                },
+                {
+                    "authorId": "152736825",
+                    "name": "K. Katsouyanni"
+                },
+                {
+                    "authorId": "3856679",
+                    "name": "E. Cadum"
+                },
+                {
+                    "authorId": "35730434",
+                    "name": "Marie-Louise Dudley"
+                },
+                {
+                    "authorId": "1419703907",
+                    "name": "Pauline Savigny"
+                },
+                {
+                    "authorId": "6069793",
+                    "name": "I. Seiffert"
+                },
+                {
+                    "authorId": "143675441",
+                    "name": "W. Swart"
+                },
+                {
+                    "authorId": "5482157",
+                    "name": "O. Breugelmans"
+                },
+                {
+                    "authorId": "40222542",
+                    "name": "G. Bluhm"
+                },
+                {
+                    "authorId": "2249649108",
+                    "name": "Jenny Selander"
+                },
+                {
+                    "authorId": "5483323",
+                    "name": "A. Haralabidis"
+                },
+                {
+                    "authorId": "4109314",
+                    "name": "K. Dimakopoulou"
+                },
+                {
+                    "authorId": "3592887",
+                    "name": "P. Sourtzi"
+                },
+                {
+                    "authorId": "7008563",
+                    "name": "M. Velonakis"
+                },
+                {
+                    "authorId": "2291754607",
+                    "name": "F. Vigna-Taglianti"
+                }
+            ],
+            "abstract": "Background An increasing number of people are exposed to aircraft and road traffic noise. Hypertension is an important risk factor for cardiovascular disease, and even a small contribution in risk from environmental factors may have a major impact on public health. Objectives The HYENA (Hypertension and Exposure to Noise near Airports) study aimed to assess the relations between noise from aircraft or road traffic near airports and the risk of hypertension. Methods We measured blood pressure and collected data on health, socioeconomic, and lifestyle factors, including diet and physical activity, via questionnaire at home visits for 4,861 persons 45–70 years of age, who had lived at least 5 years near any of six major European airports. We assessed noise exposure using detailed models with a resolution of 1 dB (5 dB for United Kingdom road traffic noise), and a spatial resolution of 250 × 250 m for aircraft and 10 × 10 m for road traffic noise. Results We found significant exposure–response relationships between night-time aircraft as well as average daily road traffic noise exposure and risk of hypertension after adjustment for major confounders. For night-time aircraft noise, a 10-dB increase in exposure was associated with an odds ratio (OR) of 1.14 [95% confidence interval (CI), 1.01–1.29]. The exposure–response relationships were similar for road traffic noise and stronger for men with an OR of 1.54 (95% CI, 0.99–2.40) in the highest exposure category (> 65 dB; ptrend = 0.008). Conclusions Our results indicate excess risks of hypertension related to long-term noise exposure, primarily for night-time aircraft noise and daily average road traffic noise."
+        },
+        {
+            "paperId": "9b2e578fbd768b6b0a7975b4bd139f449e6802db",
+            "title": "Noise Pollution Filters Bird Communities Based on Vocal Frequency",
+            "year": 2011,
+            "openAccessPdf": {
+                "url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0027052&type=printable",
+                "status": "GOLD",
+                "license": "CCBY",
+                "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC3212537, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "7535039",
+                    "name": "C. D. Francis"
+                },
+                {
+                    "authorId": "144533318",
+                    "name": "C. P. Ortega"
+                },
+                {
+                    "authorId": "144040798",
+                    "name": "A. Cruz"
+                }
+            ],
+            "abstract": "Background Human-generated noise pollution now permeates natural habitats worldwide, presenting evolutionarily novel acoustic conditions unprecedented to most landscapes. These acoustics not only harm humans, but threaten wildlife, and especially birds, via changes to species densities, foraging behavior, reproductive success, and predator-prey interactions. Explanations for negative effects of noise on birds include disruption of acoustic communication through energetic masking, potentially forcing species that rely upon acoustic communication to abandon otherwise suitable areas. However, this hypothesis has not been adequately tested because confounding stimuli often co-vary with noise and are difficult to separate from noise exposure. Methodology/Principal Findings Using a natural experiment that controls for confounding stimuli, we evaluate whether species vocal features or urban-tolerance classifications explain their responses to noise measured through habitat use. Two data sets representing nesting and abundance responses reveal that noise filters bird communities nonrandomly. Signal duration and urban tolerance failed to explain species-specific responses, but birds with low-frequency signals that are more susceptible to masking from noise avoided noisy areas and birds with higher frequency vocalizations remained. Signal frequency was also negatively correlated with body mass, suggesting that larger birds may be more sensitive to noise due to the link between body size and vocal frequency. Conclusions/Significance Our findings suggest that acoustic masking by noise may be a strong selective force shaping the ecology of birds worldwide. Larger birds with lower frequency signals may be excluded from noisy areas, whereas smaller species persist via transmission of higher frequency signals. We discuss our findings as they relate to interspecific relationships among body size, vocal amplitude and frequency and suggest that they are immediately relevant to the global problem of increases in noise by providing critical insight as to which species traits influence tolerance of these novel acoustics."
+        },
+        {
+            "paperId": "c053fb326ff8a853aa70395751da508d34b3242a",
+            "title": "Homogenizing effects of cities on North American winter bird diversity",
+            "year": 2016,
+            "openAccessPdf": {
+                "url": "https://esajournals.onlinelibrary.wiley.com/doi/pdfdirect/10.1002/ecs2.1216",
+                "status": "GOLD",
+                "license": "CCBY",
+                "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1002/ECS2.1216?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1002/ECS2.1216, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "22722929",
+                    "name": "Adeline Murthy"
+                },
+                {
+                    "authorId": "2487004",
+                    "name": "Trevor S. Fristoe"
+                },
+                {
+                    "authorId": "48198807",
+                    "name": "J. R. Burger"
+                }
+            ],
+            "abstract": "Urbanization is widespread throughout the United States and Canada. Studies at different scales have shown mixed consequences of urban areas for ecological communities and biodiversity. Here, we use geographic data on urban extent and survey data from the Christmas Bird Count to investigate the influence of urbanization on winter bird diversity over a continental scale. We compared the alpha (local richness) and beta diversity (turnover with distance) of 42 urban bird communities to nearby non-urban communities. We investigated the processes underlying beta diversity between non-urban and urban sites by comparing the frequency of occurrence in species and variability in relative abundances across sites. Alpha diversity was statistically indistinguishable between urban and non-urban sites when controlling for latitude. Community similarity decreased less rapidly over distance in urban compared to non-urban sites, indicating that spatial homogenization from urbanization results in lower beta diversity. Eighteen species of non-native or native generalists occurred across all urban sites, whereas no species occurred in all non-urban sites. Mean-variance scaling of relative abundance shows that species in urban sites maintained similar levels of community dominance across space compared to non-urban sites. The widespread presence of urban species is likely due to similarity in habitats among cities compared to nearby non-urban sites. The decreased variability in relative abundance of urban species is possibly due to urban resource subsidies (e.g., bird feeders, garbage, and irrigation) and shelter (e.g., landscaping, buildings, and microclimates). The increased occurrence of widespread species in cities and less variation in relative abundances across urban sites contribute to the homogenizing effect of cities on avian communities."
+        },
+        {
+            "paperId": "f53c57e0ad39f42e6ad11035598d16cf28439d2f",
+            "title": "The Greener the Better! Avian Communities Across a Neotropical Gradient of Urbanization Density",
+            "year": 2020,
+            "openAccessPdf": {
+                "url": "https://www.frontiersin.org/articles/10.3389/fevo.2020.500791/pdf",
+                "status": "GOLD",
+                "license": "CCBY",
+                "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3389/fevo.2020.500791?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3389/fevo.2020.500791, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "1422456501",
+                    "name": "J. F. Escobar-Ibáñez"
+                },
+                {
+                    "authorId": "1420279634",
+                    "name": "Rafael Rueda-Hernández"
+                },
+                {
+                    "authorId": "1399134098",
+                    "name": "I. MacGregor‐Fors"
+                }
+            ],
+            "abstract": "Urbanization has been recognized as one of the most widespread threats to biodiversity. However, the response of wildlife to urbanization differs among groups, with many species being able to persist, adapt, and even thrive in these novel ecosystems. With the aim of assessing the response of avian communities in a neotropical green city, we evaluated their species richness and composition across a gradient of urbanization density comprised by a citywide survey performed in two consecutive years and considering both breeding and non-breeding seasons. As expected, species richness decreased with urbanization. Species loss was drastic when considering data from both years and both seasons, and gradual when seasons were assessed separately. Avian composition for both years and seasons differed largely between the less urbanized and the more urbanized sites, whereas sites with intermediate built cover showed to be more similar to each other. When evaluating avian composition by season in both years, highest differences were recorded between more urbanized sites and all other studied sites, while less urbanized sites showed high similarity regardless of the surveyed season. Sites with intermediate built cover had higher similarity among seasons, showing that such conditions shelter similar species in both seasons. This study presents findings on one of the first citywide gradients of urbanization density from the urban Neotropics, showing both differences and similarities in relation to previous studies from the Global North. Briefly, our species richness results showed a punctuated decrease when considering both seasons and years, rather than a gradual decrease or humped-shaped relations with higher richness at intermediately urbanized sites. Also, our composition findings stress the high representation of insectivore birds as part of avian communities across a citywide gradient of urbanization density. Undoubtedly, identifying the similarities and differences in the urban ecology patterns across cities, together with the particularities of some urban systems, will allow for increased effectiveness of urban management and planning strategies in the transformation toward more livable, resilient, and biodiverse cities."
+        },
+        {
+            "paperId": "890fcfe9911372717720d02acd89536ea0240a8e",
+            "title": "Effects of light and noise pollution on avian communities of European cities are correlated with the species’ diet",
+            "year": 2023,
+            "openAccessPdf": {
+                "url": "https://www.nature.com/articles/s41598-023-31337-w.pdf",
+                "status": "GOLD",
+                "license": "CCBY",
+                "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC10020436, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "5172241",
+                    "name": "F. Morelli"
+                },
+                {
+                    "authorId": "6530966",
+                    "name": "P. Tryjanowski"
+                },
+                {
+                    "authorId": "1403390904",
+                    "name": "J. D. Ibáñez-Álamo"
+                },
+                {
+                    "authorId": "2152965383",
+                    "name": "Mario Díaz"
+                },
+                {
+                    "authorId": "50454691",
+                    "name": "J. Suhonen"
+                },
+                {
+                    "authorId": "1400937857",
+                    "name": "A. Pape Møller"
+                },
+                {
+                    "authorId": "51136305",
+                    "name": "Jiří Prošek"
+                },
+                {
+                    "authorId": "2050531531",
+                    "name": "D. Moravec"
+                },
+                {
+                    "authorId": "70634144",
+                    "name": "R. Bussière"
+                },
+                {
+                    "authorId": "4138854",
+                    "name": "M. Mägi"
+                },
+                {
+                    "authorId": "21645186",
+                    "name": "T. Kominos"
+                },
+                {
+                    "authorId": "89486165",
+                    "name": "Antonia Galanaki"
+                },
+                {
+                    "authorId": "2118904213",
+                    "name": "Nikos Bukas"
+                },
+                {
+                    "authorId": "104532852",
+                    "name": "G. Markó"
+                },
+                {
+                    "authorId": "87111283",
+                    "name": "F. Pruscini"
+                },
+                {
+                    "authorId": "50787023",
+                    "name": "J. Reif"
+                },
+                {
+                    "authorId": "11398826",
+                    "name": "Yanina Benedetti"
+                }
+            ],
+            "abstract": "Urbanization affects avian community composition in European cities, increasing biotic homogenization. Anthropic pollution (such as light at night and noise) is among the most important drivers shaping bird use in urban areas, where bird species are mainly attracted by urban greenery. In this study, we collected data on 127 breeding bird species at 1349 point counts distributed along a gradient of urbanization in fourteen different European cities. The main aim was to explore the effects of anthropic pollution and city characteristics, on shaping the avian communities, regarding species’ diet composition. The green cover of urban areas increased the number of insectivorous and omnivorous bird species, while slightly decreasing the overall diet heterogeneity of the avian communities. The green heterogeneity—a measure of evenness considering the relative coverage of grass, shrubs and trees—was positively correlated with the richness of granivorous, insectivorous, and omnivorous species, increasing the level of diet heterogeneity in the assemblages. Additionally, the effects of light pollution on avian communities were associated with the species' diet. Overall, light pollution negatively affected insectivorous and omnivorous bird species while not affecting granivorous species. The noise pollution, in contrast, was not significantly associated with changes in species assemblages. Our results offer some tips to urban planners, managers, and ecologists, in the challenge of producing more eco-friendly cities for the future."
+        }
+    ],
+    "urban subsidies dampen avian seasonal fluctuations": [
+        {
+            "paperId": "3f1c2a64e76ebea6474ea936f88a757e72e42040",
+            "title": "Applied Spatial Data Analysis with R",
+            "year": 2015,
+            "openAccessPdf": {
+                "url": "https://link.springer.com/content/pdf/10.1007/BF03354901.pdf",
+                "status": "HYBRID",
+                "license": "CCBY",
+                "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1007/BF03354901?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/BF03354901, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "3237539",
+                    "name": "G. Chi"
+                }
+            ],
+            "abstract": "Applied Spatial Data Analysis with R, second edition, is divided into two basic parts, the first presenting R packages, functions, classes and methods for handling spatial data. This part is of intere... Within both the social and environmental sciences, much of the data collected is within a spatial context and requires statistical analysis for interpretation. The purpose of this book is to describe current methods for the analysis of spatial data. ... Spatial data analysis is a fast growing area and Voronoi diagrams provide a means of naturally partitioning space into subregions to facilitate spatial data manipulation, modelling of spatial structures, pattern recognition and locational optimizatio... With the surge in available spatial data from sources such as GPS and remote sensing, spatial analysis is becoming more important than ever. This volume provides a comprehensive discussion of spatial .... Some Books Bellow will give you all related to applied spatial data analysis with r! Applied Spatial Data Analysis with R, second edition, is divided into two basic parts, the first presenting R packages, functions, classes and methods for handling spatial data."
+        },
+        {
+            "paperId": "94fe5c232f9d483c1ae107ce621b376a4a7291b7",
+            "title": "Sleepless in Town – Drivers of the Temporal Shift in Dawn Song in Urban European Blackbirds",
+            "year": 2013,
+            "openAccessPdf": {
+                "url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0071476&type=printable",
+                "status": "GOLD",
+                "license": "CCBY",
+                "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC3737108, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "2079223073",
+                    "name": "A. Nordt"
+                },
+                {
+                    "authorId": "31085397",
+                    "name": "Reinhard A. Klenke"
+                }
+            ],
+            "abstract": "Organisms living in urban environments are exposed to different environmental conditions compared to their rural conspecifics. Especially anthropogenic noise and artificial night light are closely linked to urbanization and pose new challenges to urban species. Songbirds are particularly affected by these factors, because they rely on the spread of acoustic information and adjust their behaviour to the rhythm of night and day, e.g. time their dawn song according to changing light intensities. Our aim was to clarify the specific contributions of artificial night light and traffic noise on the timing of dawn song of urban European Blackbirds (Turdus merula). We investigated the onset of blackbird dawn song along a steep urban gradient ranging from an urban forest to the city centre of Leipzig, Germany. This gradient of anthropogenic noise and artificial night light was reflected in the timing of dawn song. In the city centre, blackbirds started their dawn song up to 5 hours earlier compared to those in semi-natural habitats. We found traffic noise to be the driving factor of the shift of dawn song into true night, although it was not completely separable from the effects of ambient night light. We additionally included meteorological conditions into the analysis and found an effect on the song onset. Cloudy and cold weather delayed the onset, but cloud cover was assumed to reflect night light emissions, thus, amplified sky luminance and increased the effect of artificial night light. Beside these temporal effects, we also found differences in the spatial autocorrelation of dawn song onset showing a much higher variability in noisy city areas than in rural parks and forests. These findings indicate that urban hazards such as ambient noise and light pollution show a manifold interference with naturally evolved cycles and have significant effects on the activity patterns of urban blackbirds."
+        },
+        {
+            "paperId": "8e87d7af86c1bdf3040a17499331e3add1861e9a",
+            "title": "Seasonal and urban effects on the endocrinology of a wild passerine",
+            "year": 2015,
+            "openAccessPdf": {
+                "url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/ece3.1820",
+                "status": "GOLD",
+                "license": "CCBY",
+                "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC4813110, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "22778349",
+                    "name": "A. Russ"
+                },
+                {
+                    "authorId": "3815862",
+                    "name": "S. Reitemeier"
+                },
+                {
+                    "authorId": "31488321",
+                    "name": "A. Weissmann"
+                },
+                {
+                    "authorId": "49568730",
+                    "name": "J. Gottschalk"
+                },
+                {
+                    "authorId": "3714357",
+                    "name": "A. Einspanier"
+                },
+                {
+                    "authorId": "31085397",
+                    "name": "Reinhard A. Klenke"
+                }
+            ],
+            "abstract": "Abstract In order to maximize their fitness, organisms in seasonal environments rely on external cues to optimally time their life‐history stages. One of the most important zeitgeber to time reproduction is the photoperiod, but further environmental cues are assessed to fine‐tune reproduction due to year‐to‐year variation in environmental conditions. However, in urbanized environments, the pervasive artificial light at night has altered the natural signal of light and darkness. Accordingly, artificial light at night was repeatedly shown to affect avian reproductive physiology and to advance seasonal reproduction in birds. However, these experiments were mainly conducted in the absence of further environmental cues to facilitate the investigation of the mechanisms which are still poorly understood. Here, we investigate whether the endocrine system of free‐ranging European blackbirds (Turdus merula) correlates with the amount of artificial light at night along a rural to urban gradient while the birds still encounter complementary environmental cues including seasonal variation in day length and temperature. Testosterone and estrone were assessed as metabolites in fecal samples and corticosterone in blood from mist‐netted blackbirds. We demonstrate that seasonal fluctuations in abiotic factors, individual conditions, but also light at night affect the reproductive and stress physiology of wild European blackbirds. Elevated artificial night light intensities were significantly positively correlated with corticosterone and negatively with female estrone levels. No effects of artificial light were found for testosterone levels. Our results suggest that female blackbirds in particular perceive even low levels of artificial light at night as a weak but chronic stressor that interacts with the hypothalamic‐pituitary‐gonadal axis and leads to a reduced secretion of reproductive hormones. These findings point out that the impacts of light pollution are diverse and we only slowly disentangle its multiple effects on physiology, ecology, and biodiversity."
+        },
+        {
+            "paperId": "0a2dc7761fea2187afdad9cbf3aef25054df0577",
+            "title": "Which Traits Influence Bird Survival in the City? A Review",
+            "year": 2021,
+            "openAccessPdf": {
+                "url": "https://www.mdpi.com/2073-445X/10/2/92/pdf?version=1612329172",
+                "status": "GOLD",
+                "license": "CCBY",
+                "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3390/LAND10020092?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3390/LAND10020092, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "13614080",
+                    "name": "S. Patankar"
+                },
+                {
+                    "authorId": "2048098135",
+                    "name": "Ravi Jambhekar"
+                },
+                {
+                    "authorId": "6806116",
+                    "name": "K. Suryawanshi"
+                },
+                {
+                    "authorId": "2299987",
+                    "name": "H. Nagendra"
+                }
+            ],
+            "abstract": "Urbanization poses a major threat to biodiversity worldwide. We focused on birds as a well-studied taxon of interest, in order to review literature on traits that influence responses to urbanization. We review 226 papers that were published between 1979 and 2020, and aggregate information on five major groups of traits that have been widely studied: ecological traits, life history, physiology, behavior and genetic traits. Some robust findings on trait changes in individual species as well as bird communities emerge. A lack of specific food and shelter resources has led to the urban bird community being dominated by generalist species, while specialist species show decline. Urbanized birds differ in the behavioral traits, showing an increase in song frequency and amplitude, and bolder behavior, as compared to rural populations of the same species. Differential food resources and predatory pressure results in changes in life history traits, including prolonged breeding duration, and increases in clutch and brood size to compensate for lower survival. Other species-specific changes include changes in hormonal state, body state, and genetic differences from rural populations. We identify gaps in research, with a paucity of studies in tropical cities and a need for greater examination of traits that influence persistence and success in native vs. introduced populations."
+        },
+        {
+            "paperId": "fccd2b50998b991437640f4c4c9986ea98d6c352",
+            "title": "Managing rural biodiversity in winter: the interplay of feeders, snow cover and landscape structure in Central European villages.",
+            "year": 2025,
+            "openAccessPdf": {
+                "url": "",
+                "status": null,
+                "license": null,
+                "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.jenvman.2025.128328?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.jenvman.2025.128328, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "2282803732",
+                    "name": "A. Golawski"
+                },
+                {
+                    "authorId": "2266593646",
+                    "name": "P. Skórka"
+                },
+                {
+                    "authorId": "5778239",
+                    "name": "C. Mitrus"
+                },
+                {
+                    "authorId": "2395874398",
+                    "name": "Agnieszka Sulej"
+                },
+                {
+                    "authorId": "2327450029",
+                    "name": "Michał Polakowski"
+                }
+            ],
+            "abstract": "Rural villages in Central Europe represent important winter habitats for birds, yet their ecological role remains poorly understood. We surveyed 170 Polish villages to evaluate how bird feeders, settlement structure and environmental conditions influence winter bird richness, abundance and community composition. In total, 9417 individuals of 46 species were recorded. Feeders occurred in 74 % of villages, although only 61 % contained food. Bird presence was strongly associated with food availability, snow cover and poultry keeping, whereas the proportion of modern households had little effect. Ground feeders supported the highest richness and abundance, but no species occurred exclusively at feeders. Assemblages at feeders overlapped strongly with those away from feeders, indicating that supplementary feeding mainly concentrates common generalists such as house sparrow Passer domesticus and great tit Parus major without substantially enhancing community diversity. At the village scale, richness increased with snow cover and poultry presence but declined with settlement size. Community composition was structured by snow cover, village characteristics and geographical context. From a management perspective, conservation of semi-natural features and small-scale farming should remain central to rural biodiversity strategies. Supplementary feeding can provide local support when implemented effectively, particularly during snow events and when varied feeder types are used. Overall, our study shows that, in this part of Europe, winter bird communities in rural villages are driven mainly by environmental conditions and traditional practices, while supplementary feeding plays only a secondary role."
+        }
+    ],
+    "sedentarization drives temporal urban bird homogenization": [
+        {
+            "paperId": "824d27595af9e6753c07effc3c0d72b33f7e233f",
+            "title": "Composition of physiologically important fatty acids in great tits differs between urban and rural populations on a seasonal basis",
+            "year": 2015,
+            "openAccessPdf": {
+                "url": "https://www.frontiersin.org/articles/10.3389/fevo.2015.00093/pdf",
+                "status": "GOLD",
+                "license": "CCBY",
+                "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3389/fevo.2015.00093?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3389/fevo.2015.00093, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "40338508",
+                    "name": "Martin N. Andersson"
+                },
+                {
+                    "authorId": "1752859722",
+                    "name": "Hong-Lei Wang"
+                },
+                {
+                    "authorId": "3775476",
+                    "name": "A. Nord"
+                },
+                {
+                    "authorId": "48852198",
+                    "name": "P. Salmón"
+                },
+                {
+                    "authorId": "4510972",
+                    "name": "C. Isaksson"
+                }
+            ],
+            "abstract": "Fatty acids (FA) have crucial functions in animals, affecting e.g. inflammatory responses, thermoregulation, and cell membrane fluidity. Diet and ambient temperature affect animals’ FA composition, which, in turn, may influence these physiological processes. Great tits (Parus major) −common in both urban and rural habitats− are mainly granivorous during winter and insectivorous during summer. These diets show pronounced differences in FA composition. Such variation has context-dependent effects on physiology, because the thermal environment, food availability, and levels of pro-inflammatory environmental stressors differ between urban and rural areas. Thus, we investigated how great tit plasma FA composition varied between urban and rural habitats and across seasons. Eight FAs differed between urban and rural birds. Among these, arachidonic acid (omega (ω)-6 polyunsaturated FA) with thermoregulatory and pro-inflammatory properties was more abundant in urban than rural birds in winter, whereas ω-3 FAs with anti-inflammatory properties were more abundant in rural birds. The difference in pro- and anti-inflammatory FAs suggest that the negative health effects that urban birds suffer from being exposed to higher levels of pollutants might be enhanced by an elevated inflammatory response. Eight FAs differed between winter and summer birds. This variation reflected the diet change: FAs common in seeds, e.g. oleic- and linoleic acid, were present in higher amounts in winter birds, whereas ω-3 polyunsaturated FAs that are common in caterpillars were more abundant in summer birds. Overall, a larger seasonal variation was seen among the urban birds. This study is the first to reveal a difference in FA composition between urban and rural populations for all animals studied to date. Future experiments should unravel the physiological implications of this variation, and ultimately, link its effects to fitness of animals with different physiological and dietary requirements in ur"
+        },
+        {
+            "paperId": "3ec99bd925708ae9a50f19832d6d436fb556b163",
+            "title": "Garden Bird Feeding: Insights and Prospects from a North-South Comparison of This Global Urban Phenomenon",
+            "year": 2017,
+            "openAccessPdf": {
+                "url": "https://www.frontiersin.org/articles/10.3389/fevo.2017.00024/pdf",
+                "status": "GOLD",
+                "license": "CCBY",
+                "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3389/fevo.2017.00024?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3389/fevo.2017.00024, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "2238243968",
+                    "name": "S. James Reynolds"
+                },
+                {
+                    "authorId": "34363870",
+                    "name": "J. A. Galbraith"
+                },
+                {
+                    "authorId": "2133900790",
+                    "name": "Jennifer A. Smith"
+                },
+                {
+                    "authorId": "2238396087",
+                    "name": "Darryl N. Jones"
+                }
+            ],
+            "abstract": "Intentional feeding of wild birds in gardens or backyards is one of the most popular forms of human-wildlife interactions in the developed world, especially in urban environments. Scale and intensity of bird feeding are enormous with mainly birdseed consumed daily by a range of species. This represents a subsidy to natural diets of birds attracted to the feeders and typically involves novel dietary components. Yet, relatively little is known about how it influences the behavior and ecology of the species visiting feeders. In part, research has been hampered by logistical difficulties of working in urban areas but studies have demonstrated powerful influences on behavior and phenology of avian breeding, the spread of disease, and the structure of avian communities. Here, we compare bird feeding between Northern and Southern Hemispheres as a means of exploring how similarities and differences in avian responses might inform knowledge of this global urban phenomenon. We start by tracing its origins to north-western Europe and how its expansion has occurred before considering how geographical differences in feeding practices and attitudes map onto bird feeding ‘on the ground’. We explore some of the major emerging themes of recent interest, including why citizens are motivated to feed birds, whether birds become fully dependent on food supplements, the role of feeding in avian disease transmission, and how feeding changes urban bird communities. By proposing that scientists work in collaboration with the public providing food to birds, we pose key research questions that need to be answered urgently and suggest accompanying experimental approaches to do so. These approaches are essential if we are to improve our understanding of how bird feeding shapes the behavior, ecology, movements, and community structure of urban birds. Our hope is that through such citizen science we will be able to provide advice as to location-relevant practices that should maximise benefits to both urban biodiversity and human wellbeing, and minimise potential adverse impacts. We demonstrate that bird feeding is important for urban biodiversity conservation, community engagement, and in establishing personal connections with nature and their associated benefits."
+        },
+        {
+            "paperId": "a628985389fe28c6453b1abf516e496e2d4f10ea",
+            "title": "Urbanization, environmental stabilization and temporal persistence of bird species: a view from Latin America",
+            "year": 2018,
+            "openAccessPdf": {
+                "url": "https://peerj.com/articles/6056.pdf",
+                "status": "GOLD",
+                "license": "CCBY",
+                "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC6286803, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "6739216",
+                    "name": "Lucas M. Leveau"
+                }
+            ],
+            "abstract": "Background A scarcely studied consequence of urbanization is the effect of temporal stabilization of the environment on bird communities. This alteration is thought to dampen environmental variations between day and night, seasons and years, promoting a temporal persistence of bird composition in urban areas. The aim of this study was to review current evidence of temporal stabilization of biotic and abiotic factors in urban environments and the potential effects of such stabilization on temporal variation of bird species presence at different temporal scales. Methods I selected the literature by searching published articles and book chapters using Scopus and Google scholar. I only included articles that compared the temporal variation of bird composition or resources between different levels of urbanization. Results In general, there is evidence of temporal stabilization of abiotic and biotic factors at the three time scales considered. At the diurnal scale, the main factor considered was artificial light in the context of light pollution. At the seasonal and interannual scales, several case studies found a smaller temporal variation of primary productivity in urban than in natural and rural areas. Bird species composition showed more stabilization in urban environments at the three temporal scales: (1) several case studies reported bird activity at night, associated with artificial light; (2) studies in urban parks and along urbanization gradients showed smaller seasonal variation of bird composition in the more urbanized areas; and (3) in general, case studies along urbanization gradients showed smaller interannual variation of bird composition in the more urbanized areas, although some studies showed no relationships or opposite trends than expected. Discussion The published evidence suggests that urban areas dampen the natural cycles at several temporal scales. The stabilization of biotic and abiotic factors, such as light, temperature, food and habitat structure, is desynchronized from natural diurnal, seasonal and interannual cycles. However, there is a dearth of long-term comparisons of bird composition and studies that simultaneously analyze the relationship between resources and bird composition stabilization at the seasonal and interannual scales. More research is needed in the Southern hemisphere, where there is a lack of studies dealing with the seasonal and interannual variations of primary productivity along urbanization gradients and nocturnal activity of bird species. A future research agenda should include differentiation of spatial and temporal homogenization of avifaunas."
+        },
+        {
+            "paperId": "15fce680e5fae1bbc876011cbf6e555b8038fb66",
+            "title": "Long-term directional changes in urban bird communities of Mar del Plata City, Argentina",
+            "year": 2024,
+            "openAccessPdf": {
+                "url": "",
+                "status": null,
+                "license": null,
+                "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3389/fevo.2024.1457476?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3389/fevo.2024.1457476, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "6739216",
+                    "name": "Lucas M. Leveau"
+                }
+            ],
+            "abstract": "Urban environments have been characterized by their temporal stability of resources, which could promote stability in bird composition. Several studies have found that bird communities in urban environments persist over the years, showing a similar species composition in the short term. However, studies analyzing continuous changes in urban communities over the long term are scarce. This study aimed to analyze the stability or directional changes (instability) in bird communities along an urban gradient. Bird counts were conducted in urban, suburban, and periurban areas over 8-10 years in 2002-2019. Changes in species composition were analyzed over periods ranging from one year to the next, to changes from one year to the seventeenth. Urban bird communities were more similar between years than suburban and periurban communities. Compositional changes were greater as time lags increased, indicating directional compositional shifts. The magnitude of these changes was similar across the urban gradient. The Chimango Caracara (Milvago chimango), the Picazuro Pigeon (Patagioenas picazuro), the Rufous Hornero (Furnarius rufus), and the Red-bellied Thrush (Turdus rufiventris) significantly increased their abundances during the period, while the House Sparrow (Passer domesticus) significantly decreased its abundance. Regional changes in species abundance, urban vegetation succession, and biotic interactions could explain the changes in bird communities."
+        },
+        {
+            "paperId": "a562378b6256a7a168e02454cd04658b60acac77",
+            "title": "Long-Term Changes in Bird Communities in the Urban Parks of Mar del Plata City, Argentina",
+            "year": 2024,
+            "openAccessPdf": {
+                "url": "",
+                "status": null,
+                "license": null,
+                "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3390/birds5040054?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3390/birds5040054, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            },
+            "authors": [
+                {
+                    "authorId": "2334947453",
+                    "name": "Lourdes Galiano"
+                },
+                {
+                    "authorId": "3937992",
+                    "name": "C. Leveau"
+                },
+                {
+                    "authorId": "6739216",
+                    "name": "Lucas M. Leveau"
+                }
+            ],
+            "abstract": "Urbanization is related to the loss of biodiversity and alteration of ecosystem processes. However, long-term changes in the southern hemisphere’s bird communities have been scarcely analyzed in urban areas. The general objective of this work was to analyze changes in bird species richness, diversity, and composition in parks located in the urban and suburban landscapes of Mar del Plata City (Argentina) between 2003 and 2018. Additionally, we aimed to analyze whether these changes were associated with an increase in urbanization or with alterations in the parks’ habitat structure. Tree cover showed significantly lower coverage during 2018. The results showed increased species richness and diversity in all parks by 2018. Rarefaction curves showed that the park bird richness did not differ between the landscapes surrounding parks, but the Shannon and Simpson diversities were higher in parks in suburban landscapes than in parks in urban landscapes. The Shannon and Simpson diversities showed higher values in suburban parks during 2018. However, the diversity values were similar between years in parks in urban landscapes. The species composition was significantly different between landscapes and years. Species turnover was the most predominant pattern of species dissimilarity between landscapes, and species nestedness explained the most dissimilarity between years. Nestedness between years was related to the population increase in many bird species in 2018. In conclusion, we observed differences in the park bird communities between years and landscape types. However, the long-term community changes were not associated with an urbanization increase. Instead, the changes in the local bird community were more related to regional bird species population changes associated with climate warming and increased crop cover."
+        }
+    ]
+}

@@ -32,6 +32,12 @@ DIMENSION_COLORS = {
 plt.rcParams.update({
     "font.family": "Arial",
     "font.sans-serif": ["Arial", "Helvetica", "DejaVu Sans"],
+    "font.size": 12,
+    "axes.titlesize": 15,
+    "axes.labelsize": 13,
+    "xtick.labelsize": 11.5,
+    "ytick.labelsize": 11.5,
+    "legend.fontsize": 10.5,
     "pdf.fonttype": 42,
     "ps.fonttype": 42,
 })
@@ -71,7 +77,7 @@ plt.bar(
     x - width,
     cross_plot_df["HH_win"],
     width=width,
-    label="Human win",
+    label="Human-proposed\nhypothesis selected",
     color=SOURCE_COLORS["Human"],
     edgecolor="black",
     linewidth=0.5
@@ -81,7 +87,7 @@ plt.bar(
     x,
     cross_plot_df["HL_win"],
     width=width,
-    label="LLM win",
+    label="LLM-generated\nhypothesis selected",
     color=SOURCE_COLORS["LLM"],
     edgecolor="black",
     linewidth=0.5
@@ -100,9 +106,15 @@ plt.bar(
 plt.xticks(x, cross_plot_df.index)
 plt.xlabel("Dimension")
 plt.ylabel("Number of selections")
-plt.title("Cross-source comparison outcomes")
+plt.title("human–LLM comparisons")
 
-plt.legend(frameon=False)
+plt.legend(
+    frameon=False,
+    loc="upper left",
+    bbox_to_anchor=(1.01, 1.0),
+    borderaxespad=0,
+    labelspacing=1.0,
+)
 
 plt.tight_layout()
 
@@ -349,7 +361,7 @@ def add_panel(ax, image_path, label):
     ax.set_title(
         label,
         loc="left",
-        fontsize=12,
+        fontsize=15,
         fontweight="bold",
         pad=3,
     )

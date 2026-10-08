@@ -28,7 +28,8 @@ LLM_COP_CONFIG = {
     "MODEL_NAME": "gpt-4o",
     "timeout": 600
 }
-LLM_COP_CONFIG["API_KEY"] = os.getenv("LLM_COP_API_KEY", "")
+
+LLM_COP_CONFIG["API_KEY"] = os.environ.get("LLM_API_KEY", "")
 LLM_COP_CONFIG["BASE_URL"] = "https://svip-ip.xty.app/v1"
 LLM_COP_CONFIG["MODEL_NAME"] = "gemini-3.1-pro-preview-thinking"
 LLM_COP_CONFIG["timeout"] = 600
@@ -588,6 +589,10 @@ def main_phase_two(config_data, phase1_hypotheses_path, phase1_pool_path, checkp
 # ==============================================================================
 
 if __name__ == '__main__':
+    #HYPO_PATH = "90Hypo_round1/gemini-3-pro-preview-thinking_20260125_113548_window15_screener100/Checkpoint_gemini-3-pro-preview-thinking_20260125_113548_window15_screener100_stage2_20260212_130654/silicon_jury_ranked_hypotheses.json"
+    # HYPO_PATH = "90Hypo_round1/gemini-3-pro-preview-thinking_20260125_113548_window15_screener100/Checkpoint_gemini-3-pro-preview-thinking_20260125_113548_window15_screener100_stage2_20260316_214840/silicon_jury_ranked_hypotheses.json"
+    # POOL_PATH = "90Hypo_round1/gemini-3-pro-preview-thinking_20260125_113548_window15_screener100/inspirations_pool.json"
+    #HYPO_PATH = "30Hypo_round2/Checkpoint_30Hypo_round2_stage2_20260325_152205/silicon_jury_ranked_hypotheses.json"
     HYPO_PATH = "45Hypo/gemini-3.1-pro-preview-thinking_20260419_161728_window15_screener100/Checkpoint_gemini-3.1-pro-preview-thinking_20260419_161728_window15_screener100_stage2_20260420_230016/initial_hypothesis.json"
     POOL_PATH = "45Hypo/gemini-3.1-pro-preview-thinking_20260419_161728_window15_screener100/inspirations_pool.json"
 
@@ -610,6 +615,9 @@ if __name__ == '__main__':
     phase2_base_dir = os.path.join(phase1_dir, file_name)
 
     # Define checkpoint_inspiration_path; both checkpoint paths must be provided together.
+    # checkpoint_inspiration_path = "phase1_results_bird/gemini-3-pro-preview-thinking_20260106_163133_window15_screener100/phase2/gemini-3-pro-preview-thinking_20260106_172228/checkpoint_inspiration_hypo2_loop1.json"
+    # custom_checkpoint_path = "phase1_results_bird/gemini-3-pro-preview-thinking_20260106_163133_window15_screener100/phase2/gemini-3-pro-preview-thinking_20260106_172228"
+
     checkpoint_inspiration_path = None
     custom_checkpoint_path = None
 
